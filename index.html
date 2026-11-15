@@ -4,9 +4,12 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Sesizări Sector 3</title>
-  <meta name="description" content="Toate sesizările publice din Sectorul 3, cu descrierea completă și răspunsul primăriei.">
+  <meta name="description" content="Toate sesizările publice din Sectorul 3, cu descrierea completă, răspunsul primăriei, istoric și statistici.">
   <meta name="theme-color" content="#0f766e">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%230f766e'/%3E%3Cpath d='M16 6a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5a2.5 2.5 0 1 1 0-5 2.5 2.5 0 0 1 0 5z' fill='white'/%3E%3C/svg%3E">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="alternate" type="application/rss+xml" title="Sesizări Sector 3" href="data/feeds/all.xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -21,111 +24,190 @@
         <svg viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5.25 7 13 7 13s7-7.75 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>
       </span>
       <div>
-        <h1>Sesizări Sector 3</h1>
-        <p class="brand-sub">Ce raportează vecinii tăi și ce răspunde primăria</p>
+        <h1 data-i18n="title">Sesizări Sector 3</h1>
+        <p class="brand-sub" data-i18n="subtitle"></p>
       </div>
     </div>
-    <a class="btn btn-primary" href="https://iloves3.primarie3.ro/citycareweb/" target="_blank" rel="noopener">
-      <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M11 5h2v6h6v2h-6v6h-2v-6H5v-2h6z"/></svg>
-      <span>Trimite o sesizare</span>
-    </a>
+    <nav class="tabs" role="tablist">
+      <button role="tab" data-tab="list" data-i18n="tabList"></button>
+      <button role="tab" data-tab="insights" data-i18n="tabInsights"></button>
+    </nav>
+    <div class="top-actions">
+      <button class="btn btn-ghost" id="installBtn" hidden data-i18n="install"></button>
+      <button class="btn btn-outline lang" id="langBtn" data-i18n="langSwitch"></button>
+      <a class="btn btn-primary" href="https://iloves3.primarie3.ro/citycareweb/" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M11 5h2v6h6v2h-6v6h-2v-6H5v-2h6z"/></svg>
+        <span data-i18n="report"></span>
+      </a>
+    </div>
   </header>
 
-  <section class="filters" aria-label="Filtre">
+  <section class="filters">
     <div class="search">
       <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M10 4a6 6 0 1 0 3.87 10.59l4.77 4.77 1.41-1.41-4.77-4.77A6 6 0 0 0 10 4zm0 2a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/></svg>
-      <input id="q" type="search" placeholder="Caută în descrieri, răspunsuri, nr. sesizare (ex. CAS-0274369)…" autocomplete="off">
+      <input id="q" type="search" data-i18n-ph="searchPh" autocomplete="off">
     </div>
 
     <div class="filter-row">
-      <div class="seg" id="range" role="radiogroup" aria-label="Perioadă">
-        <button data-days="1" role="radio">24h</button>
-        <button data-days="7" role="radio">7 zile</button>
-        <button data-days="30" role="radio">30 zile</button>
-        <button data-days="90" role="radio">3 luni</button>
-        <button data-days="custom" role="radio">Interval…</button>
+      <div class="seg" id="range" role="radiogroup">
+        <button data-days="1" role="radio" data-i18n="r24h"></button>
+        <button data-days="7" role="radio" data-i18n="r7"></button>
+        <button data-days="30" role="radio" data-i18n="r30"></button>
+        <button data-days="90" role="radio" data-i18n="r90"></button>
+        <button data-days="180" role="radio" data-i18n="r180"></button>
+        <button data-days="custom" role="radio" data-i18n="rCustom"></button>
       </div>
       <div class="custom-range" id="customRange" hidden>
-        <input type="date" id="from" aria-label="De la">
+        <input type="date" id="from">
         <span>–</span>
-        <input type="date" id="to" aria-label="Până la">
-        <button class="btn btn-ghost" id="applyRange">Aplică</button>
+        <input type="date" id="to">
+        <button class="btn btn-ghost" id="applyRange" data-i18n="apply"></button>
       </div>
+    </div>
 
-      <div class="seg" id="status" role="radiogroup" aria-label="Stare">
-        <button data-status="all" role="radio">Toate</button>
-        <button data-status="open" role="radio"><i class="dot s-open"></i>În lucru</button>
-        <button data-status="good" role="radio"><i class="dot s-good"></i>Rezolvate</button>
-        <button data-status="bad" role="radio"><i class="dot s-bad"></i>Nefavorabil</button>
-        <button data-status="other" role="radio"><i class="dot s-other"></i>Altele</button>
+    <div class="filter-row">
+      <div class="seg" id="status" role="radiogroup">
+        <button data-status="all" role="radio" data-i18n="sAll"></button>
+        <button data-status="open" role="radio"><i class="dot s-open"></i><span data-i18n="sOpen"></span></button>
+        <button data-status="good" role="radio"><i class="dot s-good"></i><span data-i18n="sGood"></span></button>
+        <button data-status="bad" role="radio"><i class="dot s-bad"></i><span data-i18n="sBad"></span></button>
+        <button data-status="other" role="radio"><i class="dot s-other"></i><span data-i18n="sOther"></span></button>
       </div>
 
       <div class="dropdown" id="catDropdown">
         <button class="btn btn-outline" id="catBtn" aria-haspopup="true" aria-expanded="false">
           <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M3 5h18v2H3zm3 6h12v2H6zm3 6h6v2H9z"/></svg>
-          <span id="catLabel">Toate categoriile</span>
+          <span id="catLabel"></span>
         </button>
         <div class="dropdown-panel" id="catPanel" hidden>
           <div class="dropdown-head">
-            <button class="link" id="catAll">Toate</button>
-            <button class="link" id="catNone">Niciuna</button>
+            <button class="link" id="catAll" data-i18n="catAll"></button>
+            <button class="link" id="catNone" data-i18n="catNone"></button>
           </div>
           <div id="catList" class="cat-list"></div>
         </div>
       </div>
 
-      <label class="toggle">
-        <input type="checkbox" id="hideParking">
-        <span>Ascunde parcările</span>
-      </label>
+      <select id="area" class="select" data-i18n-title="dArea"></select>
+
+      <div class="dropdown" id="moreDropdown">
+        <button class="btn btn-outline" id="moreBtn" aria-haspopup="true" aria-expanded="false">
+          <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M4 7h10v2H4zm12 0h4v2h-4zm-2-2h2v6h-2zM4 15h4v2H4zm6 0h10v2H10zm-2-2h2v6H8z"/></svg>
+          <span data-i18n="moreFilters"></span><span class="count-badge" id="moreCount" hidden></span>
+        </button>
+        <div class="dropdown-panel more-panel" id="morePanel" hidden>
+          <div class="field">
+            <span class="field-label" data-i18n="fReply"></span>
+            <div class="seg small" id="replySeg">
+              <button data-reply="any" data-i18n="fReplyAny"></button>
+              <button data-reply="yes" data-i18n="fReplyYes"></button>
+              <button data-reply="no" data-i18n="fReplyNo"></button>
+            </div>
+          </div>
+          <label class="field">
+            <span class="field-label" data-i18n="fStuck"></span>
+            <select id="stuck" class="select">
+              <option value="0" data-i18n="fStuckAny"></option>
+              <option value="7" data-i18n="fStuck7"></option>
+              <option value="30" data-i18n="fStuck30"></option>
+            </select>
+          </label>
+          <label class="field">
+            <span class="field-label" data-i18n="fRemoved"></span>
+            <select id="removed" class="select">
+              <option value="hide" data-i18n="fRemovedHide"></option>
+              <option value="include" data-i18n="fRemovedInclude"></option>
+              <option value="only" data-i18n="fRemovedOnly"></option>
+            </select>
+          </label>
+          <label class="check"><input type="checkbox" id="edited"><span data-i18n="fEdited"></span></label>
+          <div class="field">
+            <span class="field-label" data-i18n="fZone"></span>
+            <div class="zone-row">
+              <button class="btn btn-ghost" id="nearMe">📍 <span data-i18n="nearMe"></span></button>
+              <button class="btn btn-ghost" id="pickZone">🎯 <span data-i18n="pickOnMap"></span></button>
+              <select id="radius" class="select" data-i18n-title="radius">
+                <option value="100">100 m</option><option value="300" selected>300 m</option>
+                <option value="500">500 m</option><option value="1000">1 km</option>
+              </select>
+              <button class="link" id="clearZone" hidden data-i18n="clearZone"></button>
+            </div>
+          </div>
+          <label class="check"><input type="checkbox" id="inView"><span data-i18n="fInView"></span></label>
+        </div>
+      </div>
+
+      <label class="toggle"><input type="checkbox" id="hideParking"><span data-i18n="hideParking"></span></label>
     </div>
+    <div class="chips" id="chips" hidden></div>
   </section>
 
-  <section class="stats" id="stats" aria-live="polite"></section>
+  <div class="data-line" id="dataLine" aria-live="polite"></div>
+  <div id="progress" class="progress" hidden><div class="progress-bar"></div></div>
 
-  <main class="layout" id="layout">
-    <section class="list-pane" aria-label="Listă sesizări">
-      <div class="list-head">
-        <span id="resultCount">Se încarcă…</span>
-        <select id="sort" aria-label="Sortare">
-          <option value="new">Cele mai noi</option>
-          <option value="old">Cele mai vechi</option>
-          <option value="long">Descrieri lungi</option>
-        </select>
-      </div>
-      <div id="progress" class="progress" hidden><div class="progress-bar"></div></div>
-      <div id="list" class="list"></div>
-      <div id="listFooter" class="list-footer"></div>
-    </section>
-    <section class="map-pane" aria-label="Hartă">
-      <div id="map"></div>
-      <div class="legend">
-        <span><i class="dot s-open"></i>În lucru</span>
-        <span><i class="dot s-good"></i>Rezolvată</span>
-        <span><i class="dot s-partial"></i>Parțial</span>
-        <span><i class="dot s-bad"></i>Nefavorabil</span>
-        <span><i class="dot s-other"></i>Altele</span>
-      </div>
-    </section>
-  </main>
+  <div id="listView">
+    <section class="stats" id="stats" aria-live="polite"></section>
+    <main class="layout">
+      <section class="list-pane">
+        <div class="list-head">
+          <span id="resultCount"></span>
+          <div class="list-tools">
+            <select id="sort" class="select small">
+              <option value="new" data-i18n="sortNew"></option>
+              <option value="old" data-i18n="sortOld"></option>
+              <option value="updated" data-i18n="sortUpdated"></option>
+              <option value="long" data-i18n="sortLong"></option>
+            </select>
+            <div class="dropdown" id="exportWrap">
+              <button class="btn btn-ghost small" id="exportBtn">⬇ <span data-i18n="export"></span></button>
+              <div class="dropdown-panel export-menu" id="exportMenu" hidden>
+                <button data-export="csv" data-i18n="exportCsv"></button>
+                <button data-export="json" data-i18n="exportJson"></button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="list" class="list"></div>
+        <div id="listFooter" class="list-footer"></div>
+      </section>
+      <section class="map-pane">
+        <div id="map"></div>
+        <div class="seg small map-mode" id="mapMode">
+          <button data-mode="pins" data-i18n="pins"></button>
+          <button data-mode="heat" data-i18n="heat"></button>
+        </div>
+        <div class="pick-hint" id="pickHint" hidden data-i18n="pickHint"></div>
+        <div class="legend">
+          <span><i class="dot s-good"></i><span data-i18n="legendGood"></span></span>
+          <span><i class="dot s-partial"></i><span data-i18n="legendPartial"></span></span>
+          <span><i class="dot s-bad"></i><span data-i18n="legendBad"></span></span>
+          <span><i class="dot s-other"></i><span data-i18n="legendOther"></span></span>
+          <span><i class="dot s-open"></i><span data-i18n="legendOpen"></span></span>
+        </div>
+      </section>
+    </main>
+  </div>
 
-  <button class="view-toggle" id="viewToggle" aria-label="Comută listă / hartă">
-    <span class="when-list">🗺️ Hartă</span><span class="when-map">📋 Listă</span>
+  <main id="insightsView" class="insights" hidden></main>
+
+  <button class="view-toggle" id="viewToggle">
+    <span class="when-list">🗺️ <span data-i18n="pins"></span></span><span class="when-map">📋 <span data-i18n="tabList"></span></span>
   </button>
 
   <dialog id="detail" class="detail">
-    <form method="dialog" class="detail-close"><button aria-label="Închide">✕</button></form>
+    <form method="dialog" class="detail-close"><button data-i18n-title="close">✕</button></form>
     <div id="detailBody"></div>
   </dialog>
 
   <div id="toast" class="toast" role="status" hidden></div>
 
   <footer class="foot">
-    Date preluate în timp real din serviciul public CityCare al Primăriei Sectorului 3. Proiect neoficial.
+    <span data-i18n="footer"></span> · <a id="repoLink" href="#" target="_blank" rel="noopener" data-i18n="sourceCode"></a> · <a href="data/feeds/all.xml">RSS</a>
   </footer>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
-  <script src="app.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.heat/0.2.0/leaflet-heat.js"></script>
+  <script type="module" src="js/app.js"></script>
 </body>
 </html>

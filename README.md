@@ -2,12 +2,12 @@
 
 Live: https://sesizari-sector3.vercel.app
 
-A static website that shows the public incident reports ("sesizări") from Primăria Sector 3's
-CityCare system **with the full description and the city's reply**, both of which the official
-map at https://iloves3.primarie3.ro/citycareweb/ hides.
+A website that shows the public incident reports ("sesizări") from Primăria Sector 3's CityCare system
+**with the full description and the city's reply**, both of which the official map at
+https://iloves3.primarie3.ro/citycareweb/ hides. Every report is archived hourly in this repo, so the site
+also has **history, time-to-close and statistics** the official site doesn't.
 
-No backend and no build step: `index.html` + `styles.css` + `app.js`. The browser calls the public API
-directly (it sends `Access-Control-Allow-Origin: *`).
+No build step: static files (`index.html`, `styles.css`, `js/*.js`) plus JSON data in `data/`.
 
 ## Run locally
 
@@ -15,7 +15,35 @@ directly (it sends `Access-Control-Allow-Origin: *`).
 python3 -m http.server 8517
 ```
 
-Then open http://localhost:8517. Any static host works (GitHub Pages, Netlify, Cloudflare Pages).
+Then open http://localhost:8517.
+
+## Features
+
+**Map & list**
+- Full description, city reply, status, ticket/registration numbers, neighbourhood, "edited" and "deleted by city hall" markers
+- Clustered map with the Sector 3 boundary, or a density (heat) view; list ↔ map on mobile
+- Periods: 24h, 7/30 days, 3/6 months, custom range up to a year (older than the archive → live API)
+- Diacritic-insensitive search with highlighting; exact `CAS-…` lookup (Enter)
+- Filters: status, categories, neighbourhood, hide parking, has/has no reply, stuck (open > 7/30 days),
+  edited, deleted by city hall, area around a point ("near me" or picked on the map, 100 m–1 km),
+  "only what's visible on the map"; active filters shown as removable chips
+- Report details: history timeline (status changes, reply, edits, deletion), time until closed,
+  approximate address, nearby reports, links to Google Maps / official map / "report a problem here"
+- Export the current list as CSV or JSON; every view is a shareable link (filters live in the URL)
+
+**Insights** (follow the same filters)
+- KPIs with comparison to the previous period: reports, % resolved, % rejected, still open, % with reply, median time to close
+- Reports per day (or hour) by outcome, outcome by category, neighbourhood ranking, hour × weekday heatmap
+- Time to close per category (median and 75th percentile) and time to first reply
+- Places with repeated problems (same category ≥ 3 times within ~60 m)
+- The city hall's template replies and how often each is used
+- Latest changes noticed by the archive
+- RSS feeds for all of Sector 3 and each neighbourhood
+
+**Other**: Romanian / English, light / dark, installable as an app (PWA), works on phones.
+
+Neighbourhoods are approximate: each report gets the nearest neighbourhood centre from OpenStreetMap
+(`place=suburb` inside the sector boundary). The boundary comes from the official site's config.
 
 ## How the source API works
 
@@ -27,40 +55,26 @@ Base: `https://iloves3.primarie3.ro/CityCareServicii/`. All endpoints take `appl
 | `IncidentCategoryRP.aspx` | `lang` | `[{incidentcategoryid, name, cod}]` |
 | `Status.aspx` | `lang` | `[{statuscode, name}]` |
 
-Incident fields: `incidentid, ticketnumber, infocetnumber, titlu, category, categoryid, description,
-isedited, latitude, longitude, createdon ("dd.mm.yyyy HH:MM:SS"), status ("O|Deschisă. În lucru"),
-resolvereason` (the city's reply, usually prefixed with `Nespecificat Registratura`).
-
-Quirks:
-- At most **1500** newest incidents per query. The app fetches 2-day windows (4 in parallel) and
-  splits a window further if it still hits the cap.
-- Errors come back as a bare number in the body (`9` = bad date format, `10` = missing parameter, …).
-- Incidents at almost the same location are returned as nested arrays.
-
-## Features
-
-- Full description + city reply, status, ticket and registration numbers, "edited" flag
-- Clustered map (OpenStreetMap + Leaflet), colored by outcome; list ↔ map on mobile
-- Date presets (24h → 3 months) and custom range up to one year
-- Diacritic-insensitive search with highlighting; exact `CAS-…` lookup outside the loaded range (press Enter)
-- Category filter, "hide parking" toggle (parking reports are ~65% of all reports)
-- Clickable stats: totals, % resolved/rejected, % with a public reply
-- Detail view: mini map, approximate address (Nominatim), nearby reports within 75 m, shareable link
-- Filters stored in the URL hash, so views can be shared
-- Light/dark mode
+Quirks: at most **1500** newest incidents per query (so requests are split into 2-day windows); errors come back as a
+bare number (`9` bad date, `10` missing parameter); incidents at almost the same spot come back as nested arrays.
+Photos attached to reports are not exposed by any public endpoint.
 
 ## Data archive (`data/`)
 
-`scripts/collect.mjs` saves every incident into the repo so history survives and status changes can be measured.
+`scripts/collect.mjs` saves every incident into the repo.
 
 | File | Contents |
 |---|---|
-| `data/incidents/YYYY-MM.json` | All incidents created that month, current state (one per line). Adds `firstSeen`, `lastChanged`, and `removedAt` if the city deletes one. |
-| `data/changes/YYYY-MM.jsonl` | One line per detected change: `{at, ticket, field, from, to}` (status, reply, description, edited, category, location, removed). |
-| `data/meta.json` | Last run time, stats and totals. Only rewritten when data changed. |
+| `data/incidents/YYYY-MM.json` | All incidents created that month, current state, one per line. Extra fields: `firstSeen`, `firstStatus`, `lastChanged`, `removedAt`, and `history` (see below). The website reads these. |
+| `data/changes/YYYY-MM.jsonl` | Full audit log, one line per change: `{at, ticket, field, from, to}`. Not deployed with the site. |
+| `data/feeds/*.xml` | RSS feeds (all + one per neighbourhood), `index.json` lists them. |
+| `data/meta.json` | Last run, stats, totals, `coverageFrom`. Only rewritten when data changed. |
 
-Each regular run refreshes the last 4 days plus one rotating 7-day slice of the 4–180 days before, so every
-report from the last ~6 months is rechecked about once a day (when run hourly). Runs with no changes make no commit.
+`history` entries are `[time, kind, value?]`: `s` status changed to `value`, `r` reply added/changed, `d` description
+edited, `c` category changed, `x` deleted by city hall, `u` published again. Times are when the archive noticed.
+
+Each run refreshes the last 4 days plus a rotating 7-day slice of the 4–180 days before, so every report from the
+last ~6 months is rechecked about once a day when run hourly. Runs with no changes make no commit.
 
 ```bash
 node scripts/collect.mjs                                   # regular run
@@ -75,7 +89,7 @@ The workflow `.github/workflows/collect.yml` has no GitHub schedule; it is start
    - Repository access: *Only select repositories* → this repo
    - Permissions → Repository → **Actions: Read and write** (nothing else)
 2. In cron-job.org create a job:
-   - URL: `https://api.github.com/repos/<owner>/<repo>/actions/workflows/collect.yml/dispatches`
+   - URL: `https://api.github.com/repos/cristi9512/i-love-sector-3-public/actions/workflows/collect.yml/dispatches`
    - Schedule: every hour
    - Method: `POST`
    - Headers: `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`, `X-GitHub-Api-Version: 2022-11-28`, `Content-Type: application/json`

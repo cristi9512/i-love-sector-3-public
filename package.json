@@ -1,0 +1,9 @@
+{
+  "name": "sesizari-sector3",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "migrate-history": "node scripts/migrate-history.mjs"
+  }
+}

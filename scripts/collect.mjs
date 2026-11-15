@@ -17,6 +17,7 @@
 import { mkdir, readFile, readdir, writeFile, appendFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
+import { areaOf, slugify, fromBucharest } from '../js/geo.js';
 
 const API = 'https://iloves3.primarie3.ro/CityCareServicii/IncidentRP.aspx';
 const SERVER_CAP = 1500;
@@ -29,6 +30,8 @@ const TRACKED = ['status', 'statusLabel', 'reply', 'description', 'edited', 'cat
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const DATA = path.join(ROOT, 'data');
+const SITE_URL = process.env.SITE_URL || 'https://sesizari-sector3.vercel.app';
+const FEED_SIZE = 60;
 
 /* ---------- dates (Europe/Bucharest calendar days) ---------- */
 const pad = (n) => String(n).padStart(2, '0');
@@ -99,6 +102,23 @@ function normalize(r) {
     lat: Number(r.latitude),
     lng: Number(r.longitude),
   };
+}
+
+/**
+ * Compact per-report history kept inside each record (the website reads it):
+ *   [at, 's', 'C|Închisă. Rezolvată Favorabil']  status changed to
+ *   [at, 'r']  reply added/changed     [at, 'd']  description edited
+ *   [at, 'c', 'Străzi']  category changed  [at, 'x'] removed  [at, 'u'] restored
+ * The full before/after values live in data/changes/*.jsonl.
+ */
+function historyFor(prev, r, diff, at) {
+  const h = [...(prev.history || [])];
+  if (diff.includes('status') || diff.includes('statusLabel')) h.push([at, 's', `${r.status}|${r.statusLabel}`]);
+  if (diff.includes('reply')) h.push([at, 'r']);
+  if (diff.includes('description') || diff.includes('edited')) h.push([at, 'd']);
+  if (diff.includes('category') || diff.includes('categoryId')) h.push([at, 'c', r.category]);
+  if (diff.includes('restored')) h.push([at, 'u']);
+  return h;
 }
 
 /* ---------- storage ---------- */
@@ -192,7 +212,7 @@ async function main() {
       const month = await loadMonth(monthOf(r.createdAt));
       const prev = month.get(r.id);
       if (!prev) {
-        month.set(r.id, { ...r, firstSeen: runAt, lastChanged: runAt });
+        month.set(r.id, { ...r, firstSeen: runAt, firstStatus: r.status, lastChanged: runAt, history: [] });
         dirty.add(monthOf(r.createdAt));
         added++;
         continue;
@@ -206,6 +226,7 @@ async function main() {
       }
       const next = { ...prev, ...r, lastChanged: runAt };
       delete next.removedAt;
+      next.history = historyFor(prev, r, diff, runAt);
       month.set(r.id, next);
       dirty.add(monthOf(r.createdAt));
       updated++;
@@ -224,6 +245,7 @@ async function main() {
         if (day < fromK || day > toK || seen.has(rec.id) || rec.removedAt) continue;
         rec.removedAt = runAt;
         rec.lastChanged = runAt;
+        rec.history = [...(rec.history || []), [runAt, 'x']];
         changes.push({ at: runAt, ticket: rec.ticket, field: 'removed', from: false, to: true });
         dirty.add(m);
         removed++;
@@ -240,12 +262,20 @@ async function main() {
   }
 
   // meta: totals over all stored months
-  let total = 0, open = 0;
+  let total = 0, open = 0, coverageFrom = null;
+  const all = [];
   const months = existsSync(path.join(DATA, 'incidents')) ? (await readdir(path.join(DATA, 'incidents'))).filter((f) => f.endsWith('.json')).sort() : [];
   for (const f of months) {
     const m = await loadMonth(f.slice(0, 7));
-    for (const r of m.values()) { if (r.removedAt) continue; total++; if (r.status === 'O') open++; }
+    for (const r of m.values()) {
+      if (!coverageFrom || r.createdAt < coverageFrom) coverageFrom = r.createdAt;
+      if (r.removedAt) continue;
+      total++; if (r.status === 'O') open++;
+      all.push(r);
+    }
   }
+  const changeMonths = existsSync(path.join(DATA, 'changes'))
+    ? (await readdir(path.join(DATA, 'changes'))).filter((f) => f.endsWith('.jsonl')).map((f) => f.slice(0, 7)).sort() : [];
   const metaFile = path.join(DATA, 'meta.json');
   const prevMeta = existsSync(metaFile) ? JSON.parse(await readFile(metaFile, 'utf8')) : {};
   const meta = {
@@ -253,10 +283,14 @@ async function main() {
     lastChange: added || updated || removed ? runAt : prevMeta.lastChange ?? null,
     lastRunStats: { windows: windows.length, failedWindows: failed, fetched, added, updated, removed, changes: changes.length },
     totals: { incidents: total, open, months: months.map((f) => f.slice(0, 7)) },
+    coverageFrom: coverageFrom ? coverageFrom.slice(0, 10) : null,
+    changeMonths,
   };
-  // only rewrite meta when data changed, so no-op runs produce no commit
-  if (added || updated || removed || !existsSync(metaFile)) {
+  const changed = added || updated || removed || !existsSync(metaFile) || process.argv.includes('--force');
+  // only rewrite meta/feeds when data changed, so no-op runs produce no commit
+  if (changed) {
     await writeFile(metaFile, JSON.stringify(meta, null, 2) + '\n');
+    await writeFeeds(all);
   }
 
   console.log(JSON.stringify(meta.lastRunStats));
@@ -264,6 +298,58 @@ async function main() {
     console.error('All requests failed.');
     process.exit(1);
   }
+}
+
+/* ---------- RSS feeds ---------- */
+const xml = (s) => String(s ?? '').replace(/[<>&'"]/g, (c) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;', "'": '&apos;', '"': '&quot;' }[c]))
+  // drop characters XML does not allow
+  .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F]/g, '');
+
+function rss(title, description, link, items) {
+  const body = items.map((r) => {
+    const reply = r.reply ? `\n\nRăspuns: ${r.reply.replace(/^Nespecificat\s+Registratura\s*/i, '')}` : '';
+    return `  <item>
+    <title>${xml(`${r.category} · ${r.statusLabel.replace(/^(Închisă|Deschisă)\.\s*/, '')}${r.area ? ` · ${r.area}` : ''}`)}</title>
+    <link>${xml(`${SITE_URL}/#id=${encodeURIComponent(r.ticket)}`)}</link>
+    <guid isPermaLink="false">${xml(r.ticket)}</guid>
+    <pubDate>${fromBucharest(r.createdAt).toUTCString()}</pubDate>
+    <category>${xml(r.category)}</category>
+    <description>${xml(r.description + reply)}</description>
+  </item>`;
+  }).join('\n');
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>${xml(title)}</title>
+  <link>${xml(link)}</link>
+  <description>${xml(description)}</description>
+  <language>ro</language>
+${body}
+</channel>
+</rss>
+`;
+}
+
+async function writeFeeds(all) {
+  const assets = JSON.parse(await readFile(path.join(ROOT, 'assets', 'sector3.json'), 'utf8'));
+  const dir = path.join(DATA, 'feeds');
+  await mkdir(dir, { recursive: true });
+  const newest = all.slice().sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+  const byArea = new Map(assets.areas.map((a) => [a.name, []]));
+  for (const r of newest) {
+    r.area = areaOf(r.lat, r.lng, assets.areas);
+    const list = byArea.get(r.area);
+    if (list && list.length < FEED_SIZE) list.push(r);
+  }
+  await writeFile(path.join(dir, 'all.xml'), rss('Sesizări Sector 3', 'Cele mai noi sesizări din Sectorul 3', SITE_URL, newest.slice(0, FEED_SIZE)));
+  const index = [{ name: 'Tot Sectorul 3', file: 'all.xml' }];
+  for (const [name, items] of byArea) {
+    const file = `${slugify(name)}.xml`;
+    await writeFile(path.join(dir, file), rss(`Sesizări Sector 3 · ${name}`, `Cele mai noi sesizări din zona ${name}`, `${SITE_URL}/#area=${encodeURIComponent(name)}`, items));
+    index.push({ name, file });
+  }
+  await writeFile(path.join(dir, 'index.json'), JSON.stringify(index, null, 1) + '\n');
+  for (const r of all) delete r.area; // keep stored records unchanged
 }
 
 main().catch((e) => { console.error(e); process.exit(1); });
