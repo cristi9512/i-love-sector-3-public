@@ -1,10 +1,13 @@
 name: Collect incidents
 
-# Triggered hourly by an external scheduler (cron-job.org) through the GitHub API:
+# Triggered hourly by an external scheduler (cron-job.org) through the GitHub API,
+# with GitHub's own hourly schedule as a backup (it can run late or be skipped):
 #   POST https://api.github.com/repos/<owner>/<repo>/actions/workflows/collect.yml/dispatches
 #   body: {"ref":"main"}
 # Can also be run by hand from the Actions tab, optionally with a date range (backfill).
 on:
+  schedule:
+    - cron: "17 * * * *"   # minute 17 of every hour (UTC); avoids the busy top of the hour
   workflow_dispatch:
     inputs:
       from:

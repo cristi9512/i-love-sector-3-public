@@ -83,7 +83,8 @@ node scripts/collect.mjs --from 2026-01-01 --to 2026-03-31 # backfill a range
 
 ### Hourly trigger (cron-job.org)
 
-The workflow `.github/workflows/collect.yml` has no GitHub schedule; it is started from outside through the GitHub API.
+The workflow `.github/workflows/collect.yml` runs on GitHub's own hourly schedule (minute 17, UTC), which can be late or skipped
+when GitHub is busy, so it is also started from outside through the GitHub API. Overlapping runs queue instead of clashing.
 
 1. Create a **fine-grained personal access token** at https://github.com/settings/personal-access-tokens/new
    - Repository access: *Only select repositories* → this repo
