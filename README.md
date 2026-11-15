@@ -1,5 +1,7 @@
 # Sesizări Sector 3 (unofficial viewer)
 
+Live: https://sesizari-sector3.vercel.app
+
 A static website that shows the public incident reports ("sesizări") from Primăria Sector 3's
 CityCare system **with the full description and the city's reply**, both of which the official
 map at https://iloves3.primarie3.ro/citycareweb/ hides.
