@@ -1,0 +1,26 @@
+{
+  "lastRun": "2026-11-15T19:33:15.913Z",
+  "lastChange": "2026-11-15T19:33:15.913Z",
+  "lastRunStats": {
+    "windows": 91,
+    "failedWindows": 0,
+    "fetched": 41371,
+    "added": 38735,
+    "updated": 0,
+    "removed": 0,
+    "changes": 0
+  },
+  "totals": {
+    "incidents": 41371,
+    "open": 1976,
+    "months": [
+      "2026-05",
+      "2026-06",
+      "2026-07",
+      "2026-08",
+      "2026-09",
+      "2026-10",
+      "2026-11"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+name: Collect incidents
+
+# Triggered hourly by an external scheduler (cron-job.org) through the GitHub API:
+#   POST https://api.github.com/repos/<owner>/<repo>/actions/workflows/collect.yml/dispatches
+#   body: {"ref":"main"}
+# Can also be run by hand from the Actions tab, optionally with a date range (backfill).
+on:
+  workflow_dispatch:
+    inputs:
+      from:
+        description: "Backfill start date (YYYY-MM-DD). Leave empty for a regular run."
+        required: false
+      to:
+        description: "Backfill end date (YYYY-MM-DD). Defaults to today."
+        required: false
+  repository_dispatch:
+    types: [collect]
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Collect
+        env:
+          FROM: ${{ github.event.inputs.from }}
+          TO: ${{ github.event.inputs.to }}
+        run: |
+          args=()
+          if [ -n "$FROM" ]; then args+=(--from "$FROM"); fi
+          if [ -n "$TO" ]; then args+=(--to "$TO"); fi
+          node scripts/collect.mjs "${args[@]}"
+
+      - name: Commit and push changes
+        run: |
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          stats=$(node -e "const m=require('./data/meta.json').lastRunStats;console.log('+'+m.added+' new, '+m.updated+' updated, '+m.removed+' removed')")
+          git commit -m "data: ${stats}"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          exit 1
