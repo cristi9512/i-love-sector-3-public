@@ -1,0 +1,377 @@
+<!doctype html>
+<html lang="ro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Harta Cartierului · Varianta B</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
+<style>
+:root {
+  --sign: #1747b5; --sign-ink: #ffffff; --you: #ffc800;
+  --bg: #ffffff; --bg-2: #f2f4f8; --line: #dfe3ea; --ink: #0f1a2c; --ink-2: #4b5870;
+  --open: #b86e00; --good: #19813f; --partial: #2257c7; --bad: #c62828; --other: #6b48c9;
+  --shadow: 0 6px 24px rgba(15, 26, 44, .16), 0 1px 3px rgba(15, 26, 44, .12);
+  --font: 'Atkinson Hyperlegible', system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #141b26; --bg-2: #1d2634; --line: #2c3748; --ink: #eef2f8; --ink-2: #a7b2c4; --sign: #3d6fe0;
+    --open: #e09a2e; --good: #3fb36a; --partial: #5b8cf0; --bad: #ef5a5a; --other: #9d81f0; --shadow: 0 6px 24px rgba(0,0,0,.5); }
+  .leaflet-tile-pane { filter: invert(1) hue-rotate(180deg) brightness(.85) contrast(.9) saturate(.5); }
+}
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+[hidden] { display: none !important; }
+html, body { height: 100%; margin: 0; }
+body { font: 17px/1.45 var(--font); color: var(--ink); background: var(--bg); overflow: hidden; }
+button, input { font: inherit; color: inherit; }
+button { cursor: pointer; }
+#map { position: fixed; inset: 0; z-index: 0; background: var(--bg-2); }
+.ic { flex: none; }
+
+/* top controls */
+.top { position: fixed; z-index: 1000; top: max(12px, env(safe-area-inset-top)); left: 12px; right: 12px; display: flex; flex-direction: column; gap: 10px; pointer-events: none; }
+.bar { display: flex; gap: 10px; align-items: stretch; pointer-events: auto; }
+.sign { display: flex; flex-direction: column; justify-content: center; background: var(--sign); color: var(--sign-ink); border: 2.5px solid #fff; outline: 1.5px solid var(--sign); border-radius: 8px; padding: 4px 12px; box-shadow: var(--shadow); line-height: 1.05; }
+.sign b { font-size: 16px; letter-spacing: .02em; }
+.sign small { font-size: 11px; opacity: .85; letter-spacing: .06em; text-transform: uppercase; }
+.searchbox { position: relative; flex: 1; max-width: 520px; }
+.searchbox label { display: flex; align-items: center; gap: 10px; height: 52px; padding: 0 16px; background: var(--bg); border-radius: 26px; box-shadow: var(--shadow); color: var(--ink-2); }
+.searchbox input { border: 0; outline: 0; background: transparent; flex: 1; min-width: 0; font-size: 17px; color: var(--ink); }
+.suggest { position: absolute; top: 58px; left: 0; right: 0; background: var(--bg); border-radius: 16px; box-shadow: var(--shadow); overflow: hidden; }
+.suggest button { width: 100%; display: flex; gap: 12px; align-items: center; text-align: left; background: none; border: 0; padding: 12px 16px; border-bottom: 1px solid var(--line); }
+.suggest button:hover { background: var(--bg-2); }
+.suggest small { display: block; color: var(--ink-2); font-size: 13px; }
+.round { width: 52px; height: 52px; border-radius: 50%; border: 0; background: var(--bg); box-shadow: var(--shadow); display: grid; place-items: center; color: var(--sign); flex: none; }
+.round.on { background: var(--sign); color: #fff; }
+.chips { display: flex; gap: 8px; overflow-x: auto; pointer-events: auto; scrollbar-width: none; padding: 2px 2px 6px; }
+.chips::-webkit-scrollbar { display: none; }
+.chip { display: inline-flex; align-items: center; gap: 8px; height: 44px; padding: 0 16px 0 12px; border-radius: 22px; border: 0; background: var(--bg); box-shadow: 0 2px 8px rgba(15,26,44,.14); white-space: nowrap; font-weight: 700; font-size: 15px; }
+.chip[aria-pressed="true"] { background: var(--sign); color: #fff; }
+.chip .count { font-weight: 400; opacity: .75; }
+
+/* sheet */
+.sheet { position: fixed; z-index: 1100; left: 0; right: 0; bottom: 0; height: 92vh; background: var(--bg); border-radius: 22px 22px 0 0; box-shadow: 0 -6px 30px rgba(15,26,44,.2); display: flex; flex-direction: column; transition: transform .28s cubic-bezier(.2,.8,.2,1); touch-action: none; }
+.sheet.dragging { transition: none; }
+.grab { padding: 10px 0 4px; display: grid; place-items: center; cursor: grab; }
+.grab i { width: 44px; height: 5px; border-radius: 3px; background: var(--line); }
+.sheet-head { padding: 4px 18px 10px; }
+.sheet-head h1 { font-size: 21px; margin: 0; }
+.sheet-head p { margin: 2px 0 0; color: var(--ink-2); font-size: 15px; }
+.seg { display: flex; background: var(--bg-2); border-radius: 14px; padding: 4px; margin-top: 12px; }
+.seg button { flex: 1; border: 0; background: none; padding: 9px 4px; border-radius: 10px; font-weight: 700; font-size: 15px; color: var(--ink-2); }
+.seg button[aria-pressed="true"] { background: var(--bg); color: var(--ink); box-shadow: 0 1px 4px rgba(15,26,44,.15); }
+.when { display: flex; gap: 6px; margin-top: 10px; }
+.when button { border: 1.5px solid var(--line); background: var(--bg); border-radius: 18px; padding: 5px 13px; font-size: 14px; font-weight: 700; color: var(--ink-2); }
+.when button[aria-pressed="true"] { border-color: var(--sign); color: var(--sign); }
+.scroll { overflow-y: auto; flex: 1; touch-action: pan-y; padding-bottom: 30px; }
+.row { display: flex; gap: 14px; align-items: center; width: 100%; text-align: left; background: none; border: 0; border-top: 1px solid var(--line); padding: 14px 18px; }
+.row:hover { background: var(--bg-2); }
+.tile { width: 46px; height: 46px; border-radius: 14px; display: grid; place-items: center; color: var(--c); background: color-mix(in srgb, var(--c) 14%, transparent); flex: none; }
+.row-main { flex: 1; min-width: 0; }
+.row-main b { display: block; font-size: 16.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.row-main small { color: var(--ink-2); font-size: 14px; }
+.pill { font-size: 13px; font-weight: 700; color: var(--c); white-space: nowrap; display: inline-flex; gap: 5px; align-items: center; }
+.pill::before { content: ''; width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+.empty { padding: 30px 18px; color: var(--ink-2); text-align: center; }
+.empty b { display: block; color: var(--ink); font-size: 18px; }
+
+/* detail */
+.detail { padding: 0 18px 30px; }
+.back { display: inline-flex; gap: 8px; align-items: center; border: 0; background: none; font-weight: 700; color: var(--sign); padding: 6px 0 12px; }
+.detail h2 { font-size: 23px; line-height: 1.25; margin: 6px 0 4px; }
+.detail .cat { display: flex; gap: 8px; align-items: center; color: var(--ink-2); font-weight: 700; font-size: 14px; }
+.track { display: grid; grid-template-columns: repeat(3, 1fr); margin: 18px 0 8px; position: relative; }
+.track::before { content: ''; position: absolute; top: 13px; left: 16.6%; right: 16.6%; height: 4px; background: var(--line); border-radius: 2px; }
+.track .fill { position: absolute; top: 13px; left: 16.6%; height: 4px; background: var(--c); border-radius: 2px; }
+.step { text-align: center; position: relative; font-size: 13.5px; color: var(--ink-2); }
+.step i { display: grid; place-items: center; width: 30px; height: 30px; margin: 0 auto 6px; border-radius: 50%; background: var(--bg); border: 3px solid var(--line); color: #fff; }
+.step.done i { background: var(--c); border-color: var(--c); }
+.step.done { color: var(--ink); font-weight: 700; }
+.step small { display: block; font-weight: 400; color: var(--ink-2); font-size: 12px; }
+.box { background: var(--bg-2); border-radius: 16px; padding: 14px 16px; margin-top: 14px; }
+.box h3 { margin: 0 0 6px; font-size: 14px; display: flex; gap: 8px; align-items: center; color: var(--ink-2); text-transform: uppercase; letter-spacing: .06em; }
+.box p { margin: 0; white-space: pre-line; overflow-wrap: anywhere; }
+.box.reply { border-left: 5px solid var(--c); }
+.facts { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 14px; }
+.facts div { background: var(--bg-2); border-radius: 14px; padding: 10px 14px; }
+.facts b { display: block; font-size: 18px; }
+.facts small { color: var(--ink-2); font-size: 13px; }
+.btns { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 16px; }
+.btns a, .btns button { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 12px 6px; border-radius: 14px; border: 1.5px solid var(--line); background: var(--bg); text-decoration: none; color: var(--sign); font-weight: 700; font-size: 13.5px; }
+.btns .primary { background: var(--sign); color: #fff; border-color: var(--sign); }
+.near { margin-top: 16px; }
+.near h3 { font-size: 14px; color: var(--ink-2); text-transform: uppercase; letter-spacing: .06em; margin: 0 0 4px; }
+.near .row { padding: 10px 0; }
+
+/* map marks */
+.mk { width: 34px; height: 34px; border-radius: 50%; background: var(--bg); border: 3px solid var(--c); color: var(--c); display: grid; place-items: center; box-shadow: 0 2px 6px rgba(0,0,0,.35); }
+.mk.sel { transform: scale(1.35); background: var(--c); color: #fff; }
+.cl { display: grid; place-items: center; border-radius: 50%; background: var(--sign); color: #fff; font-weight: 700; border: 3px solid #fff; box-shadow: 0 2px 8px rgba(0,0,0,.35); }
+.you { width: 20px; height: 20px; border-radius: 50%; background: var(--you); border: 3px solid #fff; box-shadow: 0 0 0 6px color-mix(in srgb, var(--you) 35%, transparent), 0 2px 6px rgba(0,0,0,.4); }
+.leaflet-control-zoom { display: none; }
+.leaflet-control-attribution { font-size: 10px; }
+.foot-note { padding: 14px 18px; font-size: 13px; color: var(--ink-2); }
+.foot-note a { color: var(--sign); }
+
+@media (min-width: 900px) {
+  .top { left: 436px; }
+  .sheet { top: 12px; left: 12px; bottom: 12px; right: auto; width: 412px; height: auto; border-radius: 22px; transform: none !important; box-shadow: var(--shadow); }
+  .grab { display: none; }
+  .sheet-head { padding-top: 18px; }
+  .brand-in-sheet { display: flex !important; }
+  .bar .sign { display: none; }
+}
+.brand-in-sheet { display: none; gap: 10px; align-items: center; padding: 16px 18px 0; }
+@media (max-width: 899px) {
+  .bar .sign { padding: 4px 8px; }
+  .bar .sign b { font-size: 0; }
+  .bar .sign b::before { content: 'S3'; font-size: 18px; }
+  .bar .sign small { display: none; }
+  .searchbox { min-width: 0; }
+}
+</style>
+</head>
+<body>
+<div id="map" aria-label="Harta sesizărilor"></div>
+
+<div class="top">
+  <div class="bar">
+    <div class="sign"><b>Sectorul 3</b><small>Sesizări</small></div>
+    <div class="searchbox">
+      <label><span id="icSearch"></span><input id="q" type="search" placeholder="Caută strada ta sau un nr. de sesizare" autocomplete="off" aria-label="Caută"></label>
+      <div class="suggest" id="suggest" hidden></div>
+    </div>
+    <button class="round" id="locate" aria-label="Arată-mi locul meu" title="Lângă mine"></button>
+  </div>
+  <div class="chips" id="chips" role="toolbar" aria-label="Categorii"></div>
+</div>
+
+<section class="sheet" id="sheet" aria-label="Sesizări">
+  <div class="grab" id="grab"><i></i></div>
+  <div class="brand-in-sheet"><div class="sign"><b>Sectorul 3</b><small>Sesizări</small></div><span style="color:var(--ink-2);font-size:14px">Neoficial · date publice</span></div>
+  <div id="sheetBody" style="display:flex;flex-direction:column;min-height:0;flex:1"></div>
+</section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
+<script type="module">
+import { GROUPS, icon, esc, ago, fmtDate, took, n, loadData, OFFICIAL, osmTiles, distanceM } from './shared.js';
+
+const $ = (s) => document.querySelector(s);
+const state = { group: null, status: 'all', days: 7, you: null, selected: null };
+let data, map, cluster, youMarker;
+const markers = new Map();
+const C = (k) => `var(--${k})`;
+const SHORT = { open: 'În lucru', good: 'Rezolvată', partial: 'Parțial', bad: 'Nerezolvată', other: 'Închisă' };
+
+$('#icSearch').innerHTML = icon('search', 22);
+$('#locate').innerHTML = icon('locate', 24);
+
+/* ---------- filtering: only what is visible on the map ---------- */
+function base() {
+  const cut = Date.now() - state.days * 864e5;
+  return data.items.filter((it) => it.created >= cut && (!state.group || it.group.key === state.group));
+}
+function withStatus(list) {
+  return list.filter((it) => state.status === 'all' || (state.status === 'open' ? it.status.key === 'open' : it.status.key !== 'open'));
+}
+function visible(list) {
+  const b = map.getBounds();
+  return list.filter((it) => b.contains([it.lat, it.lng]));
+}
+
+/* ---------- map ---------- */
+function pin(it, sel) {
+  return L.divIcon({ className: '', iconSize: [34, 34], iconAnchor: [17, 17],
+    html: `<div class="mk${sel ? ' sel' : ''}" style="--c:${C(it.status.key)}">${icon(it.group.icon, 18)}</div>` });
+}
+function initMap() {
+  map = L.map('map', { zoomControl: false, attributionControl: true }).setView([44.4155, 26.163], 13);
+  osmTiles().addTo(map);
+  L.polygon(data.assets.boundary, { color: '#1747b5', weight: 2.5, opacity: .7, fill: false, interactive: false }).addTo(map);
+  cluster = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 50, chunkedLoading: true,
+    iconCreateFunction: (c) => { const k = c.getChildCount(), s = k < 10 ? 38 : k < 100 ? 46 : 54;
+      return L.divIcon({ className: '', iconSize: [s, s], html: `<div class="cl" style="width:${s}px;height:${s}px">${k}</div>` }); } });
+  map.addLayer(cluster);
+  map.on('moveend', () => { if (!state.selected) renderList(); });
+  const bounds = L.polygon(data.assets.boundary).getBounds();
+  if (innerWidth >= 900) map.fitBounds(bounds, { paddingTopLeft: [430, 80] });
+  else map.fitBounds(bounds, { paddingTopLeft: [10, 130], paddingBottomRight: [10, 220] });
+}
+function renderMap() {
+  cluster.clearLayers();
+  markers.clear();
+  const list = withStatus(base());
+  cluster.addLayers(list.map((it) => {
+    const m = L.marker([it.lat, it.lng], { icon: pin(it, it.id === state.selected), keyboard: false });
+    m.on('click', () => openDetail(it.id));
+    markers.set(it.id, m);
+    return m;
+  }));
+}
+
+/* ---------- chips ---------- */
+function renderChips() {
+  const counts = new Map();
+  for (const it of base().concat()) counts.set(it.group.key, (counts.get(it.group.key) || 0) + 1);
+  const cut = Date.now() - state.days * 864e5;
+  const all = data.items.filter((it) => it.created >= cut);
+  const by = new Map(); for (const it of all) by.set(it.group.key, (by.get(it.group.key) || 0) + 1);
+  $('#chips').innerHTML = `<button class="chip" data-g="" aria-pressed="${!state.group}">${icon('pin', 20)}Toate</button>` +
+    GROUPS.filter((g) => by.get(g.key)).map((g) => `<button class="chip" data-g="${g.key}" aria-pressed="${state.group === g.key}">${icon(g.icon, 20)}${esc(g.name)} <span class="count">${n(by.get(g.key))}</span></button>`).join('');
+}
+
+/* ---------- sheet: list ---------- */
+function rowHTML(it, showDist = true) {
+  const dist = state.you && showDist ? ` · ${distanceM(state.you, it) < 1000 ? Math.round(distanceM(state.you, it) / 10) * 10 + ' m' : (distanceM(state.you, it) / 1000).toFixed(1) + ' km'}` : '';
+  return `<button class="row" data-id="${it.id}" style="--c:${C(it.status.key)}">
+    <span class="tile">${icon(it.group.icon, 24)}</span>
+    <span class="row-main"><b>${esc(it.title)}</b><small>${esc(it.area || '')}${dist} · ${ago(it.created)}</small></span>
+    <span class="pill">${SHORT[it.status.key]}</span></button>`;
+}
+function renderList() {
+  const all = base();
+  const inView = visible(all);
+  const list = withStatus(inView);
+  if (state.you) list.sort((a, b) => distanceM(state.you, a) - distanceM(state.you, b)); else list.sort((a, b) => b.created - a.created);
+  const open = inView.filter((x) => x.status.key === 'open').length;
+  const title = state.you ? 'Lângă tine' : map.getZoom() >= 15 ? 'În zona de pe hartă' : 'În Sectorul 3';
+  $('#sheetBody').innerHTML = `
+    <div class="sheet-head">
+      <h1>${title}</h1>
+      <p>${n(inView.length)} sesizări${state.days === 1 ? ' azi' : ` în ultimele ${state.days} zile`} · ${n(open)} încă în lucru</p>
+      <div class="seg" role="radiogroup">
+        <button data-st="all" aria-pressed="${state.status === 'all'}">Toate</button>
+        <button data-st="open" aria-pressed="${state.status === 'open'}">În lucru</button>
+        <button data-st="closed" aria-pressed="${state.status === 'closed'}">Închise</button>
+      </div>
+      <div class="when">${[[1, 'Azi'], [3, '3 zile'], [7, '7 zile']].map(([d, l]) => `<button data-d="${d}" aria-pressed="${state.days === d}">${l}</button>`).join('')}</div>
+    </div>
+    <div class="scroll" id="scroll">
+      ${list.length ? list.slice(0, 120).map((x) => rowHTML(x)).join('') + (list.length > 120 ? `<div class="foot-note">Apropie harta pentru a vedea restul de ${n(list.length - 120)}.</div>` : '')
+        : `<div class="empty"><b>Nimic aici</b>Mută harta sau alege altă categorie.</div>`}
+      <div class="foot-note">Neoficial. Date publice de la Primăria Sectorului 3, arhivate orar. Varianta B · <a href="./">celelalte variante</a></div>
+    </div>`;
+}
+
+/* ---------- sheet: detail ---------- */
+function openDetail(id) {
+  const it = data.items.find((x) => x.id === id);
+  if (!it) return;
+  const prev = state.selected && markers.get(state.selected);
+  if (prev) prev.setIcon(pin(data.items.find((x) => x.id === state.selected), false));
+  state.selected = id;
+  const m = markers.get(id);
+  if (m) { cluster.zoomToShowLayer(m, () => { m.setIcon(pin(it, true)); centerAbove(it); }); }
+  const steps = [['Trimisă', fmtDate(it.created, { day: 'numeric', month: 'short' })], ['În lucru', ''], [it.status.step === 3 ? SHORT[it.status.key] : 'Închisă', it.closedAt ? took(it.closedAt - it.created) : '']];
+  const fill = it.status.step === 1 ? 0 : it.status.step === 2 ? 33.4 : 66.8;
+  const near = data.items.filter((x) => x !== it && distanceM(x, it) < 80).slice(0, 4);
+  $('#sheetBody').innerHTML = `<div class="scroll"><div class="detail" style="--c:${C(it.status.key)}">
+    <button class="back" id="back">${icon('back', 20)} Toate sesizările</button>
+    <div class="cat">${icon(it.group.icon, 18)} ${esc(it.group.name)} · ${esc(it.area || '')}</div>
+    <h2>${esc(it.title)}</h2>
+    <div class="track"><span class="fill" style="width:${fill}%"></span>
+      ${steps.map(([l, s], i) => `<div class="step ${i < it.status.step ? 'done' : ''}"><i>${i < it.status.step ? icon('check', 16) : ''}</i>${esc(l)}<small>${esc(s)}</small></div>`).join('')}</div>
+    <div class="box"><h3>${icon('chat', 16)} Ce a scris vecinul</h3><p>${esc(it.desc)}</p></div>
+    <div class="box reply"><h3>${icon('hall', 16)} Răspunsul primăriei</h3><p>${it.reply ? esc(it.reply) : 'Încă nu există un răspuns scris.'}</p></div>
+    <div class="facts">
+      <div><b>${ago(it.created)}</b><small>${fmtDate(it.created)}</small></div>
+      <div><b>${esc(it.ticket)}</b><small>număr sesizare</small></div>
+    </div>
+    <div class="btns">
+      <a class="primary" href="https://www.google.com/maps/dir/?api=1&destination=${it.lat},${it.lng}" target="_blank" rel="noopener">${icon('arrow', 22)}Mergi acolo</a>
+      <button id="share">${icon('share', 22)}Distribuie</button>
+      <a href="${OFFICIAL}?lat=${it.lat}&lng=${it.lng}&zoom=18" target="_blank" rel="noopener">${icon('plus', 22)}Semnalează aici</a>
+    </div>
+    ${near.length ? `<div class="near"><h3>Tot aici, recent</h3>${near.map((x) => rowHTML(x, false)).join('')}</div>` : ''}
+  </div></div>`;
+  $('#back').onclick = closeDetail;
+  $('#share').onclick = () => { navigator.clipboard?.writeText(location.href.split('#')[0] + '#' + it.ticket); $('#share').innerHTML = icon('check', 22) + 'Copiat'; };
+  snap(1);
+}
+/** Pan so the point sits in the middle of the map area the sheet/panel leaves visible. */
+function centerAbove(it) {
+  const z = Math.max(map.getZoom(), 17);
+  const p = map.project([it.lat, it.lng], z);
+  const shift = innerWidth >= 900 ? L.point(-212, 0) : L.point(0, innerHeight * 0.25);
+  map.setView(map.unproject(p.add(shift), z), z);
+}
+function closeDetail() {
+  const prev = state.selected && markers.get(state.selected);
+  if (prev) prev.setIcon(pin(data.items.find((x) => x.id === state.selected), false));
+  state.selected = null;
+  renderList();
+}
+
+/* ---------- bottom sheet drag (phones) ---------- */
+let snapIdx = 0;
+const snaps = () => [innerHeight * 0.92 - 210, innerHeight * 0.92 - innerHeight * 0.5, 0];
+function snap(i) { snapIdx = i; if (innerWidth < 900) $('#sheet').style.transform = `translateY(${snaps()[i]}px)`; }
+(function drag() {
+  const sheet = $('#sheet'); let startY = 0, startT = 0, dragging = false;
+  const down = (e) => { if (innerWidth >= 900) return; if (!e.target.closest('#grab, .sheet-head')) return; dragging = true; startY = e.clientY; startT = snaps()[snapIdx]; sheet.classList.add('dragging'); sheet.setPointerCapture(e.pointerId); };
+  const move = (e) => { if (!dragging) return; const y = Math.max(0, startT + e.clientY - startY); sheet.style.transform = `translateY(${y}px)`; };
+  const up = (e) => { if (!dragging) return; dragging = false; sheet.classList.remove('dragging'); const y = startT + e.clientY - startY; const s = snaps();
+    if (Math.abs(e.clientY - startY) < 6) return snap(snapIdx === 0 ? 1 : snapIdx); let best = 0; s.forEach((v, i) => { if (Math.abs(v - y) < Math.abs(s[best] - y)) best = i; }); snap(best); };
+  sheet.addEventListener('pointerdown', down); sheet.addEventListener('pointermove', move); sheet.addEventListener('pointerup', up); sheet.addEventListener('pointercancel', up);
+  addEventListener('resize', () => snap(snapIdx));
+})();
+
+/* ---------- search: streets (OpenStreetMap) + ticket numbers ---------- */
+let st;
+$('#q').addEventListener('input', (e) => {
+  clearTimeout(st);
+  const q = e.target.value.trim();
+  if (q.length < 3) { $('#suggest').hidden = true; return; }
+  st = setTimeout(async () => {
+    const tickets = data.items.filter((x) => x.ticket.includes(q.toUpperCase())).slice(0, 3);
+    let places = [];
+    try {
+      places = await fetch(`https://nominatim.openstreetmap.org/search?format=jsonv2&limit=5&accept-language=ro&bounded=1&viewbox=26.09,44.45,26.24,44.37&q=${encodeURIComponent(q)}`).then((r) => r.json());
+    } catch { /* offline */ }
+    const html = tickets.map((t) => `<button data-id="${t.id}">${icon(t.group.icon, 20)}<span>${esc(t.ticket)}<small>${esc(t.title)}</small></span></button>`).join('') +
+      places.map((p) => `<button data-ll="${p.lat},${p.lon}">${icon('pin', 20)}<span>${esc(p.name || p.display_name.split(',')[0])}<small>${esc(p.display_name.split(',').slice(1, 3).join(','))}</small></span></button>`).join('');
+    $('#suggest').innerHTML = html || '<button disabled><span>Nimic găsit în Sectorul 3</span></button>';
+    $('#suggest').hidden = false;
+  }, 450);
+});
+$('#suggest').addEventListener('click', (e) => {
+  const b = e.target.closest('button'); if (!b) return;
+  $('#suggest').hidden = true;
+  if (b.dataset.id) return openDetail(b.dataset.id);
+  if (b.dataset.ll) { const [a, o] = b.dataset.ll.split(',').map(Number); map.setView([a, o], 17); snap(0); }
+});
+
+/* ---------- locate ---------- */
+$('#locate').addEventListener('click', () => {
+  if (state.you) { state.you = null; youMarker?.remove(); $('#locate').classList.remove('on'); return renderList(); }
+  navigator.geolocation?.getCurrentPosition((p) => {
+    state.you = { lat: p.coords.latitude, lng: p.coords.longitude };
+    youMarker?.remove();
+    youMarker = L.marker([state.you.lat, state.you.lng], { icon: L.divIcon({ className: '', iconSize: [20, 20], html: '<div class="you"></div>' }), interactive: false }).addTo(map);
+    $('#locate').classList.add('on');
+    map.setView([state.you.lat, state.you.lng], 16);
+  }, () => alert('Nu am putut afla locația ta.'));
+});
+
+/* ---------- events ---------- */
+document.addEventListener('click', (e) => {
+  const g = e.target.closest('[data-g]'); if (g) { state.group = g.dataset.g || null; renderChips(); renderMap(); return renderList(); }
+  const s = e.target.closest('[data-st]'); if (s) { state.status = s.dataset.st; renderMap(); return renderList(); }
+  const d = e.target.closest('[data-d]'); if (d) { state.days = +d.dataset.d; renderChips(); renderMap(); return renderList(); }
+  const r = e.target.closest('.row[data-id]'); if (r) return openDetail(r.dataset.id);
+  if (!e.target.closest('.searchbox')) $('#suggest').hidden = true;
+});
+
+data = await loadData(7);
+initMap();
+renderChips();
+renderMap();
+renderList();
+snap(0);
+</script>
+</body>
+</html>

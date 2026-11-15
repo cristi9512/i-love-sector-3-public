@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Three UI directions · Sesizări Sector 3</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,800&family=Atkinson+Hyperlegible:wght@400;700&family=Bricolage+Grotesque:opsz,wght@12..96,800&family=Nunito:wght@400;700&display=swap" rel="stylesheet">
+<style>
+:root { --bg: #f4f4f1; --card: #fff; --ink: #1b1c1f; --ink-2: #5c5f66; --line: #e2e2dc; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 16px/1.55 system-ui, -apple-system, 'Segoe UI', sans-serif; }
+.wrap { max-width: 1180px; margin: 0 auto; padding: 32px 20px 60px; }
+h1 { font-size: clamp(28px, 4vw, 40px); margin: 0 0 8px; letter-spacing: -0.02em; }
+.intro { max-width: 760px; color: var(--ink-2); font-size: 17px; }
+.intro b { color: var(--ink); }
+.grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 28px; }
+.opt { background: var(--card); border: 1px solid var(--line); border-radius: 16px; overflow: hidden; display: flex; flex-direction: column; }
+.preview { height: 210px; position: relative; overflow: hidden; border-bottom: 1px solid var(--line); }
+.body { padding: 18px 20px 20px; display: flex; flex-direction: column; gap: 12px; flex: 1; }
+.letter { font: 700 12px system-ui; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-2); }
+.opt h2 { margin: 0; font-size: 24px; letter-spacing: -0.01em; }
+.mood { margin: 0; color: var(--ink-2); }
+.swatches { display: flex; gap: 6px; }
+.swatches i { width: 26px; height: 26px; border-radius: 7px; border: 1px solid rgba(0,0,0,.08); }
+.opt h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .1em; color: var(--ink-2); margin: 6px 0 0; }
+.opt ul { margin: 0; padding-left: 18px; }
+.opt li { margin: 3px 0; }
+.open { margin-top: auto; display: flex; justify-content: center; padding: 12px; border-radius: 10px; background: var(--ink); color: #fff; text-decoration: none; font-weight: 700; }
+.open:hover { opacity: .85; }
+
+/* mini previews (pure CSS sketches) */
+.pa { background: #f6f1e7; padding: 16px 18px; color: #1d1a15; }
+.pa .m { font: 800 34px/1 'Fraunces', serif; text-align: center; border-bottom: 3px double #1d1a15; padding-bottom: 8px; }
+.pa .l { font: 800 17px/1.2 'Fraunces', serif; margin: 10px 0 6px; }
+.pa .l em { color: #b3261e; }
+.pa .cols { display: grid; grid-template-columns: 1fr 1fr 70px; gap: 10px; }
+.pa .k { font: 700 8px system-ui; letter-spacing: .1em; color: #b3261e; }
+.pa .h { font: 800 11px/1.15 'Fraunces', serif; margin: 2px 0 4px; }
+.pa .s { display: inline-block; border: 1.5px solid #2e6b3a; color: #2e6b3a; font: 800 7px system-ui; padding: 0 4px; transform: rotate(-3deg); letter-spacing: .1em; }
+.pa .map { background: repeating-linear-gradient(45deg, #ddd5c4 0 2px, #efe8da 2px 9px); border: 1px solid #1d1a15; height: 76px; }
+.pb { background: #dfe7f1; }
+.pb .road { position: absolute; background: #fff; }
+.pb .panel { position: absolute; left: 10px; top: 10px; bottom: 10px; width: 46%; background: #fff; border-radius: 14px; box-shadow: 0 4px 14px rgba(15,26,44,.18); padding: 10px; font-family: 'Atkinson Hyperlegible', sans-serif; }
+.pb .sign { display: inline-block; background: #1747b5; color: #fff; border: 2px solid #fff; outline: 1px solid #1747b5; border-radius: 5px; font: 700 10px 'Atkinson Hyperlegible'; padding: 2px 6px; }
+.pb .row { display: flex; gap: 6px; align-items: center; margin-top: 8px; }
+.pb .row i { width: 20px; height: 20px; border-radius: 6px; background: #fbeed8; border: 2px solid #b86e00; }
+.pb .row i.g { background: #dff2e6; border-color: #19813f; }
+.pb .row b { height: 6px; flex: 1; background: #dfe3ea; border-radius: 3px; }
+.pb .search { position: absolute; left: 52%; right: 10px; top: 10px; height: 26px; background: #fff; border-radius: 13px; box-shadow: 0 2px 8px rgba(15,26,44,.2); }
+.pb .chip { position: absolute; top: 44px; height: 18px; border-radius: 9px; background: #fff; box-shadow: 0 1px 4px rgba(15,26,44,.2); }
+.pb .pin { position: absolute; width: 18px; height: 18px; border-radius: 50%; background: #fff; border: 3px solid #19813f; }
+.pb .cl { position: absolute; width: 26px; height: 26px; border-radius: 50%; background: #1747b5; border: 3px solid #fff; color: #fff; font: 700 9px/20px system-ui; text-align: center; }
+.pc { background: #fff8ef; padding: 14px 16px; font-family: 'Nunito', sans-serif; }
+.pc .hi { font: 800 26px/1 'Bricolage Grotesque', sans-serif; color: #2b2733; }
+.pc .hi span { color: #ff6a4d; }
+.pc .lib { margin: 8px 0; font: 700 11px 'Bricolage Grotesque'; }
+.pc .lib i { font-style: normal; background: #fff1e0; border-radius: 9px; padding: 1px 7px; }
+.pc .card { background: #fff; border-radius: 14px; padding: 8px; box-shadow: 0 4px 12px rgba(120,80,30,.1); }
+.pc .b1 { background: #fff1e0; border-radius: 10px 10px 10px 3px; height: 26px; width: 78%; }
+.pc .b2 { background: #dcf3e9; border-radius: 10px 10px 3px 10px; height: 18px; width: 62%; margin: 6px 0 6px auto; }
+.pc .tr { display: flex; align-items: center; gap: 0; }
+.pc .tr i { width: 9px; height: 9px; border-radius: 50%; background: #23a06f; }
+.pc .tr b { width: 16px; height: 2px; background: #23a06f; }
+.pc .tr b.off, .pc .tr i.off { background: #f0e2cf; }
+
+.shared { margin-top: 34px; background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 22px 24px; }
+.shared h2 { margin: 0 0 6px; font-size: 20px; }
+.shared ul { columns: 2; column-gap: 34px; margin: 10px 0 0; padding-left: 18px; }
+.shared li { break-inside: avoid; margin: 4px 0; }
+.compare { margin-top: 18px; width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--line); border-radius: 16px; overflow: hidden; }
+.compare th, .compare td { text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.compare th { background: #ecece7; font-size: 13px; text-transform: uppercase; letter-spacing: .06em; }
+.note { color: var(--ink-2); font-size: 14px; margin-top: 18px; }
+@media (max-width: 960px) { .grid { grid-template-columns: 1fr; } .shared ul { columns: 1; } .compare { font-size: 14px; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Three directions for the new UI</h1>
+  <p class="intro">The current site works, but it looks like a generic analytics dashboard: SaaS teal, KPI tiles, every block a shadowed card, emoji as icons, and three rows of filters before any content. A city app should feel like it belongs to the neighbourhood. Below are <b>three working prototypes using the real archive</b> (last 7 days). Each is clickable: open a report, filter, search. They are in Romanian, like the final app.</p>
+
+  <div class="grid">
+    <article class="opt">
+      <div class="preview pa" aria-hidden="true">
+        <div class="m">Gazeta Sesizărilor</div>
+        <div class="l">Vecinii au trimis 1.819 sesizări. <em>Una din trei</em> a fost rezolvată.</div>
+        <div class="cols"><div><div class="k">STRĂZI · DRISTOR</div><div class="h">Limitatoare de viteză pe aleea Mizil</div><span class="s">REZOLVATĂ</span></div><div><div class="k">CURĂȚENIE · TITAN</div><div class="h">Gunoi lângă blocul U23</div><span class="s" style="color:#9a5b00;border-color:#9a5b00">ÎN LUCRU</span></div><div class="map"></div></div>
+      </div>
+      <div class="body">
+        <div class="letter">Option A</div>
+        <h2>Gazeta Sesizărilor</h2>
+        <p class="mood">The neighbourhood newspaper. Calm, credible, made to be <i>read</i>.</p>
+        <div class="swatches"><i style="background:#f6f1e7"></i><i style="background:#1d1a15"></i><i style="background:#b3261e"></i><i style="background:#2e6b3a"></i><i style="background:#9a5b00"></i></div>
+        <h3>Ideas</h3>
+        <ul>
+          <li>Numbers told as a sentence: “Una din trei a fost rezolvată”</li>
+          <li>Reports become short news items with a readable headline</li>
+          <li>Status as an ink stamp, the city's reply as a pull quote</li>
+          <li>Newspaper sections instead of a filter bar; neighbourhood picked inside a sentence</li>
+          <li>Side column: map of the week, “places that keep coming back”, most-used reply</li>
+        </ul>
+        <h3>Best for</h3>
+        <ul><li>Older residents, local press, sharing on Facebook groups; trust and transparency</li></ul>
+        <h3>Trade-offs</h3>
+        <ul><li>Map is secondary; less suited to “what's on my street right now”</li><li>Serif headlines need care on very small screens</li></ul>
+        <a class="open" href="a-gazeta.html">Open option A →</a>
+      </div>
+    </article>
+
+    <article class="opt">
+      <div class="preview pb" aria-hidden="true">
+        <div class="road" style="left:0;right:0;top:120px;height:10px"></div><div class="road" style="left:66%;width:9px;top:0;bottom:0"></div><div class="road" style="left:48%;right:0;top:70px;height:6px;transform:rotate(-8deg)"></div>
+        <div class="search"></div>
+        <div class="chip" style="left:52%;width:50px;background:#1747b5"></div><div class="chip" style="left:calc(52% + 56px);width:62px"></div>
+        <div class="cl" style="left:72%;top:92px">48</div><div class="cl" style="left:84%;top:146px">12</div>
+        <div class="pin" style="left:58%;top:150px"></div><div class="pin" style="left:90%;top:84px;border-color:#b86e00"></div>
+        <div class="panel"><span class="sign">Sectorul 3</span>
+          <div class="row"><i></i><b></b></div><div class="row"><i class="g"></i><b></b></div><div class="row"><i></i><b></b></div><div class="row"><i class="g"></i><b></b></div></div>
+      </div>
+      <div class="body">
+        <div class="letter">Option B</div>
+        <h2>Harta Cartierului</h2>
+        <p class="mood">Map first, like a transit or navigation app. Fast, practical, local.</p>
+        <div class="swatches"><i style="background:#1747b5"></i><i style="background:#ffc800"></i><i style="background:#ffffff"></i><i style="background:#19813f"></i><i style="background:#b86e00"></i></div>
+        <h3>Ideas</h3>
+        <ul>
+          <li>Full-screen map; the list shows only what's visible, sorted by distance once you share your location</li>
+          <li>“Caută strada ta”: real street search (OpenStreetMap), plus ticket numbers</li>
+          <li>Big category buttons with icons; pins show the category icon, ring colour shows the outcome</li>
+          <li>Phone: draggable bottom sheet (peek / half / full). Desktop: side panel</li>
+          <li>Report view with a delivery-style tracker: Trimisă → În lucru → Rezolvată</li>
+          <li>Street-sign blue, a typeface designed for low vision, dark mode</li>
+        </ul>
+        <h3>Best for</h3>
+        <ul><li>“What's happening on my street?”, people out walking, quick checks on the phone</li></ul>
+        <h3>Trade-offs</h3>
+        <ul><li>Statistics and trends are hidden; would need a separate “Statistici” screen</li><li>Depends on the map loading well on weak connections</li></ul>
+        <a class="open" href="b-harta.html">Open option B →</a>
+      </div>
+    </article>
+
+    <article class="opt">
+      <div class="preview pc" aria-hidden="true">
+        <div class="hi">Bună seara, <span>vecine!</span></div>
+        <div class="lib">Arată-mi <i>toate sesizările</i> despre <i>curățenie</i> din <i>Titan</i></div>
+        <div class="card"><div class="b1"></div><div class="b2"></div><div class="tr"><i></i><b></b><i></i><b class="off"></b><i class="off"></i></div></div>
+      </div>
+      <div class="body">
+        <div class="letter">Option C</div>
+        <h2>Vecinii din S3</h2>
+        <p class="mood">Warm and conversational. Feels like a neighbourhood group chat, not a government form.</p>
+        <div class="swatches"><i style="background:#fff8ef"></i><i style="background:#ff6a4d"></i><i style="background:#ffc23d"></i><i style="background:#23a06f"></i><i style="background:#2b2733"></i></div>
+        <h3>Ideas</h3>
+        <ul>
+          <li>Each report is a short conversation: the neighbour's message, then the city hall's reply</li>
+          <li>No reply yet? A “typing…” bubble and “așteaptă de 3 ore”, which makes waiting visible</li>
+          <li>Filters as one sentence: “Arată-mi … despre … din …” (no filter jargon)</li>
+          <li>Progress rings, “Locul săptămânii” card with a mini map</li>
+          <li>Report view as a thread, with status changes as small system messages</li>
+        </ul>
+        <h3>Best for</h3>
+        <ul><li>People who don't like maps or dashboards; younger users; making the city hall's responsiveness tangible</li></ul>
+        <h3>Trade-offs</h3>
+        <ul><li>Takes more scrolling per report; fewer reports on screen</li><li>Playful tone may feel less “official”</li></ul>
+        <a class="open" href="c-vecini.html">Open option C →</a>
+      </div>
+    </article>
+  </div>
+
+  <table class="compare">
+    <tr><th></th><th>A · Gazeta</th><th>B · Harta</th><th>C · Vecinii</th></tr>
+    <tr><td><b>First thing you see</b></td><td>A headline sentence about the week</td><td>The map of your area</td><td>A greeting and the latest conversations</td></tr>
+    <tr><td><b>Main question answered</b></td><td>“What's going on in Sector 3?”</td><td>“What's happening near me?”</td><td>“Did the city hall answer people?”</td></tr>
+    <tr><td><b>Phone experience</b></td><td>Good (single column)</td><td>Best (native-app feel)</td><td>Very good (card feed)</td></tr>
+    <tr><td><b>Room for statistics</b></td><td>High (told as stories)</td><td>Low (separate screen)</td><td>Medium (rings + tiles)</td></tr>
+    <tr><td><b>Effort to build fully</b></td><td>Medium</td><td>Higher (sheet, search)</td><td>Medium</td></tr>
+  </table>
+
+  <section class="shared">
+    <h2>What all three have in common (and the current site lacks)</h2>
+    <ul>
+      <li>Plain-language statuses: “Rezolvată”, “În lucru”, “Închisă fără rezolvare” instead of “Rezolvată Nefavorabil”</li>
+      <li>9 friendly topic groups instead of 29 city categories (e.g. all parking types → “Parcare”)</li>
+      <li>A custom drawn icon set, no emoji</li>
+      <li>Readable titles generated from each description (greetings removed, masked plates kept masked)</li>
+      <li>Big tap targets (44 px+), body text 17 px+, colour never the only signal (labels + icons)</li>
+      <li>Mobile-first; works on desktop too</li>
+      <li>Clearly marked as unofficial, with no city hall logo or branding, so it can't be mistaken for the official app</li>
+      <li>“Semnalează aici” sends people to the official form at the same spot</li>
+    </ul>
+  </section>
+
+  <p class="note">Prototypes: only the main screens are built, for the last 7 days and in Romanian. The full feature set of the current site (history, Insights, export, RSS, English, installable app) would move into whichever direction you choose. Directions can also be mixed, e.g. B's map with C's conversation view.</p>
+</div>
+</body>
+</html>
