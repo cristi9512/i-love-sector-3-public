@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-15T21:16:14.739Z",
-  "lastChange": "2026-11-15T21:16:14.739Z",
+  "lastRun": "2026-11-16T02:08:03.027Z",
+  "lastChange": "2026-11-16T02:08:03.027Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 3055,
-    "added": 2,
-    "updated": 1,
+    "fetched": 2423,
+    "added": 14,
+    "updated": 31,
     "removed": 0,
-    "changes": 3
+    "changes": 93
   },
   "totals": {
-    "incidents": 41390,
-    "open": 1985,
+    "incidents": 41404,
+    "open": 1961,
     "months": [
       "2026-05",
       "2026-06",

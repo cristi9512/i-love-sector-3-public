@@ -6,20 +6,55 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Străzi · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274499</link>
+    <guid isPermaLink="false">CAS-0274499</guid>
+    <pubDate>Sun, 15 Nov 2026 22:54:45 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Buna ziua, iluminatul stadal din dreptul imobilului de pe strada Levantica numarul 3 nu mai functioneaza. Va rugam sa remediati. Multumesc</description>
+  </item>
+  <item>
+    <title>Mașini abandonate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274495</link>
+    <guid isPermaLink="false">CAS-0274495</guid>
+    <pubDate>Sun, 15 Nov 2026 22:07:02 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>Este aici o mașină tip SKODA alba care pare abandonată de multă vreme în sensul că este foarte degradată și murdară...</description>
+  </item>
+  <item>
+    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274494</link>
+    <guid isPermaLink="false">CAS-0274494</guid>
+    <pubDate>Sun, 15 Nov 2026 22:01:10 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>Sunt 3 oameni cam necurati aici, 1 sta în stradă, 1 pare beat, 1 mi a țipăt tare lângă ureche când treceam cu bicicleta electrica......
+
+Răspuns: Buna seara,
+La momentul efectuarii verificarilor aspectele sesizate nu se confirma, in locatia indicata nu au fost depistate persoane care sa corespunda descrierii ori care sa faca obiectul sesizarii.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274476</link>
     <guid isPermaLink="false">CAS-0274476</guid>
     <pubDate>Sun, 15 Nov 2026 20:05:02 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Buna seara,
+La data si ora efectuarii verificarilor aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274474</link>
     <guid isPermaLink="false">CAS-0274474</guid>
     <pubDate>Sun, 15 Nov 2026 19:53:34 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Buna seara,
+La data si ora efectuarii verificarilor asupra autovehicului sesizat, s-a constatat ca au fost dispuse masurile legale, conform regulamentului de parcare, nemaiputand fi dispusa aceiasi masura la un interval mai mic de 24 de ore de la data constatarii primei abateri.
+Va multumim pentru intelegere si va asiguram de intregul nostru suport!
+</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
@@ -625,30 +660,6 @@ Răspuns: CONFORM ADRESEI INDICATA DE DUMNEAVOASTRA AUTOTURISMUL NU SE AFLA IN L
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: CONFORM ADRESEI INDICATA DE DUMNEAVOASTRA AUTOTURISMUL NU SE AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274064</link>
-    <guid isPermaLink="false">CAS-0274064</guid>
-    <pubDate>Fri, 13 Nov 2026 17:15:13 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina parcata pe trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274047</link>
-    <guid isPermaLink="false">CAS-0274047</guid>
-    <pubDate>Fri, 13 Nov 2026 16:22:09 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto stationate pe trotuar</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274045</link>
-    <guid isPermaLink="false">CAS-0274045</guid>
-    <pubDate>Fri, 13 Nov 2026 16:16:07 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Creamga cazuta, intrarea reconstructiei 1, bloc 24 sc 3</description>
   </item>
 </channel>
 </rss>
