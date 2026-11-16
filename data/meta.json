@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-16T21:45:48.730Z",
-  "lastChange": "2026-11-16T21:45:48.730Z",
+  "lastRun": "2026-11-16T22:00:54.838Z",
+  "lastChange": "2026-11-16T22:00:54.838Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2749,
-    "added": 3,
-    "updated": 4,
+    "fetched": 2771,
+    "added": 2,
+    "updated": 6,
     "removed": 0,
-    "changes": 12
+    "changes": 18
   },
   "totals": {
-    "incidents": 45375,
-    "open": 2061,
+    "incidents": 45377,
+    "open": 2057,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-16T21:45:48.730Z",
+    "asOf": "2026-11-16T22:00:54.838Z",
     "days": 30,
-    "open": 2061,
+    "open": 2057,
     "total": 208,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 68,
+        "open": 63,
         "n": 7
       },
       "3": {
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 447,
+        "open": 448,
         "n": 36
       },
       "11": {
@@ -112,12 +112,12 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 12,
+        "open": 11,
         "n": 4
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 16,
+        "open": 17,
         "n": 2
       },
       "21": {
