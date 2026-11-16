@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274578</link>
+    <guid isPermaLink="false">CAS-0274578</guid>
+    <pubDate>Mon, 16 Nov 2026 10:11:37 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>pe Liviu Rebreanu 20, in fata blocului A5, tomberonul nu se mai deschide, ESTE PLIN!!! va rog sa trimiteti masina sa il preia, altfel la noapte iar va fi mizerie pestilentiala langa el, ca o sa rascoleasca gunoiul cei fara adapost</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274570</link>
     <guid isPermaLink="false">CAS-0274570</guid>
@@ -82,12 +90,14 @@ Răspuns: LOCUL DE PARCARE A FOST ELIBERAT,S A INTOCMIT DOCUMENTATIA CONF HCGMB 
     <description>Parcări neregulamentare pe pista de biciclete de pe Liviu Rebreanu</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274526</link>
     <guid isPermaLink="false">CAS-0274526</guid>
     <pubDate>Mon, 16 Nov 2026 06:34:37 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Masina parcata pe bordura Intrarea Badeni 1A</description>
+    <description>Masina parcata pe bordura Intrarea Badeni 1A
+
+Răspuns: Buna dimineata! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
@@ -100,12 +110,14 @@ Răspuns: LOCUL DE PARCARE A FOST ELIBERAT,S A INTOCMIT DOCUMENTATIA CONF HCGMB 
 Răspuns: In urma verificarilor  efectuate  in locatie  au  fost  dispuse  masurile  legale conform OUG 195/2002 r </description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274517</link>
     <guid isPermaLink="false">CAS-0274517</guid>
     <pubDate>Mon, 16 Nov 2026 06:15:00 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Vă sesizez că, în data de 16.11.2026, pe strada intr Barsei nr 10, mai multe autoturisme sunt parcate neregulamentar si  blocheaza/îngreuneaza circulația și accesul pietonilor. Vă rog să verificați situația și să dispuneți măsurile legale.</description>
+    <description>Vă sesizez că, în data de 16.11.2026, pe strada intr Barsei nr 10, mai multe autoturisme sunt parcate neregulamentar si  blocheaza/îngreuneaza circulația și accesul pietonilor. Vă rog să verificați situația și să dispuneți măsurile legale.
+
+Răspuns: Buna dimineata! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie.</description>
   </item>
   <item>
     <title>Trasare parcare · În lucru · Balta Albă - Titan</title>
@@ -571,16 +583,6 @@ Multumesc.</description>
     <category>Străzi</category>
     <description>In spatele blocului L31, intre scarile A si B, se afla o groapa ce se adanceste tot mai mult. Este acolo de peste 2 ani si se pare ca a fost reparata prost. Dedesubt s-ar putea sa se fi erodat pamantul astfel incat asfaltul pare ca se lasa. Va rog sa trimiteti o echipa sa verifice, pentru a preveni viitoare probleme mai mari.
 Multumesc.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274221</link>
-    <guid isPermaLink="false">CAS-0274221</guid>
-    <pubDate>Sat, 14 Nov 2026 16:18:58 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Parcajul a fost verificat la ora 19:10 vehiculul la care faceți referire fiind găsit parcat pe un loc de parcare nominal, respectiv locul 92 , bateria  1010_1; potrivit prevederilor art.37 alin.(1) din regulamentul aprobat prin HCLS3 nr.346/2022, un loc de parcare nominal poate fi ocupat de orice persoană care tranzitează zona cu condiția afișării la loc vizibil a unui număr de telefon pentru a putea fi contactat, iar în maxim 15 minute de la momentul contactării de către titularul locului de parcare, este obligat să elibereze locul . Va multumim!</description>
   </item>
 </channel>
 </rss>
