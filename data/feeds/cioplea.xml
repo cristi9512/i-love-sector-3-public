@@ -6,6 +6,36 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274724</link>
+    <guid isPermaLink="false">CAS-0274724</guid>
+    <pubDate>Mon, 16 Nov 2026 17:45:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274719</link>
+    <guid isPermaLink="false">CAS-0274719</guid>
+    <pubDate>Mon, 16 Nov 2026 17:36:14 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>: Sesizare privind lipsa iluminatului public și starea necorespunzătoare de curățenie – Bd. Camil Ressu nr. 39
+
+Vă sesizez situația necorespunzătoare a spațiului public din spatele blocului situat pe Bd. Camil Ressu nr. 39, Z5, Sector 3.
+
+În această zonă se constată următoarele probleme:
+
+1. Iluminatul public este inexistent de peste 3 săptămâni , zona fiind foarte întunecată pe timpul nopții, ceea ce afectează siguranța locatarilor.
+2. Zona este neîngrijită, cu acumulări de mizerie frunze si noroi , fără o curățenie corespunzătoare.
+
+Vă solicit:
+
+* verificarea în teren și remedierea iluminatului public;
+* salubrizarea și igienizarea zonei;
+* asigurarea întreținerii periodice a spațiului;
+* comunicarea măsurilor dispuse și a termenului de soluționare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274710</link>
     <guid isPermaLink="false">CAS-0274710</guid>
@@ -588,24 +618,6 @@ Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
     <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: SESIZARE INCOMPLETA - LIPSA ADRESA CONFORM FOTO ATASAT AUTO ESTE PARCAT PE UN LOC DE PARCARE NOMINAL PENTRU CARE DETINATORUL LEGAL IN BAZA AUTORIZATIEI EMISA DE PS3 POATE SOLICITA INTERVENTIA ECHIPAJULUI</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274101</link>
-    <guid isPermaLink="false">CAS-0274101</guid>
-    <pubDate>Fri, 13 Nov 2026 19:22:25 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZARE INCOMPLETA - LIPSA ADRESA- CONFORM FOTO AUTO RECLAMAT ESTE PARCAT PE DOMENIUL PUBLIC</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274098</link>
-    <guid isPermaLink="false">CAS-0274098</guid>
-    <pubDate>Fri, 13 Nov 2026 18:42:09 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Iluminat stradal mai avem si noi ?</description>
   </item>
 </channel>
 </rss>
