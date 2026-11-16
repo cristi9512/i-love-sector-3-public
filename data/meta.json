@@ -1,10 +1,10 @@
 {
-  "lastRun": "2026-11-16T23:15:33.448Z",
-  "lastChange": "2026-11-16T23:15:33.448Z",
+  "lastRun": "2026-11-16T23:30:54.404Z",
+  "lastChange": "2026-11-16T23:30:54.404Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2746,
+    "fetched": 2737,
     "added": 0,
     "updated": 3,
     "removed": 0,
@@ -12,7 +12,7 @@
   },
   "totals": {
     "incidents": 45378,
-    "open": 2050,
+    "open": 2047,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-16T23:15:33.448Z",
+    "asOf": "2026-11-16T23:30:54.404Z",
     "days": 30,
-    "open": 2050,
+    "open": 2047,
     "total": 208,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 56,
+        "open": 53,
         "n": 7
       },
       "3": {
