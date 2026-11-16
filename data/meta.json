@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-16T12:00:55.810Z",
-  "lastChange": "2026-11-16T12:00:55.810Z",
+  "lastRun": "2026-11-16T12:15:41.361Z",
+  "lastChange": "2026-11-16T12:15:41.361Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2878,
-    "added": 8,
-    "updated": 16,
+    "fetched": 2652,
+    "added": 4,
+    "updated": 17,
     "removed": 0,
-    "changes": 48
+    "changes": 51
   },
   "totals": {
-    "incidents": 45235,
-    "open": 2030,
+    "incidents": 45239,
+    "open": 2017,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,19 +25,19 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-16T12:00:55.810Z",
+    "asOf": "2026-11-16T12:15:41.361Z",
     "days": 30,
-    "open": 2030,
+    "open": 2017,
     "total": 216,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 50,
+        "open": 53,
         "n": 7
       },
       "3": {
         "name": "Spații verzi",
-        "open": 43,
+        "open": 42,
         "n": 7
       },
       "4": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 76,
+        "open": 75,
         "n": 4
       },
       "7": {
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 233,
+        "open": 230,
         "n": 17
       },
       "10": {
         "name": "Străzi",
-        "open": 451,
+        "open": 446,
         "n": 39
       },
       "11": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 164,
+        "open": 161,
         "n": 1
       },
       "15": {
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 44,
+        "open": 43,
         "n": 0
       },
       "17": {
@@ -137,12 +137,12 @@
       },
       "26": {
         "name": "Mașini ridicate",
-        "open": 12,
+        "open": 11,
         "n": 0
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 450,
+        "open": 449,
         "n": 2
       },
       "32": {
