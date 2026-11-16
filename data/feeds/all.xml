@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Baba Novac</title>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274686</link>
+    <guid isPermaLink="false">CAS-0274686</guid>
+    <pubDate>Mon, 16 Nov 2026 15:57:13 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autovehiculul cu nr de înmatriculare IF54SEL este parcat pe trotuar!</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274685</link>
+    <guid isPermaLink="false">CAS-0274685</guid>
+    <pubDate>Mon, 16 Nov 2026 15:55:55 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autovehiculul cu nr de înmatriculare B507DRI este parcat pe trotuar!</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274684</link>
     <guid isPermaLink="false">CAS-0274684</guid>
     <pubDate>Mon, 16 Nov 2026 15:53:48 GMT</pubDate>
@@ -14,7 +30,7 @@
     <description>Autovehiculul cu nr de înmatriculare IS55KAS este parcat pe trotuar!</description>
   </item>
   <item>
-    <title>Parcari ocupate · Noua · Balta Albă - Titan</title>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274683</link>
     <guid isPermaLink="false">CAS-0274683</guid>
     <pubDate>Mon, 16 Nov 2026 15:51:40 GMT</pubDate>
@@ -22,7 +38,7 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · Noua · Traian</title>
+    <title>Parcari ocupate · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274682</link>
     <guid isPermaLink="false">CAS-0274682</guid>
     <pubDate>Mon, 16 Nov 2026 15:50:52 GMT</pubDate>
@@ -524,26 +540,6 @@ Maximilian Ganga
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: foto neconcludent</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274626</link>
-    <guid isPermaLink="false">CAS-0274626</guid>
-    <pubDate>Mon, 16 Nov 2026 12:04:01 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: au fost luate masurile legale</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274625</link>
-    <guid isPermaLink="false">CAS-0274625</guid>
-    <pubDate>Mon, 16 Nov 2026 12:03:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: au fost luate masurile legale</description>
   </item>
 </channel>
 </rss>

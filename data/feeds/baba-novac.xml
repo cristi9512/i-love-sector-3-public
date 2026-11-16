@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Baba Novac</title>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274686</link>
+    <guid isPermaLink="false">CAS-0274686</guid>
+    <pubDate>Mon, 16 Nov 2026 15:57:13 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autovehiculul cu nr de înmatriculare IF54SEL este parcat pe trotuar!</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274685</link>
+    <guid isPermaLink="false">CAS-0274685</guid>
+    <pubDate>Mon, 16 Nov 2026 15:55:55 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autovehiculul cu nr de înmatriculare B507DRI este parcat pe trotuar!</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274684</link>
     <guid isPermaLink="false">CAS-0274684</guid>
     <pubDate>Mon, 16 Nov 2026 15:53:48 GMT</pubDate>
@@ -462,12 +478,14 @@ Vă rog să îmi comunicați măsurile dispuse și termenul estimat pentru remed
 Vă mulțumesc pentru atenția acordată.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274551</link>
     <guid isPermaLink="false">CAS-0274551</guid>
     <pubDate>Mon, 16 Nov 2026 08:42:29 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 16</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 16
+
+Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . AUTOTURISMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT IN ZONA INDICATA . </description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
@@ -739,24 +757,6 @@ Răspuns: BUNA SEARA ,AGENTII AU DAT CURS SESIZARII DUMNEAVOASTRA,AUTO PE CARE I
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: LOCUL RECLAMAT ESTE LIBER.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274315</link>
-    <guid isPermaLink="false">CAS-0274315</guid>
-    <pubDate>Sun, 15 Nov 2026 09:26:49 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina parcata in afara locurilor de parcare, blocheaza vizibilitatea
-
-Răspuns: Au fost luate masurile legale confrom RAOUG195/2002</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274310</link>
-    <guid isPermaLink="false">CAS-0274310</guid>
-    <pubDate>Sun, 15 Nov 2026 08:47:18 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare in fata scărilor către alee, unde nu e marcat locul.</description>
   </item>
 </channel>
 </rss>
