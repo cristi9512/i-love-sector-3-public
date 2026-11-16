@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274632</link>
+    <guid isPermaLink="false">CAS-0274632</guid>
+    <pubDate>Mon, 16 Nov 2026 12:27:13 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274628</link>
+    <guid isPermaLink="false">CAS-0274628</guid>
+    <pubDate>Mon, 16 Nov 2026 12:17:29 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Chiar nu inteleg ce aveti cu pietonii, si cum apare un semn de circulație în mijlocul trotuarului, serios PS3 mutati semnul intr o parte ca nu sunt obligați pietoni sa ocolească semnele de circulație pe mijlocul trotuarului. Care a fost logica ? De aproximativ o luna nu avem lumina seara pe strada si voi montați semne de circulație in mijlocul trotuarului. Cu stima.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274603</link>
     <guid isPermaLink="false">CAS-0274603</guid>
@@ -635,30 +651,6 @@ AM APLICAT INȘTIINTARE</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: BUNĂ SEARA, PENTRU A PUTEA DA CURS SESIZĂRII DVS. ÎN MOD EFICIENT, VĂ RUGĂM CA, PE VIITOR,  SĂ NE FURNIZAȚI FOTOGRAFII CONCLUDENTE VIZÂND ELEMENTELE DE IDENTIFICARE ALE AUTOTURISMULUI ÎN CAUZĂ , ÎN VEDEREA EFECTUĂRII VERIFICĂRILOR ÎN TIMP UTIL ȘI CU RESPECTAREA ATRIBUȚIILOR LEGALE. VĂ MULȚUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273663</link>
-    <guid isPermaLink="false">CAS-0273663</guid>
-    <pubDate>Thu, 12 Nov 2026 13:16:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul H........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA MOMENTUL VERIFICĂRII,ORA 20:15
-AUTOTURISMUL RECLAMAT DE DUMNEAVOASTRĂ,
-NU SE AFLA IN LOCAȚIA INDICATĂ.
-MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273662</link>
-    <guid isPermaLink="false">CAS-0273662</guid>
-    <pubDate>Thu, 12 Nov 2026 13:14:02 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul M........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: bună seara,
-am aplicat instiintare pentru autoturismul pe care l-ați reclamat.</description>
   </item>
 </channel>
 </rss>
