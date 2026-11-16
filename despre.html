@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Cum funcționează · Sesizări Sector 3</title>
-  <meta name="description" content="De unde vin datele, de ce le arhivăm orar, ce limite au cifrele și cum ceri eliminarea unei sesizări.">
+  <meta name="description" content="De unde vin datele, de ce le arhivăm la fiecare 15 minute, ce limite au cifrele și cum ceri eliminarea unei sesizări.">
   <meta name="theme-color" content="#1d2125">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
@@ -50,7 +50,7 @@
 
       <h2>De ce arhivăm datele</h2>
       <p>Serviciul primăriei arată fiecare sesizare doar așa cum este <i>acum</i>. Nu spune când a fost închisă, ce status avea înainte sau dacă textul a fost schimbat, iar o sesizare ștearsă pur și simplu dispare.</p>
-      <p>De aceea, o dată pe oră salvăm o copie a datelor și o comparăm cu cea de dinainte. Așa vedem:</p>
+      <p>De aceea, la fiecare 15 minute salvăm o copie a datelor și o comparăm cu cea de dinainte. Așa vedem:</p>
       <ul>
         <li>când o sesizare trece din „în lucru” în rezolvată sau respinsă, și cât a durat;</li>
         <li>când apare răspunsul primăriei;</li>
@@ -61,16 +61,16 @@
 
       <h2>Cât de des și de când</h2>
       <dl class="facts">
-        <dt>Actualizare</dt><dd>în fiecare oră · ultima <span data-live="lastRun">—</span></dd>
+        <dt>Actualizare</dt><dd>verificăm la fiecare 15 minute și publicăm arhiva pe site cam o dată pe oră · ultima publicare <span data-live="lastRun">—</span></dd>
         <dt>Sesizări în arhivă</dt><dd><span data-live="total">—</span>, create din <span data-live="from">—</span></dd>
-        <dt>Istoric orar</dt><dd>din 15 noiembrie 2026. Sesizările mai vechi au fost copiate o singură dată, în starea în care erau atunci.</dd>
-        <dt>Verificare</dt><dd>la fiecare rulare, ultimele 4 zile, plus o parte din cele mai vechi, astfel încât fiecare sesizare din ultimele 6 luni e reverificată cam o dată pe zi.</dd>
+        <dt>Istoric detaliat</dt><dd>din 15 noiembrie 2026. Sesizările mai vechi au fost copiate o singură dată, în starea în care erau atunci.</dd>
+        <dt>Verificare</dt><dd>la fiecare rulare, ultimele 4 zile, plus o parte din cele mai vechi, astfel încât fiecare sesizare din ultimele 6 luni e reverificată cam la 6 ore.</dd>
         <dt>Date live</dt><dd>pentru ultimele ore, site-ul cere datele direct de la primărie, deci vezi și sesizările trimise după ultima arhivare.</dd>
       </dl>
 
       <h2>Ce trebuie să știi când citești cifrele</h2>
       <ul>
-        <li><b>Timpul până la închidere</b> se calculează doar pentru sesizările pe care arhiva le-a văzut deschise și apoi închise. Pentru cele mai vechi de 4 zile, schimbarea e observată în cel mult o zi, deci durata e aproximativă.</li>
+        <li><b>Timpul până la închidere</b> se calculează doar pentru sesizările pe care arhiva le-a văzut deschise și apoi închise. Pentru cele mai vechi de 4 zile, schimbarea e observată în cel mult 6 ore, deci durata e aproximativă.</li>
         <li><b>Perioadele recente par mai puțin rezolvate</b>, pentru că sesizările noi au avut mai puțin timp să fie închise.</li>
         <li><b>Cartierele sunt aproximative.</b> Fiecare sesizare primește cartierul al cărui centru (din OpenStreetMap) e cel mai aproape.</li>
         <li><b>Statusurile sunt ale primăriei.</b> „Rezolvată” înseamnă că primăria a închis sesizarea favorabil, nu că am verificat noi pe teren.</li>
@@ -107,7 +107,7 @@
 
       <h2>Why we archive the data</h2>
       <p>The city's service only shows each report as it is <i>now</i>. It doesn't say when it was closed, what status it had before or whether the text was changed, and a deleted report simply disappears.</p>
-      <p>So once an hour we save a copy of the data and compare it with the previous one. That shows us:</p>
+      <p>So every 15 minutes we save a copy of the data and compare it with the previous one. That shows us:</p>
       <ul>
         <li>when a report moves from “in progress” to resolved or rejected, and how long it took;</li>
         <li>when the city's reply appears;</li>
@@ -118,16 +118,16 @@
 
       <h2>How often and since when</h2>
       <dl class="facts">
-        <dt>Updates</dt><dd>every hour · last <span data-live="lastRun">—</span></dd>
+        <dt>Updates</dt><dd>checked every 15 minutes; the archive is published to the site about once an hour · last published <span data-live="lastRun">—</span></dd>
         <dt>Reports in the archive</dt><dd><span data-live="total">—</span>, created since <span data-live="from">—</span></dd>
-        <dt>Hourly history</dt><dd>since 15 November 2026. Older reports were copied once, as they were at that moment.</dd>
-        <dt>Rechecks</dt><dd>each run covers the last 4 days plus a slice of older ones, so every report from the last 6 months is rechecked about once a day.</dd>
+        <dt>Detailed history</dt><dd>since 15 November 2026. Older reports were copied once, as they were at that moment.</dd>
+        <dt>Rechecks</dt><dd>each run covers the last 4 days plus a slice of older ones, so every report from the last 6 months is rechecked about every 6 hours.</dd>
         <dt>Live data</dt><dd>for the last few hours the site asks the city's service directly, so you also see reports sent after the last archive run.</dd>
       </dl>
 
       <h2>Reading the numbers</h2>
       <ul>
-        <li><b>Time to close</b> only counts reports the archive saw open and then closed. For reports older than 4 days the change is noticed within a day, so the duration is approximate.</li>
+        <li><b>Time to close</b> only counts reports the archive saw open and then closed. For reports older than 4 days the change is noticed within 6 hours, so the duration is approximate.</li>
         <li><b>Recent periods look less resolved</b>, because newer reports have had less time to be closed.</li>
         <li><b>Neighbourhoods are approximate.</b> Each report gets the neighbourhood whose centre (from OpenStreetMap) is closest.</li>
         <li><b>Statuses are the city hall's.</b> “Resolved” means the city closed the report favourably, not that we checked on the ground.</li>

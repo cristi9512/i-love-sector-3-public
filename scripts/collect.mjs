@@ -24,7 +24,7 @@ const SERVER_CAP = 1500;
 const WINDOW_DAYS = 2;
 const RECENT_DAYS = 4;       // always refreshed
 const DEEP_DAYS = 180;       // older days refreshed in rotation (status updates)
-const DEEP_SLICES = 24;      // ≈ one full pass per day if run hourly
+const DEEP_SLICES = 24;      // one slice per run: a full pass every 6 h at 15-minute runs
 const CONCURRENCY = 3;
 const TRACKED = ['status', 'statusLabel', 'reply', 'description', 'edited', 'category', 'categoryId', 'lat', 'lng'];
 
@@ -166,10 +166,11 @@ function planWindows() {
     ranges.push([fromKey(from || dayKey(today)), fromKey(to || dayKey(today))]);
   } else {
     ranges.push([addDays(today, -(RECENT_DAYS - 1)), today]);
-    // rotating slice of older days, chosen by the hour so each run covers a different part
+    // rotating slice of older days, chosen by the 15-minute slot so each run
+    // covers a different part (a full pass every 6 h when run every 15 minutes)
     const span = DEEP_DAYS - RECENT_DAYS;
     const size = Math.ceil(span / DEEP_SLICES);
-    const slice = new Date().getUTCHours() % DEEP_SLICES;
+    const slice = Math.floor(Date.now() / (15 * 60e3)) % DEEP_SLICES;
     const end = addDays(today, -(RECENT_DAYS + slice * size));
     const start = addDays(end, -(size - 1));
     ranges.push([start, end]);

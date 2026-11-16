@@ -4,7 +4,7 @@ Live: https://sesizari-sector3.vercel.app
 
 A website that shows the public incident reports ("sesizări") from Primăria Sector 3's CityCare system
 **with the full description and the city's reply**, both of which the official map at
-https://iloves3.primarie3.ro/citycareweb/ hides. Every report is archived hourly in this repo, so the site
+https://iloves3.primarie3.ro/citycareweb/ hides. Every report is archived every 15 minutes in this repo, so the site
 also has **history, time-to-close and statistics** the official site doesn't.
 
 No build step: static files (`index.html`, `styles.css`, `js/*.js`) plus JSON data in `data/`.
@@ -74,16 +74,22 @@ Photos attached to reports are not exposed by any public endpoint.
 edited, `c` category changed, `x` deleted by city hall, `u` published again. Times are when the archive noticed.
 
 Each run refreshes the last 4 days plus a rotating 7-day slice of the 4–180 days before, so every report from the
-last ~6 months is rechecked about once a day when run hourly. Runs with no changes make no commit.
+last ~6 months is rechecked about every 6 hours when run every 15 minutes. Runs with no changes make no commit.
+
+**Branches.** Every run commits its data to the `archive` branch, which Vercel never deploys
+(`git.deploymentEnabled` in `vercel.json`). About once an hour the workflow fast-forwards `main` to `archive`, which
+deploys the site; this keeps data deploys near 24 a day, below Vercel Hobby's 100 deployments a day. Push code to
+`main` as usual; the next run merges it into `archive`. The site fetches the newest days live from the city, so
+the hour of delay only affects status changes of older reports.
 
 ```bash
 node scripts/collect.mjs                                   # regular run
 node scripts/collect.mjs --from 2026-01-01 --to 2026-03-31 # backfill a range
 ```
 
-### Hourly trigger (cron-job.org)
+### Trigger every 15 minutes (cron-job.org)
 
-The workflow `.github/workflows/collect.yml` runs on GitHub's own hourly schedule (minute 17, UTC), which can be late or skipped
+The workflow `.github/workflows/collect.yml` has GitHub's own hourly schedule (minute 17, UTC) as a backup, which can be late or skipped
 when GitHub is busy, so it is also started from outside through the GitHub API. Overlapping runs queue instead of clashing.
 
 1. Create a **fine-grained personal access token** at https://github.com/settings/personal-access-tokens/new
@@ -91,7 +97,7 @@ when GitHub is busy, so it is also started from outside through the GitHub API. 
    - Permissions → Repository → **Actions: Read and write** (nothing else)
 2. In cron-job.org create a job:
    - URL: `https://api.github.com/repos/cristi9512/i-love-sector-3-public/actions/workflows/collect.yml/dispatches`
-   - Schedule: every hour
+   - Schedule: every 15 minutes
    - Method: `POST`
    - Headers: `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`, `X-GitHub-Api-Version: 2022-11-28`, `Content-Type: application/json`
    - Body: `{"ref":"main"}`

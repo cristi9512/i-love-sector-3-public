@@ -1,10 +1,15 @@
 name: Collect incidents
 
-# Triggered hourly by an external scheduler (cron-job.org) through the GitHub API,
-# with GitHub's own hourly schedule as a backup (it can run late or be skipped):
+# Triggered every 15 minutes by an external scheduler (cron-job.org) through the
+# GitHub API, with GitHub's own hourly schedule as a backup (it can run late or be skipped):
 #   POST https://api.github.com/repos/<owner>/<repo>/actions/workflows/collect.yml/dispatches
 #   body: {"ref":"main"}
 # Can also be run by hand from the Actions tab, optionally with a date range (backfill).
+#
+# Every run saves its data to the `archive` branch, which Vercel never deploys
+# (vercel.json → git.deploymentEnabled). About once an hour the job moves `main`
+# up to `archive`, which deploys the site. That keeps the 15-minute detail while
+# staying far below Vercel Hobby's limit of 100 deployments a day.
 on:
   schedule:
     - cron: "17 * * * *"   # minute 17 of every hour (UTC); avoids the busy top of the hour
@@ -32,6 +37,18 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Start from the latest archive
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin archive >/dev/null; then
+            git fetch -q origin archive
+            # archive = main + data commits; main may have new code commits on top
+            git merge --ff-only -q origin/archive 2>/dev/null || git merge --no-edit -q origin/archive
+          fi
 
       - uses: actions/setup-node@v4
         with:
@@ -47,19 +64,32 @@ jobs:
           if [ -n "$TO" ]; then args+=(--to "$TO"); fi
           node scripts/collect.mjs "${args[@]}"
 
-      - name: Commit and push changes
+      - name: Commit to the archive branch
         run: |
           git add data
           if git diff --cached --quiet; then
             echo "No changes."
-            exit 0
+          else
+            stats=$(node -e "const m=require('./data/meta.json').lastRunStats;console.log('+'+m.added+' new, '+m.updated+' updated, '+m.removed+' removed')")
+            git commit -q -m "data: ${stats}"
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          stats=$(node -e "const m=require('./data/meta.json').lastRunStats;console.log('+'+m.added+' new, '+m.updated+' updated, '+m.removed+' removed')")
-          git commit -m "data: ${stats}"
+          git push -q origin HEAD:archive
+
+      - name: Publish to main (deploys the site) about once an hour
+        env:
+          BACKFILL: ${{ github.event.inputs.from }}
+        run: |
+          git fetch -q origin main
+          if [ "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)" ]; then echo "main is up to date."; exit 0; fi
+          last=$(git log -1 --format=%ct origin/main -- data/meta.json); last=${last:-0}
+          age=$(( $(date +%s) - last ))
+          if [ -z "$BACKFILL" ] && [ "$age" -lt 3300 ]; then
+            echo "Last publish was ${age}s ago; next one later."; exit 0
+          fi
           for i in 1 2 3; do
-            git pull --rebase origin main && git push origin HEAD:main && exit 0
-            sleep $((i * 5))
+            git push -q origin HEAD:main && { echo "Published."; exit 0; }
+            # someone pushed code to main meanwhile: merge it and keep archive in step
+            sleep $((i * 5)); git fetch -q origin main
+            git merge --no-edit -q origin/main && git push -q origin HEAD:archive
           done
           exit 1
