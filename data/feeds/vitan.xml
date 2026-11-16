@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274587</link>
+    <guid isPermaLink="false">CAS-0274587</guid>
+    <pubDate>Mon, 16 Nov 2026 10:33:34 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Duba parcata pe coltul intersectiei, blocheaza vizibilitatea cand iesi de pe strada Drumeagului si intri pe Nita Elinescu. E parcata de peste o saptamana si pune in pericol circulatia
+Adresa este strada Nita Elimescu colt cu Drumeagului</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274559</link>
     <guid isPermaLink="false">CAS-0274559</guid>
@@ -649,17 +658,6 @@ am aplicat instiintare pentru autoturismul pe care l-ați reclamat.</description
 Răspuns: AUTOTURISMUL RECLAMAT LA MOMENTUL VERIFICĂRII,ORA 19:55
 NU SE AFLA IN LOCATIA INDICATĂ.
 O SEARĂ BUNĂ!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273660</link>
-    <guid isPermaLink="false">CAS-0273660</guid>
-    <pubDate>Thu, 12 Nov 2026 13:12:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 97
-
-Răspuns: Bună seara!
-  autoturismul reclamat de dumneavoastră,la ora 20:11,nu se afla in locatia indicată.</description>
   </item>
 </channel>
 </rss>
