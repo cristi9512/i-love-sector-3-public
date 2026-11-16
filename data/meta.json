@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-16T20:00:52.958Z",
-  "lastChange": "2026-11-16T20:00:52.958Z",
+  "lastRun": "2026-11-16T20:15:35.736Z",
+  "lastChange": "2026-11-16T20:15:35.736Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2741,
-    "added": 2,
+    "fetched": 2591,
+    "added": 1,
     "updated": 1,
     "removed": 0,
     "changes": 1
   },
   "totals": {
-    "incidents": 45361,
-    "open": 2057,
+    "incidents": 45362,
+    "open": 2058,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-16T20:00:52.958Z",
+    "asOf": "2026-11-16T20:15:35.736Z",
     "days": 30,
-    "open": 2057,
+    "open": 2058,
     "total": 208,
     "byCategory": {
       "2": {
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 42,
+        "open": 43,
         "n": 0
       },
       "13": {
