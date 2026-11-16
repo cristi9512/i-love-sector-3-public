@@ -599,3 +599,50 @@ a.brand { color: inherit; text-decoration: none; }
   .facts { grid-template-columns: 1fr; }
   .facts dt { border-bottom: 0; padding-bottom: 0; }
 }
+
+/* ---------- outcomes, overdue, rejections ---------- */
+.overdue-tag { display: inline-flex; align-items: center; gap: 4px; font-size: 12px; font-weight: 600; color: var(--text);
+  border: 1px solid color-mix(in srgb, var(--c-open) 70%, var(--border)); background: color-mix(in srgb, var(--c-open) 14%, transparent); border-radius: 3px; padding: 0 6px; }
+.status-note { margin: 8px 0 0; font-size: 13.5px; color: var(--muted); }
+.overdue-note { color: var(--text); border-left: 3px solid var(--c-open); padding-left: 10px; }
+.outcomes { display: grid; grid-template-columns: 1fr; margin: 0; }
+.outcomes dt { display: flex; align-items: center; gap: 8px; font-weight: 600; font-size: 13.5px; padding-top: 8px; }
+.outcomes dt .num { margin-left: auto; font: 500 12px var(--mono); color: var(--muted); }
+.outcomes dd { margin: 2px 0 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--border); font-size: 13px; color: var(--muted); }
+.outcomes dd:last-of-type { border-bottom: 0; }
+.rejections { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px 24px; }
+.rejections > li { border-top: 1px solid var(--border); padding-top: 8px; min-width: 0; }
+.rej-cat { border: 0; background: none; padding: 0; text-align: left; display: flex; flex-direction: column; }
+.rej-cat:hover b { text-decoration: underline; }
+.rej-cat small { color: var(--muted); font-size: 12px; }
+.rejections ol { margin: 6px 0 0; padding-left: 18px; }
+.rejections ol li { margin: 6px 0; font-size: 13px; }
+.rejections q { display: block; quotes: '“' '”'; overflow-wrap: anywhere; }
+.rejections ol small { color: var(--muted); font: 12px var(--mono); }
+.lead-num { font-size: 14.5px; margin: 0 0 10px; }
+.hbar-fill.overdue-fill { background: var(--c-open); }
+.viz-card > .btn { margin-top: 4px; }
+
+/* ---------- monthly report ---------- */
+.report-head { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 16px; }
+.report-tools { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); }
+.report-lead { font-size: 15.5px; max-width: 900px; margin: 0 0 12px; }
+.report-table { max-height: none; }
+.report-table table { width: 100%; border-collapse: collapse; font-size: 13px; font-variant-numeric: tabular-nums; }
+.report-table th, .report-table td { padding: 6px 8px; border-bottom: 1px solid var(--border); text-align: left; }
+.report-table th { background: var(--surface-2); font-weight: 600; font-size: 12px; position: sticky; top: 0; white-space: normal; vertical-align: bottom; }
+.report-table { overflow-x: auto; }
+.report-table .num { text-align: right; font-family: var(--mono); font-size: 12.5px; white-space: nowrap; }
+.report-table .link { font-size: 13px; text-align: left; color: var(--text); }
+.report-table .link:hover { color: var(--accent); text-decoration: underline; }
+@media (max-width: 860px) {
+  .tabs .tab-link { display: none; }
+  .tabs button { font-size: 12.5px; padding: 0 4px; }
+  .report-table { overflow-x: auto; }
+}
+@media print {
+  .topbar, .filters, .data-line, .progress, .foot, .view-toggle, .report-tools, .toast { display: none !important; }
+  body { background: #fff; color: #000; }
+  .viz-card { break-inside: avoid; border-color: #bbb; }
+  .report-table th { position: static; }
+}

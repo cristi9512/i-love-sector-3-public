@@ -2,11 +2,11 @@ import { t, setLang, getLang, locale, catName, catNameEn, statusText, applyStati
 import { loadMeta, getMeta, loadRange, fetchTicket, fromLive, todayKey, toDayKey, addDays, daysBetween, isSuppressed } from './data.js';
 import { areaOf, distanceM, insidePolygon, fromBucharest } from './geo.js';
 import { ic } from './icons.js';
+import { isParking, outcomeKind, OVERDUE_DAYS } from './outcomes.js';
 
 const OFFICIAL = 'https://iloves3.primarie3.ro/citycareweb/';
 const REPO = 'https://github.com/cristi9512/i-love-sector-3-public';
 const PAGE = 50;
-const PARKING_CATS = new Set(['1', '2', '27', '200']);
 const CENTER = [44.4155, 26.1605];
 const PRESETS = [1, 7, 30, 90, 180];
 const STATUS_ORDER = ['good', 'partial', 'bad', 'other', 'open'];
@@ -21,7 +21,7 @@ const STATUS_FILTER = {
 const $ = (s) => document.querySelector(s);
 const state = {
   tab: 'list', days: 7, from: null, to: null,
-  status: 'all', cats: null, q: '', hideParking: false, area: null,
+  status: 'all', cats: null, q: '', scope: 'all', area: null, month: null,
   reply: 'any', stuck: 0, edited: false, removed: 'hide', zone: null, inView: false,
   sort: 'new', mapMode: 'pins',
   archiveRaw: new Map(), liveRaw: new Map(), items: new Map(), dirty: new Set(),
@@ -100,6 +100,8 @@ function buildItem(id) {
     firstSeen: a?.firstSeen ? new Date(a.firstSeen) : null, firstStatus: a?.firstStatus || null,
     history: a?.history || [], lastChanged: a?.lastChanged ? new Date(a.lastChanged) : created,
     closedAt, replyAt, area, live: !!l,
+    outcome: outcomeKind(rec.status, rec.statusLabel),
+    overdue: key === 'open' && Date.now() - created > OVERDUE_DAYS * 864e5,
     search: fold([rec.ticket, rec.reg, rec.category, catNameEn(rec.categoryId), rec.description, rec.reply, area].join(' \u0001 ')),
   };
 }
@@ -225,7 +227,7 @@ const tokens = () => fold(state.q).split(/\s+/).filter(Boolean);
 function passes(it, toks) {
   if (state.removed === 'hide' && it.removed) return false;
   if (state.removed === 'only' && !it.removed) return false;
-  if (state.hideParking && PARKING_CATS.has(it.catId)) return false;
+  if (state.scope !== 'all' && (state.scope === 'parking') !== isParking(it.catId)) return false;
   if (state.cats && !state.cats.has(it.catId)) return false;
   if (state.area && it.area !== state.area) return false;
   if (state.reply === 'yes' && !it.reply) return false;
@@ -280,6 +282,7 @@ function renderAll(skeleton = false) {
   renderList(skeleton);
   renderMap();
   if (state.tab === 'insights') renderInsightsTab();
+  if (state.tab === 'report') renderReportTab();
 }
 
 function renderControls() {
@@ -291,7 +294,7 @@ function renderControls() {
   $('#customRange').hidden = state.days !== 'custom';
   if (state.days === 'custom') { $('#from').value = state.from; $('#to').value = state.to; }
   if (document.activeElement !== $('#q')) $('#q').value = state.q;
-  $('#hideParking').checked = state.hideParking;
+  document.querySelectorAll('#scope button').forEach((b) => b.setAttribute('aria-checked', String(b.dataset.scope === state.scope)));
   $('#sort').value = state.sort;
   $('#stuck').value = String(state.stuck);
   $('#edited').checked = state.edited;
@@ -301,6 +304,10 @@ function renderControls() {
   if (state.zone) $('#radius').value = String(state.zone.r);
   $('#listView').hidden = state.tab !== 'list';
   $('#insightsView').hidden = state.tab !== 'insights';
+  $('#reportView').hidden = state.tab !== 'report';
+  // the monthly report covers the whole sector, so the filters don't apply there
+  document.querySelector('.filters').hidden = state.tab === 'report';
+  $('#dataLine').hidden = state.tab === 'report';
   $('#viewToggle').hidden = state.tab !== 'list';
   const n = activeFilterCount();
   $('#moreCount').textContent = n ? String(n) : '';
@@ -321,7 +328,7 @@ function renderChips() {
   if (state.edited) chips.push(['edited', t('chipEdited')]);
   if (state.removed !== 'hide') chips.push(['removed', t(state.removed === 'only' ? 'chipRemovedOnly' : 'chipRemovedInclude')]);
   if (state.inView) chips.push(['inView', t('chipInView')]);
-  if (state.hideParking) chips.push(['parking', t('chipParking')]);
+  if (state.scope !== 'all') chips.push(['parking', t('chipScope', { s: t(state.scope === 'civic' ? 'scCivic' : 'scParking') })]);
   if (state.cats) chips.push(['cats', $('#catLabel').textContent]);
   const el = $('#chips');
   el.hidden = !chips.length;
@@ -377,7 +384,10 @@ function renderAreaSelect() {
 }
 
 function statusBadge(it) {
-  return `<span class="badge" style="--status-color:var(--c-${it.status})"><i class="dot"></i>${esc(statusText(it.status, it.statusLabel))}</span>`;
+  return `<span class="badge" style="--status-color:var(--c-${it.status})" title="${esc(t('ox_' + it.outcome))}"><i class="dot"></i>${esc(statusText(it.status, it.statusLabel))}</span>`;
+}
+function overdueTag(it) {
+  return it.overdue ? `<span class="overdue-tag" title="${esc(t('overdueTitle'))}">${ic('clock', 13)} ${t('overdueBadge')}</span>` : '';
 }
 
 // List previews skip the opening greeting so the first visible line says what
@@ -397,7 +407,7 @@ function cardHTML(it, toks) {
       <time class="card-time" title="${esc(dtf().format(it.created))}">${relTime(it.created)}</time></div>
     <p class="card-desc${it.desc ? '' : ' empty'}">${desc}</p>
     ${it.reply ? `<div class="card-reply"><b>${t('reply')}:</b> ${highlight(it.reply.text, toks)}</div>` : ''}
-    <div class="card-meta">${statusBadge(it)}<span class="chip">${highlight(it.ticket, toks)}</span>
+    <div class="card-meta">${statusBadge(it)}${overdueTag(it)}<span class="chip">${highlight(it.ticket, toks)}</span>
       ${it.area ? `<span>${esc(it.area)}</span>` : ''}
       ${it.edited ? `<span title="${esc(t('dEditedNote'))}">${ic('edit', 13)} ${t('edited')}</span>` : ''}
       ${it.removed ? `<span class="removed-tag">${ic('trash', 13)} ${t('removedBadge')}</span>` : ''}</div>
@@ -678,7 +688,9 @@ function openDetail(id) {
   const link = location.origin + location.pathname + '#id=' + encodeURIComponent(it.ticket);
 
   $('#detailBody').innerHTML = `<div class="detail-body" style="--status-color:var(--c-${it.status})">
-    ${statusBadge(it)} ${it.removed ? `<span class="removed-tag">${ic('trash', 13)} ${t('removedBadge')}</span>` : ''}
+    ${statusBadge(it)} ${overdueTag(it)} ${it.removed ? `<span class="removed-tag">${ic('trash', 13)} ${t('removedBadge')}</span>` : ''}
+    <p class="status-note">${esc(t('ox_' + it.outcome))}</p>
+    ${it.overdue ? `<p class="status-note overdue-note">${esc(t('overdueNote', { d: Math.floor((Date.now() - it.created) / 864e5) }))}</p>` : ''}
     <h2>${esc(catLabel(it))}</h2>
     <div class="sub">${esc(it.ticket)} · ${esc(dtf().format(it.created))} (${relTime(it.created)})${it.area ? ' · ' + esc(it.area) : ''}</div>
 
@@ -736,12 +748,61 @@ async function renderInsightsTab() {
     base: state.base, prevBase: state.prevBase, range: currentRange(), loading: state.loading,
     status: state.status, statusFilter: STATUS_FILTER[state.status],
     statusLabel: { all: 'sAll', open: 'sOpen', good: 'sGood', bad: 'sBad', other: 'sOther' }[state.status],
-    meta: getMeta(), assets: state.assets, items: state.items,
+    meta: getMeta(), assets: state.assets, items: state.items, scope: state.scope,
+    onOverdue: (cat) => {
+      state.days = 180; state.stuck = OVERDUE_DAYS; state.status = 'all'; state.cats = cat ? new Set([cat]) : null;
+      state.tab = 'list'; state.shown = PAGE; window.scrollTo(0, 0); load();
+    },
     onArea: (a) => { state.area = a; state.tab = 'list'; state.shown = PAGE; refresh(); window.scrollTo(0, 0); },
     onZone: (lat, lng, r, cat) => { if (cat) state.cats = new Set([cat]); state.tab = 'list'; renderControls(); setTimeout(() => { map.invalidateSize(); setZone(lat, lng, r); }, 30); },
     onCategory: (id) => { state.cats = new Set([id]); state.tab = 'list'; state.shown = PAGE; refresh(); window.scrollTo(0, 0); },
     onOpen: (id) => openDetail(id),
   });
+}
+
+/* ================= monthly report ================= */
+let reportMod = null;
+const reportLoaded = new Set();
+let reportLoading = null;
+const monthStart = (m) => m + '-01';
+const monthEnd = (m) => { const [y, mo] = m.split('-').map(Number); return new Date(Date.UTC(y, mo, 0)).toISOString().slice(0, 10); };
+const prevMonth = (m) => { const [y, mo] = m.split('-').map(Number); return new Date(Date.UTC(y, mo - 2, 1)).toISOString().slice(0, 7); };
+function reportMonths() { return (getMeta()?.totals?.months || []).slice().sort(); }
+async function renderReportTab() {
+  if (!reportMod) reportMod = await import('./report.js');
+  const months = reportMonths();
+  if (!months.length) return;
+  const current = todayKey().slice(0, 7);
+  // default: the last finished month
+  if (!state.month || !months.includes(state.month)) state.month = months.filter((m) => m < current).pop() || months[months.length - 1];
+  const need = [prevMonth(state.month), state.month].filter((m) => months.includes(m));
+  const missing = need.filter((m) => !reportLoaded.has(m));
+  const ctx = {
+    items: state.items, month: state.month, months, meta: getMeta(), loading: missing.length > 0,
+    hasPrev: months.includes(prevMonth(state.month)), prevMonth: prevMonth(state.month), current,
+    onMonth: (m) => { state.month = m; writeHash(); renderReportTab(); },
+    onCategory: (id) => { state.cats = new Set([id]); state.days = 'custom'; state.from = monthStart(state.month); state.to = monthEnd(state.month) < todayKey() ? monthEnd(state.month) : todayKey(); state.tab = 'list'; window.scrollTo(0, 0); load(); },
+    onArea: (a) => { state.area = a; state.days = 'custom'; state.from = monthStart(state.month); state.to = monthEnd(state.month) < todayKey() ? monthEnd(state.month) : todayKey(); state.tab = 'list'; window.scrollTo(0, 0); load(); },
+    onZone: (lat, lng, cat) => { state.cats = new Set([cat]); state.days = 'custom'; state.from = monthStart(state.month); state.to = monthEnd(state.month) < todayKey() ? monthEnd(state.month) : todayKey(); state.tab = 'list'; renderControls(); load().then(() => { map.invalidateSize(); setZone(lat, lng, 80); }); },
+  };
+  reportMod.render($('#reportView'), ctx);
+  if (!missing.length || reportLoading) return;
+  // load the two months from the archive only (never earlier than its first day)
+  const cover = getMeta()?.coverageFrom || monthStart(missing[0]);
+  const from = monthStart(missing[0]) < cover ? cover : monthStart(missing[0]);
+  const end = monthEnd(missing[missing.length - 1]);
+  const to = end > todayKey() ? todayKey() : end;
+  reportLoading = loadRange(from, to, {
+    onChunk: (recs, source) => {
+      const target = source === 'archive' ? state.archiveRaw : state.liveRaw;
+      for (const rec of recs) if (rec.id && rec.createdAt) { target.set(rec.id, rec); state.dirty.add(rec.id); }
+    },
+  }).catch(() => null);
+  await reportLoading;
+  reportLoading = null;
+  missing.forEach((m) => reportLoaded.add(m));
+  syncItems();
+  if (state.tab === 'report') renderReportTab();
 }
 
 /* ================= export ================= */
@@ -782,7 +843,8 @@ function hashParams(extra = {}) {
   if (state.status !== 'all') p.set('status', state.status);
   if (state.cats) p.set('cats', [...state.cats].join(','));
   if (state.q) p.set('q', state.q);
-  if (state.hideParking) p.set('noparking', '1');
+  if (state.scope !== 'all') p.set('scope', state.scope);
+  if (state.tab === 'report' && state.month) p.set('month', state.month);
   if (state.area) p.set('area', state.area);
   if (state.reply !== 'any') p.set('reply', state.reply);
   if (state.stuck) p.set('stuck', state.stuck);
@@ -805,11 +867,12 @@ function readHash() {
   const d = (s) => /^\d{4}-\d{2}-\d{2}$/.test(s || '');
   if (d(p.get('from')) && d(p.get('to'))) { state.days = 'custom'; state.from = p.get('from'); state.to = p.get('to'); }
   else if (PRESETS.includes(+p.get('days'))) state.days = +p.get('days');
-  if (p.get('tab') === 'insights') state.tab = 'insights';
+  if (['insights', 'report'].includes(p.get('tab'))) state.tab = p.get('tab');
+  if (/^\d{4}-\d{2}$/.test(p.get('month') || '')) state.month = p.get('month');
   if (STATUS_FILTER[p.get('status')]) state.status = p.get('status');
   if (p.get('cats')) state.cats = new Set(p.get('cats').split(','));
   state.q = p.get('q') || '';
-  state.hideParking = p.get('noparking') === '1';
+  state.scope = ['civic', 'parking'].includes(p.get('scope')) ? p.get('scope') : p.get('noparking') === '1' ? 'civic' : 'all';
   state.area = p.get('area') || null;
   if (['yes', 'no'].includes(p.get('reply'))) state.reply = p.get('reply');
   if (['7', '30'].includes(p.get('stuck'))) state.stuck = +p.get('stuck');
@@ -847,6 +910,7 @@ function bind() {
     state.tab = b.dataset.tab;
     renderControls();
     if (state.tab === 'insights') renderInsightsTab();
+    else if (state.tab === 'report') renderReportTab();
     else setTimeout(() => map.invalidateSize(), 30);
     writeHash();
   });
@@ -895,7 +959,11 @@ function bind() {
       openFromHash(v);
     }
   });
-  $('#hideParking').addEventListener('change', (e) => { state.hideParking = e.target.checked; state.shown = PAGE; refresh(); });
+  $('#scope').addEventListener('click', (e) => {
+    const b = e.target.closest('[data-scope]');
+    if (!b) return;
+    state.scope = b.dataset.scope; state.shown = PAGE; refresh();
+  });
   $('#sort').addEventListener('change', (e) => { state.sort = e.target.value; state.shown = PAGE; refresh(); });
   $('#area').addEventListener('change', (e) => { state.area = e.target.value || null; state.shown = PAGE; refresh(); });
 
@@ -954,7 +1022,7 @@ function bind() {
     const reset = {
       q: () => (state.q = ''), area: () => (state.area = null), zone: () => { state.zone = null; drawZone(); },
       reply: () => (state.reply = 'any'), stuck: () => (state.stuck = 0), edited: () => (state.edited = false),
-      removed: () => (state.removed = 'hide'), inView: () => (state.inView = false), parking: () => (state.hideParking = false),
+      removed: () => (state.removed = 'hide'), inView: () => (state.inView = false), parking: () => (state.scope = 'all'),
       cats: () => (state.cats = null),
     };
     if (k === 'all') Object.values(reset).forEach((f) => f()); else reset[k]?.();

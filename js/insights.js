@@ -3,6 +3,7 @@ import { t, getLang, locale, statusText, duration } from './i18n.js';
 import { esc, fold, fmtN, relTime, catLabel, statusKey } from './app.js';
 import { slugify } from './geo.js';
 import { ic } from './icons.js';
+import { isParking, OUTCOME_ORDER, OUTCOME_COLOR, replyKey } from './outcomes.js';
 import { addDays, daysBetween } from './data.js';
 
 const ORDER = ['good', 'partial', 'bad', 'other', 'open']; // validated adjacency order
@@ -33,7 +34,7 @@ function kpis(base, prev, f) {
     for (const it of list) { c[it.status]++; if (it.reply) replied++; }
     const ttc = list.filter((it) => it.closedAt).map((it) => it.closedAt - it.created).sort((a, b) => a - b);
     return { n: list.length, c, resolved: pct(c.good + c.partial, list.length), rejected: pct(c.bad, list.length),
-      open: c.open, replied: pct(replied, list.length), ttc: quantile(ttc, 0.5), ttcN: ttc.length };
+      open: c.open, overdue: list.filter((it) => it.overdue).length, replied: pct(replied, list.length), ttc: quantile(ttc, 0.5), ttcN: ttc.length };
   };
   const a = s(base), b = prev ? s(prev) : null;
   const delta = (cur, old, kind) => {
@@ -55,7 +56,7 @@ function kpis(base, prev, f) {
     ${tile(fmtN(a.n), t('kTotal'), delta(a.n, b?.n, 'count'))}
     ${tile(a.resolved + '%', t('kResolved'), delta(a.resolved, b?.resolved))}
     ${tile(a.rejected + '%', t('kRejected'), delta(a.rejected, b?.rejected))}
-    ${tile(fmtN(a.open), t('kOpen'), delta(a.open, b?.open, 'count'))}
+    ${tile(fmtN(a.open), t('kOpen'), delta(a.open, b?.open, 'count'), a.overdue ? t('overduePeriod', { n: fmtN(a.overdue) }) : '')}
     ${tile(a.replied + '%', t('kReplied'), delta(a.replied, b?.replied))}
     ${ttcTile()}
   </div>${note}`;
@@ -164,6 +165,76 @@ function byCategory(base, f) {
   return card(t('cByCat'), legendHTML(base) + `<div class="hbars">${body || `<p class="muted">—</p>`}</div>` + table);
 }
 
+/* ---------- what the outcomes mean ---------- */
+function outcomes(all) {
+  const c = {};
+  for (const it of all) c[it.outcome] = (c[it.outcome] || 0) + 1;
+  const rows = OUTCOME_ORDER.filter((k) => c[k]);
+  if (!rows.length) return '';
+  const body = `<dl class="outcomes">${rows.map((k) => `
+    <dt><i class="dot" style="background:var(--c-${OUTCOME_COLOR[k]})"></i>${esc(t('ok_' + k))}<span class="num">${fmtN(c[k])} · ${pct(c[k], all.length) || '<1'}%</span></dt>
+    <dd>${esc(t('ox_' + k))}</dd>`).join('')}</dl>`;
+  return card(t('cOutcomes'), `${body}<p class="fine">${esc(t('outcomesNote'))}</p>`);
+}
+
+/* ---------- parking vs city problems ---------- */
+function scopeCompare(all, scope) {
+  if (scope !== 'all') return '';
+  const side = (list, label) => {
+    const c = blank(); for (const it of list) c[it.status]++;
+    const n = list.length;
+    return { label, c, n, g: pct(c.good + c.partial, n), b: pct(c.bad, n) };
+  };
+  const rows = [side(all.filter((it) => !isParking(it.catId)), t('scCivic')), side(all.filter((it) => isParking(it.catId)), t('scParking'))];
+  const body = rows.map((r) => `<div class="hbar-row">
+      <div class="hbar-label static"><span>${esc(r.label)}</span><small>${t('scopeLine', { n: fmtN(r.n), g: r.g, b: r.b })}</small></div>
+      <div class="hbar-track stacked">${ORDER.filter((k) => r.c[k]).map((k) => `<span style="flex:${r.c[k]};background:var(--c-${k})" ${tipAttr(breakdownTip(r.label, r.c, r.n))}></span>`).join('')}</div>
+    </div>`).join('');
+  const table = tableHTML(['', t('count'), ...ORDER.map((k) => t(LEGEND[k]))], rows.map((r) => [r.label, fmtN(r.n), ...ORDER.map((k) => `${fmtN(r.c[k])} (${pct(r.c[k], r.n)}%)`)]));
+  return card(t('cScope'), `${legendHTML(all)}<div class="hbars">${body}</div><p class="fine">${esc(t('scopeNote'))}</p>${table}`);
+}
+
+/* ---------- why reports are rejected, per category ---------- */
+function rejections(all) {
+  const cats = new Map();
+  for (const it of all) {
+    if (!cats.has(it.catId)) cats.set(it.catId, { id: it.catId, name: catLabel(it), n: 0, bad: [] });
+    const g = cats.get(it.catId); g.n++;
+    if (it.status === 'bad') g.bad.push(it);
+  }
+  const top = [...cats.values()].filter((g) => g.bad.length >= 3).sort((a, b) => b.bad.length - a.bad.length).slice(0, 6);
+  if (!top.length) return card(t('cRejections'), `<p class="muted">${esc(t('rejNone'))}</p>`);
+  const body = top.map((g) => {
+    const groups = new Map();
+    for (const it of g.bad) {
+      const k = it.reply?.text ? replyKey(it.reply.text) : '';
+      if (!groups.has(k)) groups.set(k, { sample: it.reply?.text || t('dNoReply'), n: 0 });
+      groups.get(k).n++;
+    }
+    const reasons = [...groups.values()].sort((a, b) => b.n - a.n).slice(0, 3);
+    return `<li><button class="rej-cat" data-cat="${esc(g.id)}"><b>${esc(g.name)}</b><small>${t('rejHead', { n: fmtN(g.bad.length), p: pct(g.bad.length, g.n) })}</small></button>
+      <ol>${reasons.map((r) => `<li><q>${esc(r.sample.length > 160 ? r.sample.slice(0, 160) + '…' : r.sample)}</q><small>${t('rejOf', { p: pct(r.n, g.bad.length) })}</small></li>`).join('')}</ol></li>`;
+  }).join('');
+  return card(t('cRejections'), `<p class="fine">${esc(t('rejNote'))}</p><ul class="rejections">${body}</ul>`, 'wide');
+}
+
+/* ---------- open for over 30 days (whole sector, from meta.json) ---------- */
+function overdue(meta) {
+  const o = meta?.overdue;
+  if (!o) return '';
+  const rows = Object.entries(o.byCategory || {}).filter(([, c]) => c.n).sort((a, b) => b[1].n - a[1].n).slice(0, 10);
+  const max = Math.max(1, ...rows.map(([, c]) => c.n));
+  const when = new Intl.DateTimeFormat(locale(), { dateStyle: 'medium', timeStyle: 'short', timeZone: 'Europe/Bucharest' }).format(new Date(o.asOf));
+  const body = rows.map(([id, c]) => `<div class="hbar-row">
+      <button class="hbar-label" data-overdue="${esc(id)}"><span>${esc(catLabel({ catId: id, categoryRo: c.name }))}</span><small>${t('overdueCat', { n: fmtN(c.n), p: pct(c.n, c.open) })}</small></button>
+      <div class="hbar-track"><span class="hbar-fill overdue-fill" style="width:${(c.n / max) * 100}%"></span><em>${fmtN(c.n)}</em></div>
+    </div>`).join('');
+  return card(t('cOverdue'), `<p class="lead-num">${esc(t('overdueAll', { n: fmtN(o.total), p: pct(o.total, o.open) }))}</p>
+    <div class="hbars">${body}</div>
+    <p class="fine">${esc(t('overdueAsOf', { t: when }))} · ${esc(t('overdueTitle'))}.</p>
+    <button class="btn btn-outline small" data-overdue="">${esc(t('overdueShow'))}</button>`);
+}
+
 /* ---------- hour × weekday ---------- */
 function heat(base) {
   const grid = Array.from({ length: 7 }, () => new Array(24).fill(0));
@@ -269,10 +340,7 @@ function templates(base) {
   for (const it of base) {
     if (!it.reply?.text) continue;
     total++;
-    const words = fold(it.reply.text)
-      .replace(/\b[a-z]{1,2}\s*\d{2,3}\s*[a-z]{3}\b/g, ' ') // plates like "B 123 ABC"
-      .replace(/[^a-z\s]/g, ' ').replace(/\b(buna ziua|buna seara|stimate|stimata|domnule|doamna)\b/g, ' ')
-      .split(/\s+/).filter(Boolean).slice(0, 8).join(' ');
+    const words = replyKey(it.reply.text);
     if (!words) continue;
     if (!groups.has(words)) groups.set(words, { sample: it.reply.text, n: 0, c: blank() });
     const g = groups.get(words); g.n++; g.c[it.status]++;
@@ -353,7 +421,11 @@ export function render(root, ctx) {
     ${kpis(base, prevBase, f)}
     <div class="viz-grid">
       ${series(base, range)}
+      ${outcomes(f.all)}
+      ${scopeCompare(f.all, ctx.scope || 'all')}
       ${byCategory(base, f)}
+      ${overdue(ctx.meta)}
+      ${rejections(f.all)}
       ${areas(base, f)}
       ${heat(base)}
       ${timeToClose(base, items)}
@@ -364,6 +436,7 @@ export function render(root, ctx) {
     </div>`;
   bindTooltip(root);
   root.onclick = (e) => {
+    const o = e.target.closest('[data-overdue]'); if (o) return ctx.onOverdue(o.dataset.overdue || null);
     const a = e.target.closest('[data-area]'); if (a) return ctx.onArea(a.dataset.area);
     const c = e.target.closest('[data-cat]'); if (c) return ctx.onCategory(c.dataset.cat);
     const z = e.target.closest('[data-zone]');

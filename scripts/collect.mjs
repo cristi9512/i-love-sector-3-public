@@ -18,6 +18,7 @@ import { mkdir, readFile, readdir, writeFile, appendFile } from 'node:fs/promise
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { areaOf, slugify, fromBucharest } from '../js/geo.js';
+import { OVERDUE_DAYS } from '../js/outcomes.js';
 
 const API = 'https://iloves3.primarie3.ro/CityCareServicii/IncidentRP.aspx';
 const SERVER_CAP = 1500;
@@ -285,6 +286,9 @@ async function main() {
 
   // meta: totals over all stored months
   let total = 0, open = 0, coverageFrom = null;
+  // reports open for longer than the 30-day legal deadline (OG 27/2002), per category
+  const overdue = { total: 0, byCategory: {} };
+  const nowMs = Date.now();
   const all = [];
   const months = existsSync(path.join(DATA, 'incidents')) ? (await readdir(path.join(DATA, 'incidents'))).filter((f) => f.endsWith('.json')).sort() : [];
   for (const f of months) {
@@ -292,7 +296,13 @@ async function main() {
     for (const r of m.values()) {
       if (!coverageFrom || r.createdAt < coverageFrom) coverageFrom = r.createdAt;
       if (r.removedAt) continue;
-      total++; if (r.status === 'O') open++;
+      total++;
+      if (r.status === 'O') {
+        open++;
+        const c = (overdue.byCategory[r.categoryId] ??= { name: r.category, open: 0, n: 0 });
+        c.open++;
+        if (nowMs - fromBucharest(r.createdAt).getTime() > OVERDUE_DAYS * 864e5) { c.n++; overdue.total++; }
+      }
       all.push(r);
     }
   }
@@ -306,6 +316,7 @@ async function main() {
     lastRunStats: { windows: windows.length, failedWindows: failed, fetched, added, updated, removed, changes: changes.length },
     totals: { incidents: total, open, months: months.map((f) => f.slice(0, 7)) },
     coverageFrom: coverageFrom ? coverageFrom.slice(0, 10) : null,
+    overdue: { asOf: runAt, days: OVERDUE_DAYS, open, ...overdue },
     changeMonths,
   };
   const changed = added || updated || removed || purged || !existsSync(metaFile) || process.argv.includes('--force');

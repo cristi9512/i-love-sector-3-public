@@ -46,7 +46,8 @@ function apply() {
   // keep the chosen language when going back to the map
   for (const a of document.querySelectorAll('.tabs a, .brand')) {
     const base = a.getAttribute('href').split('#')[0];
-    const hash = a.getAttribute('href').includes('tab=insights') ? 'tab=insights&' : '';
+    const tab = /tab=(\w+)/.exec(a.getAttribute('href'));
+    const hash = tab ? `tab=${tab[1]}&` : '';
     if (base !== 'despre') a.setAttribute('href', `${base}#${hash}lang=${lang}`);
   }
   renderThemeBtn();
