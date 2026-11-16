@@ -441,8 +441,8 @@ const markers = new Map();
 // Leaflet so markers, clusters, heatmap and zones work as before. Browsers
 // without WebGL get the plain OpenStreetMap raster tiles instead.
 const MAP_STYLE = { light: 'https://tiles.openfreemap.org/styles/positron', dark: 'https://tiles.openfreemap.org/styles/dark' };
-const darkMq = matchMedia('(prefers-color-scheme: dark)');
-const styleUrl = () => MAP_STYLE[darkMq.matches ? 'dark' : 'light'];
+const isDark = () => document.documentElement.classList.contains('dark');
+const styleUrl = () => MAP_STYLE[isDark() ? 'dark' : 'light'];
 const glLayers = new Set();
 const GL_OK = (() => {
   if (typeof L.maplibreGL !== 'function') return false;
@@ -465,15 +465,36 @@ function tileLayer() {
   }
   return L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, className: 'osm-raster', attribution: OSM_ATTR });
 }
-darkMq.addEventListener('change', () => {
+// theme switch (js/theme.js): repaint everything drawn with fixed colours
+document.addEventListener('themechange', () => {
   for (const layer of glLayers) layer.getMaplibreMap()?.setStyle(styleUrl());
+  for (const b of boundaries) b.setStyle({ color: cssVar('--primary') });
+  if (state.tab === 'insights') renderInsightsTab();
+  renderThemeBtn();
 });
 // map shapes are SVG attributes, which can't use CSS variables
 const cssVar = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim() || '#0f766e';
+const boundaries = new Set();
 function boundaryLayer() {
-  return L.polygon(state.assets?.boundary || [], {
+  const b = L.polygon(state.assets?.boundary || [], {
     color: cssVar('--primary'), weight: 2, opacity: 0.8, fill: true, fillOpacity: 0.03, dashArray: '6 4', interactive: false,
   });
+  b.on('add', () => boundaries.add(b));
+  b.on('remove', () => boundaries.delete(b));
+  return b;
+}
+
+/* ================= theme button ================= */
+const THEME_NEXT = { auto: 'light', light: 'dark', dark: 'auto' };
+const THEME_ICON = { auto: 'themeAuto', light: 'sun', dark: 'moon' };
+function renderThemeBtn() {
+  const btn = $('#themeBtn');
+  if (!btn || !window.theme) return;
+  const pref = window.theme.pref;
+  const label = t('theme_' + pref);
+  btn.innerHTML = ic(THEME_ICON[pref]);
+  btn.title = label + ' · ' + t('themeNext', { next: t('theme_' + THEME_NEXT[pref]).toLowerCase() });
+  btn.setAttribute('aria-label', label);
 }
 
 function initMap() {
@@ -827,10 +848,12 @@ function bind() {
     else setTimeout(() => map.invalidateSize(), 30);
     writeHash();
   });
+  $('#themeBtn').addEventListener('click', () => window.theme?.set(THEME_NEXT[window.theme.pref]));
   $('#langBtn').addEventListener('click', () => {
     setLang(getLang() === 'ro' ? 'en' : 'ro');
     try { localStorage.setItem('lang', getLang()); } catch { /* ignore */ }
     applyStatic();
+    renderThemeBtn();
     renderAll();
     renderDataLine();
     writeHash();
@@ -998,6 +1021,7 @@ function showMapOnMobile() {
 (async function main() {
   readHash();
   applyStatic();
+  renderThemeBtn();
   $('#repoLink').href = REPO;
   try { state.assets = await (await fetch('assets/sector3.json')).json(); } catch { state.assets = null; }
   initMap();

@@ -26,8 +26,7 @@
   color-scheme: light;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
+:root.dark {
     --bg: #0d1117;
     --surface: #161b22;
     --surface-2: #1f2630;
@@ -46,10 +45,9 @@
     --shadow: 0 1px 2px rgba(0, 0, 0, .4);
     --shadow-lg: 0 20px 40px -12px rgba(0, 0, 0, .6);
     color-scheme: dark;
-  }
-  .osm-raster { filter: invert(1) hue-rotate(180deg) brightness(.9) contrast(.9) saturate(.6); }
-  mark { background: #854d0e; }
 }
+.dark .osm-raster { filter: invert(1) hue-rotate(180deg) brightness(.9) contrast(.9) saturate(.6); }
+.dark mark { background: #854d0e; }
 
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
@@ -407,19 +405,17 @@ button.hbar-label:hover span { color: var(--primary); text-decoration: underline
   --shadow-lg: 0 8px 24px rgba(16, 20, 24, .14);
   --radius: 4px;
 }
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg: #111315; --surface: #181b1e; --surface-2: #22262a; --border: #30353b;
-    --text: #e6e8eb; --muted: #9aa2ad; --primary: #e6e8eb; --primary-soft: #2a3036; --primary-text: #111315;
-    --accent: #8ab4f8; --shadow-lg: 0 8px 24px rgba(0, 0, 0, .5);
-  }
+:root.dark {
+  --bg: #111315; --surface: #181b1e; --surface-2: #22262a; --border: #30353b;
+  --text: #e6e8eb; --muted: #9aa2ad; --primary: #e6e8eb; --primary-soft: #2a3036; --primary-text: #111315;
+  --accent: #8ab4f8; --shadow-lg: 0 8px 24px rgba(0, 0, 0, .5);
 }
 
 body { font-family: 'IBM Plex Sans', system-ui, sans-serif; font-size: 14px; line-height: 1.45; }
 a { color: var(--accent); }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
 mark { background: #fff1a8; border-radius: 2px; }
-@media (prefers-color-scheme: dark) { mark { background: #5c4a00; } }
+.dark mark { background: #5c4a00; }
 .pulse { width: 6px; height: 6px; animation: none; box-shadow: none; }
 
 /* Header: slim graphite bar */
@@ -569,7 +565,9 @@ button.stat:hover { background: var(--surface-2); border-color: var(--border); }
 }
 
 /* Dark basemap: light clusters stand out better than graphite ones */
-@media (prefers-color-scheme: dark) {
-  .marker-cluster-custom { background: #e6e8eb; color: #111315; border-color: #111315; }
-  .pin { border-color: #111315; box-shadow: 0 0 0 1px rgba(255, 255, 255, .5); }
-}
+.dark .marker-cluster-custom { background: #e6e8eb; color: #111315; border-color: #111315; }
+.dark .pin { border-color: #111315; box-shadow: 0 0 0 1px rgba(255, 255, 255, .5); }
+
+/* Theme button: icon only, same height as the language button */
+.top-actions .icon-btn { padding: 5px 7px; }
+.icon-btn .ic { vertical-align: 0; display: block; }
