@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274681</link>
+    <guid isPermaLink="false">CAS-0274681</guid>
+    <pubDate>Mon, 16 Nov 2026 15:46:00 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masinile cu numerele b85yes si b776ram obsructioneaza intoarcerea si incurca domeniul public zile la rand stationate in aceeasi zona</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274661</link>
     <guid isPermaLink="false">CAS-0274661</guid>
@@ -572,14 +580,6 @@ Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA   SE  CONFIRMA , AUTO CE FACEA OBIECT
     <description>Faceti ceva ca nu se poate asa ceva , puneți stalpi pe bordura ca se strica pavajul
 
 Răspuns: NU SE MAI CONFIRMA </description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273709</link>
-    <guid isPermaLink="false">CAS-0273709</guid>
-    <pubDate>Thu, 12 Nov 2026 15:14:48 GMT</pubDate>
-    <category>Altele</category>
-    <description>Nu mai funcționează niciun felinar tot drumul murgului, e bezna totala.</description>
   </item>
 </channel>
 </rss>

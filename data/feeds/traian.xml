@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274682</link>
+    <guid isPermaLink="false">CAS-0274682</guid>
+    <pubDate>Mon, 16 Nov 2026 15:50:52 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274679</link>
     <guid isPermaLink="false">CAS-0274679</guid>
@@ -589,16 +597,6 @@ Autoturismul parcheaza in mod regulat pe trotuar.
 Va multumesc
 
 Răspuns: a fost demarata procedura de identificare si sanctionare a cond.auto .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273441</link>
-    <guid isPermaLink="false">CAS-0273441</guid>
-    <pubDate>Wed, 11 Nov 2026 16:44:12 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - la ora verificarii la fata locului a sesizarii , auto in speta nu se mai afla in locatia indicata in reclamatie .</description>
   </item>
 </channel>
 </rss>

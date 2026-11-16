@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274684</link>
+    <guid isPermaLink="false">CAS-0274684</guid>
+    <pubDate>Mon, 16 Nov 2026 15:53:48 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autovehiculul cu nr de înmatriculare IS55KAS este parcat pe trotuar!</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274678</link>
     <guid isPermaLink="false">CAS-0274678</guid>
@@ -749,14 +757,6 @@ Răspuns: Au fost luate masurile legale confrom RAOUG195/2002</description>
     <pubDate>Sun, 15 Nov 2026 08:47:18 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcare in fata scărilor către alee, unde nu e marcat locul.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274309</link>
-    <guid isPermaLink="false">CAS-0274309</guid>
-    <pubDate>Sun, 15 Nov 2026 08:46:53 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Nu funcționează butonul de la semaforul dinspre Țiglina spre Decebal pentru trecerea de pietoni. Am mai făcut o solicitare apare că rezolvată dar butonul tot nu funcționează. Acest lucru reprezintă un pericol pentru traversarea în special pentru copii care n-au cum să-și treacă strada în drum spre casă de la școală.</description>
   </item>
 </channel>
 </rss>
