@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-16T21:00:56.222Z",
-  "lastChange": "2026-11-16T21:00:56.222Z",
+  "lastRun": "2026-11-16T21:15:36.180Z",
+  "lastChange": "2026-11-16T21:15:36.180Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2449,
-    "added": 1,
-    "updated": 1,
+    "fetched": 2637,
+    "added": 5,
+    "updated": 4,
     "removed": 0,
-    "changes": 3
+    "changes": 10
   },
   "totals": {
-    "incidents": 45366,
-    "open": 2061,
+    "incidents": 45371,
+    "open": 2063,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-16T21:00:56.222Z",
+    "asOf": "2026-11-16T21:15:36.180Z",
     "days": 30,
-    "open": 2061,
+    "open": 2063,
     "total": 208,
     "byCategory": {
       "2": {
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 230,
+        "open": 232,
         "n": 16
       },
       "10": {
         "name": "Străzi",
-        "open": 446,
+        "open": 447,
         "n": 36
       },
       "11": {
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 11,
+        "open": 12,
         "n": 4
       },
       "20": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 468,
+        "open": 466,
         "n": 2
       },
       "32": {

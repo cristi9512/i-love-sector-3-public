@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274758</link>
+    <guid isPermaLink="false">CAS-0274758</guid>
+    <pubDate>Mon, 16 Nov 2026 21:05:24 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Groapa in carosabil pe bulevard in fara Penny Market Pallady. Va ruga plombati de urgenta.</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274755</link>
+    <guid isPermaLink="false">CAS-0274755</guid>
+    <pubDate>Mon, 16 Nov 2026 21:01:26 GMT</pubDate>
+    <category>Altele</category>
+    <description>Pe Aleea Perisoru, in fata caminelor de nefamilisti, nu functioneaza stalpisorii de iluminat tip felinar. Va rugam remediati de urgenta. Este bezna totala.</description>
+  </item>
+  <item>
     <title>Trasare parcare · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274749</link>
     <guid isPermaLink="false">CAS-0274749</guid>
@@ -572,32 +588,6 @@ Răspuns: AM APLICAT MASURILE LEGALE </description>
     <pubDate>Fri, 13 Nov 2026 07:18:33 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>in fiecare zi tot aici</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273880</link>
-    <guid isPermaLink="false">CAS-0273880</guid>
-    <pubDate>Fri, 13 Nov 2026 07:14:23 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Parţial · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273873</link>
-    <guid isPermaLink="false">CAS-0273873</guid>
-    <pubDate>Fri, 13 Nov 2026 06:52:52 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>mizerii 
-nimeni nu vine să le strângă
-
-Răspuns: Trimis raspuns Bună ziua,
-
-Vă aducem la cunoştinţă faptul că aspectele care intră în sfera de activitate a instituţiei noastre au fost transmise echipelor operaționale din teren, in vederea salubrizarii zonei.
-Cu consideratie,
-Directia Generala de Salubritate Sector 3.
- </description>
   </item>
 </channel>
 </rss>
