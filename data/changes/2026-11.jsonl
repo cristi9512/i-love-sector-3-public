@@ -483,3 +483,6 @@
 {"at":"2026-11-16T16:01:04.880Z","ticket":"CAS-0274682","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-16T16:01:04.880Z","ticket":"CAS-0274684","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-16T16:01:04.880Z","ticket":"CAS-0274683","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-16T16:15:54.125Z","ticket":"CAS-0274645","field":"status","from":"O","to":"C"}
+{"at":"2026-11-16T16:15:54.125Z","ticket":"CAS-0274645","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-16T16:15:54.125Z","ticket":"CAS-0274645","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, IN MOMENTUL SOSIRII IN LOCATIE AM CONSTATAT FAPTUL CA LOCUL DE PARCARE ERA LIBER."}
