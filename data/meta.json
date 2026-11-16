@@ -1,17 +1,17 @@
 {
-  "lastRun": "2026-11-16T12:45:42.005Z",
-  "lastChange": "2026-11-16T12:45:42.005Z",
+  "lastRun": "2026-11-16T13:00:59.885Z",
+  "lastChange": "2026-11-16T13:00:59.885Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2703,
+    "fetched": 2683,
     "added": 3,
-    "updated": 21,
+    "updated": 3,
     "removed": 0,
-    "changes": 61
+    "changes": 9
   },
   "totals": {
-    "incidents": 45248,
+    "incidents": 45251,
     "open": 2000,
     "months": [
       "2026-05",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-16T12:45:42.005Z",
+    "asOf": "2026-11-16T13:00:59.885Z",
     "days": 30,
     "open": 2000,
-    "total": 209,
+    "total": 206,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -42,8 +42,8 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 183,
-        "n": 17
+        "open": 182,
+        "n": 16
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -52,13 +52,13 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 75,
-        "n": 4
+        "open": 74,
+        "n": 3
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 42,
-        "n": 7
+        "open": 41,
+        "n": 6
       },
       "9": {
         "name": "Altele",
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 43,
+        "open": 45,
         "n": 0
       },
       "17": {
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 9,
+        "open": 10,
         "n": 4
       },
       "20": {
