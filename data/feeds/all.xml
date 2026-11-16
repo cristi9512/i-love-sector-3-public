@@ -6,6 +6,38 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274701</link>
+    <guid isPermaLink="false">CAS-0274701</guid>
+    <pubDate>Mon, 16 Nov 2026 16:44:39 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe trotuar, ocupat tot trotuarul si trebuie ocolita pe carosabil</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274700</link>
+    <guid isPermaLink="false">CAS-0274700</guid>
+    <pubDate>Mon, 16 Nov 2026 16:39:24 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274699</link>
+    <guid isPermaLink="false">CAS-0274699</guid>
+    <pubDate>Mon, 16 Nov 2026 16:31:51 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274698</link>
+    <guid isPermaLink="false">CAS-0274698</guid>
+    <pubDate>Mon, 16 Nov 2026 16:30:58 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Ocuparea abuziva a locului de parcare rezidential</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274697</link>
     <guid isPermaLink="false">CAS-0274697</guid>
@@ -460,39 +492,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, IN MOMENTUL SOSIRII I
     <pubDate>Mon, 16 Nov 2026 13:27:45 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>intersectie Gheorghe Doja cu Soseaua Garii Catelu. Trebuie sa ies in bulevard cu caruciorul si un copil de mana.</description>
-  </item>
-  <item>
-    <title>Verificări construcții/Lucrări neautorizate · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274641</link>
-    <guid isPermaLink="false">CAS-0274641</guid>
-    <pubDate>Mon, 16 Nov 2026 13:08:07 GMT</pubDate>
-    <category>Verificări construcții/Lucrări neautorizate</category>
-    <description>O cladire istorica catalogata in zona protejata are lucrare fara nicio autorizatie .Va rog ,luati masurile care se impun .</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274640</link>
-    <guid isPermaLink="false">CAS-0274640</guid>
-    <pubDate>Mon, 16 Nov 2026 13:07:05 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>trotuar blocat, lipsa acces pietoni</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274639</link>
-    <guid isPermaLink="false">CAS-0274639</guid>
-    <pubDate>Mon, 16 Nov 2026 12:52:42 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>Este o mașină tip Opel aici ce pare abandonată, e în acelasi loc de luni de zile, rugina o mănâncă și o gaureste mai mult pe zi ce trece plus alte probleme de caroserie și pe Aida apare fără RCA activ....</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274638</link>
-    <guid isPermaLink="false">CAS-0274638</guid>
-    <pubDate>Mon, 16 Nov 2026 12:50:12 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Tremura casa cu mine...
-Cei de lângă fac zgomot infernal de câteva săptămâni și îmi este tare greu sa muncesc</description>
   </item>
 </channel>
 </rss>

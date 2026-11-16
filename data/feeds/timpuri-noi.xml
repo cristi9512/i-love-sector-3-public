@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274698</link>
+    <guid isPermaLink="false">CAS-0274698</guid>
+    <pubDate>Mon, 16 Nov 2026 16:30:58 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Ocuparea abuziva a locului de parcare rezidential</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274644</link>
     <guid isPermaLink="false">CAS-0274644</guid>
@@ -599,18 +607,6 @@ Răspuns: BUNĂ SEARA, PENTRU A PUTEA DA CURS SESIZĂRII DVS. ÎN MOD EFICIENT, 
     <description>mașini parcate pe trotuar
 
 Răspuns: SESIZAREA SE CONFIRMA. AU FOST LUATE MASURILE LEGALE IN LOCATIE. </description>
-  </item>
-  <item>
-    <title>Parcuri · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273680</link>
-    <guid isPermaLink="false">CAS-0273680</guid>
-    <pubDate>Thu, 12 Nov 2026 13:43:36 GMT</pubDate>
-    <category>Parcuri</category>
-    <description>Buna ziua!
-
-Va rugam sa trimiteti o echipa care sa curete intrarea in Parcul Emil Garleanu. Intelegem ca au fost lucrari dar nu este in regula ca au lasat mormanul acesta de nisip la intrarea in parc.
-
-Va multumim!</description>
   </item>
 </channel>
 </rss>
