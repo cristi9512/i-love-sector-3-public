@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-16T11:45:34.874Z",
-  "lastChange": "2026-11-16T11:45:34.874Z",
+  "lastRun": "2026-11-16T12:00:55.810Z",
+  "lastChange": "2026-11-16T12:00:55.810Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 3001,
-    "added": 2252,
-    "updated": 1,
+    "fetched": 2878,
+    "added": 8,
+    "updated": 16,
     "removed": 0,
-    "changes": 3
+    "changes": 48
   },
   "totals": {
-    "incidents": 45227,
-    "open": 2038,
+    "incidents": 45235,
+    "open": 2030,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-16T11:45:34.874Z",
+    "asOf": "2026-11-16T12:00:55.810Z",
     "days": 30,
-    "open": 2038,
+    "open": 2030,
     "total": 216,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 46,
+        "open": 50,
         "n": 7
       },
       "3": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 78,
+        "open": 76,
         "n": 4
       },
       "7": {
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 234,
+        "open": 233,
         "n": 17
       },
       "10": {
         "name": "Străzi",
-        "open": 452,
+        "open": 451,
         "n": 39
       },
       "11": {
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 44,
+        "open": 43,
         "n": 0
       },
       "13": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 163,
+        "open": 164,
         "n": 1
       },
       "15": {
@@ -117,12 +117,12 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 17,
+        "open": 16,
         "n": 2
       },
       "21": {
         "name": "Reabilitare blocuri",
-        "open": 12,
+        "open": 11,
         "n": 0
       },
       "22": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 456,
+        "open": 450,
         "n": 2
       },
       "32": {
