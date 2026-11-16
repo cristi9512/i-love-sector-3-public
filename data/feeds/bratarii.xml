@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Brățării</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274512</link>
+    <guid isPermaLink="false">CAS-0274512</guid>
+    <pubDate>Mon, 16 Nov 2026 05:41:57 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Pubelele de colectare selectiva îngreunează vizibilitatea la intrarea pe strada Postasului de pe Drumul Gura Siriului.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Brățării</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274467</link>
     <guid isPermaLink="false">CAS-0274467</guid>
@@ -645,16 +653,6 @@ Mihai Florea
 Răspuns: Luat la cunostinta Vă mulțumim pentru implicarea dumneavoastră în asigurarea unui climat civilizat pe raza Sectorului 3 și vă asigurăm de întreaga noastră disponibilitate în rezolvarea problemelor cu care vă confruntați, în limita competențelor care ne-au fost atribuite.
 Cu stimă.
  Raspunsul a fost trimis prin email catre cetatean.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Brățării</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0270804</link>
-    <guid isPermaLink="false">CAS-0270804</guid>
-    <pubDate>Sun, 01 Nov 2026 19:57:47 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: La ora 23.20 am preluat si verificat sesizarea infocet nr 410510/2026  autovehiculul sesizat ne se mai afla in locatie.</description>
   </item>
 </channel>
 </rss>
