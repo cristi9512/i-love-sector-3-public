@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274648</link>
+    <guid isPermaLink="false">CAS-0274648</guid>
+    <pubDate>Mon, 16 Nov 2026 13:54:43 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Staționate neregulamentar</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274643</link>
     <guid isPermaLink="false">CAS-0274643</guid>
@@ -624,20 +632,6 @@ Directia Generala de Salubritate Sector 3
     <description>Deșeuri aduse de un om al străzii. Cum procedăm cu ele?
 
 Răspuns: Luat la cunostinta Luat la cunostinta </description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Parţial · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273851</link>
-    <guid isPermaLink="false">CAS-0273851</guid>
-    <pubDate>Fri, 13 Nov 2026 04:57:52 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Gunoi, gunoi, gunoi... Așteptam sa vina primăvara ca să fie ridicat ??!
-
-Răspuns: Trimis raspuns Bună ziua,
-Vă aducem la cunoştinţă faptul că aspectele prezentate au fost transmise echipelor operaționale din teren pentru remedierea aspectelor sesizate, în sensul soluționării acestora.
-Cu deosebită consideratie,
-Direcţia Generală de Salubritate Sector 3
- </description>
   </item>
 </channel>
 </rss>

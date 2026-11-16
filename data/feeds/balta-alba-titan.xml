@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Parcuri · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274647</link>
+    <guid isPermaLink="false">CAS-0274647</guid>
+    <pubDate>Mon, 16 Nov 2026 13:52:30 GMT</pubDate>
+    <category>Parcuri</category>
+    <description>Un tobogan este spart  în parcul Titanii</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274640</link>
     <guid isPermaLink="false">CAS-0274640</guid>
@@ -596,14 +604,6 @@ A fost intocmit proces-verbal de constatare si aplicata instiintare conform HCLS
     <pubDate>Sat, 14 Nov 2026 20:40:38 GMT</pubDate>
     <category>Altele</category>
     <description>Iluminatul nu functioneaza</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274264</link>
-    <guid isPermaLink="false">CAS-0274264</guid>
-    <pubDate>Sat, 14 Nov 2026 20:15:57 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Blocare trotuar, mi s a raspuns ca au venit dar nu le au facut nimic.</description>
   </item>
 </channel>
 </rss>

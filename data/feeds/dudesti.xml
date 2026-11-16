@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274646</link>
+    <guid isPermaLink="false">CAS-0274646</guid>
+    <pubDate>Mon, 16 Nov 2026 13:48:41 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașina ocupa trotuarul pentru circulația pietonilor și a celor ce ies din imobil</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274630</link>
     <guid isPermaLink="false">CAS-0274630</guid>
@@ -102,12 +110,14 @@ Răspuns: auto nu a fost identificat in locatie</description>
 Răspuns: auto nu a fost identificat in locatie</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274595</link>
     <guid isPermaLink="false">CAS-0274595</guid>
     <pubDate>Mon, 16 Nov 2026 10:52:56 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: auto nu a fost identificat in locatie</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
@@ -176,12 +186,14 @@ Florin.tyl@gmail.com
 0728324600</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274565</link>
     <guid isPermaLink="false">CAS-0274565</guid>
     <pubDate>Mon, 16 Nov 2026 09:38:08 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: auto nu a fost identificat in locatie</description>
   </item>
   <item>
     <title>Altele · În lucru · Dudeşti</title>
@@ -566,22 +578,6 @@ Răspuns: Autoturismului reclmat i s-a aplicat înștiințare. O zi bună.</desc
     <description>Vă sesizez o parcare neregulamentară VN 44 RIB blocând accesul pietonilor pe trotuar în special cei cu cărucioare intr.Trubadurului-str.Breaza
 
 Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273832</link>
-    <guid isPermaLink="false">CAS-0273832</guid>
-    <pubDate>Thu, 12 Nov 2026 20:49:39 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Bună ziua,
-
-Vă aduc la cunoștință faptul că pe strada Intrarea Metalului, Sector 3, București, iluminatul public este complet nefuncțional, toate corpurile de iluminat stradal fiind stinse.
-
-Această situație afectează vizibilitatea pe timpul nopții și pune în pericol siguranța pietonilor și a participanților la trafic.
-
-Vă solicit să dispuneți verificarea și remedierea defecțiunii în regim de urgență, astfel încât iluminatul public să fie restabilit cât mai curând posibil.
-
-Vă mulțumesc!</description>
   </item>
 </channel>
 </rss>
