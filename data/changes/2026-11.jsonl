@@ -488,3 +488,10 @@
 {"at":"2026-11-16T16:15:54.125Z","ticket":"CAS-0274645","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, IN MOMENTUL SOSIRII IN LOCATIE AM CONSTATAT FAPTUL CA LOCUL DE PARCARE ERA LIBER."}
 {"at":"2026-11-16T16:30:55.680Z","ticket":"CAS-0274690","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-16T17:00:56.829Z","ticket":"CAS-0274701","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-16T17:15:35.558Z","ticket":"CAS-0274687","field":"status","from":"O","to":"C"}
+{"at":"2026-11-16T17:15:35.558Z","ticket":"CAS-0274687","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-16T17:15:35.558Z","ticket":"CAS-0274687","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.\n"}
+{"at":"2026-11-16T17:15:35.558Z","ticket":"CAS-0274703","field":"status","from":"O","to":"C"}
+{"at":"2026-11-16T17:15:35.558Z","ticket":"CAS-0274703","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-16T17:15:35.558Z","ticket":"CAS-0274703","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, in urma verificarilor am constatat ca in bateria de parcare in care detine loc nominal se efectueaza lucrari edilitare , motiv pentru care poate ocupa un loc nenominal.\n"}
+{"at":"2026-11-16T17:15:35.558Z","ticket":"CAS-0274708","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
