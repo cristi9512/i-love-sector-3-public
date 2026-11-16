@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-16T19:21:09.056Z",
-  "lastChange": "2026-11-16T19:21:09.056Z",
+  "lastRun": "2026-11-16T19:30:49.043Z",
+  "lastChange": "2026-11-16T19:30:49.043Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2578,
-    "added": 0,
-    "updated": 1,
+    "fetched": 2695,
+    "added": 1,
+    "updated": 0,
     "removed": 0,
-    "changes": 3
+    "changes": 0
   },
   "totals": {
-    "incidents": 45354,
-    "open": 2050,
+    "incidents": 45355,
+    "open": 2051,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-16T19:21:09.056Z",
+    "asOf": "2026-11-16T19:30:49.043Z",
     "days": 30,
-    "open": 2050,
+    "open": 2051,
     "total": 208,
     "byCategory": {
       "2": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 184,
+        "open": 185,
         "n": 17
       },
       "5": {
