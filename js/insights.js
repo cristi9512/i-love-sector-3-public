@@ -2,6 +2,7 @@
 import { t, getLang, locale, statusText, duration } from './i18n.js';
 import { esc, fold, fmtN, relTime, catLabel, statusKey } from './app.js';
 import { slugify } from './geo.js';
+import { ic } from './icons.js';
 import { addDays, daysBetween } from './data.js';
 
 const ORDER = ['good', 'partial', 'bad', 'other', 'open']; // validated adjacency order
@@ -281,7 +282,7 @@ function feeds(assets) {
   const list = [{ name: t('rssAll'), file: 'all.xml' }, ...(assets?.areas || []).map((a) => ({ name: a.name, file: slugify(a.name) + '.xml' }))
     .sort((a, b) => a.name.localeCompare(b.name, 'ro'))];
   return card(t('cFeeds'), `<p class="fine">${esc(t('feedsHint'))}</p><div class="feeds">${list.map((f) =>
-    `<a href="${esc(base + f.file)}" target="_blank" rel="noopener"><span aria-hidden="true">📡</span> ${esc(f.name)}</a>`).join('')}</div>`);
+    `<a href="${esc(base + f.file)}" target="_blank" rel="noopener">${ic('rss', 14)} ${esc(f.name)}</a>`).join('')}</div>`);
 }
 
 /* ---------- tooltip ---------- */
