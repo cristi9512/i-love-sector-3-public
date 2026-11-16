@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274753</link>
+    <guid isPermaLink="false">CAS-0274753</guid>
+    <pubDate>Mon, 16 Nov 2026 20:38:02 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina parcata in scara blocului</description>
+  </item>
+  <item>
     <title>Trasare parcare · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274752</link>
     <guid isPermaLink="false">CAS-0274752</guid>
@@ -566,14 +574,6 @@ Răspuns: locul de parcare a fost eliberat pana la ajungerea noastra in locatie<
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274694</link>
     <guid isPermaLink="false">CAS-0274694</guid>
     <pubDate>Mon, 16 Nov 2026 16:25:37 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274693</link>
-    <guid isPermaLink="false">CAS-0274693</guid>
-    <pubDate>Mon, 16 Nov 2026 16:21:43 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
