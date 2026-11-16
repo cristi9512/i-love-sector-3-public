@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Ozana</title>
+    <title>Trasare parcare · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274749</link>
+    <guid isPermaLink="false">CAS-0274749</guid>
+    <pubDate>Mon, 16 Nov 2026 19:59:53 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Bună ziua, vă rog să-mi spuneți dacă pentru un loc de parcare pot  primi autorizație de parcare două mașini deoarece în zona C6 se regăsește una dintre aceste situații. Auto cu nr B170NOR și B440FLK figurează cu drept de parcare pe același loc (nr.7). Dacă este legal voi solicita și eu acest lucru. Multumesc!</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274747</link>
     <guid isPermaLink="false">CAS-0274747</guid>
     <pubDate>Mon, 16 Nov 2026 19:44:48 GMT</pubDate>
@@ -590,16 +598,6 @@ Vă aducem la cunoştinţă faptul că aspectele care intră în sfera de activi
 Cu consideratie,
 Directia Generala de Salubritate Sector 3.
  </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273854</link>
-    <guid isPermaLink="false">CAS-0273854</guid>
-    <pubDate>Fri, 13 Nov 2026 05:30:32 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
   </item>
 </channel>
 </rss>

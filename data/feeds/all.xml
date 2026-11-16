@@ -6,7 +6,24 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Ozana</title>
+    <title>Trasare parcare · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274749</link>
+    <guid isPermaLink="false">CAS-0274749</guid>
+    <pubDate>Mon, 16 Nov 2026 19:59:53 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Bună ziua, vă rog să-mi spuneți dacă pentru un loc de parcare pot  primi autorizație de parcare două mașini deoarece în zona C6 se regăsește una dintre aceste situații. Auto cu nr B170NOR și B440FLK figurează cu drept de parcare pe același loc (nr.7). Dacă este legal voi solicita și eu acest lucru. Multumesc!</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274748</link>
+    <guid isPermaLink="false">CAS-0274748</guid>
+    <pubDate>Mon, 16 Nov 2026 19:51:03 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina este parcata pe loc cu autorizatie. 
+Nu a lasat numar in geam pentru a putea fi contactat.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274747</link>
     <guid isPermaLink="false">CAS-0274747</guid>
     <pubDate>Mon, 16 Nov 2026 19:44:48 GMT</pubDate>
@@ -554,24 +571,6 @@ Răspuns: locul de parcare a fost eliberat pana la ajungerea noastra in locatie<
     <category>Altele</category>
     <description>Buna ziua,
 Nu functioneaza iluminatul stradal, pe soseaua Mihai Bravu, intre numerele 491-525 ( intre Omv si Aleea Pacala). Sens Splaiul Unirii - Calea Vitan.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274689</link>
-    <guid isPermaLink="false">CAS-0274689</guid>
-    <pubDate>Mon, 16 Nov 2026 16:13:58 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Am preluat sesizarea dumneavoastra si la fata locului am constatat ca autovehiculul reclamat nu ocupa un loc de parcare sistematizat pe raza sectorului 3. Conducatorul auto se afla la auto si ulterior s-a pus in miscare degajand zona. </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274688</link>
-    <guid isPermaLink="false">CAS-0274688</guid>
-    <pubDate>Mon, 16 Nov 2026 16:01:33 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Pe str. Mugur Mugurel se parcheaza in mod constant neregulamentar la mai putin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit ridicarea tuturor autoturismelor parcate neregulamentar.</description>
   </item>
 </channel>
 </rss>

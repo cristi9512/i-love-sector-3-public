@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274748</link>
+    <guid isPermaLink="false">CAS-0274748</guid>
+    <pubDate>Mon, 16 Nov 2026 19:51:03 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina este parcata pe loc cu autorizatie. 
+Nu a lasat numar in geam pentru a putea fi contactat.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274715</link>
     <guid isPermaLink="false">CAS-0274715</guid>
@@ -610,16 +619,6 @@ Răspuns: LA MOMENTUL VERIFICARILOR IN TEREN SESIZAREA NU SE MAI CONFIRMA </desc
     <pubDate>Thu, 12 Nov 2026 16:17:08 GMT</pubDate>
     <category>Străzi</category>
     <description>este un bec ars în proximitatea parcului,  în dreptul întrării din scara 3 spateleblocului m 38. mulțumesc.</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273725</link>
-    <guid isPermaLink="false">CAS-0273725</guid>
-    <pubDate>Thu, 12 Nov 2026 16:04:53 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>mașină abandonată pe locul Nr. 25
-
-Răspuns: Trimis raspuns Urmare a sesizării dumneavostră transmisă în format electronic, înregistrată în cadrul Primăriei Sectorului 3 - Direcția Generală de Poliție Locală cu nr. 427087/2026, cu referire la autoturismul Dacia, având nr. de înmatriculare B 98 TVA, abandonat pe domeniul public, pe str. Panait Cerna nr 14 Bl M5, spate bloc, vă comunicăm faptul că în urma verificărilor efectuate în teren, au fost demarate procedurile legale conform Legii 421/2002, privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparținând domeniului public sau privat al statului ori al unităților administrativ-teritoriale, pentru un vehicul căruia i-a fost atribuit numărul de dosar A 10514. Cu stimă Raspunsul a fost trimis prin email catre cetatean.</description>
   </item>
 </channel>
 </rss>
