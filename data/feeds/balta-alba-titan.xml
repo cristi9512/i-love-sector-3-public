@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274584</link>
+    <guid isPermaLink="false">CAS-0274584</guid>
+    <pubDate>Mon, 16 Nov 2026 10:19:58 GMT</pubDate>
+    <category>Altele</category>
+    <description>Bună ziua,
+
+Vă semnalez faptul că astăzi, 16.11.2026, este a doua lună consecutivă în care locatarii de la adresa Aleea Barajul Dunării nr. 9, bl. Z10 ACE și-au respectat obligația prevăzută în notificarea transmisă de Primăria Sectorului 3 (conform HCLS3 nr. 346/30.08.2022, Cap. 7, art. 39, alin. 1, lit. b) și au eliberat locurile de parcare timp de 2 ore conform programului afișat, însă utilajele de salubrizare nu au trecut deloc pentru spălat și măturat mecanizat.
+
+În timp ce utilizatorii locurilor de parcare sunt amenințați cu sancțiuni conform HCGMB nr. 124/2008 în cazul neeliberării locurilor și fac efortul de a-și muta autoturismele, serviciul de salubrizare pentru care se solicită această eliberare nu este prestat în mod real.
+
+Vă rog să verificați motivul pentru care echipajele nu au intervenit nici astăzi în această zonă și să dispuneți efectuarea curățeniei în parcare, precum și respectarea programului de către operatorul de salubritate pe viitor.
+
+Mulțumesc!</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274578</link>
     <guid isPermaLink="false">CAS-0274578</guid>
@@ -64,12 +80,14 @@ Răspuns: LOCATIA A FOST VERIFICATA,AUTOTURISMUL MENTIONAT IN SESIZARE NU SE MAI
     <description>Nu detine autorizatie pentru B5</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274553</link>
     <guid isPermaLink="false">CAS-0274553</guid>
     <pubDate>Mon, 16 Nov 2026 08:47:33 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Nu detine autorizatie</description>
+    <description>Nu detine autorizatie
+
+Răspuns: LOCATIA A FOST VERIFICATA,AUTOTURISMUL MENTIONAT IN SESIZARE FIIND DEPISTAT IN LOCATIE,AM INTOCMIT DOCUMENTATIA CONFORM HCLS3 NR.346/2022M.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
@@ -573,15 +591,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE F
     <pubDate>Sat, 14 Nov 2026 17:45:26 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>Containerele de reciclare selectiva din sectorul 3 sunt inconjurate de gunoaie in fiecare zi. Va trimit 2 poze din sectorul 3 si o poza din sectorul 6, sa vedeti cum au implementat acolo reciclarea selectiva. In sectorul 3, oamenii amarati rascolesc containerele pentru ca au acces la ele. In sectorul 6 toate containerele sunt sub pamant astfel incat curatenia se mentine. Trageti si Dvs. concluziile.
-Multumesc.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274240</link>
-    <guid isPermaLink="false">CAS-0274240</guid>
-    <pubDate>Sat, 14 Nov 2026 17:40:59 GMT</pubDate>
-    <category>Străzi</category>
-    <description>In spatele blocului L31, intre scarile A si B, se afla o groapa ce se adanceste tot mai mult. Este acolo de peste 2 ani si se pare ca a fost reparata prost. Dedesubt s-ar putea sa se fi erodat pamantul astfel incat asfaltul pare ca se lasa. Va rog sa trimiteti o echipa sa verifice, pentru a preveni viitoare probleme mai mari.
 Multumesc.</description>
   </item>
 </channel>
