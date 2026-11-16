@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274604</link>
+    <guid isPermaLink="false">CAS-0274604</guid>
+    <pubDate>Mon, 16 Nov 2026 11:13:23 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274531</link>
     <guid isPermaLink="false">CAS-0274531</guid>
@@ -561,16 +569,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DVS , INSA VEHICULUL RECLAMAT NU A M
     <pubDate>Thu, 12 Nov 2026 14:28:38 GMT</pubDate>
     <category>Străzi</category>
     <description>Ghiciți ce mașină e în același loc de parcare ilegal ?? Rog verificare imagini de pe camera primariei montate la cc 5 ml distanta. Masini parcate la gunoi, cand in intersectie, cand pe x in fata scarii 1 a blocului i25 si jumate pe trotuar.. revin si astazi, a 498 oara din oara, la sesizarea nr 0099380, conform attach se parcheaza fie pe semnul x din fata scarii 1 a blocului i25, fie in dreptul tomberoanelor de gunoi pe zona hasurata cat si peste drum de gunoi in intersectie,in dreptul scarii 3, bloc i25, Aleea Fetesti - astfel gunoiul NU se poate ridica de masinile de salubritate. Datorita numarului mare de reclamatii, fara efect, propun blocarea rotilor cu dispozitive tip caracatita pentru identificarea soferilor si aplicarea de sanctiuni, la fel ca in zona Unirii, acelasi sector!................</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273643</link>
-    <guid isPermaLink="false">CAS-0273643</guid>
-    <pubDate>Thu, 12 Nov 2026 12:29:08 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE. VA MULTUMIM!</description>
   </item>
 </channel>
 </rss>

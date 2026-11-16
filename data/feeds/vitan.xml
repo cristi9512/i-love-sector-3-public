@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Străzi · Noua · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274603</link>
+    <guid isPermaLink="false">CAS-0274603</guid>
+    <pubDate>Mon, 16 Nov 2026 11:11:15 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Crater foarte mare în asflat.
+E aici de minim 1 luna și nimic nu se întâmplă.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274587</link>
     <guid isPermaLink="false">CAS-0274587</guid>
@@ -646,18 +655,6 @@ MULTUMIM!</description>
 
 Răspuns: bună seara,
 am aplicat instiintare pentru autoturismul pe care l-ați reclamat.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273661</link>
-    <guid isPermaLink="false">CAS-0273661</guid>
-    <pubDate>Thu, 12 Nov 2026 13:12:50 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTOTURISMUL RECLAMAT LA MOMENTUL VERIFICĂRII,ORA 19:55
-NU SE AFLA IN LOCATIA INDICATĂ.
-O SEARĂ BUNĂ!</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274600</link>
+    <guid isPermaLink="false">CAS-0274600</guid>
+    <pubDate>Mon, 16 Nov 2026 11:05:18 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274599</link>
+    <guid isPermaLink="false">CAS-0274599</guid>
+    <pubDate>Mon, 16 Nov 2026 11:03:48 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Vă solicit să inițiați demersurile necesare pentru notificarea celor de la Trattoria Monza, de pe Baba Novac 25, în vederea toaletării vegetației care depășește gardul despărțitor și care îngreunează deplasarea pietonilor pe trotuarul din zona respectivă.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274584</link>
     <guid isPermaLink="false">CAS-0274584</guid>
@@ -575,25 +591,6 @@ A fost intocmit proces-verbal de constatare si aplicata instiintare conform HCLS
     <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 22.44,AUTO LA CARE FCETI REFERIRE FIIND IDENTIFICAT IN LOCATIE.AM INTOCMIT PROCES VERBAL DE CONSTATARE SI APLICAT INSTINTARE IN PARBRIZ ,CONF.346/2022.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274244</link>
-    <guid isPermaLink="false">CAS-0274244</guid>
-    <pubDate>Sat, 14 Nov 2026 18:30:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 23
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE.VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274241</link>
-    <guid isPermaLink="false">CAS-0274241</guid>
-    <pubDate>Sat, 14 Nov 2026 17:45:26 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Containerele de reciclare selectiva din sectorul 3 sunt inconjurate de gunoaie in fiecare zi. Va trimit 2 poze din sectorul 3 si o poza din sectorul 6, sa vedeti cum au implementat acolo reciclarea selectiva. In sectorul 3, oamenii amarati rascolesc containerele pentru ca au acces la ele. In sectorul 6 toate containerele sunt sub pamant astfel incat curatenia se mentine. Trageti si Dvs. concluziile.
-Multumesc.</description>
   </item>
 </channel>
 </rss>
