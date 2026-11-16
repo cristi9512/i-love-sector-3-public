@@ -1,6 +1,7 @@
 import { t, setLang, getLang, locale, catName, catNameEn, statusText, applyStatic, duration } from './i18n.js';
 import { loadMeta, getMeta, loadRange, fetchTicket, fromLive, todayKey, toDayKey, addDays, daysBetween } from './data.js';
 import { areaOf, distanceM, insidePolygon, fromBucharest } from './geo.js';
+import { ic } from './icons.js';
 
 const OFFICIAL = 'https://iloves3.primarie3.ro/citycareweb/';
 const REPO = 'https://github.com/cristi9512/i-love-sector-3-public';
@@ -324,7 +325,7 @@ function renderChips() {
   if (state.cats) chips.push(['cats', $('#catLabel').textContent]);
   const el = $('#chips');
   el.hidden = !chips.length;
-  el.innerHTML = chips.map(([k, label]) => `<button class="chip-btn" data-chip="${k}">${esc(label)} <span aria-hidden="true">✕</span></button>`).join('')
+  el.innerHTML = chips.map(([k, label]) => `<button class="chip-btn" data-chip="${k}">${esc(label)} <span aria-hidden="true">${ic('close', 12)}</span></button>`).join('')
     + (chips.length > 1 ? `<button class="link" data-chip="all">${esc(t('clearAll'))}</button>` : '');
 }
 
@@ -379,8 +380,18 @@ function statusBadge(it) {
   return `<span class="badge" style="--status-color:var(--c-${it.status})"><i class="dot"></i>${esc(statusText(it.status, it.statusLabel))}</span>`;
 }
 
+// List previews skip the opening greeting so the first visible line says what
+// the report is about. The detail view always shows the full original text.
+const GREETING = /^\s*(bun[ăa]\s+(ziua|seara|diminea[țt]a)|stimat[ăae]?(\s+(domn|doamn)\w*)?(\s+primar)?|salut(are)?|hello|doamn[ăe]lor|domnule\s+primar)[\s,!.:;\u2026-]*/i;
+function previewText(s) {
+  let out = s;
+  for (let i = 0; i < 2; i++) out = out.replace(GREETING, '');
+  out = out.replace(/^[\s.\u2026,]+/, '');
+  return out || s;
+}
+
 function cardHTML(it, toks) {
-  const desc = it.desc ? highlight(it.desc, toks) : esc(t('noDesc'));
+  const desc = it.desc ? highlight(previewText(it.desc), toks) : esc(t('noDesc'));
   return `<article class="card${state.selected === it.id ? ' active' : ''}${it.removed ? ' removed' : ''}" data-id="${esc(it.id)}" style="--status-color:var(--c-${it.status})" tabindex="0">
     <div class="card-top"><span class="card-cat">${highlight(catLabel(it), toks)}</span>
       <time class="card-time" title="${esc(dtf().format(it.created))}">${relTime(it.created)}</time></div>
@@ -388,8 +399,8 @@ function cardHTML(it, toks) {
     ${it.reply ? `<div class="card-reply"><b>${t('reply')}:</b> ${highlight(it.reply.text, toks)}</div>` : ''}
     <div class="card-meta">${statusBadge(it)}<span class="chip">${highlight(it.ticket, toks)}</span>
       ${it.area ? `<span>${esc(it.area)}</span>` : ''}
-      ${it.edited ? `<span title="${esc(t('dEditedNote'))}">✎ ${t('edited')}</span>` : ''}
-      ${it.removed ? `<span class="removed-tag">🗑 ${t('removedBadge')}</span>` : ''}</div>
+      ${it.edited ? `<span title="${esc(t('dEditedNote'))}">${ic('edit', 13)} ${t('edited')}</span>` : ''}
+      ${it.removed ? `<span class="removed-tag">${ic('trash', 13)} ${t('removedBadge')}</span>` : ''}</div>
   </article>`;
 }
 
@@ -609,7 +620,7 @@ function openDetail(id) {
   const link = location.origin + location.pathname + '#id=' + encodeURIComponent(it.ticket);
 
   $('#detailBody').innerHTML = `<div class="detail-body" style="--status-color:var(--c-${it.status})">
-    ${statusBadge(it)} ${it.removed ? `<span class="removed-tag">🗑 ${t('removedBadge')}</span>` : ''}
+    ${statusBadge(it)} ${it.removed ? `<span class="removed-tag">${ic('trash', 13)} ${t('removedBadge')}</span>` : ''}
     <h2>${esc(catLabel(it))}</h2>
     <div class="sub">${esc(it.ticket)} · ${esc(dtf().format(it.created))} (${relTime(it.created)})${it.area ? ' · ' + esc(it.area) : ''}</div>
 
@@ -638,10 +649,10 @@ function openDetail(id) {
         <span class="nearby-text"><b>${esc(catLabel(o))}</b> — ${esc(o.desc)}</span><span class="muted small">${relTime(o.created)}</span></a>`).join('')}</div>` : ''}
 
     <div class="actions">
-      <button class="btn btn-primary" data-copy="${esc(link)}">🔗 ${t('copyLink')}</button>
+      <button class="btn btn-primary" data-copy="${esc(link)}">${ic('link')} ${t('copyLink')}</button>
       <a class="btn btn-outline" href="${esc(gmaps)}" target="_blank" rel="noopener">${t('gmaps')}</a>
       <a class="btn btn-outline" href="${esc(officialUrl)}" target="_blank" rel="noopener">${t('official')}</a>
-      <a class="btn btn-outline" href="${esc(reportUrl)}" target="_blank" rel="noopener">＋ ${t('reportHere')}</a>
+      <a class="btn btn-outline" href="${esc(reportUrl)}" target="_blank" rel="noopener">${ic('plus')} ${t('reportHere')}</a>
     </div>
   </div>`;
 
