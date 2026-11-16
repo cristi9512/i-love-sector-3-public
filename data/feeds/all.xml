@@ -6,6 +6,38 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274747</link>
+    <guid isPermaLink="false">CAS-0274747</guid>
+    <pubDate>Mon, 16 Nov 2026 19:44:48 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 8</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274746</link>
+    <guid isPermaLink="false">CAS-0274746</guid>
+    <pubDate>Mon, 16 Nov 2026 19:36:17 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274745</link>
+    <guid isPermaLink="false">CAS-0274745</guid>
+    <pubDate>Mon, 16 Nov 2026 19:35:41 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-14, precum și pentru zonele B-12,B-13,B-17,B-5,</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274744</link>
+    <guid isPermaLink="false">CAS-0274744</guid>
+    <pubDate>Mon, 16 Nov 2026 19:33:26 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274743</link>
     <guid isPermaLink="false">CAS-0274743</guid>
@@ -540,41 +572,6 @@ Răspuns: Am preluat sesizarea dumneavoastra si la fata locului am constatat ca 
     <pubDate>Mon, 16 Nov 2026 16:01:33 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Pe str. Mugur Mugurel se parcheaza in mod constant neregulamentar la mai putin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit ridicarea tuturor autoturismelor parcate neregulamentar.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274687</link>
-    <guid isPermaLink="false">CAS-0274687</guid>
-    <pubDate>Mon, 16 Nov 2026 16:01:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.
-</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274686</link>
-    <guid isPermaLink="false">CAS-0274686</guid>
-    <pubDate>Mon, 16 Nov 2026 15:57:13 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autovehiculul cu nr de înmatriculare IF54SEL este parcat pe trotuar!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274685</link>
-    <guid isPermaLink="false">CAS-0274685</guid>
-    <pubDate>Mon, 16 Nov 2026 15:55:55 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autovehiculul cu nr de înmatriculare B507DRI este parcat pe trotuar!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274684</link>
-    <guid isPermaLink="false">CAS-0274684</guid>
-    <pubDate>Mon, 16 Nov 2026 15:53:48 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autovehiculul cu nr de înmatriculare IS55KAS este parcat pe trotuar!</description>
   </item>
 </channel>
 </rss>

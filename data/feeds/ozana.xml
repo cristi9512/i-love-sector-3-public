@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274747</link>
+    <guid isPermaLink="false">CAS-0274747</guid>
+    <pubDate>Mon, 16 Nov 2026 19:44:48 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 8</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274746</link>
+    <guid isPermaLink="false">CAS-0274746</guid>
+    <pubDate>Mon, 16 Nov 2026 19:36:17 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274745</link>
+    <guid isPermaLink="false">CAS-0274745</guid>
+    <pubDate>Mon, 16 Nov 2026 19:35:41 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-14, precum și pentru zonele B-12,B-13,B-17,B-5,</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274727</link>
     <guid isPermaLink="false">CAS-0274727</guid>
@@ -576,32 +600,6 @@ Directia Generala de Salubritate Sector 3.
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273848</link>
-    <guid isPermaLink="false">CAS-0273848</guid>
-    <pubDate>Fri, 13 Nov 2026 04:14:59 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Bună ziua! Pe Aleea Lipanesti este mereu o problemă cu iluminatul public. Din nou este o buna parte din strada care nu are lumină. 
-Mulțumesc!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273847</link>
-    <guid isPermaLink="false">CAS-0273847</guid>
-    <pubDate>Fri, 13 Nov 2026 04:08:35 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcat pe trotuar.</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273830</link>
-    <guid isPermaLink="false">CAS-0273830</guid>
-    <pubDate>Thu, 12 Nov 2026 20:47:27 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>Buna seara 
-Acest scuter este lasat  de mult timp  si  ocupa un  loc de parcare ,nu  circula nimeni cu el</description>
   </item>
 </channel>
 </rss>
