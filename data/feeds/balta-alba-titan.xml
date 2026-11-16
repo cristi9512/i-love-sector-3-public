@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274663</link>
+    <guid isPermaLink="false">CAS-0274663</guid>
+    <pubDate>Mon, 16 Nov 2026 14:58:02 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare pe hasura/loc nepermis, lipsa vizibilitate</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274652</link>
     <guid isPermaLink="false">CAS-0274652</guid>
@@ -593,17 +601,6 @@ Răspuns: In urma verificarilor efectuate la fata loculuiâ auto sesizat de dvs 
     <pubDate>Sun, 15 Nov 2026 05:55:22 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Masini stationate pe trotuar, intr Barsei nr. 10. Va rog rezolvare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274289</link>
-    <guid isPermaLink="false">CAS-0274289</guid>
-    <pubDate>Sun, 15 Nov 2026 05:14:40 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: la ora 08.18 am constatat ca cele sesizate se confirma.
-A fost intocmit proces-verbal de constatare si aplicata instiintare conform HCLS3 NR 346.2022 urmand a se lua masurile legale.</description>
   </item>
 </channel>
 </rss>

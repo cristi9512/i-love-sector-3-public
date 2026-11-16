@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Gurilor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274660</link>
+    <guid isPermaLink="false">CAS-0274660</guid>
+    <pubDate>Mon, 16 Nov 2026 14:49:59 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina aceasta blocheaza seara de seara ghenele de gunoi. De asemenea blocheaza si calea de acces in complex.</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274613</link>
     <guid isPermaLink="false">CAS-0274613</guid>
@@ -637,14 +645,6 @@ Cu deosebită consideraţie,
     <description>eliberati trotuarul de masini.
 
 Răspuns: In locatie  au  fost dispuse masurile  legale  conform OUG 195/2002 r </description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0271773</link>
-    <guid isPermaLink="false">CAS-0271773</guid>
-    <pubDate>Thu, 05 Nov 2026 07:11:19 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Va rog sa reparatati groapa din poza. Ne facem masinile praf.</description>
   </item>
 </channel>
 </rss>
