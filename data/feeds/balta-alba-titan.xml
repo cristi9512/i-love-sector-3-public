@@ -6,12 +6,46 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274570</link>
+    <guid isPermaLink="false">CAS-0274570</guid>
+    <pubDate>Mon, 16 Nov 2026 09:57:48 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Revenire / Reclamare solicitare nerezolvată – Număr demers CAS-0235169  
+
+Buna ziua,
+
+Revin cu această solicitare referitoare la demersul anterior cu nr. CAS-0235169 (înregistrat pentru adresa Aleea Barajul Dunării nr. 9, bl. Z10 ACE), care figura în aplicație la secțiunea „Rezolvate”.   
+
+Apreciez răspunsul transmis anterior, însă menționez că problema nu a fost soluționată în teren. Bradul complet uscat este în continuare în picioare și reprezintă un pericol iminent de prăbușire peste mașinile parcate și persoanele din zonă. Marcarea solicitării ca fiind „rezolvată” doar prin trimiterea unui mesaj informativ nu înlătură riscul existent.   
+
+Vă rog insistent să trimiteți echipa operațională pe teren pentru tăierea/toaletarea de urgență a bradului uscat.   
+
+Vă mulțumesc!
+
+Mai doresc sa depun încă o cerere și azi
+
+Iată o variantă actualizată, formulată mai ferm, care menționează explicit că revii cu o nouă solicitare în aceeași zi, având în vedere că demersul anterior a fost închis nejustificat ca fiind „soluționat”</description>
+  </item>
+  <item>
+    <title>Spații verzi · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274567</link>
+    <guid isPermaLink="false">CAS-0274567</guid>
+    <pubDate>Mon, 16 Nov 2026 09:48:00 GMT</pubDate>
+    <category>Spații verzi</category>
+    <description>In fata blocului GC7, sunt parcate zi de zi masini pe spatiu verde. In calitate de presedinte al blocului, am facut nenumarate sesizari care s-au solutionat cu amendarea soferilor dar din pacate fenomenul nu a disparut. Anul acesta am primit compost din partea primariei pentru a astupa gropile care se formeaza acolo, dar se parea ca in curand aceste gropi vor reaparea.
+Va rog frumos sa ne ajutati cu plantarea unor copaci sau alte plante verzi pentru a scapa de aceasta problema.
+Va multumesc anticipat!</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274562</link>
     <guid isPermaLink="false">CAS-0274562</guid>
     <pubDate>Mon, 16 Nov 2026 09:24:17 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: LOCATIA A FOST VERIFICATA,AUTOTURISMUL MENTIONAT IN SESIZARE NU SE MAI AFLA IN LOCATIE.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
@@ -547,26 +581,6 @@ Multumesc.</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Parcajul a fost verificat la ora 19:10 vehiculul la care faceți referire fiind găsit parcat pe un loc de parcare nominal, respectiv locul 92 , bateria  1010_1; potrivit prevederilor art.37 alin.(1) din regulamentul aprobat prin HCLS3 nr.346/2022, un loc de parcare nominal poate fi ocupat de orice persoană care tranzitează zona cu condiția afișării la loc vizibil a unui număr de telefon pentru a putea fi contactat, iar în maxim 15 minute de la momentul contactării de către titularul locului de parcare, este obligat să elibereze locul . Va multumim!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274213</link>
-    <guid isPermaLink="false">CAS-0274213</guid>
-    <pubDate>Sat, 14 Nov 2026 15:46:53 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LIPSA FOTOGRAFIE NECESARA VERIFICARII SI SOLUTIONARII SESIZARII. REVENITI CU SESIZARE ATASAND MINIM O FOTOGRAFIE DIN CARE SA REIASA ATAT NUMARUL DE INMATRICULARE AL AUTOTURISMULUI RECLAMAT CAT SI TIPUL DE PARCAJ DE RESEDINTA. VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274212</link>
-    <guid isPermaLink="false">CAS-0274212</guid>
-    <pubDate>Sat, 14 Nov 2026 15:32:59 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE. </description>
   </item>
 </channel>
 </rss>
