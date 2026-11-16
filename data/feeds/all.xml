@@ -6,6 +6,63 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274717</link>
+    <guid isPermaLink="false">CAS-0274717</guid>
+    <pubDate>Mon, 16 Nov 2026 17:29:49 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274716</link>
+    <guid isPermaLink="false">CAS-0274716</guid>
+    <pubDate>Mon, 16 Nov 2026 17:28:17 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274715</link>
+    <guid isPermaLink="false">CAS-0274715</guid>
+    <pubDate>Mon, 16 Nov 2026 17:24:32 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 25</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274714</link>
+    <guid isPermaLink="false">CAS-0274714</guid>
+    <pubDate>Mon, 16 Nov 2026 17:23:23 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autoturism staționat neregulamentar într-o intersecție, parțial pe un loc de parcare de reședință destinat persoanelor cu dizabilități.
+Numărul de înmatriculare al acestuia B113DSJ.</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274713</link>
+    <guid isPermaLink="false">CAS-0274713</guid>
+    <pubDate>Mon, 16 Nov 2026 17:22:22 GMT</pubDate>
+    <category>Străzi</category>
+    <description>două capace canal defecte. unul in zona Splaiul Unirii 253-255 in dreptul blocului de la această adresă și încă unul cateva zeci de metri mai in spate (splaiul unirii 259), ambele pe banda a doua de circulație. nefiind corect așezate (sau deformate), fac galagie de cate ori sunt calcate de mașinile ce trec pe banda doi si fac un zgomot deranjant. Daca nu sunt suficient de stabile, pot prezenta si un risc de accident pentru soferi, mai ales pentru cei pe două roți. rog să fie verificate si reparatr canalele respective.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274712</link>
+    <guid isPermaLink="false">CAS-0274712</guid>
+    <pubDate>Mon, 16 Nov 2026 17:21:07 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274711</link>
+    <guid isPermaLink="false">CAS-0274711</guid>
+    <pubDate>Mon, 16 Nov 2026 17:16:38 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Este nevoie de iluminare stradală.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274710</link>
     <guid isPermaLink="false">CAS-0274710</guid>
@@ -126,12 +183,14 @@ Mircea Spanu
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274698</link>
     <guid isPermaLink="false">CAS-0274698</guid>
     <pubDate>Mon, 16 Nov 2026 16:30:58 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Ocuparea abuziva a locului de parcare rezidential</description>
+    <description>Ocuparea abuziva a locului de parcare rezidential
+
+Răspuns: locul de parcare a fost eliberat pana la ajungerea noastra in locatie</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
@@ -459,64 +518,6 @@ Inainte erau stropitori.</description>
     <pubDate>Mon, 16 Nov 2026 14:47:28 GMT</pubDate>
     <category>Ordine și liniște publică</category>
     <description>zilnic se depozitează gunoi în zona punctului trafo..va rog să luați masuri și să montați camere de supraveghere</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274657</link>
-    <guid isPermaLink="false">CAS-0274657</guid>
-    <pubDate>Mon, 16 Nov 2026 14:46:52 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>zilnic se depozitează gunoi în zona punctului trafo..va rog să luați masuri</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274656</link>
-    <guid isPermaLink="false">CAS-0274656</guid>
-    <pubDate>Mon, 16 Nov 2026 14:46:22 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274655</link>
-    <guid isPermaLink="false">CAS-0274655</guid>
-    <pubDate>Mon, 16 Nov 2026 14:41:40 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară TR 50 COM blocând accesul pietonilor pe trotuar în special cei cu cărucioare str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274654</link>
-    <guid isPermaLink="false">CAS-0274654</guid>
-    <pubDate>Mon, 16 Nov 2026 14:40:23 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 321 UMS în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274653</link>
-    <guid isPermaLink="false">CAS-0274653</guid>
-    <pubDate>Mon, 16 Nov 2026 14:37:26 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274652</link>
-    <guid isPermaLink="false">CAS-0274652</guid>
-    <pubDate>Mon, 16 Nov 2026 14:32:20 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274651</link>
-    <guid isPermaLink="false">CAS-0274651</guid>
-    <pubDate>Mon, 16 Nov 2026 14:32:15 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Va rugam sa faceti curat si pe
-Bld Camil Ressu, intre piata RamnicuSarat si piata Ambroziei , in sensul de mers spre Ambrozie pe partea dreapta trotuarul este plin de frunze, nu curata nimeni, spre deosebire de trotuarul de vis a vis.
-Multumesc.</description>
   </item>
 </channel>
 </rss>

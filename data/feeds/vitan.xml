@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274717</link>
+    <guid isPermaLink="false">CAS-0274717</guid>
+    <pubDate>Mon, 16 Nov 2026 17:29:49 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274713</link>
+    <guid isPermaLink="false">CAS-0274713</guid>
+    <pubDate>Mon, 16 Nov 2026 17:22:22 GMT</pubDate>
+    <category>Străzi</category>
+    <description>două capace canal defecte. unul in zona Splaiul Unirii 253-255 in dreptul blocului de la această adresă și încă unul cateva zeci de metri mai in spate (splaiul unirii 259), ambele pe banda a doua de circulație. nefiind corect așezate (sau deformate), fac galagie de cate ori sunt calcate de mașinile ce trec pe banda doi si fac un zgomot deranjant. Daca nu sunt suficient de stabile, pot prezenta si un risc de accident pentru soferi, mai ales pentru cei pe două roți. rog să fie verificate si reparatr canalele respective.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274690</link>
     <guid isPermaLink="false">CAS-0274690</guid>
@@ -621,32 +637,6 @@ NU SE AFLA IN LOCATIA INDICATĂ</description>
 
 Răspuns: BUNĂ SEARA!
 AM APLICAT INSTIINTARE PENTRU AUTOTURISMUL RECLAMAT</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273672</link>
-    <guid isPermaLink="false">CAS-0273672</guid>
-    <pubDate>Thu, 12 Nov 2026 13:37:25 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNĂ SEARA!
-AUTOTURISMUL RECLAMAT DE DUMNEAVOASTRĂ,
-LA MOMENTUL VERIFICĂRII,ORA 19:05,
-NU SE AFLA IN LOCATIA INDICATĂ</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273671</link>
-    <guid isPermaLink="false">CAS-0273671</guid>
-    <pubDate>Thu, 12 Nov 2026 13:36:11 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNĂ SEARA!
-AUTOTURISMUL RECLAMAT DE DUMNEAVOASTRĂ,
-LA MOMENTUL VERIFICĂRII,ORA 18:24 ,
-NU SE AFLA IN LOCATIA INDICATĂ</description>
   </item>
 </channel>
 </rss>
