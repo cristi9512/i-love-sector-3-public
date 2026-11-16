@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Trapezului</description>
   <language>ro</language>
   <item>
+    <title>Parcuri · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274732</link>
+    <guid isPermaLink="false">CAS-0274732</guid>
+    <pubDate>Mon, 16 Nov 2026 18:13:25 GMT</pubDate>
+    <category>Parcuri</category>
+    <description>lipsa iluminat public la locul de joaca de la capatul strazii Marului. la ora 17 deja este intuneric</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274610</link>
     <guid isPermaLink="false">CAS-0274610</guid>
@@ -621,16 +629,6 @@ Vă mulțumim!</description>
 
 Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.
 Vă mulțumim!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272773</link>
-    <guid isPermaLink="false">CAS-0272773</guid>
-    <pubDate>Mon, 09 Nov 2026 11:43:19 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna ziua. Aceasta masina sta zilnic parcata pe trotuar si obtureaza vizibilitatea la ieșirea din parcare, plus ca nu are voie sa parcheze pe trotuar.  Va mulțumesc
-
-Răspuns: au fost aplicate doua instiintari. Zona ramane in atentie</description>
   </item>
 </channel>
 </rss>

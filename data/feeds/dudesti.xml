@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274731</link>
+    <guid isPermaLink="false">CAS-0274731</guid>
+    <pubDate>Mon, 16 Nov 2026 18:12:47 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Reabilitare blocuri · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274706</link>
     <guid isPermaLink="false">CAS-0274706</guid>
@@ -110,12 +118,14 @@ Mircea Spanu
     <description>Mașina ocupa trotuarul pentru circulația pietonilor și a celor ce ies din imobil</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274630</link>
     <guid isPermaLink="false">CAS-0274630</guid>
     <pubDate>Mon, 16 Nov 2026 12:23:30 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 04.12.2026 18:00.</description>
+    <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 04.12.2026 18:00.
+
+Răspuns: sesizare incompleta </description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
@@ -577,17 +587,6 @@ La data si ora efectuarii verificarilor in locatia indicata, aspectele sesizate 
     <description>Ma simt nevoit sa fac aceasta sesizare legata de prezenta si comportamentul drogatilor din zona piata alba iulia. S-au inmultit , sunt tupeisti, iti este frica sa iesi cu cai ele din bloc sa nu iti dea in cap. S-au aciuat pe la scarile blocului si dupa cum o sa vedeti in pozele atasate , isi fac nevoile , ziua in amiaza mare, langa intrarile blocurilor, peste tot sunt numai gunoaie , garouri improvizate , si ambalaje de mancare in urma lor. Daca politia locala tot vine sa verifice daca masinile parcate au abonament sau nu , ar putea sa patruleze si pentru depistarea unor asemenea personaje. Cu vonsideratie , un platitor de taxe. Adresa : Caloian judetu 8 , zona din spatele blocurilor D19a si D19b.
 
 Răspuns: IN MOMENTUL VERIFICARILOR IN LOCATIE NU AU FOST IDENTIFICATE PERSOANE CE SA FACA OBIECTUL SESIZARI ,ZONA VA RAMANE IN MONITORIZARE.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273975</link>
-    <guid isPermaLink="false">CAS-0273975</guid>
-    <pubDate>Fri, 13 Nov 2026 12:08:46 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna ziua,
-La data si ora efectuarii verificarilor in locatia indicata, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>
