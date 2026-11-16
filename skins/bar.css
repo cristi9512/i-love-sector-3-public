@@ -1,5 +1,0 @@
-.skin-bar { display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: center; justify-content: space-between; padding: 6px 16px; background: #fff3bf; color: #3d3000; font: 500 12.5px/1.4 system-ui, -apple-system, sans-serif; border-bottom: 1px solid #e6d690; }
-.skin-bar span { display: flex; flex-wrap: wrap; gap: 4px 12px; }
-.skin-bar a { color: inherit; }
-.skin-bar a[aria-current] { font-weight: 700; text-decoration: none; }
-@media (prefers-color-scheme: dark) { .skin-bar { background: #3a3204; color: #fff3bf; border-color: #5a4d0a; } }

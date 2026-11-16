@@ -437,11 +437,37 @@ function renderDataLine() {
 let map, cluster, heat, zoneCircle, miniMap;
 const markers = new Map();
 
+// Vector basemap from OpenFreeMap (free, no key), drawn by MapLibre inside
+// Leaflet so markers, clusters, heatmap and zones work as before. Browsers
+// without WebGL get the plain OpenStreetMap raster tiles instead.
+const MAP_STYLE = { light: 'https://tiles.openfreemap.org/styles/positron', dark: 'https://tiles.openfreemap.org/styles/dark' };
+const darkMq = matchMedia('(prefers-color-scheme: dark)');
+const styleUrl = () => MAP_STYLE[darkMq.matches ? 'dark' : 'light'];
+const glLayers = new Set();
+const GL_OK = (() => {
+  if (typeof L.maplibreGL !== 'function') return false;
+  try { const c = document.createElement('canvas'); return !!(c.getContext('webgl2') || c.getContext('webgl')); } catch { return false; }
+})();
+const OSM_ATTR = '&copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>';
 function tileLayer() {
-  return L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-  });
+  if (GL_OK) {
+    const layer = L.maplibreGL({
+      style: styleUrl(),
+      attribution: '<a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> &copy; <a href="https://www.openmaptiles.org/" target="_blank" rel="noopener">OpenMapTiles</a> · ' + OSM_ATTR,
+    });
+    glLayers.add(layer);
+    // MapLibre misses the first size change of a map that started hidden
+    // (phones), so resize it after Leaflet has resized the layer's container.
+    const fit = () => requestAnimationFrame(() => requestAnimationFrame(() => layer.getMaplibreMap()?.resize()));
+    layer.on('add', (e) => e.target._map.on('resize', fit));
+    layer.on('remove', (e) => { glLayers.delete(layer); e.target._map?.off('resize', fit); });
+    return layer;
+  }
+  return L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, className: 'osm-raster', attribution: OSM_ATTR });
 }
+darkMq.addEventListener('change', () => {
+  for (const layer of glLayers) layer.getMaplibreMap()?.setStyle(styleUrl());
+});
 // map shapes are SVG attributes, which can't use CSS variables
 const cssVar = (name) => getComputedStyle(document.documentElement).getPropertyValue(name).trim() || '#0f766e';
 function boundaryLayer() {
@@ -451,11 +477,22 @@ function boundaryLayer() {
 }
 
 function initMap() {
-  map = L.map('map', { zoomControl: true }).setView(CENTER, 13);
+  map = L.map('map', { zoomControl: true, maxZoom: 19 }).setView(CENTER, 13);
   tileLayer().addTo(map);
   if (state.assets?.boundary) {
     const b = boundaryLayer().addTo(map);
-    map.fitBounds(b.getBounds(), { padding: [10, 10] });
+    // fit the sector, allowing a few pixels of crop so a phone gets one zoom
+    // level closer instead of showing half of Bucharest
+    const fitSector = () => {
+      const bounds = b.getBounds();
+      map.setView(bounds.getCenter(), map.getBoundsZoom(bounds, false, L.point(-40, -40)));
+    };
+    // on phones the map starts hidden (zero size); fit once it is first shown
+    if (map.getSize().y > 50) fitSector();
+    else {
+      const onResize = () => { if (map.getSize().y > 50) { map.off('resize', onResize); fitSector(); } };
+      map.on('resize', onResize);
+    }
   }
   cluster = L.markerClusterGroup({
     chunkedLoading: true, showCoverageOnHover: false, maxClusterRadius: 45, spiderfyOnMaxZoom: true,
@@ -662,7 +699,7 @@ function openDetail(id) {
   history.replaceState(null, '', '#' + hashParams({ id: it.ticket }));
   if (miniMap) { miniMap.remove(); miniMap = null; }
   requestAnimationFrame(() => {
-    miniMap = L.map('miniMap', { zoomControl: false, attributionControl: false, scrollWheelZoom: false }).setView([it.lat, it.lng], 17);
+    miniMap = L.map('miniMap', { maxZoom: 19, zoomControl: false, attributionControl: false, scrollWheelZoom: false }).setView([it.lat, it.lng], 17);
     tileLayer().addTo(miniMap);
     if (state.assets?.boundary) boundaryLayer().addTo(miniMap);
     L.marker([it.lat, it.lng], { icon: pinIcon(it, true), interactive: false }).addTo(miniMap);
