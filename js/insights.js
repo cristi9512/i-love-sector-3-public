@@ -14,7 +14,7 @@ function quantile(sorted, q) {
   return sorted[lo] + (sorted[hi] - sorted[lo]) * (pos - lo);
 }
 const tipAttr = (html) => `data-tip="${esc(html)}"`;
-const legendHTML = () => `<div class="viz-legend">${ORDER.map((k) => `<span><i class="dot" style="background:var(--c-${k})"></i>${t(LEGEND[k])}</span>`).join('')}</div>`;
+const legendHTML = (list) => `<div class="viz-legend">${ORDER.filter((k) => !list || list.some((it) => it.status === k)).map((k) => `<span><i class="dot" style="background:var(--c-${k})"></i>${t(LEGEND[k])}</span>`).join('')}</div>`;
 const tableHTML = (head, rows) => `<details class="viz-table"><summary>${t('asTable')}</summary><div class="table-wrap"><table>
   <thead><tr>${head.map((h) => `<th>${esc(h)}</th>`).join('')}</tr></thead>
   <tbody>${rows.map((r) => `<tr>${r.map((c) => `<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</tbody></table></div></details>`;
@@ -22,9 +22,12 @@ const card = (title, body, extra = '') => `<section class="viz-card ${extra}"><h
 const breakdownTip = (title, c, total) => `<b>${esc(title)}</b><br>${fmtN(total)} ${t('reportsN')}<br>` +
   ORDER.filter((k) => c[k]).map((k) => `<i class="dot" style="background:var(--c-${k})"></i> ${t(LEGEND[k])}: ${fmtN(c[k])}`).join('<br>');
 const blank = () => ({ good: 0, partial: 0, bad: 0, other: 0, open: 0 });
+const groupCount = (list, key) => { const m = new Map(); for (const it of list) { const k = key(it); m.set(k, (m.get(k) || 0) + 1); } return m; };
 
 /* ---------- KPIs ---------- */
-function kpis(base, prev) {
+// f.status is the status filter ('all' or one outcome); f.all / f.prevAll are
+// the same reports before that filter, so shares can be "of all reports".
+function kpis(base, prev, f) {
   const s = (list) => {
     const c = blank(); let replied = 0;
     for (const it of list) { c[it.status]++; if (it.reply) replied++; }
@@ -44,14 +47,36 @@ function kpis(base, prev) {
     return `<span class="delta">${d > 0 ? '▲' : d < 0 ? '▼' : '='} ${Math.abs(d)} pp</span>`;
   };
   const tile = (value, label, d = '', sub = '') => `<div class="kpi"><b>${value}</b><span>${esc(label)}</span>${d}${sub ? `<small>${esc(sub)}</small>` : ''}</div>`;
-  return `<div class="kpis">
+  const ttcTile = () => tile(a.ttc != null ? esc(duration(a.ttc)) : '—', t('kTtc'), '', a.ttc != null ? t('kN', { n: fmtN(a.ttcN) }) : t('kTtcNone'));
+  const note = `<p class="fine">${esc(b ? t('iVsPrev') : t('iNoPrev'))}</p>`;
+
+  if (f.status === 'all') {
+    return `<div class="kpis">
     ${tile(fmtN(a.n), t('kTotal'), delta(a.n, b?.n, 'count'))}
     ${tile(a.resolved + '%', t('kResolved'), delta(a.resolved, b?.resolved))}
     ${tile(a.rejected + '%', t('kRejected'), delta(a.rejected, b?.rejected))}
     ${tile(fmtN(a.open), t('kOpen'), delta(a.open, b?.open, 'count'))}
     ${tile(a.replied + '%', t('kReplied'), delta(a.replied, b?.replied))}
-    ${tile(a.ttc != null ? esc(duration(a.ttc)) : '—', t('kTtc'), '', a.ttc != null ? t('kN', { n: fmtN(a.ttcN) }) : t('kTtcNone'))}
-  </div><p class="fine">${esc(b ? t('iVsPrev') : t('iNoPrev'))}</p>`;
+    ${ttcTile()}
+  </div>${note}`;
+  }
+  // one status selected: count, its share of everything, and what is still informative for it
+  const share = pct(a.n, f.all.length), prevShare = b && f.prevAll ? pct(b.n, f.prevAll.length) : null;
+  const tiles = [
+    tile(fmtN(a.n), t('kTotalOf', { s: t(f.label) }), delta(a.n, b?.n, 'count')),
+    tile(share + '%', t('kShareAll', { n: fmtN(f.all.length) }), delta(share, prevShare)),
+  ];
+  if (f.status === 'good') tiles.push(tile(fmtN(a.c.partial), t('kPartial'), delta(a.c.partial, b?.c.partial, 'count')));
+  // reports in progress never have a public reply yet, so that tile would always read 0%
+  if (f.status !== 'open') tiles.push(tile(a.replied + '%', t('kReplied'), delta(a.replied, b?.replied)));
+  if (f.status === 'open') {
+    const now = Date.now();
+    const ages = base.map((it) => now - it.created).sort((x, y) => x - y);
+    const old7 = base.filter((it) => now - it.created > 7 * 864e5).length;
+    tiles.push(tile(ages.length ? esc(duration(quantile(ages, 0.5))) : '—', t('kAge')));
+    tiles.push(tile(fmtN(old7), t('kOld7')));
+  } else tiles.push(ttcTile());
+  return `<div class="kpis">${tiles.join('')}</div>${note}`;
 }
 
 /* ---------- time series (stacked bars) ---------- */
@@ -114,14 +139,15 @@ function series(base, range) {
     svg += `<rect x="${L + i * slot}" y="${T}" width="${slot}" height="${ph}" class="hit" ${tipAttr(breakdownTip(fmtKey(b.key), b.c, b.n))}/>`;
     if (i % every === 0) svg += `<text x="${x + bw / 2}" y="${H - 8}" class="axis" text-anchor="middle">${esc(fmtKey(b.key))}</text>`;
   });
-  const chart = `${legendHTML()}<svg class="viz-svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(t(hourly ? 'cHourly' : 'cDaily'))}">${svg}</svg>`;
+  const chart = `${legendHTML(base)}<svg class="viz-svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="${esc(t(hourly ? 'cHourly' : 'cDaily'))}">${svg}</svg>`;
   const table = tableHTML([t(hourly ? 'hour' : 'day'), t('count'), ...ORDER.map((k) => t(LEGEND[k]))],
     buckets.map((b) => [fmtKey(b.key), fmtN(b.n), ...ORDER.map((k) => fmtN(b.c[k]))]));
   return card(t(hourly ? 'cHourly' : 'cDaily'), chart + table, 'wide');
 }
 
 /* ---------- outcome by category ---------- */
-function byCategory(base) {
+function byCategory(base, f) {
+  const totals = groupCount(f.all, (it) => it.catId);
   const map = new Map();
   for (const it of base) {
     if (!map.has(it.catId)) map.set(it.catId, { id: it.catId, name: catLabel(it), c: blank(), n: 0 });
@@ -130,12 +156,12 @@ function byCategory(base) {
   const rows = [...map.values()].sort((a, b) => b.n - a.n);
   const top = rows.slice(0, 12);
   const body = top.map((g) => `<div class="hbar-row">
-      <button class="hbar-label" data-cat="${esc(g.id)}" title="${esc(g.name)}"><span>${esc(g.name)}</span><small>${fmtN(g.n)} · ${t('resolvedPct', { p: pct(g.c.good + g.c.partial, g.n) })}</small></button>
+      <button class="hbar-label" data-cat="${esc(g.id)}" title="${esc(g.name)}"><span>${esc(g.name)}</span><small>${fmtN(g.n)} · ${f.status === 'all' ? t('resolvedPct', { p: pct(g.c.good + g.c.partial, g.n) }) : t('shareCat', { p: pct(g.n, totals.get(g.id)) })}</small></button>
       <div class="hbar-track stacked">${ORDER.filter((k) => g.c[k]).map((k) => `<span style="flex:${g.c[k]};background:var(--c-${k})" ${tipAttr(breakdownTip(g.name, g.c, g.n))}></span>`).join('')}</div>
     </div>`).join('');
   const table = tableHTML([t('category'), t('count'), ...ORDER.map((k) => t(LEGEND[k]))],
     rows.map((g) => [g.name, fmtN(g.n), ...ORDER.map((k) => `${fmtN(g.c[k])} (${pct(g.c[k], g.n)}%)`)]));
-  return card(t('cByCat'), legendHTML() + `<div class="hbars">${body || `<p class="muted">—</p>`}</div>` + table);
+  return card(t('cByCat'), legendHTML(base) + `<div class="hbars">${body || `<p class="muted">—</p>`}</div>` + table);
 }
 
 /* ---------- hour × weekday ---------- */
@@ -159,7 +185,8 @@ function heat(base) {
 }
 
 /* ---------- neighbourhoods ---------- */
-function areas(base) {
+function areas(base, f) {
+  const totals = groupCount(f.all, (it) => it.area);
   const map = new Map();
   for (const it of base) {
     if (!it.area) continue;
@@ -170,9 +197,12 @@ function areas(base) {
   }
   const rows = [...map.values()].sort((a, b) => b.n - a.n);
   const max = Math.max(1, ...rows.map((r) => r.n));
+  const sub = (g) => (f.status === 'all'
+    ? [t('resolvedPct', { p: pct(g.good, g.n) }), t('openN', { n: fmtN(g.open) })]
+    : [t('shareArea', { p: pct(g.n, totals.get(g.name)) })]);
   const body = rows.map((g) => `<div class="hbar-row">
-      <button class="hbar-label" data-area="${esc(g.name)}"><span>${esc(g.name)}</span><small>${t('resolvedPct', { p: pct(g.good, g.n) })} · ${t('openN', { n: fmtN(g.open) })}</small></button>
-      <div class="hbar-track"><span class="hbar-fill" style="width:${(g.n / max) * 100}%" ${tipAttr(`<b>${esc(g.name)}</b><br>${fmtN(g.n)} ${t('reportsN')}<br>${t('resolvedPct', { p: pct(g.good, g.n) })}<br>${t('openN', { n: fmtN(g.open) })}`)}></span><em>${fmtN(g.n)}</em></div>
+      <button class="hbar-label" data-area="${esc(g.name)}"><span>${esc(g.name)}</span><small>${sub(g).join(' · ')}</small></button>
+      <div class="hbar-track"><span class="hbar-fill" style="width:${(g.n / max) * 100}%" ${tipAttr(`<b>${esc(g.name)}</b><br>${fmtN(g.n)} ${t('reportsN')}<br>${sub(g).join('<br>')}`)}></span><em>${fmtN(g.n)}</em></div>
     </div>`).join('');
   const table = tableHTML([t('dArea'), t('count'), t('legendGood'), t('legendOpen')], rows.map((g) => [g.name, fmtN(g.n), `${pct(g.good, g.n)}%`, fmtN(g.open)]));
   return card(t('cAreas'), `<p class="fine">${esc(t('areaHint'))}</p><div class="hbars">${body}</div>${table}`);
@@ -209,7 +239,7 @@ function timeToClose(base, items) {
 }
 
 /* ---------- hotspots ---------- */
-function hotspots(base) {
+function hotspots(base, f) {
   const cells = new Map();
   for (const it of base) {
     if (!isFinite(it.lat)) continue;
@@ -227,7 +257,7 @@ function hotspots(base) {
   if (!spots.length) return card(t('cHot'), `<p class="muted">${esc(t('hotNone'))}</p>`);
   const body = `<ol class="spots">${spots.map((s) => `<li><button data-zone="${s.lat.toFixed(6)},${s.lng.toFixed(6)}" data-zone-cat="${esc(s.l[0].catId)}">
       <span class="spot-n">${fmtN(s.n)}×</span>
-      <span class="spot-main"><b>${esc(s.name)}</b><small>${esc(s.area || '')} · ${t('resolvedPct', { p: pct(s.good, s.n) })} · ${t('openN', { n: fmtN(s.open) })} · ${t('lastReport', { t: relTime(s.last) })}</small></span>
+      <span class="spot-main"><b>${esc(s.name)}</b><small>${[s.area || '', ...(f.status === 'all' ? [t('resolvedPct', { p: pct(s.good, s.n) }), t('openN', { n: fmtN(s.open) })] : []), t('lastReport', { t: relTime(s.last) })].filter(Boolean).map(esc).join(' · ')}</small></span>
       <span aria-hidden="true">→</span></button></li>`).join('')}</ol>`;
   return card(t('cHot'), `<p class="fine">${esc(t('hotNote'))}</p>${body}`);
 }
@@ -312,17 +342,22 @@ function bindTooltip(root) {
 }
 
 export function render(root, ctx) {
-  const { base, prevBase, range, loading, items, assets } = ctx;
+  const { range, loading, items, assets } = ctx;
+  // the status filter applies here too; the unfiltered lists stay for "share of all" figures
+  const status = ctx.status || 'all', keep = ctx.statusFilter || (() => true);
+  const f = { status, label: ctx.statusLabel, all: ctx.base, prevAll: ctx.prevBase };
+  const base = status === 'all' ? ctx.base : ctx.base.filter((it) => keep(it.status));
+  const prevBase = ctx.prevBase && status !== 'all' ? ctx.prevBase.filter((it) => keep(it.status)) : ctx.prevBase;
   if (loading && !base.length) { root.innerHTML = '<div class="viz-grid"><div class="skeleton tall"></div><div class="skeleton tall"></div></div>'; return; }
   root.innerHTML = `<div class="viz-head"><h1>${esc(t('iTitle'))}</h1></div>
-    ${kpis(base, prevBase)}
+    ${kpis(base, prevBase, f)}
     <div class="viz-grid">
       ${series(base, range)}
-      ${byCategory(base)}
-      ${areas(base)}
+      ${byCategory(base, f)}
+      ${areas(base, f)}
       ${heat(base)}
       ${timeToClose(base, items)}
-      ${hotspots(base)}
+      ${hotspots(base, f)}
       ${templates(base)}
       ${recent(base)}
       ${feeds(assets)}

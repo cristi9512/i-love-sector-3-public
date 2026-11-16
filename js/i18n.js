@@ -51,6 +51,8 @@ const STR = {
     close: 'Închide',
     // insights
     iTitle: 'Statistici pentru filtrele alese', iVsPrev: 'Săgețile compară cu perioada anterioară de aceeași lungime. Sesizările recente au avut mai puțin timp să fie rezolvate, așa că ponderile de rezolvare par mai mici pentru perioadele recente.', iNoPrev: 'fără comparație (perioada anterioară nu e în arhivă)',
+    kTotalOf: 'Sesizări · {s}', kShareAll: 'din toate cele {n} sesizări', kPartial: 'Din care rezolvate parțial', kAge: 'Vechime mediană', kOld7: 'Deschise de peste 7 zile',
+    shareCat: '{p}% din categorie', shareArea: '{p}% din cartier',
     kTotal: 'Sesizări', kResolved: 'Rezolvate', kRejected: 'Nefavorabil', kOpen: 'Încă în lucru', kReplied: 'Cu răspuns public', kTtc: 'Timp median până la închidere',
     kTtcNone: 'încă se colectează', kN: 'din {n} sesizări',
     cDaily: 'Sesizări pe zi, după rezultat', cHourly: 'Sesizări pe oră, după rezultat', cByCat: 'Rezultat pe categorii',
@@ -118,6 +120,8 @@ const STR = {
     copyLink: 'Copy link', gmaps: 'Google Maps', official: 'Official map', reportHere: 'Report a problem here',
     close: 'Close',
     iTitle: 'Insights for the selected filters', iVsPrev: 'Arrows compare with the previous period of the same length. Recent reports have had less time to be resolved, so resolution shares look lower for recent periods.', iNoPrev: 'no comparison (previous period not in the archive)',
+    kTotalOf: 'Reports · {s}', kShareAll: 'of all {n} reports', kPartial: 'Of which partly resolved', kAge: 'Median age', kOld7: 'Open for over 7 days',
+    shareCat: '{p}% of the category', shareArea: '{p}% of the area',
     kTotal: 'Reports', kResolved: 'Resolved', kRejected: 'Rejected', kOpen: 'Still open', kReplied: 'With a public reply', kTtc: 'Median time to close',
     kTtcNone: 'still collecting', kN: 'from {n} reports',
     cDaily: 'Reports per day, by outcome', cHourly: 'Reports per hour, by outcome', cByCat: 'Outcome by category',

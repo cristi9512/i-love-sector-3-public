@@ -734,6 +734,8 @@ async function renderInsightsTab() {
   if (!insightsMod) insightsMod = await import('./insights.js');
   insightsMod.render($('#insightsView'), {
     base: state.base, prevBase: state.prevBase, range: currentRange(), loading: state.loading,
+    status: state.status, statusFilter: STATUS_FILTER[state.status],
+    statusLabel: { all: 'sAll', open: 'sOpen', good: 'sGood', bad: 'sBad', other: 'sOther' }[state.status],
     meta: getMeta(), assets: state.assets, items: state.items,
     onArea: (a) => { state.area = a; state.tab = 'list'; state.shown = PAGE; refresh(); window.scrollTo(0, 0); },
     onZone: (lat, lng, r, cat) => { if (cat) state.cats = new Set([cat]); state.tab = 'list'; renderControls(); setTimeout(() => { map.invalidateSize(); setZone(lat, lng, r); }, 30); },
