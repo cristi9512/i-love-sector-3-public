@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-16T11:31:01.055Z",
-  "lastChange": "2026-11-16T11:31:01.055Z",
+  "lastRun": "2026-11-16T11:45:34.874Z",
+  "lastChange": "2026-11-16T11:45:34.874Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2816,
-    "added": 1460,
-    "updated": 16,
+    "fetched": 3001,
+    "added": 2252,
+    "updated": 1,
     "removed": 0,
-    "changes": 30
+    "changes": 3
   },
   "totals": {
-    "incidents": 42975,
-    "open": 2034,
+    "incidents": 45227,
+    "open": 2038,
     "months": [
       "2026-05",
       "2026-06",
@@ -23,7 +23,135 @@
       "2026-11"
     ]
   },
-  "coverageFrom": "2026-05-13",
+  "coverageFrom": "2026-05-05",
+  "overdue": {
+    "asOf": "2026-11-16T11:45:34.874Z",
+    "days": 30,
+    "open": 2038,
+    "total": 216,
+    "byCategory": {
+      "2": {
+        "name": "Parcari ocupate",
+        "open": 46,
+        "n": 7
+      },
+      "3": {
+        "name": "Spații verzi",
+        "open": 43,
+        "n": 7
+      },
+      "4": {
+        "name": "Lucrari edilitare alei/trotuare",
+        "open": 185,
+        "n": 18
+      },
+      "5": {
+        "name": "Taxe şi impozite",
+        "open": 111,
+        "n": 89
+      },
+      "6": {
+        "name": "Deșeuri/Colectare selective/Salubritate",
+        "open": 78,
+        "n": 4
+      },
+      "7": {
+        "name": "Verificări construcții/Lucrări neautorizate",
+        "open": 42,
+        "n": 7
+      },
+      "9": {
+        "name": "Altele",
+        "open": 234,
+        "n": 17
+      },
+      "10": {
+        "name": "Străzi",
+        "open": 452,
+        "n": 39
+      },
+      "11": {
+        "name": "Parcuri",
+        "open": 44,
+        "n": 6
+      },
+      "12": {
+        "name": "Trasare parcare",
+        "open": 44,
+        "n": 0
+      },
+      "13": {
+        "name": "Unități de Învățământ(probleme administrative)",
+        "open": 11,
+        "n": 5
+      },
+      "14": {
+        "name": "Toaletare/Tăiere arbori",
+        "open": 163,
+        "n": 1
+      },
+      "15": {
+        "name": "Animale de companie",
+        "open": 1,
+        "n": 1
+      },
+      "16": {
+        "name": "Mașini abandonate",
+        "open": 44,
+        "n": 0
+      },
+      "17": {
+        "name": "Comerț stradal neautorizat",
+        "open": 3,
+        "n": 0
+      },
+      "18": {
+        "name": "Mediu/Calitatea Aerului",
+        "open": 17,
+        "n": 4
+      },
+      "19": {
+        "name": "Ordine și liniște publică",
+        "open": 8,
+        "n": 4
+      },
+      "20": {
+        "name": "Terenuri insalubre",
+        "open": 17,
+        "n": 2
+      },
+      "21": {
+        "name": "Reabilitare blocuri",
+        "open": 12,
+        "n": 0
+      },
+      "22": {
+        "name": "Spații Comerciale",
+        "open": 6,
+        "n": 1
+      },
+      "25": {
+        "name": "Aviz evenimente sportive/culturale",
+        "open": 1,
+        "n": 1
+      },
+      "26": {
+        "name": "Mașini ridicate",
+        "open": 12,
+        "n": 0
+      },
+      "27": {
+        "name": "Stationare neregulamentara",
+        "open": 456,
+        "n": 2
+      },
+      "32": {
+        "name": "Rampe de acces persoane cu dizabilitati",
+        "open": 8,
+        "n": 1
+      }
+    }
+  },
   "changeMonths": [
     "2026-11"
   ]

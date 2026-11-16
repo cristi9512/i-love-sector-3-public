@@ -6,6 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274615</link>
+    <guid isPermaLink="false">CAS-0274615</guid>
+    <pubDate>Mon, 16 Nov 2026 11:44:07 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masini parcate exact in fata trecerii de pietoni, una dintre ele si pe trotuar</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274614</link>
+    <guid isPermaLink="false">CAS-0274614</guid>
+    <pubDate>Mon, 16 Nov 2026 11:41:11 GMT</pubDate>
+    <category>Altele</category>
+    <description>Buna ziua, 
+Sunt proprietarul a doua imobile in Sector 3. Pentru unul dintre ele, detin loc de parcare nominal insa as vrea sa mi se elibereze inca un loc de parcare, de data aceasta nenominal, pentru al doilea imobil, sa pot parca cand merg si acolo. Am o singura masina. Se poate sa am doua locuri de parcare, unul nominal si altul nenominal, atribuite aceleasi persoane fizice si aceluiasi numar de inmatriculare?</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274613</link>
     <guid isPermaLink="false">CAS-0274613</guid>
@@ -54,12 +71,14 @@
     <description>calea dudesti 166, masini parcate pe trotuar</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274607</link>
     <guid isPermaLink="false">CAS-0274607</guid>
     <pubDate>Mon, 16 Nov 2026 11:15:31 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-17, precum și pentru zonele B-14,B-16,B-18,B-19,</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-17, precum și pentru zonele B-14,B-16,B-18,B-19,
+
+Răspuns: AUTOTURISMUL RECLAMAT DETINE AUTORIZATIE VALABILA PENTRU LOCURILE NENOMINALE SI POATE PARCA PANA LA ORA 18.00 SI PE ALTE ZONE .</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
@@ -712,26 +731,6 @@ Bogdan Enache</description>
     <pubDate>Mon, 16 Nov 2026 08:55:20 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274555</link>
-    <guid isPermaLink="false">CAS-0274555</guid>
-    <pubDate>Mon, 16 Nov 2026 08:50:36 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Nu detine autorizatie pentru B5
-
-Răspuns: AUTO  DETINE AUORIZATIE DE PARCARE PE LOCURI NENOMINALE IN ZONA,,A,, FIIND PARCAT IN ZONA ,,B-5,, SI POTRIVIT REGULAMENTULUI DE PARCARI SE POATE PARCA GRATUIT IN INTERVALUL 08.00-18.00 PE LOCURILE NENOMINALE</description>
-  </item>
-  <item>
-    <title>Terenuri insalubre · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274554</link>
-    <guid isPermaLink="false">CAS-0274554</guid>
-    <pubDate>Mon, 16 Nov 2026 08:50:13 GMT</pubDate>
-    <category>Terenuri insalubre</category>
-    <description>Bună ziua ! 
-
-Am sesizat în octombrie graffitiul și mizeria din Pasajul Mărășești și mi s-a închis cererea, dar nu s-a luat nicio măsură. Vă rog să interveniți pt a curăța zona. Duminică 16.11.2026 era dezolant !</description>
   </item>
 </channel>
 </rss>
