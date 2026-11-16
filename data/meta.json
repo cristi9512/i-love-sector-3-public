@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-16T21:30:45.237Z",
-  "lastChange": "2026-11-16T21:30:45.237Z",
+  "lastRun": "2026-11-16T21:45:48.730Z",
+  "lastChange": "2026-11-16T21:45:48.730Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2691,
-    "added": 1,
-    "updated": 3,
+    "fetched": 2749,
+    "added": 3,
+    "updated": 4,
     "removed": 0,
-    "changes": 7
+    "changes": 12
   },
   "totals": {
-    "incidents": 45372,
-    "open": 2062,
+    "incidents": 45375,
+    "open": 2061,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-16T21:30:45.237Z",
+    "asOf": "2026-11-16T21:45:48.730Z",
     "days": 30,
-    "open": 2062,
+    "open": 2061,
     "total": 208,
     "byCategory": {
       "2": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 185,
+        "open": 187,
         "n": 17
       },
       "5": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 465,
+        "open": 462,
         "n": 2
       },
       "32": {
