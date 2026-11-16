@@ -7,6 +7,30 @@
   <language>ro</language>
   <item>
     <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274611</link>
+    <guid isPermaLink="false">CAS-0274611</guid>
+    <pubDate>Mon, 16 Nov 2026 11:19:59 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe trotuar, calea dudesti 194</description>
+  </item>
+  <item>
+    <title>Mașini abandonate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274609</link>
+    <guid isPermaLink="false">CAS-0274609</guid>
+    <pubDate>Mon, 16 Nov 2026 11:17:07 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>calea dudesti 163a, in dreptul stației stb traimvai, duba abandonata</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274608</link>
+    <guid isPermaLink="false">CAS-0274608</guid>
+    <pubDate>Mon, 16 Nov 2026 11:16:05 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>calea dudesti 166, masini parcate pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · Noua · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274606</link>
     <guid isPermaLink="false">CAS-0274606</guid>
     <pubDate>Mon, 16 Nov 2026 11:15:15 GMT</pubDate>
@@ -14,7 +38,7 @@
     <description>masina parcata pe marcaj parcare interzisa calea dudesti 152</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274605</link>
     <guid isPermaLink="false">CAS-0274605</guid>
     <pubDate>Mon, 16 Nov 2026 11:14:29 GMT</pubDate>
@@ -552,34 +576,6 @@ Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA  NU SE MAI CONFIRMA , AUTO CE FACEA O
     <description>B118WTX blocheaza intrarea in garaj, nu a lasat nici un numar de telefon pe care sa poata fi sunat.
 
 Răspuns: LA MOMENTUL VERIFICARILOR IN TEREN , SESIZAREA NU SE MAI CONFIRMA </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273786</link>
-    <guid isPermaLink="false">CAS-0273786</guid>
-    <pubDate>Thu, 12 Nov 2026 18:00:49 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>blocarea caii de acces.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273781</link>
-    <guid isPermaLink="false">CAS-0273781</guid>
-    <pubDate>Thu, 12 Nov 2026 17:48:52 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNĂ SEARA, PENTRU A PUTEA DA CURS SESIZĂRII DVS. ÎN MOD EFICIENT, VĂ RUGĂM CA, PE VIITOR,  SĂ NE FURNIZAȚI FOTOGRAFII CONCLUDENTE VIZÂND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZĂTOR LA SOL, ÎN VEDEREA EFECTUĂRII VERIFICĂRILOR ÎN TIMP UTIL ȘI CU RESPECTAREA ATRIBUȚIILOR LEGALE. VĂ MULȚUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273779</link>
-    <guid isPermaLink="false">CAS-0273779</guid>
-    <pubDate>Thu, 12 Nov 2026 17:45:42 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNĂ SEARA, PENTRU A PUTEA DA CURS SESIZĂRII DVS. ÎN MOD EFICIENT, VĂ RUGĂM CA, PE VIITOR,  SĂ NE FURNIZAȚI FOTOGRAFII CONCLUDENTE VIZÂND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZĂTOR LA SOL, ÎN VEDEREA EFECTUĂRII VERIFICĂRILOR ÎN TIMP UTIL ȘI CU RESPECTAREA ATRIBUȚIILOR LEGALE. VĂ MULȚUMIM!</description>
   </item>
 </channel>
 </rss>
