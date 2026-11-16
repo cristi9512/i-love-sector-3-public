@@ -1,14 +1,14 @@
 {
-  "lastRun": "2026-11-16T09:44:10.803Z",
-  "lastChange": "2026-11-16T09:44:10.803Z",
+  "lastRun": "2026-11-16T09:45:35.427Z",
+  "lastChange": "2026-11-16T09:45:35.427Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
     "fetched": 2407,
-    "added": 2,
+    "added": 0,
     "updated": 1,
     "removed": 0,
-    "changes": 3
+    "changes": 1
   },
   "totals": {
     "incidents": 41469,
