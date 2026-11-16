@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274566</link>
+    <guid isPermaLink="false">CAS-0274566</guid>
+    <pubDate>Mon, 16 Nov 2026 09:39:28 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>nu se pot ridica deșeurile si deșeurile voluminoase. parcare pe domeniul public.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274565</link>
+    <guid isPermaLink="false">CAS-0274565</guid>
+    <pubDate>Mon, 16 Nov 2026 09:38:08 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274564</link>
     <guid isPermaLink="false">CAS-0274564</guid>
@@ -256,12 +272,14 @@ Răspuns: LOCUL DE PARCARE A FOST ELIBERAT,S A INTOCMIT DOCUMENTATIA CONF HCGMB 
     <description>de ce e ocupat locul de parcare platit de saci de gunoi?</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274541</link>
     <guid isPermaLink="false">CAS-0274541</guid>
     <pubDate>Mon, 16 Nov 2026 07:57:26 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul G........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,</description>
+    <description>Autovehiculul cu numarul G........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,
+
+Răspuns: LOCATIA A FOST VERIFICATA,AUTO MENTIONAT IN SESIZARE DETINE AUTORIZATIE PENTRU LOC NENOMINAL ,ARE AFISAT LA VEDERE NUMAR DE TELEFON.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
@@ -572,29 +590,6 @@ Va multumesc.</description>
     <pubDate>Mon, 16 Nov 2026 05:23:35 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Autoturismul IF 28 YHM este parcat pe trotuarul pietonal din fata benzinariei Mol,Theodor Pallady nr 66 Acesta parcheaza regulat auto pe trotuarul pietonal destinat oamenilor Va rog sa luați masurile necesare identificării,amendarii conducătorului auto (este a 4 sesizare din cauza acestui conducator și nu s a intervenit sau s a intervenit a doua zi ) Rog suport</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274506</link>
-    <guid isPermaLink="false">CAS-0274506</guid>
-    <pubDate>Mon, 16 Nov 2026 05:13:21 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Pe strada Plutonire Nedelcu Ion zona de la Gradinita pana in intersectia cu strada Fizicienilor iluminatul stradal nu functioneaza de cel putin trei saptamani. este intuneric atat pe aceasta portiune, dar si in careul blocurilor 1A, 3A, 2A. Va rog sa ne ajutati cu rezolvarea acestei situatii.
-Multumesc.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274505</link>
-    <guid isPermaLink="false">CAS-0274505</guid>
-    <pubDate>Mon, 16 Nov 2026 05:07:58 GMT</pubDate>
-    <category>Altele</category>
-    <description>Bună ziua,
-
-Vă rog să verificați și iluminatul public din spatele Bulevardului Unirii nr. 66, în dreptul locului de depozitare a gunoiului și în dreptul Banorientfrance/ Bloc  K1. Zona este complet neluminată, iar aseară, când am mers să duc gunoiul, era să mă accidentez din cauza lipsei de vizibilitate.
-
-Vă rog să trimiteți o echipă pentru verificarea și remedierea problemei, astfel încât iluminatul stradal să fie repus în funcțiune cât mai curând.
-
-Vă mulțumesc!</description>
   </item>
 </channel>
 </rss>
