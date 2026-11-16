@@ -660,3 +660,12 @@
 {"at":"2026-11-16T23:30:54.404Z","ticket":"CAS-0274557","field":"status","from":"O","to":"C"}
 {"at":"2026-11-16T23:30:54.404Z","ticket":"CAS-0274557","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-16T23:30:54.404Z","ticket":"CAS-0274557","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor am constatat ca autoturismul nu se afla in locatie."}
+{"at":"2026-11-16T23:45:32.790Z","ticket":"CAS-0274731","field":"status","from":"O","to":"C"}
+{"at":"2026-11-16T23:45:32.790Z","ticket":"CAS-0274731","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-16T23:45:32.790Z","ticket":"CAS-0274731","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nLa momentul efectuarii verificarilor autoturismul cu elementele de identificare oferite nu a fost depistat in locatia indicata."}
+{"at":"2026-11-16T23:45:32.790Z","ticket":"CAS-0274738","field":"status","from":"O","to":"C"}
+{"at":"2026-11-16T23:45:32.790Z","ticket":"CAS-0274738","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-16T23:45:32.790Z","ticket":"CAS-0274738","field":"reply","from":"","to":"Nespecificat Registratura In urma analizarii sesizarii, am constatat ca numarul de inmatriculare din fotografie nu corespunde cu cel din descriere."}
+{"at":"2026-11-16T23:45:32.790Z","ticket":"CAS-0274737","field":"status","from":"O","to":"C"}
+{"at":"2026-11-16T23:45:32.790Z","ticket":"CAS-0274737","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-16T23:45:32.790Z","ticket":"CAS-0274737","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor, autoturismul a fost identificat fiind intocmite documentele in vederea luarii masurilor legale."}

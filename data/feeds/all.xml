@@ -6,6 +6,17 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Toaletare/Tăiere arbori · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274767</link>
+    <guid isPermaLink="false">CAS-0274767</guid>
+    <pubDate>Mon, 16 Nov 2026 23:45:31 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Bună seara! 
+Revin asupra celor doua solicitari.
+Numar demers: CAS-0220804; CAS-0226168.
+Mulțumesc!</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274766</link>
     <guid isPermaLink="false">CAS-0274766</guid>
@@ -302,20 +313,24 @@ Cele 3 pubele sunt foarte util in acel loc, stradal atât pentru locatari cât �
 Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavoastra. Mentinam faptul ca auto reclamat are o instiintare aplicata in parbriz din data de 16.11.2026 orele 02:32</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274738</link>
     <guid isPermaLink="false">CAS-0274738</guid>
     <pubDate>Mon, 16 Nov 2026 18:30:52 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: In urma analizarii sesizarii, am constatat ca numarul de inmatriculare din fotografie nu corespunde cu cel din descriere.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274737</link>
     <guid isPermaLink="false">CAS-0274737</guid>
     <pubDate>Mon, 16 Nov 2026 18:29:44 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: In urma verificarilor, autoturismul a fost identificat fiind intocmite documentele in vederea luarii masurilor legale.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
@@ -368,12 +383,15 @@ Răspuns: foto neconcludenta</description>
     <description>lipsa iluminat public la locul de joaca de la capatul strazii Marului. la ora 17 deja este intuneric</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274731</link>
     <guid isPermaLink="false">CAS-0274731</guid>
     <pubDate>Mon, 16 Nov 2026 18:12:47 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Buna seara,
+La momentul efectuarii verificarilor autoturismul cu elementele de identificare oferite nu a fost depistat in locatia indicata.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
@@ -607,14 +625,6 @@ Restituirea sumei cuvenite, dacă aceasta rezultă în urma regularizării, în 
     <category>Stationare neregulamentara</category>
     <description>parcare in dreptul cailor de acces
 AG 99 GBX</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274707</link>
-    <guid isPermaLink="false">CAS-0274707</guid>
-    <pubDate>Mon, 16 Nov 2026 16:58:40 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>paecarr pe spațiu hasurat</description>
   </item>
 </channel>
 </rss>
