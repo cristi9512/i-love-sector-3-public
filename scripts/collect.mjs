@@ -191,6 +191,9 @@ async function main() {
 
   const changes = [];
   let added = 0, updated = 0, removed = 0, failed = 0, fetched = 0;
+  // reports removed on request: never stored, and purged if already stored
+  const suppressedFile = path.join(DATA, 'suppressed.json');
+  const suppressed = new Set(existsSync(suppressedFile) ? JSON.parse(await readFile(suppressedFile, 'utf8')).tickets || [] : []);
 
   let i = 0;
   const results = [];
@@ -209,6 +212,7 @@ async function main() {
       const r = normalize(raw);
       if (!r.id || !r.createdAt) continue;
       seen.add(r.id);
+      if (suppressed.has(r.ticket)) continue;
       const month = await loadMonth(monthOf(r.createdAt));
       const prev = month.get(r.id);
       if (!prev) {
@@ -253,6 +257,23 @@ async function main() {
     }
   }
 
+  let purged = 0;
+  if (suppressed.size) {
+    const files = existsSync(path.join(DATA, 'incidents')) ? (await readdir(path.join(DATA, 'incidents'))).filter((f) => f.endsWith('.json')) : [];
+    for (const f of files) {
+      const m = f.slice(0, 7), month = await loadMonth(m);
+      for (const [id, rec] of month) if (suppressed.has(rec.ticket)) { month.delete(id); dirty.add(m); purged++; }
+    }
+    // the change log is public in the repo too
+    const dir = path.join(DATA, 'changes');
+    for (const f of existsSync(dir) ? (await readdir(dir)).filter((x) => x.endsWith('.jsonl')) : []) {
+      const lines = (await readFile(path.join(dir, f), 'utf8')).split('\n').filter(Boolean);
+      const keep = lines.filter((l) => { try { return !suppressed.has(JSON.parse(l).ticket); } catch { return true; } });
+      if (keep.length !== lines.length) { await writeFile(path.join(dir, f), keep.join('\n') + (keep.length ? '\n' : '')); purged++; }
+    }
+    if (purged) console.log(`Purged ${purged} suppressed record(s)/log file(s)`);
+  }
+
   await saveDirty();
 
   if (changes.length) {
@@ -286,7 +307,7 @@ async function main() {
     coverageFrom: coverageFrom ? coverageFrom.slice(0, 10) : null,
     changeMonths,
   };
-  const changed = added || updated || removed || !existsSync(metaFile) || process.argv.includes('--force');
+  const changed = added || updated || removed || purged || !existsSync(metaFile) || process.argv.includes('--force');
   // only rewrite meta/feeds when data changed, so no-op runs produce no commit
   if (changed) {
     await writeFile(metaFile, JSON.stringify(meta, null, 2) + '\n');

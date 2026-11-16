@@ -98,3 +98,12 @@ when GitHub is busy, so it is also started from outside through the GitHub API. 
    - Success = HTTP `204`
 
 Backfills can be started by hand from the repo's **Actions** tab ("Run workflow", with from/to dates).
+
+## Removal requests
+
+People ask for a report to be removed through the GitHub issue form (*Cerere de eliminare*, label `eliminare`), linked from the site's [Cum funcționează](https://sesizari-sector3.vercel.app/despre) page. To approve one:
+
+1. Add the ticket number to `tickets` in [data/suppressed.json](data/suppressed.json) and push to `main`.
+2. The site hides it right away (also in live data from the city). The next collector run deletes it from `data/incidents/` and `data/changes/` and never stores it again.
+3. Close the issue. The report is still in older commits of the git history; removing it from there would mean rewriting history.
+

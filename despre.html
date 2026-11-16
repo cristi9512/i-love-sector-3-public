@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cum funcționează · Sesizări Sector 3</title>
+  <meta name="description" content="De unde vin datele, de ce le arhivăm orar, ce limite au cifrele și cum ceri eliminarea unei sesizări.">
+  <meta name="theme-color" content="#1d2125">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <script src="js/theme.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="./">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <div>
+        <h1 data-l="title">Sesizări Sector 3</h1>
+        <p class="brand-sub" data-l="subtitle">Ce raportează vecinii tăi și ce răspunde primăria</p>
+      </div>
+    </a>
+    <nav class="tabs" aria-label="Pagini">
+      <a href="./" data-l="tabList">Hartă și listă</a>
+      <a href="./#tab=insights" data-l="tabInsights">Statistici</a>
+      <a href="despre" aria-current="page" data-l="tabAbout">Cum funcționează</a>
+    </nav>
+    <div class="top-actions">
+      <button class="btn btn-outline icon-btn" id="themeBtn" type="button"></button>
+      <button class="btn btn-outline lang" id="langBtn" type="button">EN</button>
+    </div>
+  </header>
+
+  <main class="about">
+    <!-- ================= Română ================= -->
+    <article lang="ro" data-lang="ro">
+      <h1>Cum funcționează</h1>
+      <p class="lead">Sesizări Sector 3 este un site <b>independent și neoficial</b>. Arată sesizările publice trimise prin aplicația „I Love Sector 3”, cu textul sesizării și răspunsul primăriei, pe care harta oficială nu le afișează. În plus, păstrează istoricul fiecărei sesizări, ca să se vadă cum și în cât timp au fost rezolvate.</p>
+
+      <h2>De unde vin datele</h2>
+      <ul>
+        <li>Din serviciul public CityCare pe care îl folosește și <a href="https://iloves3.primarie3.ro/citycareweb/" target="_blank" rel="noopener">harta oficială a Primăriei Sectorului 3</a>. Citim doar ce acest serviciu publică pentru oricine.</li>
+        <li>Nu avem acces la sistemul intern al primăriei. Fotografiile atașate sesizărilor nu sunt publice, așa că nu le putem arăta.</li>
+        <li>Nu trimitem și nu modificăm sesizări. Butonul „Trimite o sesizare” te duce pe site-ul oficial.</li>
+      </ul>
+
+      <h2>De ce arhivăm datele</h2>
+      <p>Serviciul primăriei arată fiecare sesizare doar așa cum este <i>acum</i>. Nu spune când a fost închisă, ce status avea înainte sau dacă textul a fost schimbat, iar o sesizare ștearsă pur și simplu dispare.</p>
+      <p>De aceea, o dată pe oră salvăm o copie a datelor și o comparăm cu cea de dinainte. Așa vedem:</p>
+      <ul>
+        <li>când o sesizare trece din „în lucru” în rezolvată sau respinsă, și cât a durat;</li>
+        <li>când apare răspunsul primăriei;</li>
+        <li>dacă descrierea, categoria sau răspunsul au fost modificate;</li>
+        <li>dacă o sesizare a fost ștearsă.</li>
+      </ul>
+      <p>Din aceste schimbări vin istoricul din fiecare sesizare, timpul până la închidere, filtrul „șterse de primărie” și lista de schimbări recente din Statistici.</p>
+
+      <h2>Cât de des și de când</h2>
+      <dl class="facts">
+        <dt>Actualizare</dt><dd>în fiecare oră · ultima <span data-live="lastRun">—</span></dd>
+        <dt>Sesizări în arhivă</dt><dd><span data-live="total">—</span>, create din <span data-live="from">—</span></dd>
+        <dt>Istoric orar</dt><dd>din 15 noiembrie 2026. Sesizările mai vechi au fost copiate o singură dată, în starea în care erau atunci.</dd>
+        <dt>Verificare</dt><dd>la fiecare rulare, ultimele 4 zile, plus o parte din cele mai vechi, astfel încât fiecare sesizare din ultimele 6 luni e reverificată cam o dată pe zi.</dd>
+        <dt>Date live</dt><dd>pentru ultimele ore, site-ul cere datele direct de la primărie, deci vezi și sesizările trimise după ultima arhivare.</dd>
+      </dl>
+
+      <h2>Ce trebuie să știi când citești cifrele</h2>
+      <ul>
+        <li><b>Timpul până la închidere</b> se calculează doar pentru sesizările pe care arhiva le-a văzut deschise și apoi închise. Pentru cele mai vechi de 4 zile, schimbarea e observată în cel mult o zi, deci durata e aproximativă.</li>
+        <li><b>Perioadele recente par mai puțin rezolvate</b>, pentru că sesizările noi au avut mai puțin timp să fie închise.</li>
+        <li><b>Cartierele sunt aproximative.</b> Fiecare sesizare primește cartierul al cărui centru (din OpenStreetMap) e cel mai aproape.</li>
+        <li><b>Statusurile sunt ale primăriei.</b> „Rezolvată” înseamnă că primăria a închis sesizarea favorabil, nu că am verificat noi pe teren.</li>
+      </ul>
+
+      <h2 id="date-personale">Date personale și eliminare</h2>
+      <ul>
+        <li>Afișăm doar ce publică deja primăria. Numele, numerele de înmatriculare și alte date sunt mascate de primărie, nu de noi, așa că uneori pot apărea, de exemplu într-un răspuns.</li>
+        <li>Arhiva este publică pe GitHub. Istoricul ei păstrează și textul pe care primăria l-a modificat ulterior.</li>
+        <li>Dacă o sesizare conține date despre tine și vrei să fie eliminată, <a href="https://github.com/cristi9512/i-love-sector-3-public/issues/new?template=eliminare.yml" target="_blank" rel="noopener">deschide o cerere pe GitHub</a>. Scrie doar numărul sesizării (de ex. CAS-0274369) și ce trebuie eliminat. <b>Nu repeta datele personale în cerere: cererea este publică.</b> Ai nevoie de un cont GitHub gratuit.</li>
+        <li>După ce aprobăm cererea, sesizarea dispare de pe site și din fișierele arhivei și nu mai este salvată. Rămâne vizibilă pe harta oficială a primăriei, dacă primăria nu o șterge.</li>
+      </ul>
+
+      <h2>Date deschise și cod</h2>
+      <ul>
+        <li>Arhiva, ca fișiere JSON: <a href="https://github.com/cristi9512/i-love-sector-3-public/tree/main/data" target="_blank" rel="noopener">pe GitHub</a> și pe site, la <a href="data/meta.json">/data/meta.json</a>.</li>
+        <li>Fluxuri RSS pentru tot sectorul și pentru fiecare cartier: <a href="data/feeds/all.xml">tot Sectorul 3</a>, restul în Statistici.</li>
+        <li>Export CSV sau JSON al listei filtrate, din „Hartă și listă”.</li>
+        <li><a href="https://github.com/cristi9512/i-love-sector-3-public" target="_blank" rel="noopener">Codul sursă</a> este deschis. Erori sau idei: <a href="https://github.com/cristi9512/i-love-sector-3-public/issues" target="_blank" rel="noopener">GitHub Issues</a>.</li>
+      </ul>
+    </article>
+
+    <!-- ================= English ================= -->
+    <article lang="en" data-lang="en" hidden>
+      <h1>How it works</h1>
+      <p class="lead">Sector 3 Reports is an <b>independent, unofficial</b> site. It shows the public reports sent through the “I Love Sector 3” app, with the report text and the city hall's reply, which the official map does not display. It also keeps the history of every report, so you can see how and how fast problems were solved.</p>
+
+      <h2>Where the data comes from</h2>
+      <ul>
+        <li>From the public CityCare service that the <a href="https://iloves3.primarie3.ro/citycareweb/" target="_blank" rel="noopener">official Sector 3 map</a> uses. We only read what that service publishes for anyone.</li>
+        <li>We have no access to the city hall's internal system. Photos attached to reports are not public, so we cannot show them.</li>
+        <li>We never send or change reports. The “Report a problem” button takes you to the official site.</li>
+      </ul>
+
+      <h2>Why we archive the data</h2>
+      <p>The city's service only shows each report as it is <i>now</i>. It doesn't say when it was closed, what status it had before or whether the text was changed, and a deleted report simply disappears.</p>
+      <p>So once an hour we save a copy of the data and compare it with the previous one. That shows us:</p>
+      <ul>
+        <li>when a report moves from “in progress” to resolved or rejected, and how long it took;</li>
+        <li>when the city's reply appears;</li>
+        <li>whether the description, category or reply was changed;</li>
+        <li>whether a report was deleted.</li>
+      </ul>
+      <p>Those changes power the history in each report, the time to close, the “deleted by the city hall” filter and the recent changes list on Insights.</p>
+
+      <h2>How often and since when</h2>
+      <dl class="facts">
+        <dt>Updates</dt><dd>every hour · last <span data-live="lastRun">—</span></dd>
+        <dt>Reports in the archive</dt><dd><span data-live="total">—</span>, created since <span data-live="from">—</span></dd>
+        <dt>Hourly history</dt><dd>since 15 November 2026. Older reports were copied once, as they were at that moment.</dd>
+        <dt>Rechecks</dt><dd>each run covers the last 4 days plus a slice of older ones, so every report from the last 6 months is rechecked about once a day.</dd>
+        <dt>Live data</dt><dd>for the last few hours the site asks the city's service directly, so you also see reports sent after the last archive run.</dd>
+      </dl>
+
+      <h2>Reading the numbers</h2>
+      <ul>
+        <li><b>Time to close</b> only counts reports the archive saw open and then closed. For reports older than 4 days the change is noticed within a day, so the duration is approximate.</li>
+        <li><b>Recent periods look less resolved</b>, because newer reports have had less time to be closed.</li>
+        <li><b>Neighbourhoods are approximate.</b> Each report gets the neighbourhood whose centre (from OpenStreetMap) is closest.</li>
+        <li><b>Statuses are the city hall's.</b> “Resolved” means the city closed the report favourably, not that we checked on the ground.</li>
+      </ul>
+
+      <h2 id="personal-data">Personal data and removal</h2>
+      <ul>
+        <li>We only show what the city hall already publishes. Names, licence plates and other details are masked by the city, not by us, so they sometimes appear, for example in a reply.</li>
+        <li>The archive is public on GitHub. Its history also keeps text the city later changed.</li>
+        <li>If a report contains details about you and you want it removed, <a href="https://github.com/cristi9512/i-love-sector-3-public/issues/new?template=eliminare.yml" target="_blank" rel="noopener">open a request on GitHub</a>. Give only the report number (e.g. CAS-0274369) and what should be removed. <b>Don't repeat the personal details in the request: it is public.</b> You need a free GitHub account.</li>
+        <li>Once we approve the request, the report disappears from the site and the archive files and is never stored again. It stays on the city's official map unless the city deletes it.</li>
+      </ul>
+
+      <h2>Open data and code</h2>
+      <ul>
+        <li>The archive as JSON files: <a href="https://github.com/cristi9512/i-love-sector-3-public/tree/main/data" target="_blank" rel="noopener">on GitHub</a> and on this site at <a href="data/meta.json">/data/meta.json</a>.</li>
+        <li>RSS feeds for the whole sector and each neighbourhood: <a href="data/feeds/all.xml">all of Sector 3</a>, the rest on Insights.</li>
+        <li>CSV or JSON export of the filtered list, from “Map &amp; list”.</li>
+        <li>The <a href="https://github.com/cristi9512/i-love-sector-3-public" target="_blank" rel="noopener">source code</a> is open. Bugs or ideas: <a href="https://github.com/cristi9512/i-love-sector-3-public/issues" target="_blank" rel="noopener">GitHub Issues</a>.</li>
+      </ul>
+    </article>
+  </main>
+
+  <footer class="foot"><span data-l="footer">Proiect neoficial, cu date publice de la Primăria Sectorului 3.</span></footer>
+
+  <script type="module" src="js/about.js"></script>
+</body>
+</html>

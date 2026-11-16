@@ -1,5 +1,5 @@
 import { t, setLang, getLang, locale, catName, catNameEn, statusText, applyStatic, duration } from './i18n.js';
-import { loadMeta, getMeta, loadRange, fetchTicket, fromLive, todayKey, toDayKey, addDays, daysBetween } from './data.js';
+import { loadMeta, getMeta, loadRange, fetchTicket, fromLive, todayKey, toDayKey, addDays, daysBetween, isSuppressed } from './data.js';
 import { areaOf, distanceM, insidePolygon, fromBucharest } from './geo.js';
 import { ic } from './icons.js';
 
@@ -86,7 +86,7 @@ function deriveTimes(rec) {
 function buildItem(id) {
   const a = state.archiveRaw.get(id), l = state.liveRaw.get(id);
   const rec = a && l ? { ...a, ...l } : a || l;
-  if (!rec || !rec.createdAt) return null;
+  if (!rec || !rec.createdAt || isSuppressed(rec.ticket)) return null;
   const created = fromBucharest(rec.createdAt);
   const key = statusKey(rec.status, rec.statusLabel);
   const reply = parseReply(rec.reply);

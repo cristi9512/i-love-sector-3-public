@@ -1,0 +1,41 @@
+name: Cerere de eliminare / Removal request
+description: Cere eliminarea unei sesizări care conține date despre tine. / Ask for a report with details about you to be removed.
+title: "Eliminare: CAS-"
+labels: ["eliminare"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Această cerere este publică.** Nu scrie aici numele, numărul de înmatriculare sau alte date personale: scrie doar numărul sesizării și ce fel de date conține.
+        **This request is public.** Don't write names, plates or other personal details here: only the report number and what kind of details it contains.
+  - type: input
+    id: ticket
+    attributes:
+      label: Numărul sesizării / Report number
+      placeholder: CAS-0274369
+    validations:
+      required: true
+  - type: dropdown
+    id: what
+    attributes:
+      label: Ce conține / What it contains
+      multiple: true
+      options:
+        - Numele meu / My name
+        - Numărul meu de înmatriculare / My licence plate
+        - Adresa sau telefonul meu / My address or phone
+        - Altceva / Something else
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Detalii (fără date personale) / Details (no personal data)
+      description: De exemplu, dacă datele sunt în descriere sau în răspunsul primăriei. / For example, whether they are in the description or the city's reply.
+  - type: checkboxes
+    id: ack
+    attributes:
+      label: Confirmare / Confirmation
+      options:
+        - label: Nu am inclus date personale în această cerere. / I have not included personal details in this request.
+          required: true

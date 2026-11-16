@@ -31,11 +31,16 @@ function monthsBetween(a, b) {
 
 /* ---------- archive ---------- */
 let meta = null;
+// tickets removed on request (data/suppressed.json): hidden even in live data
+let suppressed = new Set();
+export const isSuppressed = (ticket) => suppressed.has(ticket);
 export async function loadMeta() {
-  try {
-    const r = await fetch('data/meta.json', { cache: 'no-cache' });
-    meta = r.ok ? await r.json() : null;
-  } catch { meta = null; }
+  const [m, sup] = await Promise.all([
+    fetch('data/meta.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+    fetch('data/suppressed.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+  ]);
+  meta = m;
+  suppressed = new Set(sup?.tickets || []);
   return meta;
 }
 export const getMeta = () => meta;

@@ -5,7 +5,7 @@ const STR = {
   ro: {
     title: 'Sesizări Sector 3',
     subtitle: 'Ce raportează vecinii tăi și ce răspunde primăria',
-    tabList: 'Hartă și listă', tabInsights: 'Statistici',
+    tabList: 'Hartă și listă', tabInsights: 'Statistici', tabAbout: 'Cum funcționează',
     report: 'Trimite o sesizare', install: 'Instalează', langSwitch: 'EN',
     theme_auto: 'Temă automată (ca sistemul)', theme_light: 'Temă luminoasă', theme_dark: 'Temă întunecată', themeNext: 'următoarea: {next}',
     searchPh: 'Caută în descrieri, răspunsuri, nr. sesizare (ex. CAS-0274369)…',
@@ -76,7 +76,7 @@ const STR = {
   en: {
     title: 'Sector 3 Reports',
     subtitle: 'What your neighbours report and how the city hall answers',
-    tabList: 'Map & list', tabInsights: 'Insights',
+    tabList: 'Map & list', tabInsights: 'Insights', tabAbout: 'How it works',
     report: 'Report a problem', install: 'Install', langSwitch: 'RO',
     theme_auto: 'Automatic theme (follows system)', theme_light: 'Light theme', theme_dark: 'Dark theme', themeNext: 'next: {next}',
     searchPh: 'Search descriptions, replies, ticket no. (e.g. CAS-0274369)…',
