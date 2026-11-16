@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274751</link>
+    <guid isPermaLink="false">CAS-0274751</guid>
+    <pubDate>Mon, 16 Nov 2026 20:15:53 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274729</link>
     <guid isPermaLink="false">CAS-0274729</guid>
@@ -588,17 +596,6 @@ Răspuns: In urma verificarilor efectuate la fata locului, auto sesizat nu a fos
     <description>TR-19-ASK parcat neregulamentar în intersecție, direct pe marcajul hașurat care interzice staționarea vehiculelor pe suprafața sa. Prin această poziționare, blochează vizibilitatea în intersecție și reduce spațiul de manevră al celorlalte vehicule.Incalca prevederile O.U.G 195/2002 privind circulatia pe drumurile publice si hotararea Consiliului local sector 3 nr.9/19.01.2021
 
 Răspuns: In urma verificarilor efectuate la fata locului, auto sesizat nu a fost depistat in locatie</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274336</link>
-    <guid isPermaLink="false">CAS-0274336</guid>
-    <pubDate>Sun, 15 Nov 2026 11:26:52 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNA SEARA,AGENTIII AU VERIFICAT SESIZAREA DUMNAVOASTRA ,IN BATERIA DE PARCARE 747 NU SE MAI ESTE LIZIBIL MARCAJUL GALBEN PT.LOCURII NENOMINALE,PRIN URMARE NU SE POT APLICA MASURII LEGALE .
-PENTRU REMEDIEREA PROBLEME  SITUATIA A FOST TRANSMISA CATRE SERVICUL TRASARI</description>
   </item>
 </channel>
 </rss>

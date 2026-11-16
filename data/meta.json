@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-16T20:15:35.736Z",
-  "lastChange": "2026-11-16T20:15:35.736Z",
+  "lastRun": "2026-11-16T20:29:21.720Z",
+  "lastChange": "2026-11-16T20:29:21.720Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2591,
-    "added": 1,
-    "updated": 1,
+    "fetched": 2593,
+    "added": 2,
+    "updated": 0,
     "removed": 0,
-    "changes": 1
+    "changes": 0
   },
   "totals": {
-    "incidents": 45362,
-    "open": 2058,
+    "incidents": 45364,
+    "open": 2060,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-16T20:15:35.736Z",
+    "asOf": "2026-11-16T20:29:21.720Z",
     "days": 30,
-    "open": 2058,
+    "open": 2060,
     "total": 208,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 67,
+        "open": 68,
         "n": 7
       },
       "3": {
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 43,
+        "open": 44,
         "n": 0
       },
       "13": {
