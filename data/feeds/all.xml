@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Timpuri Noi</title>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274760</link>
+    <guid isPermaLink="false">CAS-0274760</guid>
+    <pubDate>Mon, 16 Nov 2026 21:18:04 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274759</link>
     <guid isPermaLink="false">CAS-0274759</guid>
     <pubDate>Mon, 16 Nov 2026 21:15:32 GMT</pubDate>
@@ -572,14 +580,6 @@ Mircea Spanu
     <pubDate>Mon, 16 Nov 2026 16:44:39 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>masina parcata pe trotuar, ocupat tot trotuarul si trebuie ocolita pe carosabil</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274700</link>
-    <guid isPermaLink="false">CAS-0274700</guid>
-    <pubDate>Mon, 16 Nov 2026 16:39:24 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
   </item>
 </channel>
 </rss>

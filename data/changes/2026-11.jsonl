@@ -590,3 +590,10 @@
 {"at":"2026-11-16T21:15:36.180Z","ticket":"CAS-0274686","field":"status","from":"O","to":"C"}
 {"at":"2026-11-16T21:15:36.180Z","ticket":"CAS-0274686","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-16T21:15:36.180Z","ticket":"CAS-0274686","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARILOR IN LOCATIE,ASPECTELE SESIZATE NU SE MAI CONFIRMA"}
+{"at":"2026-11-16T21:30:45.237Z","ticket":"CAS-0274759","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-16T21:30:45.237Z","ticket":"CAS-0274652","field":"status","from":"O","to":"C"}
+{"at":"2026-11-16T21:30:45.237Z","ticket":"CAS-0274652","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-16T21:30:45.237Z","ticket":"CAS-0274652","field":"reply","from":"","to":"Nespecificat Registratura Buna seara. Am preluat si verificat sesizarea dumneavoastra. La momentul verificarii auto reclamat nu se mai afla in locatie."}
+{"at":"2026-11-16T21:30:45.237Z","ticket":"CAS-0274684","field":"status","from":"O","to":"C"}
+{"at":"2026-11-16T21:30:45.237Z","ticket":"CAS-0274684","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-16T21:30:45.237Z","ticket":"CAS-0274684","field":"reply","from":"","to":"Nespecificat Registratura AUTO NU A FOST DEPISTAT  LA MOMENTUL VERIFICARILOR IN LOCATIE"}
