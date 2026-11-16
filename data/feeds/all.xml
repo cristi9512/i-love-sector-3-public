@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274766</link>
+    <guid isPermaLink="false">CAS-0274766</guid>
+    <pubDate>Mon, 16 Nov 2026 22:46:38 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Auto parcat pe spatiul verde din fata blocului GC7.</description>
+  </item>
+  <item>
     <title>Terenuri insalubre · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274765</link>
     <guid isPermaLink="false">CAS-0274765</guid>
@@ -602,22 +610,6 @@ AG 99 GBX</description>
     <pubDate>Mon, 16 Nov 2026 16:58:40 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>paecarr pe spațiu hasurat</description>
-  </item>
-  <item>
-    <title>Reabilitare blocuri · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274706</link>
-    <guid isPermaLink="false">CAS-0274706</guid>
-    <pubDate>Mon, 16 Nov 2026 16:58:02 GMT</pubDate>
-    <category>Reabilitare blocuri</category>
-    <description>Buna ziua,
-Mircea Spanu e numele meu, sunt Presedintele Asoc de Proprietari Agathta Barssescu nr25, BLV26C sc1 si 2.
-Balcoanele exterioare de la ghena si casa scarii au devenit un real pericol.
-Balconul de la Sc2 et 1 s-a desprins si cad bucati de beton, inca mai merg acolo oameni sa arunce gunoiul si a devenit un real pericol.
-Noi, ca asociatie am mai reparat un balcon si ne-a costat 2000ron ( grilaj metalic, sudura si zidarie) acum vorb im de altele si nu mai avem resurse.
-Va rugam insisitent sa veniti in ajutorul nostru spre a evita orice tragedie .
-Cu respect,
-Mircea Spanu
-0722 206616</description>
   </item>
 </channel>
 </rss>
