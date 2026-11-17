@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Pallady</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Pallady</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274837</link>
+    <guid isPermaLink="false">CAS-0274837</guid>
+    <pubDate>Tue, 17 Nov 2026 10:02:38 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Pallady</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274835</link>
     <guid isPermaLink="false">CAS-0274835</guid>
@@ -731,32 +739,6 @@ Vă comunicăm faptul că, sesizarea a fost transmisă echipelor operaționale d
 Cu deosebită considerație,
 Directia Generala de Salubritate Sector 3
  </description>
-  </item>
-  <item>
-    <title>Altele · Rezolvată Favorabil · Pallady</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0263848</link>
-    <guid isPermaLink="false">CAS-0263848</guid>
-    <pubDate>Fri, 02 Oct 2026 12:26:08 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua!
-Solicitare urgentă privind modalitatea de depunere a cererii pentru certificat de urbanism
-Vă rog să ne comunicați concret cum putem depune cererea pentru certificatul de urbanism, întrucât, în acest moment, toate variantele încercate par să conducă la același rezultat: cererea nu poate fi înregistrată.
-
-Online nu se poate depune, am venit fizic cu documentele dar nu au fost primite, iar pentru documentele transmise pe e-mail nu am primit niciun număr de înregistrare sau o confirmare privind primirea acestora.
-
-Am încercat să obținem clarificări și telefonic, însă centrala ne redirecționează către un sistem automat care, după o perioadă de așteptare pentru „verificarea” informațiilor, ne comunică faptul că cererea poate fi depusă online — exact modalitatea care, în realitate, nu funcționează.
-
-În aceste condiții, vă rugăm să ne indicați o modalitate efectivă și funcțională prin care putem depune cererea și documentele aferente, astfel încât acestea să fie înregistrate oficial.
-
-Înțelegem necesitatea digitalizării și a automatizării proceselor, însă, în situația de față, avem nevoie de o soluție concretă, nu doar de confirmarea faptului că există o procedură online.
-
-Vă rugăm să ne transmiteți cât mai curând modalitatea prin care putem finaliza depunerea cererii.
-
-Vă mulțumesc.
-
-Răspuns: Trimis raspuns Bună ziua,
-
-Cererile se vor depune EXCLUSIV prin poștă/curier pe adresa Primăriei Sectorului 3 – bdul Basarabia nr.256 - Hala Laminor, Sector 3, București. Pe site-ul Primăriei Sectorului 3 se pot găsii cererile în vederea emiterii certificatelor de urbanism, https://www.primarie3.ro/index.php/informatii_publice/acte_necesare </description>
   </item>
 </channel>
 </rss>
