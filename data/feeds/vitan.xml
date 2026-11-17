@@ -6,6 +6,17 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275017</link>
+    <guid isPermaLink="false">CAS-0275017</guid>
+    <pubDate>Tue, 17 Nov 2026 21:03:40 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Revin la solicitarea anterioară privind parcarea mașinilor pe aleea din spatele blocului G7 și în fața locurilor de parcare plătite.
+Iarăși sunt mașini parcate în fața locurilor ceeea face foarte dificil parcarea și ieșirea din locurile plătite.
+Nu există niciun semn care sa interzică parcarea pe trotuarul aleii.
+Solicit măsuri care să rezolve definitiv situația</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274988</link>
     <guid isPermaLink="false">CAS-0274988</guid>
@@ -617,14 +628,6 @@ Am dat curs sesizarii dvs., la data si ora efectuarii verificarilor autoturismul
 
 Răspuns: Buna ziua,
 Am dat curs sesizarii dvs., la data si ora efectuarii verificarilor autoturismul reclamat detine tarif orar achitat.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273933</link>
-    <guid isPermaLink="false">CAS-0273933</guid>
-    <pubDate>Fri, 13 Nov 2026 09:38:11 GMT</pubDate>
-    <category>Străzi</category>
-    <description>surpare</description>
   </item>
 </channel>
 </rss>
