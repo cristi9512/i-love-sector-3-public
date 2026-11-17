@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T13:45:43.334Z",
-  "lastChange": "2026-11-17T13:45:43.334Z",
+  "lastRun": "2026-11-17T14:01:01.745Z",
+  "lastChange": "2026-11-17T14:01:01.745Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2640,
-    "added": 7,
+    "fetched": 2604,
+    "added": 1,
     "updated": 1,
     "removed": 0,
     "changes": 1
   },
   "totals": {
-    "incidents": 45499,
-    "open": 2002,
+    "incidents": 45500,
+    "open": 2003,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T13:45:43.334Z",
+    "asOf": "2026-11-17T14:01:01.745Z",
     "days": 30,
-    "open": 2002,
-    "total": 199,
+    "open": 2003,
+    "total": 200,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -43,7 +43,7 @@
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
         "open": 179,
-        "n": 16
+        "n": 17
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 430,
+        "open": 431,
         "n": 30
       },
       "11": {
