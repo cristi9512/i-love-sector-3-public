@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274791</link>
+    <guid isPermaLink="false">CAS-0274791</guid>
+    <pubDate>Tue, 17 Nov 2026 06:12:18 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare pe trecere de pietoni in fata gradinitei</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274790</link>
+    <guid isPermaLink="false">CAS-0274790</guid>
+    <pubDate>Tue, 17 Nov 2026 06:08:47 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Reiterez faptul ca frunzele din parc se sufla pe trotuarele invecinate si pe masinile parcate, fara o salubrizare temeinica dupa. In afara poluarii fonice create de suflante, ne confruntam si cu mult praf care odata ridicat ajunge in plamanii nostri si bineinteles pe masini. Nu stiu de ce aceste parculete trebuie sa fie impecabile in timp ce trotuarele si strazile sunt pline de frunze in stare avansata de degradare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274783</link>
     <guid isPermaLink="false">CAS-0274783</guid>
@@ -622,24 +638,6 @@ Răspuns: BUNA SEARA,PENTRU SOLUTIONAREA SESIZARII AVEM RUGAMINTEA DE A ATASA CE
     <pubDate>Sun, 15 Nov 2026 16:15:33 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Nu se poate intra în aleea parcării de mașinile parcate neregulamentar (inclusiv cele de lângă gardul blocului; exemplu în poze skoda gri nr înmatriculare B 99GHL și mașina cu numărul B991ADC) pe strada rotundă nr 2 bloc Y1C scara 3.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274377</link>
-    <guid isPermaLink="false">CAS-0274377</guid>
-    <pubDate>Sun, 15 Nov 2026 15:21:42 GMT</pubDate>
-    <category>Altele</category>
-    <description>Montare limitatoare de viteza pe str Cozla unde este gradinita 191</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274373</link>
-    <guid isPermaLink="false">CAS-0274373</guid>
-    <pubDate>Sun, 15 Nov 2026 14:49:37 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare pe trotuar, lipsa acces pietoni
-
-Răspuns: Auto a fost ridicat</description>
   </item>
 </channel>
 </rss>
