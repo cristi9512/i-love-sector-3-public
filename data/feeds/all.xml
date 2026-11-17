@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274840</link>
+    <guid isPermaLink="false">CAS-0274840</guid>
+    <pubDate>Tue, 17 Nov 2026 10:25:34 GMT</pubDate>
+    <category>Altele</category>
+    <description>Buna ziua, am depus online un dosar pentru certificatul de urbanism, iar pe mail am primit acest mesaj de la data depunerii :&quot;Servicii Electronice - solicitare #353.Un funcționar al Primăriei va verifica datele introduse și fișierele anexate de dvs. Veți primi un e-mail la finalizarea verificării. &quot; Am depus in data de 23.10.2026. Va rog frumos sa imi dati un raspuns pentru ca nu stiu cum sa procedez in continuare. Va multumesc!</description>
+  </item>
+  <item>
+    <title>Terenuri insalubre · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274839</link>
+    <guid isPermaLink="false">CAS-0274839</guid>
+    <pubDate>Tue, 17 Nov 2026 10:24:01 GMT</pubDate>
+    <category>Terenuri insalubre</category>
+    <description>Parcul din spatele bloculuo J5</description>
+  </item>
+  <item>
     <title>Spații verzi · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274838</link>
     <guid isPermaLink="false">CAS-0274838</guid>
@@ -58,12 +74,14 @@ Astfel traversarea strazii Drumul Gura Racului se face in conditii periculoase, 
 Va multumesc !</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274834</link>
     <guid isPermaLink="false">CAS-0274834</guid>
     <pubDate>Tue, 17 Nov 2026 09:15:56 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost dispusă măsura tehnico-administrativă de ridicare a autoturismului, locul de parcare fiind eliberat.</description>
   </item>
   <item>
     <title>Altele · În lucru · Balta Albă - Titan</title>
@@ -640,26 +658,6 @@ Răspuns: BUNA ZIUA,PENTRU A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT,VA RUG
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: BUNA ZIUA,PENTRU A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT,VA RUGAM CA,PE VIITOR,SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZATOR LA SOL,IN VEDEREA EFECTUARII VERIFICARILOR IN TIMP UTIL SI CU RESPECTAREA ATRIBUTIILOR LEGALE.VA MULTUMIM</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274780</link>
-    <guid isPermaLink="false">CAS-0274780</guid>
-    <pubDate>Tue, 17 Nov 2026 05:25:25 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 38
-
-Răspuns: AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274779</link>
-    <guid isPermaLink="false">CAS-0274779</guid>
-    <pubDate>Tue, 17 Nov 2026 05:24:16 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>autovehicule parcate in interiorul intersectiei
-
-Răspuns: La  fata  locului  au fost  dispuse  masurile  legale conform OUG 195/2002 r </description>
   </item>
 </channel>
 </rss>

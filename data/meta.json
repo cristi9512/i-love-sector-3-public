@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T10:15:33.862Z",
-  "lastChange": "2026-11-17T10:15:33.862Z",
+  "lastRun": "2026-11-17T10:30:48.641Z",
+  "lastChange": "2026-11-17T10:30:48.641Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2309,
+    "fetched": 2579,
     "added": 2,
-    "updated": 0,
+    "updated": 1,
     "removed": 0,
-    "changes": 0
+    "changes": 3
   },
   "totals": {
-    "incidents": 45450,
-    "open": 2040,
+    "incidents": 45452,
+    "open": 2041,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T10:15:33.862Z",
+    "asOf": "2026-11-17T10:30:48.641Z",
     "days": 30,
-    "open": 2040,
-    "total": 205,
+    "open": 2041,
+    "total": 206,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 36,
+        "open": 35,
         "n": 7
       },
       "3": {
@@ -62,13 +62,13 @@
       },
       "9": {
         "name": "Altele",
-        "open": 232,
+        "open": 233,
         "n": 16
       },
       "10": {
         "name": "Străzi",
         "open": 451,
-        "n": 33
+        "n": 34
       },
       "11": {
         "name": "Parcuri",
@@ -117,7 +117,7 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 18,
+        "open": 19,
         "n": 2
       },
       "21": {
