@@ -1519,3 +1519,9 @@
 {"at":"2026-11-17T22:15:36.062Z","ticket":"CAS-0274612","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T22:15:36.062Z","ticket":"CAS-0274612","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-17T22:15:36.062Z","ticket":"CAS-0274612","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARILOR IN LOCATIE,ASPCTELE SESIZATE NU SE MAI CONFIRMA"}
+{"at":"2026-11-17T22:45:38.060Z","ticket":"CAS-0274991","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T22:45:38.060Z","ticket":"CAS-0274991","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T22:45:38.060Z","ticket":"CAS-0274991","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs. a fost preluata si verificata la ora 00:29. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat.  \nVa multumim. \n"}
+{"at":"2026-11-17T22:45:38.060Z","ticket":"CAS-0274990","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T22:45:38.060Z","ticket":"CAS-0274990","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T22:45:38.060Z","ticket":"CAS-0274990","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs. a fost preluata si verificata la ora 00:29. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat.  \nVa multumim. \n"}
