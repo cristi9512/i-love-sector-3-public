@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274935</link>
+    <guid isPermaLink="false">CAS-0274935</guid>
+    <pubDate>Tue, 17 Nov 2026 16:08:06 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Buna seara Pe aceasta strada nu exista iluminat public, si ar trebui.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274926</link>
     <guid isPermaLink="false">CAS-0274926</guid>
@@ -621,16 +629,6 @@ Răspuns: Buna dimineata! Auto n-a fost gasit in locatie.</description>
     <pubDate>Sun, 15 Nov 2026 05:47:49 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcare ilegală pe trotuar, blocheaza accesul pietonal</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274285</link>
-    <guid isPermaLink="false">CAS-0274285</guid>
-    <pubDate>Sun, 15 Nov 2026 01:39:50 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Ajunsi la fata locului, am constatat ca autovehiculul GJ 06 FNZ ocupa , fara drept , un loc de parcare nenominal pe zona B -09, drept care a fost intocmita documentatia, in vederea sanctionarii ulterioare.</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274932</link>
+    <guid isPermaLink="false">CAS-0274932</guid>
+    <pubDate>Tue, 17 Nov 2026 16:03:20 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masini parcate pe trotuar. strada Ilioara nr. 6. va multumim</description>
+  </item>
+  <item>
     <title>Trasare parcare · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274911</link>
     <guid isPermaLink="false">CAS-0274911</guid>
@@ -597,16 +605,6 @@ Va multumesc!</description>
     <pubDate>Sat, 14 Nov 2026 17:08:45 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>doua autoturisme care ocupa locurile pentru persoane cu dizabilități fara a avea afișat la loc vizibil acest drept, așa cum prevede legislația in vigoare. locurile 3 si 30.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274233</link>
-    <guid isPermaLink="false">CAS-0274233</guid>
-    <pubDate>Sat, 14 Nov 2026 17:05:26 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 2
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE SE AFLA PARCAT PE LOCUL DE PARCARE DE RESEDINTA NOMINAL 82, COD PARCARE 3901, RESPECTAND CONDITIA AFISARII LA LOC VIZIBIL A UNUI NUMAR DE CONTACT IN PARBRIZ SI TOTODATA AVAND OBLIGATIA ELIBERARII LOCULUI IN TERMEN DE 5 MINUTE LA SOLICITAREA TITULARULUI ACESTUIA.</description>
   </item>
 </channel>
 </rss>
