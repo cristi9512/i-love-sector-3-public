@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274777</link>
+    <guid isPermaLink="false">CAS-0274777</guid>
+    <pubDate>Tue, 17 Nov 2026 04:28:27 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașini parcate pe trotuar și calea de acces</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274776</link>
+    <guid isPermaLink="false">CAS-0274776</guid>
+    <pubDate>Tue, 17 Nov 2026 04:26:47 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274775</link>
     <guid isPermaLink="false">CAS-0274775</guid>
@@ -626,26 +642,6 @@ Vă solicit:
     <description>Buna seara
 Autoturismele parcheaza in zona marcata oprire interzisa si pe trotuar, pietonii fiind nevoiti sa mearga pe carosabil 
 Va multumesc.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274717</link>
-    <guid isPermaLink="false">CAS-0274717</guid>
-    <pubDate>Mon, 16 Nov 2026 17:29:49 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: auto nu a fost depistat in locatie</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274716</link>
-    <guid isPermaLink="false">CAS-0274716</guid>
-    <pubDate>Mon, 16 Nov 2026 17:28:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: In urma verificarilor, autoturismul a fost identificat fiind intocmite documentele in vederea luarii masurilor legale.</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274776</link>
+    <guid isPermaLink="false">CAS-0274776</guid>
+    <pubDate>Tue, 17 Nov 2026 04:26:47 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274758</link>
     <guid isPermaLink="false">CAS-0274758</guid>
@@ -590,14 +598,6 @@ Răspuns: AM APLICAT MASURILE LEGALE </description>
     <pubDate>Fri, 13 Nov 2026 08:27:34 GMT</pubDate>
     <category>Toaletare/Tăiere arbori</category>
     <description>Bună ziua. Pe bld 1 decembrie nr 41 este un copac mare și uscat din care în acest moment s a rupt o creangă . În fața săli de jocuri Bonus. Mulțumesc . Trebuie tăiat copacul</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273881</link>
-    <guid isPermaLink="false">CAS-0273881</guid>
-    <pubDate>Fri, 13 Nov 2026 07:18:33 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>in fiecare zi tot aici</description>
   </item>
 </channel>
 </rss>

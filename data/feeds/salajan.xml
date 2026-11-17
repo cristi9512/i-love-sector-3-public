@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274777</link>
+    <guid isPermaLink="false">CAS-0274777</guid>
+    <pubDate>Tue, 17 Nov 2026 04:28:27 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașini parcate pe trotuar și calea de acces</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274775</link>
     <guid isPermaLink="false">CAS-0274775</guid>
@@ -636,14 +644,6 @@ Andrei</description>
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 6
 
 Răspuns: A FOST VERIFICAT PARCAJUL SESIZAT IAR AUTO IN CAUZA NU SE AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274022</link>
-    <guid isPermaLink="false">CAS-0274022</guid>
-    <pubDate>Fri, 13 Nov 2026 15:29:52 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>aceasta masina parchează și blochează trotuarul aproape în fiecare zi/seara DB97SSA</description>
   </item>
 </channel>
 </rss>
