@@ -6,7 +6,25 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Traian</title>
+    <title>Stationare neregulamentara · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274863</link>
+    <guid isPermaLink="false">CAS-0274863</guid>
+    <pubDate>Tue, 17 Nov 2026 12:05:06 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe trotuar de duminca, ocupa tot trotuarul.</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274862</link>
+    <guid isPermaLink="false">CAS-0274862</guid>
+    <pubDate>Tue, 17 Nov 2026 12:01:13 GMT</pubDate>
+    <category>Străzi</category>
+    <description>in aceasta zona este o mare problema cu acumularea apei si abia se poate circula la limita pe o banda ,la o ploaie minora
+
+pe drumul lunca cetatii, langa West Cars Auto</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274861</link>
     <guid isPermaLink="false">CAS-0274861</guid>
     <pubDate>Tue, 17 Nov 2026 11:59:52 GMT</pubDate>
@@ -16,7 +34,7 @@
 Ora 13:56, strada Turturelelor 62 este iar ocupată ilegal de mașini parcate pe banda de circulație ! Trebuie intervenit acum, nu diseară ! Mulțumesc !</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · Noua · Baba Novac</title>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274860</link>
     <guid isPermaLink="false">CAS-0274860</guid>
     <pubDate>Tue, 17 Nov 2026 11:59:12 GMT</pubDate>
@@ -645,27 +663,6 @@ Vă rog să îmi comunicați concret data la care va avea loc intervenția, nu d
     <description>masina este parcata de 2 zile in strada practic. blocheaza vizibilitatea si îngreunează ieșirea mașinilor in strada perpendiculara
 
 Răspuns: Buna ziua! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274803</link>
-    <guid isPermaLink="false">CAS-0274803</guid>
-    <pubDate>Tue, 17 Nov 2026 07:00:04 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Nimic favorabil. In continuare capacul de canar rezista.
-&quot;Stimate utilizator,
-
- 
-
-Sesizarea cu numărul 386751 / 13.10.2026 a fost închisa având rezoluția: Favorabil - transmisa somatie catre administratorul de retea in vederea remedierii deficientei semnalate&quot;.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274802</link>
-    <guid isPermaLink="false">CAS-0274802</guid>
-    <pubDate>Tue, 17 Nov 2026 06:47:35 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Bună ziua, locuiesc în Aleea Giurgeni nr.  11, Bloc F9, Ap12, Scara1. În spatele blocului pe partea mea de balcon și la apartamentul vecin avem un copac care s-a dezvoltat foarte aproape de bloc și ori de câte ori este furtună crengile bat direct în geamuri foarte puternic având toate șansele să le spargă. Doresc toaletarea lui la nivelul etajului al treilea. Mulțumesc!</description>
   </item>
 </channel>
 </rss>
