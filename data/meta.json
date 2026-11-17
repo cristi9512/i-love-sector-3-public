@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T22:00:56.873Z",
-  "lastChange": "2026-11-17T22:00:56.873Z",
+  "lastRun": "2026-11-17T22:15:36.062Z",
+  "lastChange": "2026-11-17T22:15:36.062Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2748,
-    "added": 7,
-    "updated": 0,
+    "fetched": 2453,
+    "added": 2,
+    "updated": 5,
     "removed": 0,
-    "changes": 0
+    "changes": 15
   },
   "totals": {
-    "incidents": 45639,
-    "open": 2036,
+    "incidents": 45641,
+    "open": 2033,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T22:00:56.873Z",
+    "asOf": "2026-11-17T22:15:36.062Z",
     "days": 30,
-    "open": 2036,
+    "open": 2033,
     "total": 186,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 70,
+        "open": 69,
         "n": 7
       },
       "3": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 488,
+        "open": 486,
         "n": 2
       },
       "32": {

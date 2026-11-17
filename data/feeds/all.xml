@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275029</link>
+    <guid isPermaLink="false">CAS-0275029</guid>
+    <pubDate>Tue, 17 Nov 2026 22:12:13 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autovehiculul cu numarul B........are parcarea neplătită are abonament platit dar nu in zona  A8  .. se află in afara intervalului 8-18 si detine autorizatie pe locul 38 .. in fiecare seara ocupa cate un loc nenominal in zona A8  ..</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275028</link>
+    <guid isPermaLink="false">CAS-0275028</guid>
+    <pubDate>Tue, 17 Nov 2026 22:08:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275027</link>
     <guid isPermaLink="false">CAS-0275027</guid>
@@ -464,12 +480,14 @@ Răspuns: au fost luate masurile legale</description>
 Răspuns: S-a dispus ridicare a doua auto stationate neregulamentar. Pe coltul intersectiei si pe trotuarul pietonal</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274974</link>
     <guid isPermaLink="false">CAS-0274974</guid>
     <pubDate>Tue, 17 Nov 2026 18:11:12 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
+
+Răspuns: Buna seara . Am preluat si vrificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat. Ulterior identificarii proprietarului i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
@@ -502,24 +520,6 @@ Răspuns: S-a dispus ridicare a doua auto stationate neregulamentar. Pe coltul i
     <pubDate>Tue, 17 Nov 2026 18:08:16 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>B717MRT parcat pe trotuar, pe pavele chiar in dreptul caio de acces. Va rugam sa luati masuri!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274969</link>
-    <guid isPermaLink="false">CAS-0274969</guid>
-    <pubDate>Tue, 17 Nov 2026 18:07:53 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 20.45 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022.Auto are </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274968</link>
-    <guid isPermaLink="false">CAS-0274968</guid>
-    <pubDate>Tue, 17 Nov 2026 18:06:33 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
 </channel>
 </rss>
