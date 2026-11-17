@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274793</link>
+    <guid isPermaLink="false">CAS-0274793</guid>
+    <pubDate>Tue, 17 Nov 2026 06:26:05 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274761</link>
     <guid isPermaLink="false">CAS-0274761</guid>
@@ -579,16 +587,6 @@ Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA   SE  CONFIRMA , AUTO CE FACEA OBIECT
     <description>Autovehiculul cu numarul I........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
 
 Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA   SE  CONFIRMA , AUTO CE FACEA OBIECTUL SESIZARI ESTE IN LOCATIE.S-A INTOCMIT DOCUMENTATIA CONF.HCLS3 346/2022</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273748</link>
-    <guid isPermaLink="false">CAS-0273748</guid>
-    <pubDate>Thu, 12 Nov 2026 16:38:45 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA  NU SE MAI CONFIRMA , AUTO CE FACEA OBIECTUL SESIZARI NU MAI ESTE IN LOCATIE INDICATA SESIZARE .</description>
   </item>
 </channel>
 </rss>

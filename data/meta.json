@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T06:15:36.137Z",
-  "lastChange": "2026-11-17T06:15:36.137Z",
+  "lastRun": "2026-11-17T06:30:51.542Z",
+  "lastChange": "2026-11-17T06:30:51.542Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2626,
-    "added": 3,
-    "updated": 3,
+    "fetched": 2400,
+    "added": 5,
+    "updated": 2,
     "removed": 0,
-    "changes": 5
+    "changes": 6
   },
   "totals": {
-    "incidents": 45403,
-    "open": 2015,
+    "incidents": 45408,
+    "open": 2018,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T06:15:36.137Z",
+    "asOf": "2026-11-17T06:30:51.542Z",
     "days": 30,
-    "open": 2015,
+    "open": 2018,
     "total": 204,
     "byCategory": {
       "2": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 79,
+        "open": 80,
         "n": 2
       },
       "7": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 452,
+        "open": 454,
         "n": 2
       },
       "32": {

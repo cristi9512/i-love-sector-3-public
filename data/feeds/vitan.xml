@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274792</link>
+    <guid isPermaLink="false">CAS-0274792</guid>
+    <pubDate>Tue, 17 Nov 2026 06:19:32 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe str Mugur Mugurel se parcheaza in mod constant neregulamentar la mai puțin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit sanctionarea tuturo autoturismelor parcate neregulamentar.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274781</link>
     <guid isPermaLink="false">CAS-0274781</guid>
@@ -622,16 +630,6 @@ Răspuns: BUNĂ SEARA, PENTRU A PUTEA DA CURS SESIZĂRII DVS. ÎN MOD EFICIENT, 
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 72
 
 Răspuns: AUTO RECLAMAT NU SE AFLA IN LOCATIE IN MOMENTUL VERIFICARII</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273752</link>
-    <guid isPermaLink="false">CAS-0273752</guid>
-    <pubDate>Thu, 12 Nov 2026 16:41:31 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Stationare neregulamentara. In comtinuare traficul in zona este limitat.
-
-Răspuns: NU SE MAI CONFIRMA </description>
   </item>
 </channel>
 </rss>
