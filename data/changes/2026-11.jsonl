@@ -881,3 +881,9 @@
 {"at":"2026-11-17T08:30:48.123Z","ticket":"CAS-0274801","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T08:30:48.123Z","ticket":"CAS-0274801","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-17T08:30:48.123Z","ticket":"CAS-0274801","field":"reply","from":"","to":"Nespecificat Registratura Buna ziua! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie."}
+{"at":"2026-11-17T08:45:37.043Z","ticket":"CAS-0274822","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T08:45:37.043Z","ticket":"CAS-0274822","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T08:45:37.043Z","ticket":"CAS-0274822","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, dar autoturismul l care faceți referire nu se mai află în locație."}
+{"at":"2026-11-17T08:45:37.043Z","ticket":"CAS-0274820","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T08:45:37.043Z","ticket":"CAS-0274820","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T08:45:37.043Z","ticket":"CAS-0274820","field":"reply","from":"","to":"Nespecificat Registratura LOCATIA A FOST VERIFICATA,AUTOTURISMUL MENTIONAT DE DUMNEAVOASTRĂ IN SESIZARE FIIND IDENTIFICAT IN ZONĂ,AM INTOCMIT DOCUMENTATIA CONFORM HCLS3 NR.346/2022M."}
