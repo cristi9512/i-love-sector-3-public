@@ -1193,3 +1193,8 @@
 {"at":"2026-11-17T15:01:19.886Z","ticket":"CAS-0274847","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T15:01:19.886Z","ticket":"CAS-0274847","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-17T15:01:19.886Z","ticket":"CAS-0274847","field":"reply","from":"","to":"Nespecificat Registratura au fost luate masurile legale"}
+{"at":"2026-11-17T15:15:43.551Z","ticket":"CAS-0274902","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-17T15:15:43.551Z","ticket":"CAS-0274791","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T15:15:43.551Z","ticket":"CAS-0274791","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T15:15:43.551Z","ticket":"CAS-0274791","field":"reply","from":"","to":"Nespecificat Registratura Auto a parasit locatia."}
+{"at":"2026-11-17T15:15:43.551Z","ticket":"CAS-0274903","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
