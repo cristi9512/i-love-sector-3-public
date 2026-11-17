@@ -775,3 +775,6 @@
 {"at":"2026-11-17T01:15:33.757Z","ticket":"CAS-0274658","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T01:15:33.757Z","ticket":"CAS-0274658","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-17T01:15:33.757Z","ticket":"CAS-0274658","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor in locatie, deseurile la care se face referire in sesizare au fost gasite, zona fiind monitorizata nefiind gasite indicii cu privire la persoana responsabila de depozitare.sesizarea fiind transmisa in vederea salubrizarii."}
+{"at":"2026-11-17T01:45:34.997Z","ticket":"CAS-0274667","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T01:45:34.997Z","ticket":"CAS-0274667","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T01:45:34.997Z","ticket":"CAS-0274667","field":"reply","from":"","to":"Nespecificat Registratura In urma analizarii sesizarii, am constatat ca numarul de inmatriculare din fotografie nu corespunde cu cel din descriere."}
