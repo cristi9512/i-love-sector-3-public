@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274961</link>
+    <guid isPermaLink="false">CAS-0274961</guid>
+    <pubDate>Tue, 17 Nov 2026 17:24:11 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare pe trotuar</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274942</link>
     <guid isPermaLink="false">CAS-0274942</guid>
@@ -589,18 +597,6 @@ in stanga e cladire in drepta este curte blocului, propun sa puneti noste stalpi
     <pubDate>Fri, 13 Nov 2026 07:10:43 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Trotuar ocupat de mașini parcate pe el . Strada Emanoil buteica</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273837</link>
-    <guid isPermaLink="false">CAS-0273837</guid>
-    <pubDate>Thu, 12 Nov 2026 20:56:18 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna seara! 
- Masina (jeep) audi încurcă desfășurarea a circulației catre stânga este parcat pe trotuar.
-Dacia (B200VTP) parchează numai acolo si daca il suni spune ca are abonament B4, nu bine sa mute mașina. 
-Renault (B327MIR) este parcat pe locurile destinate motocicletelor si pe locul meu 27B.
-Mulțumesc!</description>
   </item>
 </channel>
 </rss>

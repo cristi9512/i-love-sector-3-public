@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274959</link>
+    <guid isPermaLink="false">CAS-0274959</guid>
+    <pubDate>Tue, 17 Nov 2026 17:23:12 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-2, precum și pentru zonele B-11,C-1,C-3,D-1,</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274952</link>
+    <guid isPermaLink="false">CAS-0274952</guid>
+    <pubDate>Tue, 17 Nov 2026 17:17:03 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Logan de taxi este parcat pe zona hasurata si obstructioneaza vizibilitatea. de asemenea, ocupa si o porțiune de trotuar, dupa cum se vede si in imagine.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274932</link>
     <guid isPermaLink="false">CAS-0274932</guid>
@@ -591,22 +607,6 @@ Va multumesc!</description>
     <pubDate>Sat, 14 Nov 2026 17:14:17 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>auto parcare pe trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274237</link>
-    <guid isPermaLink="false">CAS-0274237</guid>
-    <pubDate>Sat, 14 Nov 2026 17:09:09 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina parcata neregulamentar pe colt și pe trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274236</link>
-    <guid isPermaLink="false">CAS-0274236</guid>
-    <pubDate>Sat, 14 Nov 2026 17:08:45 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>doua autoturisme care ocupa locurile pentru persoane cu dizabilități fara a avea afișat la loc vizibil acest drept, așa cum prevede legislația in vigoare. locurile 3 si 30.</description>
   </item>
 </channel>
 </rss>
