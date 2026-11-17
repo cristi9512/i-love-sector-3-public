@@ -899,3 +899,7 @@
 {"at":"2026-11-17T09:15:37.338Z","ticket":"CAS-0274813","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T09:15:37.338Z","ticket":"CAS-0274813","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-17T09:15:37.338Z","ticket":"CAS-0274813","field":"reply","from":"","to":"Nespecificat Registratura AJUNSI LA FATA LOCULUI SESIZAREA   SE  CONFIRMA , AUTO CE FACEA OBIECTUL SESIZARI ESTE IN LOCATIE.S-A INTOCMIT DOCUMENTATIA CONF.HCLS3 346/2022"}
+{"at":"2026-11-17T09:30:58.935Z","ticket":"CAS-0274826","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T09:30:58.935Z","ticket":"CAS-0274826","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T09:30:58.935Z","ticket":"CAS-0274826","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto."}
+{"at":"2026-11-17T09:30:58.935Z","ticket":"CAS-0274833","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
