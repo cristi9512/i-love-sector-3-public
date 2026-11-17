@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274883</link>
+    <guid isPermaLink="false">CAS-0274883</guid>
+    <pubDate>Tue, 17 Nov 2026 13:31:41 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274881</link>
+    <guid isPermaLink="false">CAS-0274881</guid>
+    <pubDate>Tue, 17 Nov 2026 13:31:03 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274848</link>
     <guid isPermaLink="false">CAS-0274848</guid>
@@ -592,23 +608,6 @@ Va multumesc!</description>
     <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE.VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273976</link>
-    <guid isPermaLink="false">CAS-0273976</guid>
-    <pubDate>Fri, 13 Nov 2026 12:17:55 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Buna ziua! Ma numesc Babadac Valentin si detin locul de parcare nr. 2, pemtru fiul meu cu handicap grav. In conditiile in care au fost executate lucrari in zona si urmeaza asfaltare/trasare locuri de parcare, va rog sa analizati posibilitatea largirii locului de parcare atribuit. Solicitarea este intemeiata pe faptul ca Vladimir nu este deplasabil si nu il putem urca in autoturism din cauza spatiului redus dintre autoturismele parcate.
-Va multumesc anticipat pentru intelegere.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273968</link>
-    <guid isPermaLink="false">CAS-0273968</guid>
-    <pubDate>Fri, 13 Nov 2026 11:31:30 GMT</pubDate>
-    <category>Altele</category>
-    <description>Un dulap tehnic deteriorat, cu ușa deschisă și instalațiile interioare expuse, pe Bulevardul 1 Decembrie 1918. Este chiar lângă trotuar și poate reprezenta un pericol pentru pietoni. Vă rog să trimiteți un echipaj pentru verificare și să anunțați operatorul responsabil.</description>
   </item>
 </channel>
 </rss>

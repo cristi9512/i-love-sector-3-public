@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T13:30:47.989Z",
-  "lastChange": "2026-11-17T13:30:47.989Z",
+  "lastRun": "2026-11-17T13:45:43.334Z",
+  "lastChange": "2026-11-17T13:45:43.334Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2509,
-    "added": 1,
-    "updated": 2,
+    "fetched": 2640,
+    "added": 7,
+    "updated": 1,
     "removed": 0,
-    "changes": 6
+    "changes": 1
   },
   "totals": {
-    "incidents": 45492,
-    "open": 1995,
+    "incidents": 45499,
+    "open": 2002,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T13:30:47.989Z",
+    "asOf": "2026-11-17T13:45:43.334Z",
     "days": 30,
-    "open": 1995,
-    "total": 198,
+    "open": 2002,
+    "total": 199,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 42,
+        "open": 48,
         "n": 7
       },
       "3": {
@@ -78,7 +78,7 @@
       "12": {
         "name": "Trasare parcare",
         "open": 43,
-        "n": 0
+        "n": 1
       },
       "13": {
         "name": "Unități de Învățământ(probleme administrative)",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 460,
+        "open": 461,
         "n": 2
       },
       "32": {
