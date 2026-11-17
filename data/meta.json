@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T06:30:51.542Z",
-  "lastChange": "2026-11-17T06:30:51.542Z",
+  "lastRun": "2026-11-17T06:45:36.687Z",
+  "lastChange": "2026-11-17T06:45:36.687Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2400,
+    "fetched": 2641,
     "added": 5,
-    "updated": 2,
+    "updated": 4,
     "removed": 0,
     "changes": 6
   },
   "totals": {
-    "incidents": 45408,
-    "open": 2018,
+    "incidents": 45413,
+    "open": 2022,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T06:30:51.542Z",
+    "asOf": "2026-11-17T06:45:36.687Z",
     "days": 30,
-    "open": 2018,
-    "total": 204,
+    "open": 2022,
+    "total": 203,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -37,7 +37,7 @@
       },
       "3": {
         "name": "Spații verzi",
-        "open": 42,
+        "open": 43,
         "n": 8
       },
       "4": {
@@ -57,8 +57,8 @@
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 42,
-        "n": 6
+        "open": 41,
+        "n": 5
       },
       "9": {
         "name": "Altele",
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 446,
+        "open": 447,
         "n": 32
       },
       "11": {
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 44,
+        "open": 45,
         "n": 0
       },
       "13": {
@@ -117,7 +117,7 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 17,
+        "open": 18,
         "n": 2
       },
       "21": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 454,
+        "open": 455,
         "n": 2
       },
       "32": {
