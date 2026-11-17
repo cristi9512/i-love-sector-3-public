@@ -6,7 +6,31 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275012</link>
+    <guid isPermaLink="false">CAS-0275012</guid>
+    <pubDate>Tue, 17 Nov 2026 20:42:18 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275009</link>
+    <guid isPermaLink="false">CAS-0275009</guid>
+    <pubDate>Tue, 17 Nov 2026 20:35:39 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>staționare în fața trecerii de pietoni</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275008</link>
+    <guid isPermaLink="false">CAS-0275008</guid>
+    <pubDate>Tue, 17 Nov 2026 20:34:05 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-13, precum și pentru zonele B-12,B-14,B-16,C-7,</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275006</link>
     <guid isPermaLink="false">CAS-0275006</guid>
     <pubDate>Tue, 17 Nov 2026 20:30:40 GMT</pubDate>
@@ -570,37 +594,6 @@ Răspuns: Lipsește fotografia necesară verificării și soluționării sesiză
 va rugam sa demontati  băncile de pe strada marcata pe harta , au devenit magnet pentru persoane fara adăpost foarte insalubra și sursa de hrana pentru șobolani.
 
 Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, INSA ASPECTELE RECLAMATE NU SE CONFIRMA, NU AM DEPISTAT PERSOANE CARE SA FACA OBIECTUL SESIZARII.</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Declinat competenţa · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274362</link>
-    <guid isPermaLink="false">CAS-0274362</guid>
-    <pubDate>Sun, 15 Nov 2026 13:59:07 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Risca sa cadă felinarul, este in locul de joaca de langa gradinita 71 corp, strada Firidei.
-
-Răspuns: Buna ziua ,va multumim pentru aspectele semnalate,sesizarea dumneavoastra a fost redirectionata catre servicul de specialiate -iluminat stradal</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274346</link>
-    <guid isPermaLink="false">CAS-0274346</guid>
-    <pubDate>Sun, 15 Nov 2026 12:09:14 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>In fiecare zi masinile de paza stau in intersectie, mai ales pe partile cu drepta intermitent.
-Conform Codului Rutier (OUG nr. 195/2002) și Regulamentului de aplicare, aceste autovehicule nu beneficiază de statutul de autovehicule cu regim de circulație prioritară.
-
-Fac mereu sesizsre la aceste masini si ele tot aici sunt.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274344</link>
-    <guid isPermaLink="false">CAS-0274344</guid>
-    <pubDate>Sun, 15 Nov 2026 12:01:43 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 42
-
-Răspuns: 14.42 am preluat si verificat sesizarea infocet nr  . 429511/2026. La fata locului s-a prezentat conducatorul auto care a fost legitimat urmand sa aplicam prevederile HCLS3 346/2022 M12 . Locul de parcare a fost eliberat in prezenta noastra .</description>
   </item>
 </channel>
 </rss>
