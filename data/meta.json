@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T12:30:59.772Z",
-  "lastChange": "2026-11-17T12:30:59.772Z",
+  "lastRun": "2026-11-17T12:45:33.375Z",
+  "lastChange": "2026-11-17T12:45:33.375Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2469,
-    "added": 2,
-    "updated": 17,
+    "fetched": 2705,
+    "added": 0,
+    "updated": 22,
     "removed": 0,
-    "changes": 51
+    "changes": 66
   },
   "totals": {
     "incidents": 45477,
-    "open": 2009,
+    "open": 1987,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,25 +25,25 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T12:30:59.772Z",
+    "asOf": "2026-11-17T12:45:33.375Z",
     "days": 30,
-    "open": 2009,
-    "total": 210,
+    "open": 1987,
+    "total": 199,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 36,
+        "open": 35,
         "n": 7
       },
       "3": {
         "name": "Spații verzi",
-        "open": 44,
+        "open": 43,
         "n": 8
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 182,
-        "n": 17
+        "open": 179,
+        "n": 16
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -52,28 +52,28 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 76,
+        "open": 75,
         "n": 2
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 40,
-        "n": 6
+        "open": 39,
+        "n": 5
       },
       "9": {
         "name": "Altele",
-        "open": 234,
-        "n": 16
+        "open": 233,
+        "n": 15
       },
       "10": {
         "name": "Străzi",
-        "open": 440,
-        "n": 35
+        "open": 431,
+        "n": 29
       },
       "11": {
         "name": "Parcuri",
-        "open": 48,
-        "n": 7
+        "open": 46,
+        "n": 6
       },
       "12": {
         "name": "Trasare parcare",
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 41,
+        "open": 40,
         "n": 0
       },
       "17": {
@@ -107,8 +107,8 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 17,
-        "n": 4
+        "open": 16,
+        "n": 3
       },
       "19": {
         "name": "Ordine și liniște publică",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 461,
+        "open": 460,
         "n": 2
       },
       "32": {
