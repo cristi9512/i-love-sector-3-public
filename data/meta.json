@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T18:00:58.614Z",
-  "lastChange": "2026-11-17T18:00:58.614Z",
+  "lastRun": "2026-11-17T18:15:37.193Z",
+  "lastChange": "2026-11-17T18:15:37.193Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2946,
-    "added": 2,
-    "updated": 9,
+    "fetched": 2811,
+    "added": 9,
+    "updated": 6,
     "removed": 0,
-    "changes": 27
+    "changes": 18
   },
   "totals": {
-    "incidents": 45579,
-    "open": 2033,
+    "incidents": 45588,
+    "open": 2036,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T18:00:58.614Z",
+    "asOf": "2026-11-17T18:15:37.193Z",
     "days": 30,
-    "open": 2033,
+    "open": 2036,
     "total": 204,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 47,
+        "open": 52,
         "n": 7
       },
       "3": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 71,
+        "open": 72,
         "n": 2
       },
       "7": {
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 234,
+        "open": 233,
         "n": 15
       },
       "10": {
         "name": "Străzi",
-        "open": 436,
+        "open": 435,
         "n": 31
       },
       "11": {
@@ -112,12 +112,12 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 12,
+        "open": 11,
         "n": 4
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 17,
+        "open": 16,
         "n": 2
       },
       "21": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 486,
+        "open": 487,
         "n": 2
       },
       "32": {

@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274976</link>
+    <guid isPermaLink="false">CAS-0274976</guid>
+    <pubDate>Tue, 17 Nov 2026 18:14:31 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 25</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274974</link>
+    <guid isPermaLink="false">CAS-0274974</guid>
+    <pubDate>Tue, 17 Nov 2026 18:11:12 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274972</link>
+    <guid isPermaLink="false">CAS-0274972</guid>
+    <pubDate>Tue, 17 Nov 2026 18:10:36 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>staționează pe trecerea de pietoni . este a 3 ea seara care ii spun sa numai tragă pe trecere.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274964</link>
     <guid isPermaLink="false">CAS-0274964</guid>
@@ -582,33 +606,6 @@ Va multumesc.</description>
     <pubDate>Sun, 15 Nov 2026 10:15:15 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Pe Strada Marului la Nr. 64 este parcata neregulamentar masina marca Renault de culoare alba cu numarul de inmatriculare B154CRI, in sensul ca imi blocheaza calea de acces si vizibilitatea la iesirea din curtea situata in planul 2 la Nr. 64A. Va rog sa luati masurile legale ce se impun  pentru a impiedica pe viitor astfel de situatii!</description>
-  </item>
-  <item>
-    <title>Parcuri · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274299</link>
-    <guid isPermaLink="false">CAS-0274299</guid>
-    <pubDate>Sun, 15 Nov 2026 06:44:58 GMT</pubDate>
-    <category>Parcuri</category>
-    <description>stâlp iluminat distrus</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274286</link>
-    <guid isPermaLink="false">CAS-0274286</guid>
-    <pubDate>Sun, 15 Nov 2026 03:30:19 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-19, precum și pentru zonele B-17,B-18,B-20,B-3,
-
-Răspuns: 08:09 Verificare sesizare infocer nr429375/2026 unde se reclama ca detine autorizatie de parcare neno minala in zona B19, B17, B18, In momentul verificarilor orele 08:12, auto in cauza nu a mai fost identific at in locatia reclamata.
-Va multumesc!</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274243</link>
-    <guid isPermaLink="false">CAS-0274243</guid>
-    <pubDate>Sat, 14 Nov 2026 18:21:06 GMT</pubDate>
-    <category>Altele</category>
-    <description>Craca de copac sta sa cada pe trotuar</description>
   </item>
 </channel>
 </rss>
