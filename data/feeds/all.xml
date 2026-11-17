@@ -6,6 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274879</link>
+    <guid isPermaLink="false">CAS-0274879</guid>
+    <pubDate>Tue, 17 Nov 2026 13:20:24 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autoturismul IL05AME este parcat pe trotuar!</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274878</link>
+    <guid isPermaLink="false">CAS-0274878</guid>
+    <pubDate>Tue, 17 Nov 2026 13:17:52 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>In masina de pompieri din locul de joaca cineva si-a facut nevoile.
+Va rog sa trimiteti o echipa sa curete, fecalele sunt f periculoase pt copii.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274877</link>
     <guid isPermaLink="false">CAS-0274877</guid>
@@ -583,26 +600,6 @@ Răspuns: au fost aplicate cinci instiintari informative </description>
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: LOCATIA A FOST VERIFICATA,AUTOTURISMUL MENTIONAT DE DUMNEAVOASTRĂ IN SESIZARE FIIND IDENTIFICAT IN ZONĂ,AM INTOCMIT DOCUMENTATIA CONFORM HCLS3 NR.346/2022M.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274818</link>
-    <guid isPermaLink="false">CAS-0274818</guid>
-    <pubDate>Tue, 17 Nov 2026 08:01:19 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,
-
-Răspuns: conexată la sesizarea cu nr.432416, a fost întocmit un singur răspuns</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274819</link>
-    <guid isPermaLink="false">CAS-0274819</guid>
-    <pubDate>Tue, 17 Nov 2026 08:01:19 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,
-
-Răspuns: conexată la sesizarea cu nr.432416, a fost întocmit un singur răspuns.</description>
   </item>
 </channel>
 </rss>
