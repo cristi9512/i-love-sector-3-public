@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274942</link>
+    <guid isPermaLink="false">CAS-0274942</guid>
+    <pubDate>Tue, 17 Nov 2026 16:45:07 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274941</link>
+    <guid isPermaLink="false">CAS-0274941</guid>
+    <pubDate>Tue, 17 Nov 2026 16:42:53 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274910</link>
     <guid isPermaLink="false">CAS-0274910</guid>
@@ -585,27 +601,6 @@ in stanga e cladire in drepta este curte blocului, propun sa puneti noste stalpi
 Dacia (B200VTP) parchează numai acolo si daca il suni spune ca are abonament B4, nu bine sa mute mașina. 
 Renault (B327MIR) este parcat pe locurile destinate motocicletelor si pe locul meu 27B.
 Mulțumesc!</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273761</link>
-    <guid isPermaLink="false">CAS-0273761</guid>
-    <pubDate>Thu, 12 Nov 2026 17:12:54 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua 
-Am un vecin care a parcat mașina pe locul cu B4 )probabil ca are parcare plătită sau nu) dar problema este ca nu a parcat intre linii si eu nu am cum sa parchez în spatele lui ptr ca nu am loc 
-Nu are nici telefon in geam sa ịl sun sa vina sa parcaheze intre linii.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273757</link>
-    <guid isPermaLink="false">CAS-0273757</guid>
-    <pubDate>Thu, 12 Nov 2026 16:59:12 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto stationeaza pe trotuar desi sunt locuri libere B7  atat langa el cat si la bulevard.  
-Multumesc !!
-
-Răspuns: NU SE MAI CONFIRMA </description>
   </item>
 </channel>
 </rss>
