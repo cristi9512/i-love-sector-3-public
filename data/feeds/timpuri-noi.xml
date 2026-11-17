@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274981</link>
+    <guid isPermaLink="false">CAS-0274981</guid>
+    <pubDate>Tue, 17 Nov 2026 18:43:43 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274965</link>
     <guid isPermaLink="false">CAS-0274965</guid>
@@ -640,14 +648,6 @@ La data si ora efectuarii verificarilor, aspectele sesizate se confirma, asupra 
     <pubDate>Sat, 14 Nov 2026 11:49:32 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Luați măsurile legale care se impun. Parcate de aprox. 3 zile</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274155</link>
-    <guid isPermaLink="false">CAS-0274155</guid>
-    <pubDate>Sat, 14 Nov 2026 10:24:12 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Gaura în trotuar, rog intervenție urgenta, posibil canalizare fisurata</description>
   </item>
 </channel>
 </rss>

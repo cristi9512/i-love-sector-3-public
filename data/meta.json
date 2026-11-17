@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T18:30:48.830Z",
-  "lastChange": "2026-11-17T18:30:48.830Z",
+  "lastRun": "2026-11-17T18:45:38.652Z",
+  "lastChange": "2026-11-17T18:45:38.652Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2582,
-    "added": 2,
-    "updated": 10,
+    "fetched": 2821,
+    "added": 3,
+    "updated": 29,
     "removed": 0,
-    "changes": 28
+    "changes": 87
   },
   "totals": {
-    "incidents": 45590,
-    "open": 2029,
+    "incidents": 45593,
+    "open": 2003,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T18:30:48.830Z",
+    "asOf": "2026-11-17T18:45:38.652Z",
     "days": 30,
-    "open": 2029,
-    "total": 204,
+    "open": 2003,
+    "total": 185,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 50,
+        "open": 47,
         "n": 7
       },
       "3": {
@@ -42,8 +42,8 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 180,
-        "n": 18
+        "open": 176,
+        "n": 14
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -62,13 +62,13 @@
       },
       "9": {
         "name": "Altele",
-        "open": 231,
-        "n": 15
+        "open": 226,
+        "n": 10
       },
       "10": {
         "name": "Străzi",
-        "open": 434,
-        "n": 31
+        "open": 424,
+        "n": 22
       },
       "11": {
         "name": "Parcuri",
@@ -77,8 +77,8 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 44,
-        "n": 1
+        "open": 43,
+        "n": 0
       },
       "13": {
         "name": "Unități de Învățământ(probleme administrative)",
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 39,
+        "open": 38,
         "n": 0
       },
       "17": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 486,
+        "open": 484,
         "n": 2
       },
       "32": {
