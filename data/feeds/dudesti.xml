@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274984</link>
+    <guid isPermaLink="false">CAS-0274984</guid>
+    <pubDate>Tue, 17 Nov 2026 18:50:43 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274983</link>
+    <guid isPermaLink="false">CAS-0274983</guid>
+    <pubDate>Tue, 17 Nov 2026 18:49:15 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274982</link>
+    <guid isPermaLink="false">CAS-0274982</guid>
+    <pubDate>Tue, 17 Nov 2026 18:47:58 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274978</link>
     <guid isPermaLink="false">CAS-0274978</guid>
@@ -566,40 +590,6 @@ LOCUL 6 DE PARCARE A FOST ELIBERAT IN PREZENTA DUMNEAVOASTRĂ</description>
     <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
 
 Răspuns: REVENITI CU O NOUA SESIZARE IN CARE SA ATASATI O FOTOGRAFIE PRIN E EVIDENTIAT TIPUL LOCULUI DE PARCARE.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274390</link>
-    <guid isPermaLink="false">CAS-0274390</guid>
-    <pubDate>Sun, 15 Nov 2026 16:09:33 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-Am dat curs sesizarii dumneavoastra, aspectele sesizate nu se confirma, autoturismul cu elementele de identificare oferite(foto atasata) detine autorizatie de parcare nenominala.
-Va recomandam, ca pe viitor, sa verificati cu atentie numarul de inamtriculare pentru care doriti sa faceti o sesizare!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274388</link>
-    <guid isPermaLink="false">CAS-0274388</guid>
-    <pubDate>Sun, 15 Nov 2026 16:08:37 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La momentul verificarilor aspectele sesizate nu se confirma, autoturismul reclamat a parasit locatia indicata.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274387</link>
-    <guid isPermaLink="false">CAS-0274387</guid>
-    <pubDate>Sun, 15 Nov 2026 16:07:53 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La momentul verificarilor aspectele sesizate nu se confirma, autoturismul reclamat a parasit locatia indicata.</description>
   </item>
 </channel>
 </rss>

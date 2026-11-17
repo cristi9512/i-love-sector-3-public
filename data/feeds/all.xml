@@ -6,6 +6,62 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274988</link>
+    <guid isPermaLink="false">CAS-0274988</guid>
+    <pubDate>Tue, 17 Nov 2026 18:55:30 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274987</link>
+    <guid isPermaLink="false">CAS-0274987</guid>
+    <pubDate>Tue, 17 Nov 2026 18:55:26 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274986</link>
+    <guid isPermaLink="false">CAS-0274986</guid>
+    <pubDate>Tue, 17 Nov 2026 18:54:35 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274985</link>
+    <guid isPermaLink="false">CAS-0274985</guid>
+    <pubDate>Tue, 17 Nov 2026 18:52:49 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274984</link>
+    <guid isPermaLink="false">CAS-0274984</guid>
+    <pubDate>Tue, 17 Nov 2026 18:50:43 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274983</link>
+    <guid isPermaLink="false">CAS-0274983</guid>
+    <pubDate>Tue, 17 Nov 2026 18:49:15 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274982</link>
+    <guid isPermaLink="false">CAS-0274982</guid>
+    <pubDate>Tue, 17 Nov 2026 18:47:58 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274981</link>
     <guid isPermaLink="false">CAS-0274981</guid>
@@ -14,12 +70,14 @@
     <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274980</link>
     <guid isPermaLink="false">CAS-0274980</guid>
     <pubDate>Tue, 17 Nov 2026 18:33:09 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: auto nu se afla pe loc de parcare nenominal</description>
   </item>
   <item>
     <title>Ordine și liniște publică · În lucru · Trapezului</title>
@@ -470,72 +528,6 @@ Numar inmatriculare B260MIW</description>
     <pubDate>Tue, 17 Nov 2026 16:00:23 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 21.11.2026 18:00.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274928</link>
-    <guid isPermaLink="false">CAS-0274928</guid>
-    <pubDate>Tue, 17 Nov 2026 15:59:44 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina parcata pe trotuar, Bd 1 Decembrie 1918, nr 43-45 (alee). 
-Nr inmatriculare VN63VLC.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274927</link>
-    <guid isPermaLink="false">CAS-0274927</guid>
-    <pubDate>Tue, 17 Nov 2026 15:56:52 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Acest autoturism blochează accesul pietonilor pe trotuar</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274926</link>
-    <guid isPermaLink="false">CAS-0274926</guid>
-    <pubDate>Tue, 17 Nov 2026 15:54:48 GMT</pubDate>
-    <category>Altele</category>
-    <description>Bună seara.
-Pe strada Bogran Ghiorghe Tudor exista stalpi de iluminat nefuncțional.
-Va rog sa remediati problema.
-Mulțumesc!</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274925</link>
-    <guid isPermaLink="false">CAS-0274925</guid>
-    <pubDate>Tue, 17 Nov 2026 15:46:43 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>iar se sta, iar se bea, iar se injura, iar se blocheaza accesul, iar se fumeaza si se arunca chistoacele, iar se ascund berile. aplicati niste amenzi corecte si dispar toti alcolostii de acolo!
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 19.20, oră la care în locație nu erau prezente persoane care să consume băuturi alcoolice ci doar pietoni care trazitau zona. Aceasta va rămâne în atenția nostră pentru reverificări periodice. În cazul constatării unor alte aspecte din categoria celor sesizate vă recomandăm să efectuați apel la numărul 021.9543 iar un echipaj se va prezenta în cel mai scurt timp pentru a lua măsurile legale impuse de situație.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274924</link>
-    <guid isPermaLink="false">CAS-0274924</guid>
-    <pubDate>Tue, 17 Nov 2026 15:45:26 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274923</link>
-    <guid isPermaLink="false">CAS-0274923</guid>
-    <pubDate>Tue, 17 Nov 2026 15:40:15 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: sesizare incompleta </description>
-  </item>
-  <item>
-    <title>Parcuri · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274922</link>
-    <guid isPermaLink="false">CAS-0274922</guid>
-    <pubDate>Tue, 17 Nov 2026 15:40:07 GMT</pubDate>
-    <category>Parcuri</category>
-    <description>Buna seara, 
-Becul de la felinarul din locul de joaca Parcul Caprei este ars de mult timp. Va rugam sa il inlocuiti. 
-Multumesc</description>
   </item>
 </channel>
 </rss>

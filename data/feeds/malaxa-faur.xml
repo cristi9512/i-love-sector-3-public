@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Malaxa - Faur</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274987</link>
+    <guid isPermaLink="false">CAS-0274987</guid>
+    <pubDate>Tue, 17 Nov 2026 18:55:26 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274947</link>
     <guid isPermaLink="false">CAS-0274947</guid>
@@ -567,16 +575,6 @@ Răspuns: AM VERIFICAT PARCAJUL SESIZAT IAR AUTO IN CAUZA SE AFLA IN LOCATIE DAR
     <description>masini stationate pe carosabil pe locuri neamenajete de parcare. Va rog rezolvare
 
 Răspuns: Bună seara , vă mulţumim pentru sesizare.Verificările în teren se vor realiza în termenul legal , în limita capacității tehnice a serviciului circulație</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272925</link>
-    <guid isPermaLink="false">CAS-0272925</guid>
-    <pubDate>Mon, 09 Nov 2026 19:59:40 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZAREA DUMNEAVOASTRA SE CONFIRMA, AUTO LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE, MOTIV PENTRU CARE S A APLICAT INSTIINTARE , URMAND A SE APLICA MASURILE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274986</link>
+    <guid isPermaLink="false">CAS-0274986</guid>
+    <pubDate>Tue, 17 Nov 2026 18:54:35 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274985</link>
+    <guid isPermaLink="false">CAS-0274985</guid>
+    <pubDate>Tue, 17 Nov 2026 18:52:49 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274970</link>
     <guid isPermaLink="false">CAS-0274970</guid>
@@ -655,24 +671,6 @@ Răspuns: AUTO  DETINE AUORIZATIE DE PARCARE PE LOCURI NENOMINALE IN ZONA,,A,, F
     <description>Nu detine autorizatie
 
 Răspuns: LOCATIA A FOST VERIFICATA,AUTOTURISMUL MENTIONAT IN SESIZARE FIIND DEPISTAT IN LOCATIE,AM INTOCMIT DOCUMENTATIA CONFORM HCLS3 NR.346/2022M.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274548</link>
-    <guid isPermaLink="false">CAS-0274548</guid>
-    <pubDate>Mon, 16 Nov 2026 08:39:13 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>loc de parcare ocupat
-
-Răspuns: LOCUL DE PARCARE A FOST ELIBERAT,S A INTOCMIT DOCUMENTATIA CONF HCGMB 124/2008 URMAND A FI SANCTIONAT CONTRAVENTIONAL CONDUCATORUL AUTO</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274535</link>
-    <guid isPermaLink="false">CAS-0274535</guid>
-    <pubDate>Mon, 16 Nov 2026 07:19:16 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Parcări neregulamentare pe pista de biciclete de pe Liviu Rebreanu</description>
   </item>
 </channel>
 </rss>

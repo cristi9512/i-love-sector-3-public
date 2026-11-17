@@ -1464,3 +1464,9 @@
 {"at":"2026-11-17T18:45:38.652Z","ticket":"CAS-0267277","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T18:45:38.652Z","ticket":"CAS-0267277","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-17T18:45:38.652Z","ticket":"CAS-0267277","field":"reply","from":"","to":"Declinat competenta Adresă CMIPB + spre știință petent Raspunsul a fost trimis prin email catre cetatean."}
+{"at":"2026-11-17T19:01:02.310Z","ticket":"CAS-0274980","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T19:01:02.310Z","ticket":"CAS-0274980","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T19:01:02.310Z","ticket":"CAS-0274980","field":"reply","from":"","to":"Nespecificat Registratura auto nu se afla pe loc de parcare nenominal"}
+{"at":"2026-11-17T19:01:02.310Z","ticket":"CAS-0274892","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T19:01:02.310Z","ticket":"CAS-0274892","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T19:01:02.310Z","ticket":"CAS-0274892","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie."}
