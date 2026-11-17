@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274821</link>
+    <guid isPermaLink="false">CAS-0274821</guid>
+    <pubDate>Tue, 17 Nov 2026 08:11:15 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>calea dudesti 126, masini santier parcate pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274816</link>
     <guid isPermaLink="false">CAS-0274816</guid>
     <pubDate>Tue, 17 Nov 2026 08:01:11 GMT</pubDate>
@@ -602,17 +610,6 @@ Răspuns: IN MOMENTUL VERIFICARILOR IN LOCATIE NU AU FOST IDENTIFICATE PERSOANE 
 
 Răspuns: Buna seara,
 La data si ora efectuarii verificarilor in locatia indicata, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274025</link>
-    <guid isPermaLink="false">CAS-0274025</guid>
-    <pubDate>Fri, 13 Nov 2026 15:36:12 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul P........ Deține autorizație nenominala de parcare pentru  zona A-6, precum și pentru zonele A-10,A-4,A-5,A-7,A-8,
-
-Răspuns: Buna seara,
-La data si ora efectuarii verificarilor, aspectele sesizate se confirma, intr-adevar  autoturismul detine autorizatie de parcare nenominala.</description>
   </item>
 </channel>
 </rss>
