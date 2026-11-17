@@ -6,7 +6,31 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Vitan</title>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274784</link>
+    <guid isPermaLink="false">CAS-0274784</guid>
+    <pubDate>Tue, 17 Nov 2026 05:41:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 122 ARF blocând accesul pietonilor pe trotuar în special cei cu cărucioare aleea Blăjel vis-a-vis de bloc V21B.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274783</link>
+    <guid isPermaLink="false">CAS-0274783</guid>
+    <pubDate>Tue, 17 Nov 2026 05:39:33 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274782</link>
+    <guid isPermaLink="false">CAS-0274782</guid>
+    <pubDate>Tue, 17 Nov 2026 05:38:56 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274781</link>
     <guid isPermaLink="false">CAS-0274781</guid>
     <pubDate>Tue, 17 Nov 2026 05:30:20 GMT</pubDate>
@@ -606,34 +630,6 @@ Răspuns: Politisti Locali au luat la cunostinta din cadrul Serviciului de Circu
     <category>Stationare neregulamentara</category>
     <description>Două autoturisme parcate neregulamentar una cea gri pe raza indicatorului oprirea interzisă iar cealaltă verde în afara faptului ca blochează și îngreunează accesul în parcare mai blochează și trotoarul este parcată fix în dreptul trotuarului și nu se poate folosi. Ambele
 Mașini încurcă accesul în parcări fiind parcate pe o stradă mai îngustă de 6m. Vă rog luați măsurile legale și veniți și ridicați-le</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274724</link>
-    <guid isPermaLink="false">CAS-0274724</guid>
-    <pubDate>Mon, 16 Nov 2026 17:45:19 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: sesizare incompleta </description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274723</link>
-    <guid isPermaLink="false">CAS-0274723</guid>
-    <pubDate>Mon, 16 Nov 2026 17:40:23 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Cea mai grava groapa, ne-am rupt masinile aici in ea si zi de zi cineva isi rupe masina care nu stie de ea! Sper sa o faceti urgent!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274722</link>
-    <guid isPermaLink="false">CAS-0274722</guid>
-    <pubDate>Mon, 16 Nov 2026 17:40:10 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.</description>
   </item>
 </channel>
 </rss>

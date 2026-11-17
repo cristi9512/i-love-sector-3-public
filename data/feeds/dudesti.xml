@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274784</link>
+    <guid isPermaLink="false">CAS-0274784</guid>
+    <pubDate>Tue, 17 Nov 2026 05:41:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 122 ARF blocând accesul pietonilor pe trotuar în special cei cu cărucioare aleea Blăjel vis-a-vis de bloc V21B.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274782</link>
+    <guid isPermaLink="false">CAS-0274782</guid>
+    <pubDate>Tue, 17 Nov 2026 05:38:56 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274731</link>
     <guid isPermaLink="false">CAS-0274731</guid>
@@ -583,27 +599,6 @@ La data si ora efectuarii verificarilor, aspectele sesizate se confirma, intr-ad
     <pubDate>Fri, 13 Nov 2026 15:29:47 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>A parcat pe trotuar</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274017</link>
-    <guid isPermaLink="false">CAS-0274017</guid>
-    <pubDate>Fri, 13 Nov 2026 15:17:00 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La data si ora efectuarii verificarilor in locatia indicata, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274002</link>
-    <guid isPermaLink="false">CAS-0274002</guid>
-    <pubDate>Fri, 13 Nov 2026 14:29:21 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Ma simt nevoit sa fac aceasta sesizare legata de prezenta si comportamentul drogatilor din zona piata alba iulia. S-au inmultit , sunt tupeisti, iti este frica sa iesi cu cai ele din bloc sa nu iti dea in cap. S-au aciuat pe la scarile blocului si dupa cum o sa vedeti in pozele atasate , isi fac nevoile , ziua in amiaza mare, langa intrarile blocurilor, peste tot sunt numai gunoaie , garouri improvizate , si ambalaje de mancare in urma lor. Daca politia locala tot vine sa verifice daca masinile parcate au abonament sau nu , ar putea sa patruleze si pentru depistarea unor asemenea personaje. Cu vonsideratie , un platitor de taxe. Adresa : Caloian judetu 8 , zona din spatele blocurilor D19a si D19b.
-
-Răspuns: IN MOMENTUL VERIFICARILOR IN LOCATIE NU AU FOST IDENTIFICATE PERSOANE CE SA FACA OBIECTUL SESIZARI ,ZONA VA RAMANE IN MONITORIZARE.</description>
   </item>
 </channel>
 </rss>
