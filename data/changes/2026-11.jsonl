@@ -1175,3 +1175,6 @@
 {"at":"2026-11-17T13:30:47.989Z","ticket":"CAS-0274633","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea se confirma, au fost luate masuri legale."}
 {"at":"2026-11-17T13:45:43.334Z","ticket":"CAS-0274880","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-17T14:01:01.745Z","ticket":"CAS-0274887","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-17T14:15:36.080Z","ticket":"CAS-0274884","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T14:15:36.080Z","ticket":"CAS-0274884","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T14:15:36.080Z","ticket":"CAS-0274884","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost preluată și verificată la ora 16.05 autovehiculul la care faceți referire fiind depistat în locație parcat pe un loc de parcare nenominal din zona C-2, bateria 1_2 sistematizată în bd. Th. Pallady  nr.4 fără a deține autorizație sau abonament valabile și fără a fi achitat tariful orar aferent. Conducătorul auto a fost identificat și legitimat împotriva sa fiind luate măsurile legale ce se impun în astfel de situații. Locul de parcare a fost eliberat."}

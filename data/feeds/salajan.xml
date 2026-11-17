@@ -7,6 +7,14 @@
   <language>ro</language>
   <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274889</link>
+    <guid isPermaLink="false">CAS-0274889</guid>
+    <pubDate>Tue, 17 Nov 2026 14:05:21 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274887</link>
     <guid isPermaLink="false">CAS-0274887</guid>
     <pubDate>Tue, 17 Nov 2026 13:44:26 GMT</pubDate>
@@ -22,12 +30,14 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274884</link>
     <guid isPermaLink="false">CAS-0274884</guid>
     <pubDate>Tue, 17 Nov 2026 13:41:32 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 16.05 autovehiculul la care faceți referire fiind depistat în locație parcat pe un loc de parcare nenominal din zona C-2, bateria 1_2 sistematizată în bd. Th. Pallady  nr.4 fără a deține autorizație sau abonament valabile și fără a fi achitat tariful orar aferent. Conducătorul auto a fost identificat și legitimat împotriva sa fiind luate măsurile legale ce se impun în astfel de situații. Locul de parcare a fost eliberat.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
@@ -588,14 +598,6 @@ Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE SE 
     <category>Străzi</category>
     <description>Trecere de pietoni neiluminată, este situata in curbă, vizibilitate scăzută. reprezinta un real pericol. este scoala lângă. Pe strada Firidei vis a vis de FitClass
 va rog luati masurile necesare. mulțumesc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274224</link>
-    <guid isPermaLink="false">CAS-0274224</guid>
-    <pubDate>Sat, 14 Nov 2026 16:31:02 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună seara! Mașina parcată ilegal pe trotuar, încurcă accesul în parcarea nominală și în alee, dacă vin 2 mașini, nu au loc să treacă una de alta datorită mașinii parcate.</description>
   </item>
 </channel>
 </rss>
