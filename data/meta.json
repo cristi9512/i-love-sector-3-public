@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T06:45:36.687Z",
-  "lastChange": "2026-11-17T06:45:36.687Z",
+  "lastRun": "2026-11-17T07:01:00.188Z",
+  "lastChange": "2026-11-17T07:01:00.188Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2641,
-    "added": 5,
-    "updated": 4,
+    "fetched": 2652,
+    "added": 2,
+    "updated": 2,
     "removed": 0,
-    "changes": 6
+    "changes": 4
   },
   "totals": {
-    "incidents": 45413,
-    "open": 2022,
+    "incidents": 45415,
+    "open": 2023,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T06:45:36.687Z",
+    "asOf": "2026-11-17T07:01:00.188Z",
     "days": 30,
-    "open": 2022,
-    "total": 203,
+    "open": 2023,
+    "total": 204,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 36,
+        "open": 35,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 185,
+        "open": 186,
         "n": 16
       },
       "5": {
@@ -87,8 +87,8 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 163,
-        "n": 1
+        "open": 164,
+        "n": 2
       },
       "15": {
         "name": "Animale de companie",
