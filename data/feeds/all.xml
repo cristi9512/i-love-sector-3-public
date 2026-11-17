@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274967</link>
+    <guid isPermaLink="false">CAS-0274967</guid>
+    <pubDate>Tue, 17 Nov 2026 17:52:41 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună seara, cu respect pentru echipele de la circulația pe drumurile publice, doresc să sesizez un Range Rover negru nou cu număr de Ilfov staționat pe tot trotuarul nou pavat...</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274966</link>
+    <guid isPermaLink="false">CAS-0274966</guid>
+    <pubDate>Tue, 17 Nov 2026 17:46:45 GMT</pubDate>
+    <category>Altele</category>
+    <description>Aceasta stație de autobuz nu are lumina cand este seara. Este bezna.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274965</link>
     <guid isPermaLink="false">CAS-0274965</guid>
@@ -55,12 +71,14 @@
 Str Agricultori 121, bl 82 sc A</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274959</link>
     <guid isPermaLink="false">CAS-0274959</guid>
     <pubDate>Tue, 17 Nov 2026 17:23:12 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-2, precum și pentru zonele B-11,C-1,C-3,D-1,</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-2, precum și pentru zonele B-11,C-1,C-3,D-1,
+
+Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 19.45 constatînd faptul că autoturismul reclamat deține autorizație valabilă de parcare pentru zona de  parcare C-2 și zonele vecine B-11, C-1, C-3, D-1 nefiind necesare măsuri administrative.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
@@ -79,12 +97,14 @@ Str Agricultori 121, bl 82 sc A</description>
     <description>Bună seara..acest auto stationeaza de două zile pe colțul intersecției reducând vizibilitatea aproape de 0 si nu putem vira stânga sau dreapta in siguranță..  vă rog sa luați măsuri..Mulțumesc</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274956</link>
     <guid isPermaLink="false">CAS-0274956</guid>
     <pubDate>Tue, 17 Nov 2026 17:18:29 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Lipsește o fotografie concludentă necesară verificării și soluionării sesizării; reveniți cu sesizarea atașând minim o fotografie cu vehiculul reclamat, din care să reiasă atât numărul de înmatriculare, cât și tipul de parcaj de reședință, conținând în cadru indicii pentru identificarea acestuia la adresa menționată. Vă mulțumim!</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
@@ -515,22 +535,6 @@ Va multumesc</description>
     <category>Stationare neregulamentara</category>
     <description>Vă sesizez o parcare neregulamentară B 24 AHV pe loc marcat la sol ca fiind Oprire interzisă str.Agatha Bârsescu bloc V16-V17. Au fost mai multe sesizări în acest sens, mașina este în locație de peste 10 zile! FĂRĂ FINALITATE!
 Această sesizare va fi escaladată la foruri superioare!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274907</link>
-    <guid isPermaLink="false">CAS-0274907</guid>
-    <pubDate>Tue, 17 Nov 2026 15:09:07 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>IF 19 MGF stationare neregulamentara.</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274906</link>
-    <guid isPermaLink="false">CAS-0274906</guid>
-    <pubDate>Tue, 17 Nov 2026 15:07:36 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Buna ziua, Pe trotuarul de langa Mega Image din sos Matei Basarab nr 70 sunt frecvent oameni ai strazii care consuma alcool pe strada si pe scarile blocurilor : va rog sa efectuati verificari la mai multe intervale orare si sa luati masurile necesare pentru a ii indeparta de pe trotuar deoarece mu putem circula in siguranta , mai ales alaturi pentru copiii care ii vad. Multumesc.</description>
   </item>
 </channel>
 </rss>
