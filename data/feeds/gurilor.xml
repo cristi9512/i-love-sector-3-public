@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Gurilor</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275016</link>
+    <guid isPermaLink="false">CAS-0275016</guid>
+    <pubDate>Tue, 17 Nov 2026 20:56:11 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Bună ziua. Pe strada Drumul Gura Crivatului in dreptul trecerii dr pietoni cu Carrefour, a existat o lucrare a unor muncitori pe banda de circulație(chiar pe trecere). După ce au terminat lucrarea, muncitorii au asfaltat strada în valuri și într-un stil deformat. Asfaltul pe care l-au pus nu va trece nici testul iernii și l-au turnat în bătaie de joc în loc să-l toarne la drept. Vă atașez și poză să vedeți cum arată lucrare nou-nouță. Va rog să luați masurile reparatorii care se impun. Vă mulțumesc.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274989</link>
     <guid isPermaLink="false">CAS-0274989</guid>
@@ -657,14 +665,6 @@ Va multumesc!</description>
     <description>masina parcata pe trotuar
 
 Răspuns: Auto a parasit locatia.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272309</link>
-    <guid isPermaLink="false">CAS-0272309</guid>
-    <pubDate>Sat, 07 Nov 2026 13:57:25 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>se circula pe un sens din cauza masinilor parcate neregulamentar paralel cu santierul si politia nu are de gand sa dea avertismente. noaptea nu e luminat si ocolirea este dificila, cand crederi ca ar fi bine sa faceti ordine pe strada? sa nu mai mentionez ca e mizerie si nu deranjeaza pe nimeno asta</description>
   </item>
 </channel>
 </rss>
