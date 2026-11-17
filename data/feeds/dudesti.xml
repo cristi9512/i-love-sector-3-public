@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274978</link>
+    <guid isPermaLink="false">CAS-0274978</guid>
+    <pubDate>Tue, 17 Nov 2026 18:23:03 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-3, precum și pentru zonele A-1,A-2,A-4,A-7,</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274977</link>
+    <guid isPermaLink="false">CAS-0274977</guid>
+    <pubDate>Tue, 17 Nov 2026 18:21:53 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274946</link>
     <guid isPermaLink="false">CAS-0274946</guid>
@@ -580,28 +596,6 @@ La momentul verificarilor aspectele sesizate nu se confirma, autoturismul reclam
 
 Răspuns: Buna seara,
 La momentul verificarilor aspectele sesizate nu se confirma, autoturismul reclamat a parasit locatia indicata.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274361</link>
-    <guid isPermaLink="false">CAS-0274361</guid>
-    <pubDate>Sun, 15 Nov 2026 13:51:22 GMT</pubDate>
-    <category>Altele</category>
-    <description>Vă sesizez faptul că în zona opusa locurilor de parcare A10 nenominale (cum se vede si din imagini) sunt parcate frecvent autovehicule în mod necorespunzător, îngustând considerabil carosabilul și îngreunând circulația în zonă.
-
-Această situație crește riscul producerii unor accidente și a dus deja la avarierea unui autoturism parcat regulamentar.
-
-Vă rog să verificați situația și să dispuneți măsurile necesare pentru asigurarea circulației în condiții de siguranță.
-
-Atașez o fotografie relevantă.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274358</link>
-    <guid isPermaLink="false">CAS-0274358</guid>
-    <pubDate>Sun, 15 Nov 2026 13:40:33 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autoturisme parcate ilegal, pe trotuar.</description>
   </item>
 </channel>
 </rss>
