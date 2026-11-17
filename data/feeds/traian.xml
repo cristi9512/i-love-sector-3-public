@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274813</link>
+    <guid isPermaLink="false">CAS-0274813</guid>
+    <pubDate>Tue, 17 Nov 2026 07:48:41 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274811</link>
     <guid isPermaLink="false">CAS-0274811</guid>
@@ -593,16 +601,6 @@ Răspuns: SESIZAREA DUMNEAVOASTRA A FOST PRELUATA SI VERIFICATA . IN URMA VERIFI
     <category>Altele</category>
     <description>Dar a cui? Vad ca dvs ati montat panouri cu curatenia o data pe
 Luna. Fiti cu noi, nu fiti gunoi!!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273548</link>
-    <guid isPermaLink="false">CAS-0273548</guid>
-    <pubDate>Thu, 12 Nov 2026 05:34:28 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>A blocat accesul în parcare. Nu se mai poate ieși!!!
-
-Răspuns: Bună ziua, autoturismului reclamat i s-a aplicat înștiințare.</description>
   </item>
 </channel>
 </rss>

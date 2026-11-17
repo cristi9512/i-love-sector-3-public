@@ -6,6 +6,26 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274816</link>
+    <guid isPermaLink="false">CAS-0274816</guid>
+    <pubDate>Tue, 17 Nov 2026 08:01:11 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună ziua,
+
+Revin cu privire la sesizarea referitoare la parcările neregulamentare din zona Pieței Vitan și vă solicit să îmi comunicați concret ce măsuri ați întreprins pentru remedierea acestei situații.
+
+Răspunsuri precum „sesizarea este în atenția dumneavoastră” nu reprezintă o soluție și nici un răspuns concret la problema semnalată.
+
+Vă rog să precizați dacă au fost efectuate verificări în teren, dacă au fost aplicate sancțiuni și ce măsuri efective aveți în vedere pentru a împiedica ocuparea ilegală a trotuarelor și a spațiilor destinate pietonilor.
+
+În cazul în care nu aveți capacitatea sau posibilitatea de a soluționa această problemă, voi solicita sprijinul Poliției Capitalei.
+
+Aștept un răspuns punctual și măsuri concrete, nu o nouă confirmare că sesizarea se află în atenția dumneavoastră.
+
+Vă mulțumesc.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274784</link>
     <guid isPermaLink="false">CAS-0274784</guid>
@@ -593,14 +613,6 @@ La data si ora efectuarii verificarilor in locatia indicata, aspectele sesizate 
 
 Răspuns: Buna seara,
 La data si ora efectuarii verificarilor, aspectele sesizate se confirma, intr-adevar  autoturismul detine autorizatie de parcare nenominala.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274021</link>
-    <guid isPermaLink="false">CAS-0274021</guid>
-    <pubDate>Fri, 13 Nov 2026 15:29:47 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>A parcat pe trotuar</description>
   </item>
 </channel>
 </rss>
