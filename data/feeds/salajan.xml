@@ -6,6 +6,16 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Trasare parcare · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274911</link>
+    <guid isPermaLink="false">CAS-0274911</guid>
+    <pubDate>Tue, 17 Nov 2026 15:20:00 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Buna ziua,
+Am locul de parcare 62 pe autorizatie, s-a renumerotat cu numarul nou 61, Politial Locala chemata a spus ca nu pot interveni pentru ca nu am autorizatie valabila - locul 62 de pe autorizxatia mea este acum nenominal (cu galben) iar eu nu am documente pe locul 61.
+Va solicit emiterea DE URGENTA  a autorizatiei corecte.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274889</link>
     <guid isPermaLink="false">CAS-0274889</guid>
@@ -64,14 +74,16 @@ Rugamintea de a amenaja zona cu stalpi de exemplu, sau amenzi.
 Va multumesc !</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274823</link>
     <guid isPermaLink="false">CAS-0274823</guid>
     <pubDate>Tue, 17 Nov 2026 08:16:52 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Va rog luati masuri asupra tuturor autovechiculelor parcate ilegal fara sa pkateasca taxa de parcare. Este a doua sesizare in 2 zile si nu se intampla nimic. Noi cei care platim taxa abia gasim loc iar cei care nu o platesc pot parca oriunde fara deranj. Este parcat pe
 Loc galben
-Str Zemes nr 4 bl pm19 sc 2</description>
+Str Zemes nr 4 bl pm19 sc 2
+
+Răspuns: Auto a parasit locatia.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
@@ -595,15 +607,6 @@ Va multumesc!</description>
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 2
 
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE SE AFLA PARCAT PE LOCUL DE PARCARE DE RESEDINTA NOMINAL 82, COD PARCARE 3901, RESPECTAND CONDITIA AFISARII LA LOC VIZIBIL A UNUI NUMAR DE CONTACT IN PARBRIZ SI TOTODATA AVAND OBLIGATIA ELIBERARII LOCULUI IN TERMEN DE 5 MINUTE LA SOLICITAREA TITULARULUI ACESTUIA.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274231</link>
-    <guid isPermaLink="false">CAS-0274231</guid>
-    <pubDate>Sat, 14 Nov 2026 16:54:10 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Trecere de pietoni neiluminată, este situata in curbă, vizibilitate scăzută. reprezinta un real pericol. este scoala lângă. Pe strada Firidei vis a vis de FitClass
-va rog luati masurile necesare. mulțumesc</description>
   </item>
 </channel>
 </rss>
