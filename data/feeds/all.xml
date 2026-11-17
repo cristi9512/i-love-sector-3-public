@@ -6,6 +6,17 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275032</link>
+    <guid isPermaLink="false">CAS-0275032</guid>
+    <pubDate>Tue, 17 Nov 2026 23:41:27 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Staționare neregulamentara
+Se parchează mereu pe colt
+Și nu poți vira corespunzator
+Câteodată nu este loc suficient ca, să intri pe strada</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275031</link>
     <guid isPermaLink="false">CAS-0275031</guid>
@@ -30,12 +41,14 @@
     <description>Autovehiculul cu numarul B........are parcarea neplătită are abonament platit dar nu in zona  A8  .. se află in afara intervalului 8-18 si detine autorizatie pe locul 38 .. in fiecare seara ocupa cate un loc nenominal in zona A8  ..</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275028</link>
     <guid isPermaLink="false">CAS-0275028</guid>
     <pubDate>Tue, 17 Nov 2026 22:08:11 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: -- imposibiltate luare masuri legale incalcare HCLS3 346 / 2022 ,  la fata locului  se constata marcaj indescifrabil sectiune ,,nenominal `` .</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
@@ -303,20 +316,24 @@ Răspuns: S-a dispus ridicare a doua auto stationate neregulamentar. Pe coltul i
 Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra..In urma verificarilor am identificat conducatorul auto care a ocupat locul de parcare nominal 39 , acesta eliberand locul de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274997</link>
     <guid isPermaLink="false">CAS-0274997</guid>
     <pubDate>Tue, 17 Nov 2026 19:27:20 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat conform HCLS3 nr 346/2022. Ulterior identificarii prorietarului , i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274996</link>
     <guid isPermaLink="false">CAS-0274996</guid>
     <pubDate>Tue, 17 Nov 2026 19:25:38 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Am preluat si verificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat conform hcls3 nr 346/2022. Ulterior identificarii prorietarului , i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
@@ -527,14 +544,6 @@ Răspuns: Buna seara . Am preluat si vrificat sesizarea dumneavoastra. S-a intoc
     <pubDate>Tue, 17 Nov 2026 18:10:40 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274972</link>
-    <guid isPermaLink="false">CAS-0274972</guid>
-    <pubDate>Tue, 17 Nov 2026 18:10:36 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>staționează pe trecerea de pietoni . este a 3 ea seara care ii spun sa numai tragă pe trecere.</description>
   </item>
 </channel>
 </rss>
