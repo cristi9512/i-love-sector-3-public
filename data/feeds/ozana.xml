@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274848</link>
+    <guid isPermaLink="false">CAS-0274848</guid>
+    <pubDate>Tue, 17 Nov 2026 11:20:40 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Strada Ceairului 3, fix pe strada, in fata carmangeriei ozana. strada plina cu masini parcate zilnic, lasate si peste noapte, blocheaza  mersul in ambele directii si de multe ori se urca si pe trotuar blocand circulatia</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274845</link>
     <guid isPermaLink="false">CAS-0274845</guid>
@@ -589,14 +597,6 @@ Va multumesc anticipat pentru intelegere.</description>
     <pubDate>Fri, 13 Nov 2026 11:31:30 GMT</pubDate>
     <category>Altele</category>
     <description>Un dulap tehnic deteriorat, cu ușa deschisă și instalațiile interioare expuse, pe Bulevardul 1 Decembrie 1918. Este chiar lângă trotuar și poate reprezenta un pericol pentru pietoni. Vă rog să trimiteți un echipaj pentru verificare și să anunțați operatorul responsabil.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273960</link>
-    <guid isPermaLink="false">CAS-0273960</guid>
-    <pubDate>Fri, 13 Nov 2026 11:07:10 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Pe Str. Aleea Iosif Hodos nr. 1 au fost executate lucrari la reteaua de gaz . In urma acestor lucrari, zona afectata nu a fost refacuta corespunzator. Nisipul si pietrisul intretine noroiul si mizeria pe locurile de parcare.</description>
   </item>
 </channel>
 </rss>

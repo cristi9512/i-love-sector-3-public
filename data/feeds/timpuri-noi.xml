@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274850</link>
+    <guid isPermaLink="false">CAS-0274850</guid>
+    <pubDate>Tue, 17 Nov 2026 11:24:34 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274847</link>
+    <guid isPermaLink="false">CAS-0274847</guid>
+    <pubDate>Tue, 17 Nov 2026 11:17:31 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274825</link>
     <guid isPermaLink="false">CAS-0274825</guid>
@@ -609,24 +625,6 @@ Răspuns: Poză neconcludentă. O zi bună.</description>
     <pubDate>Fri, 13 Nov 2026 06:47:58 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcare frecventa neregulamentara</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273840</link>
-    <guid isPermaLink="false">CAS-0273840</guid>
-    <pubDate>Thu, 12 Nov 2026 21:40:20 GMT</pubDate>
-    <category>Altele</category>
-    <description>Bună ziua , lampa de iluminat public situată în dreptul intrării din spate în scara 3 a blocului M38 din str. Nerva Traian nr.10 nu funcționează de mult timp . Menționez că această lampă iluminează și ghena exterioară care deservește bl.M38 , pe această lampă fiind amplasată și camera de supraveghere a ghenei. Având în vedere că în ultima perioadă se petrec frecvent  lucruri cu caracter antisocial în această zonă am aprecia dacă ar fi remediată problema iluminatului public. Vă mulțumesc în numele locatarilor blocului M38 !</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273835</link>
-    <guid isPermaLink="false">CAS-0273835</guid>
-    <pubDate>Thu, 12 Nov 2026 20:52:26 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul A........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: SESIZAREA A FOST VERIFICATA S-AU INTOCMIT DOCUMENTELE PREMERGATOARE IDENTIFICARII CONDUCATORULUI AUTO</description>
   </item>
 </channel>
 </rss>
