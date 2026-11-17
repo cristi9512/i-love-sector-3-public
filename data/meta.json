@@ -1,17 +1,17 @@
 {
-  "lastRun": "2026-11-17T11:45:36.157Z",
-  "lastChange": "2026-11-17T11:45:36.157Z",
+  "lastRun": "2026-11-17T12:00:56.682Z",
+  "lastChange": "2026-11-17T12:00:56.682Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2941,
-    "added": 5,
-    "updated": 0,
+    "fetched": 2840,
+    "added": 6,
+    "updated": 6,
     "removed": 0,
-    "changes": 0
+    "changes": 18
   },
   "totals": {
-    "incidents": 45467,
+    "incidents": 45473,
     "open": 2046,
     "months": [
       "2026-05",
@@ -25,7 +25,7 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T11:45:36.157Z",
+    "asOf": "2026-11-17T12:00:56.682Z",
     "days": 30,
     "open": 2046,
     "total": 210,
@@ -52,17 +52,17 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 81,
+        "open": 79,
         "n": 2
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 41,
+        "open": 40,
         "n": 6
       },
       "9": {
         "name": "Altele",
-        "open": 235,
+        "open": 234,
         "n": 16
       },
       "10": {
@@ -107,7 +107,7 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 18,
+        "open": 17,
         "n": 4
       },
       "19": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 457,
+        "open": 462,
         "n": 2
       },
       "32": {
