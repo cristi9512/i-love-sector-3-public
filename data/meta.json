@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T09:00:56.602Z",
-  "lastChange": "2026-11-17T09:00:56.602Z",
+  "lastRun": "2026-11-17T09:15:37.338Z",
+  "lastChange": "2026-11-17T09:15:37.338Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2322,
-    "added": 3,
-    "updated": 3,
+    "fetched": 2359,
+    "added": 2,
+    "updated": 1,
     "removed": 0,
-    "changes": 9
+    "changes": 3
   },
   "totals": {
-    "incidents": 45443,
-    "open": 2037,
+    "incidents": 45445,
+    "open": 2038,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T09:00:56.602Z",
+    "asOf": "2026-11-17T09:15:37.338Z",
     "days": 30,
-    "open": 2037,
+    "open": 2038,
     "total": 205,
     "byCategory": {
       "2": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 231,
+        "open": 232,
         "n": 16
       },
       "10": {
