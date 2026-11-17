@@ -6,12 +6,23 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <title>Rampe de acces persoane cu dizabilitati · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274842</link>
+    <guid isPermaLink="false">CAS-0274842</guid>
+    <pubDate>Tue, 17 Nov 2026 10:34:03 GMT</pubDate>
+    <category>Rampe de acces persoane cu dizabilitati</category>
+    <description>loc de parcare nominal pentru persoane cu dizabilități 
+nu a lăsat nici număr în parbriz</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274827</link>
     <guid isPermaLink="false">CAS-0274827</guid>
     <pubDate>Tue, 17 Nov 2026 08:39:46 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>tarancutei 10b</description>
+    <description>tarancutei 10b
+
+Răspuns: In locatie  au fost  dispuse  masurile  legale  conform OUG 195 /2002 r</description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
@@ -763,16 +774,6 @@ Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . PENTRU AUTOTURISMUL LA CAR
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . INTRUCAT LOCUL DE PARCARE OCUPAT DE AUTOTURISMUL LA CARE FACETI REFERIRE NU ESTE MARCAT LA SOL CA LOC NENOMINAL NU SE POT LUA MASURI LEGALE . </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274524</link>
-    <guid isPermaLink="false">CAS-0274524</guid>
-    <pubDate>Mon, 16 Nov 2026 06:26:38 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: auto indicat in sesizare nu se mai afla in locatia in speta .</description>
   </item>
 </channel>
 </rss>
