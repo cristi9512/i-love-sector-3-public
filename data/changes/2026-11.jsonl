@@ -1283,3 +1283,11 @@
 {"at":"2026-11-17T16:45:41.046Z","ticket":"CAS-0274850","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T16:45:41.046Z","ticket":"CAS-0274850","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-17T16:45:41.046Z","ticket":"CAS-0274850","field":"reply","from":"","to":"Nespecificat Registratura auto nu a fost depistat in locatie"}
+{"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274942","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274931","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274931","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274931","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost preluată și verificată la ora 18.45 autovehiculul la care faceți referire nemaifiind depistat în locație  - zona B-13, bateria 2701 sistematizată în Aleea Leorda nr.8."}
+{"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274943","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274860","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274860","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274860","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea nu se confirma, la momentul verificarii, nu au fost depistate auto stationate pe trederea pentru pietoni, in locatia indicata"}
