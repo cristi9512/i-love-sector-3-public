@@ -1495,3 +1495,12 @@
 {"at":"2026-11-17T21:31:02.766Z","ticket":"CAS-0274975","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T21:31:02.766Z","ticket":"CAS-0274975","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-17T21:31:02.766Z","ticket":"CAS-0274975","field":"reply","from":"","to":"Nespecificat Registratura S-a dispus ridicare a doua auto stationate neregulamentar. Pe coltul intersectiei si pe trotuarul pietonal"}
+{"at":"2026-11-17T21:45:46.090Z","ticket":"CAS-0275006","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T21:45:46.090Z","ticket":"CAS-0275006","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T21:45:46.090Z","ticket":"CAS-0275006","field":"reply","from":"","to":"Nespecificat Registratura A FOST VERIFICAT PARCAJUL SESIZAT IAR AUTO IN CAUZA NU SE AFLA PARCAT PE UN LOC MARCAT CA FIIND LOC DE PARCARE NENOMINAL PENTRU CARE SE POATE PLATI TARIF ORAR "}
+{"at":"2026-11-17T21:45:46.090Z","ticket":"CAS-0275008","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T21:45:46.090Z","ticket":"CAS-0275008","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T21:45:46.090Z","ticket":"CAS-0275008","field":"reply","from":"","to":"Nespecificat Registratura A FOST VERIFICAT PARCAJUL SESIZAT IAR AUTO IN CAUZA NU SE AFLA IN LOCATIA INDICATA "}
+{"at":"2026-11-17T21:45:46.090Z","ticket":"CAS-0275012","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T21:45:46.090Z","ticket":"CAS-0275012","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T21:45:46.090Z","ticket":"CAS-0275012","field":"reply","from":"","to":"Nespecificat Registratura A FOST VERIFICAT PARCAJUL SESIZAT IAR AUTO IN CAUZA NU ESTE PARCAT PE UN LOC DE PARCARE MARCAT CA FIIND NENOMINAL PENTRU CARE SE POATE PLATI TARIF ORAR "}
