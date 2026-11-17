@@ -6,7 +6,17 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274823</link>
+    <guid isPermaLink="false">CAS-0274823</guid>
+    <pubDate>Tue, 17 Nov 2026 08:16:52 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Va rog luati masuri asupra tuturor autovechiculelor parcate ilegal fara sa pkateasca taxa de parcare. Este a doua sesizare in 2 zile si nu se intampla nimic. Noi cei care platim taxa abia gasim loc iar cei care nu o platesc pot parca oriunde fara deranj. Este parcat pe
+Loc galben
+Str Zemes nr 4 bl pm19 sc 2</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274822</link>
     <guid isPermaLink="false">CAS-0274822</guid>
     <pubDate>Tue, 17 Nov 2026 08:14:53 GMT</pubDate>
@@ -22,28 +32,34 @@
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274819</link>
-    <guid isPermaLink="false">CAS-0274819</guid>
-    <pubDate>Tue, 17 Nov 2026 08:01:19 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274818</link>
     <guid isPermaLink="false">CAS-0274818</guid>
     <pubDate>Tue, 17 Nov 2026 08:01:19 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,
+
+Răspuns: conexată la sesizarea cu nr.432416, a fost întocmit un singur răspuns</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274819</link>
+    <guid isPermaLink="false">CAS-0274819</guid>
+    <pubDate>Tue, 17 Nov 2026 08:01:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,
+
+Răspuns: conexată la sesizarea cu nr.432416, a fost întocmit un singur răspuns.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274817</link>
     <guid isPermaLink="false">CAS-0274817</guid>
     <pubDate>Tue, 17 Nov 2026 08:01:18 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,
+
+Răspuns: În urma verificării, reiese că, pentru autoturismul la care faceți referire este eliberată autorizație de parcare pentru loc nenominal.</description>
   </item>
   <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Sălăjan</title>
@@ -573,14 +589,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA C
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru au fost aplicate masurile legale ce se impun , respectiv conducatorul a fost identificat si sanctionat contraventional.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274156</link>
-    <guid isPermaLink="false">CAS-0274156</guid>
-    <pubDate>Sat, 14 Nov 2026 10:27:20 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă rog să dispuneți deplasarea unui echipaj la fața locului pentru constatarea contravenției, sancționarea conducătorului auto conform OUG nr. 195/2002 și, după caz, ridicarea autovehiculului.</description>
   </item>
 </channel>
 </rss>
