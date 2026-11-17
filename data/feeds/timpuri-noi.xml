@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274965</link>
+    <guid isPermaLink="false">CAS-0274965</guid>
+    <pubDate>Tue, 17 Nov 2026 17:43:17 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminat stradal biserica dobroteasa nu fuctioneaza iluminatul public</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274957</link>
     <guid isPermaLink="false">CAS-0274957</guid>
@@ -640,26 +648,6 @@ La data si ora efectuarii verificarilor, aspectele sesizate se confirma, asupra 
     <pubDate>Sat, 14 Nov 2026 10:24:12 GMT</pubDate>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>Gaura în trotuar, rog intervenție urgenta, posibil canalizare fisurata</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274153</link>
-    <guid isPermaLink="false">CAS-0274153</guid>
-    <pubDate>Sat, 14 Nov 2026 10:15:29 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Buna ziua,nu se poate duce gunoiul la tomberoane din cauza gunoiului neridicat
-
-Răspuns: Trimis raspuns Bună ziua,
-
-Vă aducem la cunoştinţă faptul că aspectele care intră în sfera de activitate a instituţiei noastre au fost transmise echipelor operaționale din teren şi soluționate, prin ridicarea deşeurilor şi salubrizarea zonei.
-Menţionăm faptul că, Direcția Generală de Salubritate Sector 3 nu are atribuții directe cu privire la monitorizarea şi identificarea persoanelor responsabile cu depozitarea/ aruncarea diverselor tipuri de deşeuri, aceasta revenind în sarcina Direcţiei Generale de Poliţie Locală Sector 3.
-
- 
-Cu deosebită consideratie,
-Direcţia Generală de Salubritate Sector 3
-
-
- </description>
   </item>
 </channel>
 </rss>
