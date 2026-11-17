@@ -1291,3 +1291,9 @@
 {"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274860","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274860","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-17T17:01:00.705Z","ticket":"CAS-0274860","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea nu se confirma, la momentul verificarii, nu au fost depistate auto stationate pe trederea pentru pietoni, in locatia indicata"}
+{"at":"2026-11-17T17:15:40.130Z","ticket":"CAS-0274880","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T17:15:40.130Z","ticket":"CAS-0274880","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T17:15:40.130Z","ticket":"CAS-0274880","field":"reply","from":"","to":"Nespecificat Registratura auto nu a fost depistat in locatie"}
+{"at":"2026-11-17T17:15:40.130Z","ticket":"CAS-0274889","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T17:15:40.130Z","ticket":"CAS-0274889","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T17:15:40.130Z","ticket":"CAS-0274889","field":"reply","from":"","to":"Nespecificat Registratura AM ANALIZAT SESIZAREA DUMNEAVOASTRA , AM OBSERVAT CA NU ATI ATASAT FOTOGRAFII, FAPT PENTRU CARE NU SE POATE STABILI CU EXACTITATE LOCATIA. VA RUGAM SA REVENITI CU O NOUA SESIZARE LA CARE SA ATASATI FOTOGRAFII ATAT ALE MASINIII LA CARE FACETI REFERIRE  CAT SI ALE PARCAJULUI. "}
