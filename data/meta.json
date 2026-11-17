@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T05:45:36.188Z",
-  "lastChange": "2026-11-17T05:45:36.188Z",
+  "lastRun": "2026-11-17T06:00:55.885Z",
+  "lastChange": "2026-11-17T06:00:55.885Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2870,
-    "added": 3,
-    "updated": 1,
+    "fetched": 2767,
+    "added": 4,
+    "updated": 11,
     "removed": 0,
-    "changes": 1
+    "changes": 33
   },
   "totals": {
-    "incidents": 45396,
-    "open": 2020,
+    "incidents": 45400,
+    "open": 2013,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T05:45:36.188Z",
+    "asOf": "2026-11-17T06:00:55.885Z",
     "days": 30,
-    "open": 2020,
+    "open": 2013,
     "total": 204,
     "byCategory": {
       "2": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 76,
+        "open": 78,
         "n": 2
       },
       "7": {
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 231,
+        "open": 229,
         "n": 16
       },
       "10": {
         "name": "Străzi",
-        "open": 444,
+        "open": 445,
         "n": 32
       },
       "11": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 459,
+        "open": 451,
         "n": 2
       },
       "32": {
