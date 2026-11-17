@@ -778,3 +778,12 @@
 {"at":"2026-11-17T01:45:34.997Z","ticket":"CAS-0274667","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T01:45:34.997Z","ticket":"CAS-0274667","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-17T01:45:34.997Z","ticket":"CAS-0274667","field":"reply","from":"","to":"Nespecificat Registratura In urma analizarii sesizarii, am constatat ca numarul de inmatriculare din fotografie nu corespunde cu cel din descriere."}
+{"at":"2026-11-17T05:00:56.854Z","ticket":"CAS-0274776","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T05:00:56.854Z","ticket":"CAS-0274776","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T05:00:56.854Z","ticket":"CAS-0274776","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto."}
+{"at":"2026-11-17T05:00:56.854Z","ticket":"CAS-0274772","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T05:00:56.854Z","ticket":"CAS-0274772","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T05:00:56.854Z","ticket":"CAS-0274772","field":"reply","from":"","to":"Nespecificat Registratura Buna ziua! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie."}
+{"at":"2026-11-17T05:00:56.854Z","ticket":"CAS-0274422","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T05:00:56.854Z","ticket":"CAS-0274422","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T05:00:56.854Z","ticket":"CAS-0274422","field":"reply","from":"","to":"Trimis raspuns Sesizarea a fost verificată la data de 17.11.2026, ora 00:15, vehiculul reclamat fiind găsit în locație. A fost stabilit numărul de înmatriculare după sesia de sasiu. A fost întocmit proces verbal de constatare și s-a aplicat înștiințare pe parbriz, urmând ca deținătorul legal să fie identificat și sancționat contravențional. "}
