@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274770</link>
+    <guid isPermaLink="false">CAS-0274770</guid>
+    <pubDate>Tue, 17 Nov 2026 03:48:53 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274769</link>
+    <guid isPermaLink="false">CAS-0274769</guid>
+    <pubDate>Tue, 17 Nov 2026 03:47:10 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina parcata pe trotuar si incurca pietonii</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274768</link>
     <guid isPermaLink="false">CAS-0274768</guid>
@@ -631,29 +647,6 @@ Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 19:56, însă
     <pubDate>Mon, 16 Nov 2026 17:16:38 GMT</pubDate>
     <category>Străzi</category>
     <description>Este nevoie de iluminare stradală.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274710</link>
-    <guid isPermaLink="false">CAS-0274710</guid>
-    <pubDate>Mon, 16 Nov 2026 17:11:09 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Taxe şi impozite · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274709</link>
-    <guid isPermaLink="false">CAS-0274709</guid>
-    <pubDate>Mon, 16 Nov 2026 17:05:38 GMT</pubDate>
-    <category>Taxe şi impozite</category>
-    <description>Buna ziua,
-Subsemnata, Carapanceanu Virginia-Beatrice, vă adresez prezenta solicitare, în vederea clarificării și regularizării situației financiare aferente autorizației de parcare nenominale, după cum urmează:1.Pentru autovehiculul cu numărul de înmatriculare B965RLM, am deținut autorizația de parcare nenominală nr. 94703/2025, emisă de Primăria Sectorului 3 București.
-2. La data de 15.01.2026, am achitat suma de 663,00 lei, reprezentând contravaloarea serviciului de parcare pentru anul 2026, conform tranzacției identificate prin RRN 284029715841.3.Ulterior, la data de 01.11.2026, am formulat și transmis solicitarea de renunțare la autorizația de parcare nenominală, aceasta fiind înregistrată la Primăria Sectorului 3 București sub nr. 410504.Având în vedere încetarea utilizării serviciului de parcare în baza autorizației menționate, vă solicit respectuos:Verificarea evidențelor financiar-contabile și comunicarea în scris a situației sumelor achitate, respectiv a eventualului sold rămas neutilizat din suma totală de 663,00 lei;
-Calcularea contravalorii perioadei rămase neutilizate, în conformitate cu prevederile legale și regulamentare aplicabile;
-Restituirea sumei cuvenite, dacă aceasta rezultă în urma regularizării, în contul bancar RO19BTRL04101201C87611XX  sau în măsura în care cadrul procedural și fiscal aplicabil permite, solicit ca suma respectivă să fie compensată sau transferată în evidența fiscală proprie, contul obligațiilor de plată reprezentând impozitul pe 2027</description>
   </item>
 </channel>
 </rss>

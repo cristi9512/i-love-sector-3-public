@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274770</link>
+    <guid isPermaLink="false">CAS-0274770</guid>
+    <pubDate>Tue, 17 Nov 2026 03:48:53 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274769</link>
+    <guid isPermaLink="false">CAS-0274769</guid>
+    <pubDate>Tue, 17 Nov 2026 03:47:10 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina parcata pe trotuar si incurca pietonii</description>
+  </item>
+  <item>
     <title>Ordine și liniște publică · Rezolvată Nefavorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274757</link>
     <guid isPermaLink="false">CAS-0274757</guid>
@@ -764,25 +780,6 @@ Răspuns: In locatia indicata  au  fost  dispuse masurile  legale conform OUG 19
     <pubDate>Sun, 15 Nov 2026 22:54:45 GMT</pubDate>
     <category>Străzi</category>
     <description>Buna ziua, iluminatul stadal din dreptul imobilului de pe strada Levantica numarul 3 nu mai functioneaza. Va rugam sa remediati. Multumesc</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274495</link>
-    <guid isPermaLink="false">CAS-0274495</guid>
-    <pubDate>Sun, 15 Nov 2026 22:07:02 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>Este aici o mașină tip SKODA alba care pare abandonată de multă vreme în sensul că este foarte degradată și murdară...</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274494</link>
-    <guid isPermaLink="false">CAS-0274494</guid>
-    <pubDate>Sun, 15 Nov 2026 22:01:10 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Sunt 3 oameni cam necurati aici, 1 sta în stradă, 1 pare beat, 1 mi a țipăt tare lângă ureche când treceam cu bicicleta electrica......
-
-Răspuns: Buna seara,
-La momentul efectuarii verificarilor aspectele sesizate nu se confirma, in locatia indicata nu au fost depistate persoane care sa corespunda descrierii ori care sa faca obiectul sesizarii.</description>
   </item>
 </channel>
 </rss>
