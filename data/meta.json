@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T09:30:58.935Z",
-  "lastChange": "2026-11-17T09:30:58.935Z",
+  "lastRun": "2026-11-17T10:00:57.136Z",
+  "lastChange": "2026-11-17T10:00:57.136Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2445,
-    "added": 2,
+    "fetched": 2842,
+    "added": 1,
     "updated": 2,
     "removed": 0,
-    "changes": 4
+    "changes": 6
   },
   "totals": {
-    "incidents": 45447,
-    "open": 2039,
+    "incidents": 45448,
+    "open": 2038,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T09:30:58.935Z",
+    "asOf": "2026-11-17T10:00:57.136Z",
     "days": 30,
-    "open": 2039,
+    "open": 2038,
     "total": 205,
     "byCategory": {
       "2": {
@@ -107,7 +107,7 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 17,
+        "open": 18,
         "n": 3
       },
       "19": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 458,
+        "open": 456,
         "n": 2
       },
       "32": {

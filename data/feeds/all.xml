@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Mediu/Calitatea Aerului · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274836</link>
+    <guid isPermaLink="false">CAS-0274836</guid>
+    <pubDate>Tue, 17 Nov 2026 09:46:22 GMT</pubDate>
+    <category>Mediu/Calitatea Aerului</category>
+    <description>In fiecare seara sunt minim 10 oameni care pescuiesc ilegal în parcul IOR. Avem nevoie de patrule pe timpul serii, dar fara girofar sa ii avertizeze din timp de venirea lor.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Pallady</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274835</link>
     <guid isPermaLink="false">CAS-0274835</guid>
@@ -500,12 +508,14 @@ Răspuns: AUTO LA CARE SE FACE REFERIRE A FOST DEPISTAT IN LOCATIE,AU FOST APLIC
 Răspuns: AUTO LA CARE SE FACE REFERIRE A FOST IDENTIFICAT IN LOCATIE,AU FOST APLICATE MASURILE LEGALE.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274792</link>
     <guid isPermaLink="false">CAS-0274792</guid>
     <pubDate>Tue, 17 Nov 2026 06:19:32 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Pe str Mugur Mugurel se parcheaza in mod constant neregulamentar la mai puțin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit sanctionarea tuturo autoturismelor parcate neregulamentar.</description>
+    <description>Pe str Mugur Mugurel se parcheaza in mod constant neregulamentar la mai puțin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit sanctionarea tuturo autoturismelor parcate neregulamentar.
+
+Răspuns: A FOST APLICATA SOMATIE </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
@@ -572,12 +582,14 @@ Nu am facut poze pt ca eram in masina</description>
 Răspuns: LOCATIA A FOST VERIFICATA,AUTOTURISMUL MENTIONAT DE DUMNEAVOASTRA IN SESIZARE NU SE MAI AFLA PARCAT IN ZONĂ.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274784</link>
     <guid isPermaLink="false">CAS-0274784</guid>
     <pubDate>Tue, 17 Nov 2026 05:41:26 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 122 ARF blocând accesul pietonilor pe trotuar în special cei cu cărucioare aleea Blăjel vis-a-vis de bloc V21B.</description>
+    <description>Vă sesizez o parcare neregulamentară B 122 ARF blocând accesul pietonilor pe trotuar în special cei cu cărucioare aleea Blăjel vis-a-vis de bloc V21B.
+
+Răspuns: a fost aplicata instiintare informativa.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
@@ -646,16 +658,6 @@ Răspuns: In locatie  au fost  dispuse  masurile  legale  conform OUG 195 /2002 
     <description>Mașini parcate pe trotuar și calea de acces
 
 Răspuns: Buna ziua! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274776</link>
-    <guid isPermaLink="false">CAS-0274776</guid>
-    <pubDate>Tue, 17 Nov 2026 04:26:47 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto.</description>
   </item>
 </channel>
 </rss>
