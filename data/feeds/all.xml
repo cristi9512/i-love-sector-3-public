@@ -6,6 +6,38 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274992</link>
+    <guid isPermaLink="false">CAS-0274992</guid>
+    <pubDate>Tue, 17 Nov 2026 19:09:51 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274991</link>
+    <guid isPermaLink="false">CAS-0274991</guid>
+    <pubDate>Tue, 17 Nov 2026 19:08:27 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274990</link>
+    <guid isPermaLink="false">CAS-0274990</guid>
+    <pubDate>Tue, 17 Nov 2026 19:07:37 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274989</link>
+    <guid isPermaLink="false">CAS-0274989</guid>
+    <pubDate>Tue, 17 Nov 2026 19:02:34 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună seara. Această mașină stă de 3 zile aici parcata, din pacate nu putem urmări de unde iese șoferul. nu se poate ridica gunoiul, probabil cei de la Salubritate pot confirma. Rugam rezolvare, Mulțumim.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274988</link>
     <guid isPermaLink="false">CAS-0274988</guid>
@@ -30,12 +62,14 @@
     <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274985</link>
     <guid isPermaLink="false">CAS-0274985</guid>
     <pubDate>Tue, 17 Nov 2026 18:52:49 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
+
+Răspuns: Lipsește o fotografie necesară verificării și soluionării sesizării; reveniți cu sesizarea atașând minim o fotografie cu vehiculul reclamat, din care să reiasă atât numărul de înmatriculare, cât și tipul de parcaj de reședință. Vă mulțumim!</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
@@ -164,12 +198,14 @@ Răspuns: au fost luate masurile legale</description>
     <description>B717MRT parcat pe trotuar, pe pavele chiar in dreptul caio de acces. Va rugam sa luati masuri!</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274969</link>
     <guid isPermaLink="false">CAS-0274969</guid>
     <pubDate>Tue, 17 Nov 2026 18:07:53 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 20.45 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022.Auto are </description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
@@ -492,42 +528,6 @@ Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 18.40
     <description>Autovehiculul cu numarul I........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
 
 Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 18.30 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274932</link>
-    <guid isPermaLink="false">CAS-0274932</guid>
-    <pubDate>Tue, 17 Nov 2026 16:03:20 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masini parcate pe trotuar. strada Ilioara nr. 6. va multumim</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274931</link>
-    <guid isPermaLink="false">CAS-0274931</guid>
-    <pubDate>Tue, 17 Nov 2026 16:03:00 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 18.45 autovehiculul la care faceți referire nemaifiind depistat în locație  - zona B-13, bateria 2701 sistematizată în Aleea Leorda nr.8.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274930</link>
-    <guid isPermaLink="false">CAS-0274930</guid>
-    <pubDate>Tue, 17 Nov 2026 16:01:25 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina parcata pe trotuar.
-Bd 1 Decembrie 1918, nr 43-45 (alee).
-Numar inmatriculare B260MIW</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274929</link>
-    <guid isPermaLink="false">CAS-0274929</guid>
-    <pubDate>Tue, 17 Nov 2026 16:00:23 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 21.11.2026 18:00.</description>
   </item>
 </channel>
 </rss>

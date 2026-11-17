@@ -1470,3 +1470,9 @@
 {"at":"2026-11-17T19:01:02.310Z","ticket":"CAS-0274892","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T19:01:02.310Z","ticket":"CAS-0274892","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-17T19:01:02.310Z","ticket":"CAS-0274892","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie."}
+{"at":"2026-11-17T19:15:37.407Z","ticket":"CAS-0274969","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T19:15:37.407Z","ticket":"CAS-0274969","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T19:15:37.407Z","ticket":"CAS-0274969","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost preluată și verificată la ora 20.45 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022.Auto are "}
+{"at":"2026-11-17T19:15:37.407Z","ticket":"CAS-0274985","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T19:15:37.407Z","ticket":"CAS-0274985","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T19:15:37.407Z","ticket":"CAS-0274985","field":"reply","from":"","to":"Nespecificat Registratura Lipsește o fotografie necesară verificării și soluionării sesizării; reveniți cu sesizarea atașând minim o fotografie cu vehiculul reclamat, din care să reiasă atât numărul de înmatriculare, cât și tipul de parcaj de reședință. Vă mulțumim!"}
