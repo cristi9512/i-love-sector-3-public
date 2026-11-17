@@ -1525,3 +1525,9 @@
 {"at":"2026-11-17T22:45:38.060Z","ticket":"CAS-0274990","field":"status","from":"O","to":"C"}
 {"at":"2026-11-17T22:45:38.060Z","ticket":"CAS-0274990","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-17T22:45:38.060Z","ticket":"CAS-0274990","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs. a fost preluata si verificata la ora 00:29. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat.  \nVa multumim. \n"}
+{"at":"2026-11-17T23:01:01.092Z","ticket":"CAS-0275005","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T23:01:01.092Z","ticket":"CAS-0275005","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-17T23:01:01.092Z","ticket":"CAS-0275005","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs. a fost preluata si verificata la ora 00:38. Autovehiculul la care faceti referire ocupa locul de parcare indicat, motiv pentru care au fost luate masurile legale care se impun conform HCLS3 nr 346/2022. \nVa multumim. "}
+{"at":"2026-11-17T23:01:01.092Z","ticket":"CAS-0275027","field":"status","from":"O","to":"C"}
+{"at":"2026-11-17T23:01:01.092Z","ticket":"CAS-0275027","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-17T23:01:01.092Z","ticket":"CAS-0275027","field":"reply","from":"","to":"Nespecificat Registratura - imposibilitate demarare proceduri legale din cauza marcaj indescifrabil indicare  sectiune ,, nenominal ``   pentru a proba incalcare HCLS3 46 / 2022 ."}
