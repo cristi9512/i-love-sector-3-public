@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Trapezului</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275005</link>
+    <guid isPermaLink="false">CAS-0275005</guid>
+    <pubDate>Tue, 17 Nov 2026 20:12:16 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Ordine și liniște publică · Rezolvată Favorabil · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274979</link>
     <guid isPermaLink="false">CAS-0274979</guid>
@@ -641,14 +649,6 @@ Directia Generala de Salubritate Sector 3. Raspunsul a fost trimis prin email ca
     <description>Aleea Mizil 60 mașini parcate care încurcă accesul in curte si circulația pe strada
 
 Răspuns: Sesizarea nu se confirma, auto reclamate nu incalca prevederile Oug. 195/2002.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273234</link>
-    <guid isPermaLink="false">CAS-0273234</guid>
-    <pubDate>Tue, 10 Nov 2026 23:21:20 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>duba parcata oe trotuar si bmw care ocupa stada</description>
   </item>
 </channel>
 </rss>
