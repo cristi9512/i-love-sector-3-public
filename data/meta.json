@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-17T11:01:11.124Z",
-  "lastChange": "2026-11-17T11:01:11.124Z",
+  "lastRun": "2026-11-17T11:15:36.080Z",
+  "lastChange": "2026-11-17T11:15:36.080Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2449,
+    "fetched": 2826,
     "added": 1,
-    "updated": 4,
+    "updated": 5,
     "removed": 0,
-    "changes": 12
+    "changes": 13
   },
   "totals": {
-    "incidents": 45457,
-    "open": 2040,
+    "incidents": 45458,
+    "open": 2037,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-17T11:01:11.124Z",
+    "asOf": "2026-11-17T11:15:36.080Z",
     "days": 30,
-    "open": 2040,
-    "total": 206,
+    "open": 2037,
+    "total": 207,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -62,13 +62,13 @@
       },
       "9": {
         "name": "Altele",
-        "open": 233,
+        "open": 234,
         "n": 16
       },
       "10": {
         "name": "Străzi",
         "open": 451,
-        "n": 34
+        "n": 35
       },
       "11": {
         "name": "Parcuri",
@@ -92,7 +92,7 @@
       },
       "15": {
         "name": "Animale de companie",
-        "open": 2,
+        "open": 1,
         "n": 1
       },
       "16": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 455,
+        "open": 452,
         "n": 2
       },
       "32": {
