@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274804</link>
+    <guid isPermaLink="false">CAS-0274804</guid>
+    <pubDate>Tue, 17 Nov 2026 07:12:13 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina este parcata de 2 zile in strada practic. blocheaza vizibilitatea si îngreunează ieșirea mașinilor in strada perpendiculara</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274802</link>
     <guid isPermaLink="false">CAS-0274802</guid>
@@ -592,14 +600,6 @@ Miriana Ceavar</description>
     <description>FIAT verde B 54 SEJ parcat in totalitate pe trotuar, str. jean steriadi nr. 14, vizavi de scara D, langa easy box bobita
 
 Răspuns: AM APLICAT MASURILE LEGALE </description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273918</link>
-    <guid isPermaLink="false">CAS-0273918</guid>
-    <pubDate>Fri, 13 Nov 2026 08:50:24 GMT</pubDate>
-    <category>Altele</category>
-    <description>mașină parcată neregulamentar blochează circulația pietonală pe trotuar</description>
   </item>
 </channel>
 </rss>
