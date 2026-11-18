@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275122</link>
+    <guid isPermaLink="false">CAS-0275122</guid>
+    <pubDate>Wed, 18 Nov 2026 10:29:59 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Zi de curatenie, masini nemutate</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275121</link>
+    <guid isPermaLink="false">CAS-0275121</guid>
+    <pubDate>Wed, 18 Nov 2026 10:23:06 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 43 Este autorizat sa parcheze pe locurile nenominale</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275120</link>
     <guid isPermaLink="false">CAS-0275120</guid>
@@ -560,22 +576,6 @@ Se pot aduaga mai multe variante de plata a parcarii prin SMS? Cum ar fii 8, 12 
 In momentul de fata prin SMS se pot achita maxim 4 ore.
 
 O zi buna</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275062</link>
-    <guid isPermaLink="false">CAS-0275062</guid>
-    <pubDate>Wed, 18 Nov 2026 06:39:02 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masini trotuar</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275061</link>
-    <guid isPermaLink="false">CAS-0275061</guid>
-    <pubDate>Wed, 18 Nov 2026 06:35:16 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Unde nu sunt stalpișori se parchează pe trotuarul din față grădiniței iar copii merg pe drum. Va rog luati măsuri pentru punerea in siguranță a zonei</description>
   </item>
 </channel>
 </rss>
