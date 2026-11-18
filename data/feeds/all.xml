@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Trasare parcare · Noua · Cioplea</title>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275214</link>
+    <guid isPermaLink="false">CAS-0275214</guid>
+    <pubDate>Wed, 18 Nov 2026 17:11:29 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 139</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275213</link>
+    <guid isPermaLink="false">CAS-0275213</guid>
+    <pubDate>Wed, 18 Nov 2026 17:10:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Trasare parcare · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275212</link>
     <guid isPermaLink="false">CAS-0275212</guid>
     <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
@@ -114,12 +130,14 @@ Cu deosebită considerație
 Răspuns: AUTO LA CARE SE FACE REFERIRE A FOST DEPISTAT IN LOCATIE,AU FOST APLICATE MASURILE LEGALE. </description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275202</link>
     <guid isPermaLink="false">CAS-0275202</guid>
     <pubDate>Wed, 18 Nov 2026 16:21:25 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>parcat pe trotuar pavele</description>
+    <description>parcat pe trotuar pavele
+
+Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Dristor</title>
@@ -519,24 +537,6 @@ Răspuns: AUTO A FOST GASIT IN LOCATIE ,S A APLICAT INSTIINTARE URMAND A FI SANC
     <pubDate>Wed, 18 Nov 2026 14:16:45 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Pe trotuarul dintre benzinarie si gura de metrou Mihai Bravu, inainte si dupa trecerea de pietoni Penes Curcanul sunt intotdeauna masini parcate pe trotuar care ingreuneaza accesul pietonilor. In fotografii puteti vedea un exemplu</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275154</link>
-    <guid isPermaLink="false">CAS-0275154</guid>
-    <pubDate>Wed, 18 Nov 2026 14:15:19 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Pe trotuarul din dreptul stației de metrou Mihai Bravu, pe Bld. Mihai Bravu colț cu Peneș Curcanul sunt mereu mașini staționate și mai rău, care circulă pe trotuar, mai ales la orele de vârf, fapt ce pune în pericol siguranța pietonilor.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275153</link>
-    <guid isPermaLink="false">CAS-0275153</guid>
-    <pubDate>Wed, 18 Nov 2026 14:13:34 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: CONFORM LOCATIEI INDICATE AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
   </item>
 </channel>
 </rss>
