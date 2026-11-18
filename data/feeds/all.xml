@@ -6,12 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Ordine și liniște publică · În lucru · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275146</link>
+    <guid isPermaLink="false">CAS-0275146</guid>
+    <pubDate>Wed, 18 Nov 2026 13:26:54 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>In fiecare zi, pe drumul Gura Fagetului, vin masini si motociclete pe contrasens. Exemplele de azi: B126GOM si BT08PSG. Cand o sa apara copii calcati pe trotuar, o sa inceapa sa apara filmulete si poze si in presa, pentru ca nu sunt singura persoana care raporteaza aceste nereguli atat catre locala cat si catre rutiera - si nimeni nu face nimic pentru ca &quot;faptasii nu mai sunt acolo&quot;. Daca ar sta o masina de politie dupa-amiazile, s-ar face banii pentru buget si scapa si cetatii de pericole.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275145</link>
     <guid isPermaLink="false">CAS-0275145</guid>
     <pubDate>Wed, 18 Nov 2026 12:43:20 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto.</description>
   </item>
   <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Trapezului</title>
@@ -574,15 +584,6 @@ Diana Staicu</description>
     <category>Stationare neregulamentara</category>
     <description>Mașinile staționate la bordură încurcă circulația pe o porțiune de drum deja ingustata de parcarea nou înființată.
 În plus, blochează complet vizibilitatea la ieșirea/intrarea in parcarea 2226.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275086</link>
-    <guid isPermaLink="false">CAS-0275086</guid>
-    <pubDate>Wed, 18 Nov 2026 07:57:20 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna ziua,
-Mașină parcata de aseară pe trecerea de pietoni, B192ATS.</description>
   </item>
 </channel>
 </rss>
