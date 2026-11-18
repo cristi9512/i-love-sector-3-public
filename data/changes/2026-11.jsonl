@@ -1958,3 +1958,8 @@
 {"at":"2026-11-18T15:45:37.208Z","ticket":"CAS-0275167","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T15:45:37.208Z","ticket":"CAS-0275167","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-18T15:45:37.208Z","ticket":"CAS-0275167","field":"reply","from":"","to":"Nespecificat Registratura conexată la sesizarea cu nr.435177, a fost întocmit un singur răspuns."}
+{"at":"2026-11-18T16:00:59.522Z","ticket":"CAS-0275192","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-18T16:00:59.522Z","ticket":"CAS-0275142","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T16:00:59.522Z","ticket":"CAS-0275142","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T16:00:59.522Z","ticket":"CAS-0275142","field":"reply","from":"","to":"Nespecificat Registratura Auto in cauza nu se mai afla in locatie"}
+{"at":"2026-11-18T16:00:59.522Z","ticket":"CAS-0275193","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}

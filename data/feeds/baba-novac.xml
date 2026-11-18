@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Baba Novac</title>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275195</link>
+    <guid isPermaLink="false">CAS-0275195</guid>
+    <pubDate>Wed, 18 Nov 2026 15:47:01 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>In continuare se parcheaza pe trotuar. Strada Agricultori nr 150-136. va multumim</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275193</link>
     <guid isPermaLink="false">CAS-0275193</guid>
     <pubDate>Wed, 18 Nov 2026 15:44:35 GMT</pubDate>
@@ -570,16 +578,6 @@ Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA LA ORELE  21.15, AUTOTURISMU
     <pubDate>Mon, 16 Nov 2026 16:25:37 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274691</link>
-    <guid isPermaLink="false">CAS-0274691</guid>
-    <pubDate>Mon, 16 Nov 2026 16:20:44 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: In urma verificarilor in locatie, autoturismul la care se face referire in sesizare nu a fost gasit la fata locului.</description>
   </item>
 </channel>
 </rss>
