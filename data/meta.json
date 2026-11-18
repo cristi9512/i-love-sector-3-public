@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T14:15:37.910Z",
-  "lastChange": "2026-11-18T14:15:37.910Z",
+  "lastRun": "2026-11-18T14:30:48.287Z",
+  "lastChange": "2026-11-18T14:30:48.287Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2585,
-    "added": 2,
-    "updated": 5,
+    "fetched": 2775,
+    "added": 8,
+    "updated": 3,
     "removed": 0,
-    "changes": 15
+    "changes": 7
   },
   "totals": {
-    "incidents": 45766,
-    "open": 2032,
+    "incidents": 45774,
+    "open": 2038,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T14:15:37.910Z",
+    "asOf": "2026-11-18T14:30:48.287Z",
     "days": 30,
-    "open": 2032,
+    "open": 2038,
     "total": 187,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 61,
+        "open": 62,
         "n": 7
       },
       "3": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 221,
+        "open": 222,
         "n": 12
       },
       "10": {
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 41,
+        "open": 39,
         "n": 0
       },
       "13": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 505,
+        "open": 511,
         "n": 2
       },
       "32": {

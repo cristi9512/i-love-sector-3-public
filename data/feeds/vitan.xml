@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Vitan</title>
+    <title>Altele · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275156</link>
+    <guid isPermaLink="false">CAS-0275156</guid>
+    <pubDate>Wed, 18 Nov 2026 14:18:32 GMT</pubDate>
+    <category>Altele</category>
+    <description>Trotuarul de pe Strada Vitejilor este fie intrerupt de diversi stalpi, fie ingustat in special pe partea stanga (venind din Mihai Bravu). Exista in plan refacerea acestui trotuar, asa cum a fost facut pe strazile din jur?</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275155</link>
+    <guid isPermaLink="false">CAS-0275155</guid>
+    <pubDate>Wed, 18 Nov 2026 14:16:45 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe trotuarul dintre benzinarie si gura de metrou Mihai Bravu, inainte si dupa trecerea de pietoni Penes Curcanul sunt intotdeauna masini parcate pe trotuar care ingreuneaza accesul pietonilor. In fotografii puteti vedea un exemplu</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275154</link>
     <guid isPermaLink="false">CAS-0275154</guid>
     <pubDate>Wed, 18 Nov 2026 14:15:19 GMT</pubDate>
@@ -602,24 +618,6 @@ Aspectele care intra in aria de competenta a Directiei Generale de Salubritate S
 Cu stima,
 
  </description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274145</link>
-    <guid isPermaLink="false">CAS-0274145</guid>
-    <pubDate>Sat, 14 Nov 2026 08:57:31 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Sos. Mihai Bravu inundata parțial.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274143</link>
-    <guid isPermaLink="false">CAS-0274143</guid>
-    <pubDate>Sat, 14 Nov 2026 08:45:59 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Autoturismul reclamat nu este în locație.</description>
   </item>
 </channel>
 </rss>

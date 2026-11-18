@@ -1910,3 +1910,10 @@
 {"at":"2026-11-18T14:15:37.910Z","ticket":"CAS-0274475","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T14:15:37.910Z","ticket":"CAS-0274475","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
 {"at":"2026-11-18T14:15:37.910Z","ticket":"CAS-0274475","field":"reply","from":"","to":"In curs de rezolvare vă comunicăm că am luat la cunoștință propunerile menționate. În funcție de graficul de lucru al echipei de trasări, precum și de condițiile meteorologice, echipa se va deplasa și în zona respectivă, în vederea verificării situației și a dispunerii măsurilor care se impun, după caz.           "}
+{"at":"2026-11-18T14:30:48.287Z","ticket":"CAS-0275154","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-18T14:30:48.287Z","ticket":"CAS-0274752","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T14:30:48.287Z","ticket":"CAS-0274752","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T14:30:48.287Z","ticket":"CAS-0274752","field":"reply","from":"","to":"Trimis raspuns AUTORIZATIA PENTRU LOCUL NOMINAL 50 DIN CODUL 184 A FOST EMISA IN DATA DE 18.11.2026 SI TRANSMISA PE ADRESA DE E-MAIL "}
+{"at":"2026-11-18T14:30:48.287Z","ticket":"CAS-0274750","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T14:30:48.287Z","ticket":"CAS-0274750","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T14:30:48.287Z","ticket":"CAS-0274750","field":"reply","from":"","to":"Trimis raspuns AUTORIZATIA PENTRU LOCUL NOMINAL 50 DIN CODUL 184 A FOST EMISA IN DATA DE 18.11.2026 SI TRANSMISA PE ADRESA DE E-MAIL "}
