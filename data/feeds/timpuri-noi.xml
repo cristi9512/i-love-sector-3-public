@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275148</link>
+    <guid isPermaLink="false">CAS-0275148</guid>
+    <pubDate>Wed, 18 Nov 2026 13:43:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275147</link>
+    <guid isPermaLink="false">CAS-0275147</guid>
+    <pubDate>Wed, 18 Nov 2026 13:42:20 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Terenuri insalubre · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275138</link>
     <guid isPermaLink="false">CAS-0275138</guid>
@@ -571,24 +587,6 @@ Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274564</link>
-    <guid isPermaLink="false">CAS-0274564</guid>
-    <pubDate>Mon, 16 Nov 2026 09:29:08 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Blocheaza accesul in parc.
-
-Răspuns: Sesizarea se confirma, au fost luate masuri legale</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274563</link>
-    <guid isPermaLink="false">CAS-0274563</guid>
-    <pubDate>Mon, 16 Nov 2026 09:29:03 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Solicit toaletarea arborilor din Emil Gârleanu Nr 12 bl A 1 loc parcare 4</description>
   </item>
 </channel>
 </rss>
