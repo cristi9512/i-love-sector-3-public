@@ -2253,3 +2253,18 @@
 {"at":"2026-11-18T22:30:46.994Z","ticket":"CAS-0275051","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T22:30:46.994Z","ticket":"CAS-0275051","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-18T22:30:46.994Z","ticket":"CAS-0275051","field":"reply","from":"","to":"Nespecificat Registratura AUTO A PARASIT LOCATIA "}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275071","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275071","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275071","field":"reply","from":"","to":"Nespecificat Registratura zona sesizata este in atentia noastra, au fost aplicate cinci instiintari informative "}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275124","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275124","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275124","field":"reply","from":"","to":"Nespecificat Registratura a fost aplicata instiintare informativa "}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275123","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275123","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275123","field":"reply","from":"","to":"Nespecificat Registratura auto sesizate nu se mai afla in locatie "}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275117","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275117","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275117","field":"reply","from":"","to":"Nespecificat Registratura zona sesizata este libera "}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275116","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275116","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275116","field":"reply","from":"","to":"Nespecificat Registratura auto nu se mai afla in locatie "}
