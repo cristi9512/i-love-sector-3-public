@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275170</link>
+    <guid isPermaLink="false">CAS-0275170</guid>
+    <pubDate>Wed, 18 Nov 2026 14:58:57 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275150</link>
     <guid isPermaLink="false">CAS-0275150</guid>
@@ -91,12 +99,17 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE F
     <description>Pe strada marului, la numarul 64 este stationat masina cu numarul de inmatriculare B104YNF, blocandu-mi accesul si vizibilitatea la iesirea de pe drumul de servitute de la numarul 64A. Am facut inclusiv sesizare telefonica, pentru ca masina stationeaza acolo de ieri, dar se pare ca fara succes!</description>
   </item>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Sălăjan</title>
+    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Parţial · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275039</link>
     <guid isPermaLink="false">CAS-0275039</guid>
     <pubDate>Wed, 18 Nov 2026 05:39:37 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Va rugam mult interveniti pe prevederii 23 in dreptul g16 si pe mizil 2c in fata la mega</description>
+    <description>Va rugam mult interveniti pe prevederii 23 in dreptul g16 si pe mizil 2c in fata la mega
+
+Răspuns: Trimis raspuns Buna ziua,
+Aspectele care intra in aria de competenta a Directiei Generale de Salubritate Sector 3, au fost transmise echipelor operationale din teren in vederea solutionarii.
+Cu stima,
+ </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
@@ -580,18 +593,6 @@ Răspuns: LOCATIA A FOST VERIFICATA,AUTO MENTIONAT IN SESIZARE DETINE AUTORIZATI
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: ORA 12.40 AM VERIFICAT SESIZAREA , INSA, AUTOTURISMUL RECLAMAT NU SE MAI AFLA IN LOCATIE.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274525</link>
-    <guid isPermaLink="false">CAS-0274525</guid>
-    <pubDate>Mon, 16 Nov 2026 06:29:41 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: FOTOGRAFIA DIN SESIZARE NU ESTE CONCLUDENTA, IN SENSUL CA, NU REIESE CA AUTOTURISMUL RECLAMAT AR FI PARCAT PE UN LOC SISTEMATIZAT CORESPUNZATOR.
-VA RUGAM REVENITI CU FOTOGRAFII DE DETALIU SI ANSAMBLU DE LA FATA LOCULUI SI CU EXPLICATII SUPLIMENTARE .
-VA MULTUMIM.</description>
   </item>
 </channel>
 </rss>

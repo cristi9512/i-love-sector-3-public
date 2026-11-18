@@ -6,7 +6,16 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Traian</title>
+    <title>Parcuri · Noua · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275172</link>
+    <guid isPermaLink="false">CAS-0275172</guid>
+    <pubDate>Wed, 18 Nov 2026 15:00:44 GMT</pubDate>
+    <category>Parcuri</category>
+    <description>Buna seara, exista un copac rupt in parcul din spatele Bisericii Delea Noua. Va rugam toaletarw definitiva, deoarece este foarte periculos pentru copii.
+Multumim.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275165</link>
     <guid isPermaLink="false">CAS-0275165</guid>
     <pubDate>Wed, 18 Nov 2026 14:44:28 GMT</pubDate>
@@ -594,16 +603,6 @@ Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA   SE  CONFIRMA , AUTO CE FACEA OBIECT
     <pubDate>Thu, 12 Nov 2026 17:52:56 GMT</pubDate>
     <category>Altele</category>
     <description>Buna seara, in capatul starzii Intrarea Maximilian Popper(in spatele blocului Traian nr1 scara  1 si 2) nu functioneaza stalpul de electricitate si este bezna. Se poate, va rog, remedia?</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273745</link>
-    <guid isPermaLink="false">CAS-0273745</guid>
-    <pubDate>Thu, 12 Nov 2026 16:33:08 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA   SE  CONFIRMA , AUTO CE FACEA OBIECTUL SESIZARI ESTE IN LOCATIE.S-A INTOCMIT DOCUMENTATIA CONF.HCLS3 346/2022</description>
   </item>
 </channel>
 </rss>
