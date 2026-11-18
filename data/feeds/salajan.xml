@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275249</link>
+    <guid isPermaLink="false">CAS-0275249</guid>
+    <pubDate>Wed, 18 Nov 2026 20:37:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275243</link>
     <guid isPermaLink="false">CAS-0275243</guid>
@@ -582,18 +590,6 @@ Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA LA ORELE 20.57, AUTOTURISMUL
     <pubDate>Mon, 16 Nov 2026 12:01:04 GMT</pubDate>
     <category>Mașini abandonate</category>
     <description>Masina nemișcata de cel putin 4 luni, cu RCA nevalabil</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274623</link>
-    <guid isPermaLink="false">CAS-0274623</guid>
-    <pubDate>Mon, 16 Nov 2026 11:59:03 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Buna ziua,
-Va rugam sa ne ajutati cu toaletarea a 2 arbori din gradina asociatiei de proprietari Bloc M29G.
-Unul este aproape de intrarea in bloc, pe partea dreapta privind catre bloc, este vorba  desptre un brad complet uscat.  Celalalt este pe partea stanga , crengile lui lovesc peretele blocului si ferestrele apartamentelor de la etajele superioare.
-Cu multumiri,
-Emilia Ghita- Administrator</description>
   </item>
 </channel>
 </rss>
