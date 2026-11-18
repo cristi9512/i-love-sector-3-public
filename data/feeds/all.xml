@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275252</link>
+    <guid isPermaLink="false">CAS-0275252</guid>
+    <pubDate>Wed, 18 Nov 2026 21:58:35 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275251</link>
     <guid isPermaLink="false">CAS-0275251</guid>
@@ -84,12 +92,14 @@ Va rugam sa ne ajutati cu aceasta problema!
 Bulevard, Bulevardul Nicolae Grigorescu 34 D, 030441 București</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275242</link>
     <guid isPermaLink="false">CAS-0275242</guid>
     <pubDate>Wed, 18 Nov 2026 19:39:11 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Ajunsi la fata locului ,am constatat ca autovehiculul cu numarul de inmatriculare B 118 YZO se afla parcat fara drept pe un de parcare de resedinta nenominal,drept pentru care s-a intocmit documentatia in vederea sanctionarii ulterioare.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
@@ -563,14 +573,6 @@ Mulțumesc</description>
     <pubDate>Wed, 18 Nov 2026 15:44:35 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Auto blocheaza aleea pietonala.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275192</link>
-    <guid isPermaLink="false">CAS-0275192</guid>
-    <pubDate>Wed, 18 Nov 2026 15:44:11 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Semn trecere de pietoni si cedeaza trecerea foarte greu vizibile pentru cei ce vin de sus de pe Drumul Gura Calitei. Nu se acorda prioritate, pericol de accident in intersectie. Rugam mutati semnele urgent!</description>
   </item>
 </channel>
 </rss>
