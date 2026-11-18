@@ -6,7 +6,25 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Dristor</title>
+    <title>Străzi · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275243</link>
+    <guid isPermaLink="false">CAS-0275243</guid>
+    <pubDate>Wed, 18 Nov 2026 19:39:39 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminatul stradal este defect de aproximativ o luna. 
+Va rugam sa ne ajutati cu aceasta problema!
+Bulevard, Bulevardul Nicolae Grigorescu 34 D, 030441 București</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275242</link>
+    <guid isPermaLink="false">CAS-0275242</guid>
+    <pubDate>Wed, 18 Nov 2026 19:39:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275241</link>
     <guid isPermaLink="false">CAS-0275241</guid>
     <pubDate>Wed, 18 Nov 2026 19:29:52 GMT</pubDate>
@@ -540,22 +558,6 @@ Mulțumesc</description>
     <pubDate>Wed, 18 Nov 2026 15:25:12 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcare pe loc rezervat</description>
-  </item>
-  <item>
-    <title>Parcuri · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275183</link>
-    <guid isPermaLink="false">CAS-0275183</guid>
-    <pubDate>Wed, 18 Nov 2026 15:22:52 GMT</pubDate>
-    <category>Parcuri</category>
-    <description>Parc complet neiluminat. Un stalp nu are bec, altuia ii lipseste cu totul sistemul de iluminat</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275182</link>
-    <guid isPermaLink="false">CAS-0275182</guid>
-    <pubDate>Wed, 18 Nov 2026 15:21:56 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>autoturisme parcate care blocheaza trotuarul</description>
   </item>
 </channel>
 </rss>

@@ -2227,3 +2227,4 @@
 {"at":"2026-11-18T19:30:50.802Z","ticket":"CAS-0275161","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T19:30:50.802Z","ticket":"CAS-0275161","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-18T19:30:50.802Z","ticket":"CAS-0275161","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea se confirma, au fost luate masuri legale."}
+{"at":"2026-11-18T19:45:34.888Z","ticket":"CAS-0275241","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
