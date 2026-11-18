@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275042</link>
+    <guid isPermaLink="false">CAS-0275042</guid>
+    <pubDate>Wed, 18 Nov 2026 05:44:19 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 957 YYY blocând accesul pietonilor pe trotuar în special cei cu cărucioare intr.Trubadurului-str.Breaza.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274984</link>
     <guid isPermaLink="false">CAS-0274984</guid>
@@ -580,16 +588,6 @@ Răspuns: AUTO LA CARE SE FACE REFERIRE A FOST IDENTIFICAT IN LOCATIE,AU FOST AP
 
 Răspuns: BUNĂ SEARA!
 LOCUL 6 DE PARCARE A FOST ELIBERAT IN PREZENTA DUMNEAVOASTRĂ</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274393</link>
-    <guid isPermaLink="false">CAS-0274393</guid>
-    <pubDate>Sun, 15 Nov 2026 16:26:04 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: REVENITI CU O NOUA SESIZARE IN CARE SA ATASATI O FOTOGRAFIE PRIN E EVIDENTIAT TIPUL LOCULUI DE PARCARE.</description>
   </item>
 </channel>
 </rss>
