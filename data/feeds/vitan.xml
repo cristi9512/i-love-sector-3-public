@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Noua · Vitan</title>
+    <title>Trasare parcare · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275075</link>
+    <guid isPermaLink="false">CAS-0275075</guid>
+    <pubDate>Wed, 18 Nov 2026 07:09:42 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Va rog sa trasati parcari si sa introduceti obligativitatea platii pe Str. Motilor. Este singura strada din zona care a ramas gratis si toata lumea din cartier parcheaza aici. Au mai ramas 10 case la curte pe strada Motilor si suntem cotropiti de masini, majoritatea cu numere de provincie, care le si lasa cu saptamanile nemutate.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275073</link>
     <guid isPermaLink="false">CAS-0275073</guid>
     <pubDate>Wed, 18 Nov 2026 07:00:31 GMT</pubDate>
@@ -14,7 +22,7 @@
     <description>Gunoi pe trotuar</description>
   </item>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Noua · Vitan</title>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275072</link>
     <guid isPermaLink="false">CAS-0275072</guid>
     <pubDate>Wed, 18 Nov 2026 06:59:18 GMT</pubDate>
@@ -607,14 +615,6 @@ La data si ora efectuarii verificarilor, aspectele sesizate nu se confirma, auto
     <pubDate>Fri, 13 Nov 2026 12:56:33 GMT</pubDate>
     <category>Străzi</category>
     <description>Capac canal deteriorat, risc avariere masina</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273962</link>
-    <guid isPermaLink="false">CAS-0273962</guid>
-    <pubDate>Fri, 13 Nov 2026 11:08:51 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>motocicleta este parcată permanent pe trotuar</description>
   </item>
 </channel>
 </rss>
