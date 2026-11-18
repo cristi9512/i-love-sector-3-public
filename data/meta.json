@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T12:15:35.896Z",
-  "lastChange": "2026-11-18T12:15:35.896Z",
+  "lastRun": "2026-11-18T12:30:50.335Z",
+  "lastChange": "2026-11-18T12:30:50.335Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2823,
-    "added": 2,
-    "updated": 20,
+    "fetched": 2486,
+    "added": 1,
+    "updated": 9,
     "removed": 0,
-    "changes": 60
+    "changes": 27
   },
   "totals": {
-    "incidents": 45754,
-    "open": 2072,
+    "incidents": 45755,
+    "open": 2064,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T12:15:35.896Z",
+    "asOf": "2026-11-18T12:30:50.335Z",
     "days": 30,
-    "open": 2072,
+    "open": 2064,
     "total": 201,
     "byCategory": {
       "2": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 181,
+        "open": 177,
         "n": 21
       },
       "5": {
@@ -52,17 +52,17 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 91,
+        "open": 90,
         "n": 2
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 41,
+        "open": 39,
         "n": 5
       },
       "9": {
         "name": "Altele",
-        "open": 230,
+        "open": 229,
         "n": 14
       },
       "10": {
