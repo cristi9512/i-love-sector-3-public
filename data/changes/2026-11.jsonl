@@ -2268,3 +2268,12 @@
 {"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275116","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275116","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-18T22:45:32.943Z","ticket":"CAS-0275116","field":"reply","from":"","to":"Nespecificat Registratura auto nu se mai afla in locatie "}
+{"at":"2026-11-18T23:00:57.102Z","ticket":"CAS-0275245","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T23:00:57.102Z","ticket":"CAS-0275245","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T23:00:57.102Z","ticket":"CAS-0275245","field":"reply","from":"","to":"Nespecificat Registratura SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . LA MOMENTUL VERIFICARII LOCURILE DE PARCARE LA CARE FACETI REFERIRE SUNT LIBERE . "}
+{"at":"2026-11-18T23:00:57.102Z","ticket":"CAS-0275244","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T23:00:57.102Z","ticket":"CAS-0275244","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T23:00:57.102Z","ticket":"CAS-0275244","field":"reply","from":"","to":"Nespecificat Registratura SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . LA MOMENTUL VERIFICARII LOCURILE DE PARCARE LA CARE FACETI REFERIRE SUNT LIBERE . "}
+{"at":"2026-11-18T23:00:57.102Z","ticket":"CAS-0274989","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T23:00:57.102Z","ticket":"CAS-0274989","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T23:00:57.102Z","ticket":"CAS-0274989","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARILOR IN LOCATIE,ASPECTELE SESIZATE SE CONFIRMA,A FOST APLICATA O INSTIINTARE."}
