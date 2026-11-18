@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275239</link>
+    <guid isPermaLink="false">CAS-0275239</guid>
+    <pubDate>Wed, 18 Nov 2026 19:19:28 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275233</link>
     <guid isPermaLink="false">CAS-0275233</guid>
@@ -131,13 +139,15 @@ Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care face
 !! Va rog sa patrulati zona aceasta frecvent, puteti aplica multe amenzi. Eu trec aproape zilnic prin acest loc cand ma intorc din parc cu bebelusul in carucior si de multe ori sunt parcate masini pe trotuar. Nu este normal ca multi dintre noi sa platim abonamente la parcare iar astfel de indivizi sa parcheze gratuit si sa mai si blocheze trotuarul!!</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275161</link>
     <guid isPermaLink="false">CAS-0275161</guid>
     <pubDate>Wed, 18 Nov 2026 14:29:24 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Bună ziua, observ ca se poartă cumetriile cu lumea din blocul L 42, la fel ați procedat și cu pubelele de gunoi( până nu v-a obligat Brigada Rutieră, nu ați relocat nimic!) 
-Mai exista și Prefectura, Brigada Rutieră, apelăm, ce să facem…</description>
+Mai exista și Prefectura, Brigada Rutieră, apelăm, ce să facem…
+
+Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
@@ -583,24 +593,6 @@ Directia Generala de Salubritate Sector 3 Raspunsul a fost trimis prin email cat
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274808</link>
-    <guid isPermaLink="false">CAS-0274808</guid>
-    <pubDate>Tue, 17 Nov 2026 07:26:35 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Subiect: Solicitare montare stâlp de iluminat public
-
-Către Primăria Sectorului 3,
-
-Vă solicit montarea unui stâlp de iluminat public pe aleea dintre blocurile situate în Aleea Barajul Lotru 8 - intre blocurile N8 si N9, zonă care este în beznă totală pe timpul nopții.
-
-Din cauza lipsei iluminatului, aleea a ajuns sa fie plină de fecale umane și a devenit un focar de mizerie și insalubritate pentru locatari.
-
-Vă solicit să dispuneți montarea unui stâlp de iluminat pentru remedierea acestei situații inacceptabile.
-
-Multumesc</description>
   </item>
 </channel>
 </rss>

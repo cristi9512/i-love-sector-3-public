@@ -6,6 +6,17 @@
   <description>Cele mai noi sesizări din zona Gurilor</description>
   <language>ro</language>
   <item>
+    <title>Parcuri · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275240</link>
+    <guid isPermaLink="false">CAS-0275240</guid>
+    <pubDate>Wed, 18 Nov 2026 19:28:35 GMT</pubDate>
+    <category>Parcuri</category>
+    <description>Bună ziua,
+
+Părculețul pentru copii de pe strada Victor Brauner, nu are niciun fel de iluminat, astfel este imposibil ca cei mici sa beneficieze de el când începe să se însereze. Vă rog să interveniți prin montarea unui sistem de iluminare.
+Mulțumesc!</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275217</link>
     <guid isPermaLink="false">CAS-0275217</guid>
@@ -621,14 +632,6 @@ Răspuns: AM APLICAT MASURILE LEGALE </description>
     <guid isPermaLink="false">CAS-0272904</guid>
     <pubDate>Mon, 09 Nov 2026 18:52:29 GMT</pubDate>
     <category>Mașini abandonate</category>
-    <description>Parcare ilegala, blocare cale de acces !!!</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272903</link>
-    <guid isPermaLink="false">CAS-0272903</guid>
-    <pubDate>Mon, 09 Nov 2026 18:51:50 GMT</pubDate>
-    <category>Străzi</category>
     <description>Parcare ilegala, blocare cale de acces !!!</description>
   </item>
 </channel>
