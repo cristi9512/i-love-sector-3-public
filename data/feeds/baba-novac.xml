@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Ordine și liniște publică · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275176</link>
+    <guid isPermaLink="false">CAS-0275176</guid>
+    <pubDate>Wed, 18 Nov 2026 15:07:12 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>Ocupare abuziva loc de parcare nominal nr. 5b</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275159</link>
     <guid isPermaLink="false">CAS-0275159</guid>
@@ -43,12 +51,14 @@ Multumesc</description>
 Răspuns: LOCATIA A FOST VERIFICATA,AM INTOCMIT DOCUMENTATIA CONFORM HCGMB 124/2008.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275141</link>
     <guid isPermaLink="false">CAS-0275141</guid>
     <pubDate>Wed, 18 Nov 2026 12:07:41 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>mașină parcată pe trotuar</description>
+    <description>mașină parcată pe trotuar
+
+Răspuns: Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
@@ -246,12 +256,17 @@ Str Agricultori 121, bl 82 sc A</description>
 Răspuns: Au fost luate masurile legale conform RAOUG195/2002</description>
   </item>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Baba Novac</title>
+    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274913</link>
     <guid isPermaLink="false">CAS-0274913</guid>
     <pubDate>Tue, 17 Nov 2026 15:21:27 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Deseuri abandonate</description>
+    <description>Deseuri abandonate
+
+Răspuns: Trimis raspuns Buna ziua,
+Aspectele care intra in aria de competenta a Directiei Generale de Salubritate Sector 3, au fost transmise echipelor operationale din teren in vederea solutionarii.
+Cu stima,
+ </description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
@@ -569,16 +584,6 @@ Răspuns: LA MOMENTUL VERIFICARILOR IN LOCATIE,ASPECTELE SESIZATE NU SE MAI CONF
     <description>Autovehiculul cu nr de înmatriculare B507DRI este parcat pe trotuar!
 
 Răspuns: LA MOMENTUL VERIFICARILOR IN LOCATIE,ASPECTELE SESIZATE NU SE MAI CONFIRMA</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274684</link>
-    <guid isPermaLink="false">CAS-0274684</guid>
-    <pubDate>Mon, 16 Nov 2026 15:53:48 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autovehiculul cu nr de înmatriculare IS55KAS este parcat pe trotuar!
-
-Răspuns: AUTO NU A FOST DEPISTAT  LA MOMENTUL VERIFICARILOR IN LOCATIE</description>
   </item>
 </channel>
 </rss>
