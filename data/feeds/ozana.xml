@@ -6,6 +6,19 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Spații verzi · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275135</link>
+    <guid isPermaLink="false">CAS-0275135</guid>
+    <pubDate>Wed, 18 Nov 2026 11:10:12 GMT</pubDate>
+    <category>Spații verzi</category>
+    <description>Locație: Aleea Buhuși nr. 5
+
+Buna ziua,
+Vă solicit amenajarea acestui spațiu public, care se află într-o stare necorespunzătoare. Terenul este degradat, plin de noroi, iar din cauza denivelărilor provocate de parcarea autoturismelor se formează bălți mari de apă ori de câte ori plouă. Situația afectează aspectul zonei și îngreunează accesul pietonilor. Vă rog să dispuneți nivelarea terenului și amenajarea corespunzătoare a spațiului, astfel încât problema să fie rezolvată permanent.
+Maximilian Ganga
+0754263064</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275133</link>
     <guid isPermaLink="false">CAS-0275133</guid>
@@ -603,16 +616,6 @@ Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 21:09, însă
 
 Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.
 Vă mulțumim!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274419</link>
-    <guid isPermaLink="false">CAS-0274419</guid>
-    <pubDate>Sun, 15 Nov 2026 17:25:23 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 21:35. La fata locului a fost identificat autoturismul reclamat. S-a prezentat conducatorul auto care afost legitiamt urmand a fi aplicate masurile legale ce se impun. Locul de parcare a fost eliberat. Acesta era parcat pe loc de MOTO . </description>
   </item>
 </channel>
 </rss>
