@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T08:15:47.924Z",
-  "lastChange": "2026-11-18T08:15:47.924Z",
+  "lastRun": "2026-11-18T08:30:47.177Z",
+  "lastChange": "2026-11-18T08:30:47.177Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2520,
-    "added": 2,
-    "updated": 0,
+    "fetched": 2707,
+    "added": 5,
+    "updated": 1,
     "removed": 0,
-    "changes": 0
+    "changes": 3
   },
   "totals": {
-    "incidents": 45701,
-    "open": 2081,
+    "incidents": 45706,
+    "open": 2085,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T08:15:47.924Z",
+    "asOf": "2026-11-18T08:30:47.177Z",
     "days": 30,
-    "open": 2081,
-    "total": 193,
+    "open": 2085,
+    "total": 194,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 60,
+        "open": 61,
         "n": 7
       },
       "3": {
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 228,
-        "n": 11
+        "open": 227,
+        "n": 12
       },
       "10": {
         "name": "Străzi",
-        "open": 428,
+        "open": 431,
         "n": 23
       },
       "11": {
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 46,
+        "open": 47,
         "n": 0
       },
       "13": {

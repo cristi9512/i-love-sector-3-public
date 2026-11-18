@@ -6,6 +6,16 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Străzi · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275094</link>
+    <guid isPermaLink="false">CAS-0275094</guid>
+    <pubDate>Wed, 18 Nov 2026 08:30:36 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Buna ziua, 
+Pe str Istriei 14, scara blocului 3E2 exista un stâlp betonat ușor înclinat, mi se pare mie.. atasez foto.
+Puteți verifica va rog??</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275087</link>
     <guid isPermaLink="false">CAS-0275087</guid>
@@ -609,14 +619,6 @@ ASPECTELE RECLAMATE AU FOST TRANSMISE PENTRU SOLUTIONAREA SITUATIEI </descriptio
     <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: APLICAT INSTIINTARE</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274400</link>
-    <guid isPermaLink="false">CAS-0274400</guid>
-    <pubDate>Sun, 15 Nov 2026 16:41:48 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Iluminat stradal defect de 3 saptamani. Nici o masura luata de luxten pentru rediere</description>
   </item>
 </channel>
 </rss>

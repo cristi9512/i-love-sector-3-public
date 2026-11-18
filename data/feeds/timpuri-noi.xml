@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275091</link>
+    <guid isPermaLink="false">CAS-0275091</guid>
+    <pubDate>Wed, 18 Nov 2026 08:19:30 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcuri · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275065</link>
     <guid isPermaLink="false">CAS-0275065</guid>
@@ -608,22 +616,6 @@ Răspuns: Buna seara,
 Am dat curs sesizarii dumneavoastra, la data si ora efectuarii verificarilor in locatia indicata, autovehiculul cu elementele de identificare oferite nu a fost depistat la adresa indicata.
 Va recomandam, ca pe viitor, sa folositi toate optiunile disponibile oferite de aplicatia de sesizari a DGPLS3 (fotografii concludente cu autovehiculul in cauza/locul de parcare ocupat), astfel incat identificarea acestuia de catre echipajul din teren si dispunerea masurilor legale in consecinta sa poata fi efectuate intr-un mod cat mai eficient si obiectiv.
 Va multumim pentru intelegere si va asiguram de intregul nostru suport!</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274389</link>
-    <guid isPermaLink="false">CAS-0274389</guid>
-    <pubDate>Sun, 15 Nov 2026 16:09:28 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Imaginea vorbeste de la sine. 
-Mizerie de nedescris, pubele dau pe afara. 
-Ridicati mai des gunoiul
-
-Răspuns: Trimis raspuns Bună ziua,
-
-Vă aducem la cunoştinţă faptul că aspectele care intră în sfera de activitate a instituţiei noastre au fost transmise echipelor operaționale din teren şi soluționate, prin ridicarea deşeurilor şi salubrizarea zonei.
-Cu consideratie,
- </description>
   </item>
 </channel>
 </rss>

@@ -1560,3 +1560,6 @@
 {"at":"2026-11-18T08:00:56.374Z","ticket":"CAS-0274842","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T08:00:56.374Z","ticket":"CAS-0274842","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-18T08:00:56.374Z","ticket":"CAS-0274842","field":"reply","from":"","to":"Trimis raspuns locul de parcare a fost eliberat anterior sosirii polițiștilor locali; sesizare voicemail "}
+{"at":"2026-11-18T08:30:47.177Z","ticket":"CAS-0274449","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T08:30:47.177Z","ticket":"CAS-0274449","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T08:30:47.177Z","ticket":"CAS-0274449","field":"reply","from":"","to":"Trimis raspuns În data de 16.11.2026, ora 19.10, polițiștii locali din cadrul Serviciului 3 Ordine Publică și Control au efectuat verificări la adresa menționată de către dumneavoastră, însă autoturismul în cauză nu se mai afla în locație. "}
