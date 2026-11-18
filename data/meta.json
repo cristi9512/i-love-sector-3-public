@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T18:45:37.240Z",
-  "lastChange": "2026-11-18T18:45:37.240Z",
+  "lastRun": "2026-11-18T19:00:59.011Z",
+  "lastChange": "2026-11-18T19:00:59.011Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2938,
-    "added": 5,
-    "updated": 4,
+    "fetched": 2920,
+    "added": 1,
+    "updated": 7,
     "removed": 0,
-    "changes": 12
+    "changes": 19
   },
   "totals": {
-    "incidents": 45846,
-    "open": 2021,
+    "incidents": 45847,
+    "open": 2016,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T18:45:37.240Z",
+    "asOf": "2026-11-18T19:00:59.011Z",
     "days": 30,
-    "open": 2021,
+    "open": 2016,
     "total": 190,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 65,
+        "open": 63,
         "n": 7
       },
       "3": {
@@ -62,8 +62,8 @@
       },
       "9": {
         "name": "Altele",
-        "open": 223,
-        "n": 13
+        "open": 222,
+        "n": 12
       },
       "10": {
         "name": "Străzi",
@@ -78,7 +78,7 @@
       "12": {
         "name": "Trasare parcare",
         "open": 28,
-        "n": 0
+        "n": 1
       },
       "13": {
         "name": "Unități de Învățământ(probleme administrative)",
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 12,
+        "open": 11,
         "n": 4
       },
       "20": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 505,
+        "open": 504,
         "n": 2
       },
       "32": {
