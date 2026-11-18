@@ -6,7 +6,33 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <title>Străzi · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275120</link>
+    <guid isPermaLink="false">CAS-0275120</guid>
+    <pubDate>Wed, 18 Nov 2026 10:11:46 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Bună ziua !
+
+În Piața Vitan din Sectorul 3 s-au șters marcajele rutiere ale trecerilor de pietoni, ale benzilor de circulație și parcărilor și din această cauză se crează ambuteiaje. Vă rog să interveniți curând ! Fotografie atașată. Mulțumesc !</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275117</link>
+    <guid isPermaLink="false">CAS-0275117</guid>
+    <pubDate>Wed, 18 Nov 2026 10:02:08 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>calea dudesti 124-126, masini parcate pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275116</link>
+    <guid isPermaLink="false">CAS-0275116</guid>
+    <pubDate>Wed, 18 Nov 2026 10:01:35 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>calea dudesti 126-128, masini parcate pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275115</link>
     <guid isPermaLink="false">CAS-0275115</guid>
     <pubDate>Wed, 18 Nov 2026 10:00:29 GMT</pubDate>
@@ -555,34 +581,6 @@ Florin.tyl@gmail.com
     <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: auto nu a fost identificat in locatie</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274547</link>
-    <guid isPermaLink="false">CAS-0274547</guid>
-    <pubDate>Mon, 16 Nov 2026 08:37:58 GMT</pubDate>
-    <category>Altele</category>
-    <description>De cateva saptamani geamul dinstatia de la 104 din rond alba iulia langa ucecom sta sa cada!! Am facut sesizare la stb si au zis ca e de competenta ps3. De ce asteptam sa cada pe cineva?</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274514</link>
-    <guid isPermaLink="false">CAS-0274514</guid>
-    <pubDate>Mon, 16 Nov 2026 05:43:43 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară BT 07 KKO pe trotuar, forțând pietonii să circule pe carosabil cu posibile accidente rutiere aleea Blăjel imobil 9B.
-
-Răspuns: a fost aplicata instiintare informativa </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274513</link>
-    <guid isPermaLink="false">CAS-0274513</guid>
-    <pubDate>Mon, 16 Nov 2026 05:42:18 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 957 YYY pe loc marcat la sol ca fiind Oprire interzisă str.Breaza bloc V15.
-
-Răspuns: a fost aplicata instiintare informativa </description>
   </item>
 </channel>
 </rss>

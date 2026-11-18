@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T10:00:57.255Z",
-  "lastChange": "2026-11-18T10:00:57.255Z",
+  "lastRun": "2026-11-18T10:15:47.515Z",
+  "lastChange": "2026-11-18T10:15:47.515Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2836,
-    "added": 4,
-    "updated": 1,
+    "fetched": 2544,
+    "added": 5,
+    "updated": 2,
     "removed": 0,
-    "changes": 3
+    "changes": 4
   },
   "totals": {
-    "incidents": 45727,
-    "open": 2101,
+    "incidents": 45732,
+    "open": 2105,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T10:00:57.255Z",
+    "asOf": "2026-11-18T10:15:47.515Z",
     "days": 30,
-    "open": 2101,
+    "open": 2105,
     "total": 196,
     "byCategory": {
       "2": {
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 432,
+        "open": 434,
         "n": 23
       },
       "11": {
@@ -102,7 +102,7 @@
       },
       "17": {
         "name": "Comerț stradal neautorizat",
-        "open": 3,
+        "open": 2,
         "n": 0
       },
       "18": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 518,
+        "open": 521,
         "n": 2
       },
       "32": {

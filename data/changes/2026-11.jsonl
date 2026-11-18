@@ -1581,3 +1581,7 @@
 {"at":"2026-11-18T10:00:57.255Z","ticket":"CAS-0275102","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T10:00:57.255Z","ticket":"CAS-0275102","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-18T10:00:57.255Z","ticket":"CAS-0275102","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ ZIUA!\nPENTRU A PRELUA ȘI VERIFICA SESIZAREA DUMNEAVOASTRĂ\nESTE NECESAR SĂ TRIMITETI CEL PUȚIN O FOTOGRAFIE."}
+{"at":"2026-11-18T10:15:47.515Z","ticket":"CAS-0275112","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T10:15:47.515Z","ticket":"CAS-0275112","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T10:15:47.515Z","ticket":"CAS-0275112","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, PERSOANA CARE COMERCIALIZA A FOST IDENTIFICATA ,LEGITIMATA SI SANCTIONATA CONFORM PREVEDERILOR LEGALE,MENTIONAM FAPTUL CA A PARASIT LOCATIA IN PREZENTA NOASTRA. VA MULTUMIM!"}
+{"at":"2026-11-18T10:15:47.515Z","ticket":"CAS-0275115","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}

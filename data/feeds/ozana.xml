@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275118</link>
+    <guid isPermaLink="false">CAS-0275118</guid>
+    <pubDate>Wed, 18 Nov 2026 10:10:01 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Luminat stradal- pe strada Aleeq Vârful cu Dor vis a vis de nr 25, 2 becuri nu funcționează din vara. Avem rugămintea sa trimiteți pe cineva care sa ne ajute cu aceasta problema.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275114</link>
     <guid isPermaLink="false">CAS-0275114</guid>
@@ -610,14 +618,6 @@ Răspuns: La ora 20.02   am preluat si verificat sesizarea infocet nr 80768/2026
 
 Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.
 Vă mulțumim!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274386</link>
-    <guid isPermaLink="false">CAS-0274386</guid>
-    <pubDate>Sun, 15 Nov 2026 16:04:44 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>iar s-a facut parcare acolo unde nu este cazul. boltul, nu astepta client. e oprit de cel putin 2 ore acolo, ora sesizarii find 18:05.</description>
   </item>
 </channel>
 </rss>

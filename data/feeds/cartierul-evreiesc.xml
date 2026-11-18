@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cartierul Evreiesc</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275119</link>
+    <guid isPermaLink="false">CAS-0275119</guid>
+    <pubDate>Wed, 18 Nov 2026 10:10:56 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare pe trotuar</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275104</link>
     <guid isPermaLink="false">CAS-0275104</guid>
@@ -608,20 +616,6 @@ Va rog sa plantati altii in acest sezon, este a treia oara cand trimit solicitar
 De asemenea, va rog sa indepartati tartanul, pentru ca duce la uscarea copacilor.
 
 Multumesc, o zi buna!</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · Rezolvată Favorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0270107</link>
-    <guid isPermaLink="false">CAS-0270107</guid>
-    <pubDate>Thu, 29 Oct 2026 11:34:58 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>Vă solicit intervenția privind o dubiță marca Mercedes-Benz (model Vito/Viano), de culoare argintie, având numărul de înmatriculare DB 58 DOR.
-Vehiculul este staționat de aproximativ 2 luni în același punct, acumulând frunze și murdărie pe parbriz, având semne clare de neutilizare îndelungată.
-Mașina este parcată neregulamentar, parțial pe pământ și pe dalele de pavaj, exact în fața locului de parcare de reședință. Poziția în care este lăsată blochează complet calea de acces către locul de parcare, făcând imposibilă intrarea, ieșirea sau manevrarea în siguranță a autoturismului meu.
-Vehiculul se află la adresa: Bulevardul Unirii nr. 47C, în spatele Hotelului Union Plaza.
-Vă rog să trimiteți un echipaj al Poliției Locale Sector 3 la fața locului pentru a constata blocajul și pentru a dispune ridicarea dubei sau somarea proprietarului, deoarece îmi este restricționat abuziv accesul la parcarea închiriată. Vă mulțumesc!
-
-Răspuns: Trimis raspuns Urmare a sesizării dumneavostră transmisă în format electronic, înregistrată în cadrul Primăriei Sectorului 3 - Direcția Generală de Poliție Locală cu nr. 407911/2026, cu referire la autoturismul marca Mercedes, cu nr. de înmatriculare DB 58 DOR, ce pare abandonat pe domeniul public din bd. Unirii nr 55, vă comunicăm faptul că în urma verificărilor efectuate în teren, au fost demarate procedurile legale conform Legii 421/2002, privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparținând domeniului public sau privat al statului ori al unităților administrativ-teritoriale, pentru un vehicul căruia i-a fost atribuit numărul de dosar A 10491. Vă informăm că timpul necesar până la ridicarea vehiculului declarat abandonat poate fi diferit în funcție de particularitățile fiecărui dosar întocmit. Vă multumim pentru aspectele semnalate și vă asigurăm de întreaga noastră disponibilitate pentru soluționarea oricăror probleme ce intră în competența noastră. Cu stimă Raspunsul a fost trimis prin email catre cetatean.</description>
   </item>
 </channel>
 </rss>
