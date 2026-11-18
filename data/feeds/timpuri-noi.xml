@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275215</link>
+    <guid isPermaLink="false">CAS-0275215</guid>
+    <pubDate>Wed, 18 Nov 2026 17:17:03 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>mașini parcate pe trotuar, langa blocul M11, scara 1.
+Chiar și gardul a fost strâmbat de cei care parchează.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275148</link>
     <guid isPermaLink="false">CAS-0275148</guid>
@@ -585,16 +594,6 @@ Răspuns: Sesizarea nu se confirma, auto reclamat nu se afla in locatie.</descri
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274617</link>
-    <guid isPermaLink="false">CAS-0274617</guid>
-    <pubDate>Mon, 16 Nov 2026 11:50:37 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie</description>
   </item>
 </channel>
 </rss>
