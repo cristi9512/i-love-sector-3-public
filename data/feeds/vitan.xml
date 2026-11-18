@@ -6,6 +6,23 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275088</link>
+    <guid isPermaLink="false">CAS-0275088</guid>
+    <pubDate>Wed, 18 Nov 2026 08:02:36 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Bună ziua,
+
+Cum e posibil să se acorde aprobări pentru așa lucrări? Intreaga stradă a Grădinarilor este în șantier, ne-ați luat locurile de parcare pentr toate constructiile. Nu e nici un dezvoltator atent la mașini, la absolut nimic. 
+De ce să mai plătim locurile de parcare când sunt multe mașini parcate fără autorizații? A trecut vreodată poliția să verifice masinile?
+Bătaie de joc efecfiv. 
+
+Și sesizările se tot adună, e ok, vin ele alegerile.
+
+Cu respect,
+Diana Staicu</description>
+  </item>
+  <item>
     <title>Trasare parcare · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275075</link>
     <guid isPermaLink="false">CAS-0275075</guid>
@@ -607,14 +624,6 @@ La data si ora efectuarii verificarilor, aspectele sesizate nu se confirma, auto
     <pubDate>Fri, 13 Nov 2026 12:57:54 GMT</pubDate>
     <category>Străzi</category>
     <description>Capac canal deteriorat, risc avarie masina</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273982</link>
-    <guid isPermaLink="false">CAS-0273982</guid>
-    <pubDate>Fri, 13 Nov 2026 12:56:33 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Capac canal deteriorat, risc avariere masina</description>
   </item>
 </channel>
 </rss>

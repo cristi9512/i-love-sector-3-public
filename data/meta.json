@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T08:00:56.374Z",
-  "lastChange": "2026-11-18T08:00:56.374Z",
+  "lastRun": "2026-11-18T08:15:47.924Z",
+  "lastChange": "2026-11-18T08:15:47.924Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2622,
-    "added": 7,
-    "updated": 1,
+    "fetched": 2520,
+    "added": 2,
+    "updated": 0,
     "removed": 0,
-    "changes": 3
+    "changes": 0
   },
   "totals": {
-    "incidents": 45699,
-    "open": 2079,
+    "incidents": 45701,
+    "open": 2081,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T08:00:56.374Z",
+    "asOf": "2026-11-18T08:15:47.924Z",
     "days": 30,
-    "open": 2079,
+    "open": 2081,
     "total": 193,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 59,
+        "open": 60,
         "n": 7
       },
       "3": {
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 427,
+        "open": 428,
         "n": 23
       },
       "11": {
