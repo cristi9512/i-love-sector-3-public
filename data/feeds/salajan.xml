@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275150</link>
+    <guid isPermaLink="false">CAS-0275150</guid>
+    <pubDate>Wed, 18 Nov 2026 13:46:32 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Va rog sa verificati toata Strada Ilioara, in jos, spre M Park Titan. Am vazut inclusiv mame cu carucior care merg pe strada pentru ca suprafata pietonala e ocupata in integralitate. Situatia persista de ani intregi</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275145</link>
     <guid isPermaLink="false">CAS-0275145</guid>
@@ -582,18 +590,6 @@ Răspuns: ORA 12.40 AM VERIFICAT SESIZAREA , INSA, AUTOTURISMUL RECLAMAT NU SE M
 Răspuns: FOTOGRAFIA DIN SESIZARE NU ESTE CONCLUDENTA, IN SENSUL CA, NU REIESE CA AUTOTURISMUL RECLAMAT AR FI PARCAT PE UN LOC SISTEMATIZAT CORESPUNZATOR.
 VA RUGAM REVENITI CU FOTOGRAFII DE DETALIU SI ANSAMBLU DE LA FATA LOCULUI SI CU EXPLICATII SUPLIMENTARE .
 VA MULTUMIM.</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274509</link>
-    <guid isPermaLink="false">CAS-0274509</guid>
-    <pubDate>Mon, 16 Nov 2026 05:33:41 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Detin locul de parcare 62 bateria 88 conform autorizatiei. 
-Locurile au fost renumerotate, locul 62 a devenit 61, iar noul 62 are semn galben B de nenominal.
-Am gasit locul de parcare 62 ocupat, am solicitat prezenta Politiei Locale, care a constatat situatia si mi-a spus ca pana nu primesc noua autorizatie cu nunarul 61 nu am nici un drept, pentru ca 62 este acum nenominal iar pentru 61 nu am documente.
-Va rog sa remediati de urgenta situatia pentru a-mi putea exercita in conditii legale dreptul de utilizare a spatiului platit, in caz contrar voi incepe proceduri pentru recuperarea prejudiciului.
-Va multumesc.</description>
   </item>
 </channel>
 </rss>
