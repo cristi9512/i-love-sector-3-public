@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275229</link>
+    <guid isPermaLink="false">CAS-0275229</guid>
+    <pubDate>Wed, 18 Nov 2026 18:28:44 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275222</link>
     <guid isPermaLink="false">CAS-0275222</guid>
@@ -594,16 +602,6 @@ la fiecare ploaie toate crengile copacilor uscati cad pe masini in parcare</desc
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . PENTRU AUTOTURISMUL LA CARE FACETI REFERIRE AM INCHEIAT PROCES VERBAL DE CONSTATARE SI INSTIINTARE IN BAZA HCLS3 346/2022 , URMAND A FI LUATE MASURILE LEGALE CE SE IMPUN .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273929</link>
-    <guid isPermaLink="false">CAS-0273929</guid>
-    <pubDate>Fri, 13 Nov 2026 09:27:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA , AUTOTURISMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT LA ADRESA INDICATA . </description>
   </item>
 </channel>
 </rss>
