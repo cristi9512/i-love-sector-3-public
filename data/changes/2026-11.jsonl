@@ -2211,3 +2211,15 @@
 {"at":"2026-11-18T19:00:59.011Z","ticket":"CAS-0266132","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T19:00:59.011Z","ticket":"CAS-0266132","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-18T19:00:59.011Z","ticket":"CAS-0266132","field":"reply","from":"","to":"Trimis raspuns Buna ziuă,\n\nVă transmitem atașat răspunsul direcției noastre privind adresa dumneavoastră cu nr.385878/ 12.10.2026.\n O zi bună.  Raspunsul a fost trimis prin email catre cetatean."}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275030","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275030","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275030","field":"reply","from":"","to":"Nespecificat Registratura Documentul a fost transferat automat la instanta DGITL (615245/18.11.2026) <a href=\"http://192.168.32.203/dgitl3/registratura/detaliu_document.php?An=2026&NrInreg=615245&ro=da\" target=\"_blank\">Detaliu</a>"}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275223","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275223","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275223","field":"reply","from":"","to":"Nespecificat Registratura LOCATIA A FOST VERIFICATA,AUTO MENTIONAT IN SESIZARE FIIND IDENTIFICAT IN ZONĂ.AM INTOCMIT DOCUMENTATIA CONFORM HCLS3 NR.346/2022M."}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275233","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275233","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275233","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto."}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275110","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275110","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
+{"at":"2026-11-18T19:15:33.963Z","ticket":"CAS-0275110","field":"reply","from":"","to":"Nespecificat Registratura Documentul a fost transferat automat la instanta DGITL (615252/18.11.2026) <a href=\"http://192.168.32.203/dgitl3/registratura/detaliu_document.php?An=2026&NrInreg=615252&ro=da\" target=\"_blank\">Detaliu</a>"}
