@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275198</link>
+    <guid isPermaLink="false">CAS-0275198</guid>
+    <pubDate>Wed, 18 Nov 2026 16:07:47 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masini parcate pe trotuar. strada Ilioara nr 4</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275185</link>
     <guid isPermaLink="false">CAS-0275185</guid>
@@ -581,16 +589,6 @@ Răspuns: Buna dimineata! Verificarile in teren se vor realiza in termenul legal
     <pubDate>Mon, 16 Nov 2026 08:07:56 GMT</pubDate>
     <category>Trasare parcare</category>
     <description>S-au facut locuri noi de parcare dar nu s-au actualizat in aplicatie. Dupa ce s-au trasat noile locuri, nu s-au marcat si cu B12.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274541</link>
-    <guid isPermaLink="false">CAS-0274541</guid>
-    <pubDate>Mon, 16 Nov 2026 07:57:26 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul G........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,
-
-Răspuns: LOCATIA A FOST VERIFICATA,AUTO MENTIONAT IN SESIZARE DETINE AUTORIZATIE PENTRU LOC NENOMINAL ,ARE AFISAT LA VEDERE NUMAR DE TELEFON.</description>
   </item>
 </channel>
 </rss>
