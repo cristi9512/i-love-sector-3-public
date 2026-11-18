@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275245</link>
+    <guid isPermaLink="false">CAS-0275245</guid>
+    <pubDate>Wed, 18 Nov 2026 19:58:24 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Revin cu poza, am urcat in casa ca plouă! detin locuri de parcare tip family parcking 27A si 27B baterie 3654_2! str. complexului nr.8 bl.41</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275244</link>
+    <guid isPermaLink="false">CAS-0275244</guid>
+    <pubDate>Wed, 18 Nov 2026 19:49:25 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Am locuri de parcare blocate de 2masini! Am facut sesizare si telefonic. Am locuri de parcare 27A și 27B bateria 3654_2</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275243</link>
     <guid isPermaLink="false">CAS-0275243</guid>
@@ -542,22 +558,6 @@ Mulțumesc</description>
     <pubDate>Wed, 18 Nov 2026 15:34:07 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Vă sesizez o parcare neregulamentară IF 46 BYB în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275185</link>
-    <guid isPermaLink="false">CAS-0275185</guid>
-    <pubDate>Wed, 18 Nov 2026 15:33:12 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>de o luna serviciul de gunoi nu mai vine miercureA. str drumul malu spart 45</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275184</link>
-    <guid isPermaLink="false">CAS-0275184</guid>
-    <pubDate>Wed, 18 Nov 2026 15:25:12 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare pe loc rezervat</description>
   </item>
 </channel>
 </rss>
