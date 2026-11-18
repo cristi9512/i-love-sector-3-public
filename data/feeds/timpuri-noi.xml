@@ -6,6 +6,21 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcuri · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275103</link>
+    <guid isPermaLink="false">CAS-0275103</guid>
+    <pubDate>Wed, 18 Nov 2026 09:16:57 GMT</pubDate>
+    <category>Parcuri</category>
+    <description>Buna ziua
+
+La locul de joaca de la Dimitrie Anghel este foarte intuneric. Funcționează doar 2 stalpi de iluminat, dintre care unul
+Intermitent. Nu ne mai vedem copiii in parc si a devenit periculos.
+
+Va rog sa dispuneti reparatia acestora.
+
+Multumesc</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275101</link>
     <guid isPermaLink="false">CAS-0275101</guid>
@@ -617,14 +632,6 @@ Alexandra Balota</description>
     <description>Vehicule parcate zilnic între 9 și 17 pe locurile moto sau pe trecerea de pietoni. Vizibilitatea redusă pune în pericol pietonii.
 
 Răspuns: Sesizarea se confirma, au fost luate masuri legale</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274435</link>
-    <guid isPermaLink="false">CAS-0274435</guid>
-    <pubDate>Sun, 15 Nov 2026 18:20:38 GMT</pubDate>
-    <category>Străzi</category>
-    <description>E bezna de câteva luni pe strada Mugur Mugurel.</description>
   </item>
 </channel>
 </rss>
