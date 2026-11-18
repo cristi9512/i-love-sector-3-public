@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T09:45:35.836Z",
-  "lastChange": "2026-11-18T09:45:35.836Z",
+  "lastRun": "2026-11-18T10:00:57.255Z",
+  "lastChange": "2026-11-18T10:00:57.255Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2692,
-    "added": 6,
+    "fetched": 2836,
+    "added": 4,
     "updated": 1,
     "removed": 0,
-    "changes": 1
+    "changes": 3
   },
   "totals": {
-    "incidents": 45723,
-    "open": 2098,
+    "incidents": 45727,
+    "open": 2101,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T09:45:35.836Z",
+    "asOf": "2026-11-18T10:00:57.255Z",
     "days": 30,
-    "open": 2098,
-    "total": 195,
+    "open": 2101,
+    "total": 196,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -102,7 +102,7 @@
       },
       "17": {
         "name": "Comerț stradal neautorizat",
-        "open": 2,
+        "open": 3,
         "n": 0
       },
       "18": {
@@ -118,7 +118,7 @@
       "20": {
         "name": "Terenuri insalubre",
         "open": 18,
-        "n": 2
+        "n": 3
       },
       "21": {
         "name": "Reabilitare blocuri",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 516,
+        "open": 518,
         "n": 2
       },
       "32": {
