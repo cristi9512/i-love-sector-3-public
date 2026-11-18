@@ -6,6 +6,26 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Verificări construcții/Lucrări neautorizate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275049</link>
+    <guid isPermaLink="false">CAS-0275049</guid>
+    <pubDate>Wed, 18 Nov 2026 06:03:47 GMT</pubDate>
+    <category>Verificări construcții/Lucrări neautorizate</category>
+    <description>Buna dimineata,
+
+Revin a 3a oare cu sesizare sa remediati cablurile din aceasta zona, care atarna pana la nivelul pamantului, iar intre stalpi arata ca in poza.
+
+Multumim!</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275048</link>
+    <guid isPermaLink="false">CAS-0275048</guid>
+    <pubDate>Wed, 18 Nov 2026 06:02:30 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Bună dimineața! Această mizerie se regăsește in fiecare zi pe acest trotuar de oe Drumul Gura Fagetului 18. Sa se revină la ghenele de bloc.</description>
+  </item>
+  <item>
     <title>Spații verzi · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275047</link>
     <guid isPermaLink="false">CAS-0275047</guid>
@@ -605,24 +625,6 @@ Răspuns: La ora 16.50 am preluat si verificat sesizarea infocet nr 429570/2026.
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 2
 
 Răspuns: 15.17  Am preluat si verificat sesizarea infocet nr 429535/2026 unde am constatat ca lipsesc fotografiile necesare verificării și soluționării sesizării. Vă rugăm să reveniți cu sesizarea, atașând cel puțin o fotografie a vehiculului reclamat, din care să reiasă atât numărul de înmatriculare, cât și tipul parcării de reședință.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274353</link>
-    <guid isPermaLink="false">CAS-0274353</guid>
-    <pubDate>Sun, 15 Nov 2026 12:35:29 GMT</pubDate>
-    <category>Altele</category>
-    <description>Iluminatul pe Aleea Varful cu Dor.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274348</link>
-    <guid isPermaLink="false">CAS-0274348</guid>
-    <pubDate>Sun, 15 Nov 2026 12:13:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: La ora 14.30 am preluat si verificat sesizarea infocet nr 429517/2026. Ajunsi in locatie am identificat auto sesizat caruia i-au fost aplicate prevederile HCLS3 346/2022 M12.</description>
   </item>
 </channel>
 </rss>
