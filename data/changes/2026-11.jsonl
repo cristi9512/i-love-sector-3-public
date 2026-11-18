@@ -2292,3 +2292,9 @@
 {"at":"2026-11-18T23:15:35.715Z","ticket":"CAS-0275115","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T23:15:35.715Z","ticket":"CAS-0275115","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-18T23:15:35.715Z","ticket":"CAS-0275115","field":"reply","from":"","to":"Nespecificat Registratura au fost aplicat instiintari informative."}
+{"at":"2026-11-18T23:30:49.209Z","ticket":"CAS-0275139","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T23:30:49.209Z","ticket":"CAS-0275139","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T23:30:49.209Z","ticket":"CAS-0275139","field":"reply","from":"","to":"Nespecificat Registratura auto a parasit locatia "}
+{"at":"2026-11-18T23:30:49.209Z","ticket":"CAS-0275081","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T23:30:49.209Z","ticket":"CAS-0275081","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T23:30:49.209Z","ticket":"CAS-0275081","field":"reply","from":"","to":"Nespecificat Registratura auto a parasit locatia "}
