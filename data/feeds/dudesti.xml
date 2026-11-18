@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Dudeşti</title>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275044</link>
+    <guid isPermaLink="false">CAS-0275044</guid>
+    <pubDate>Wed, 18 Nov 2026 05:47:33 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 17 DON blocând accesul pietonilor pe trotuar în special cei cu cărucioare aleea Blăjel vis-a-vis de bloc V21B.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275043</link>
+    <guid isPermaLink="false">CAS-0275043</guid>
+    <pubDate>Wed, 18 Nov 2026 05:46:19 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară B 686 SMS blocând accesul pietonilor pe trotuar în special cei cu cărucioare intr.Trubadurului nr.2-2a.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275042</link>
     <guid isPermaLink="false">CAS-0275042</guid>
     <pubDate>Wed, 18 Nov 2026 05:44:19 GMT</pubDate>
@@ -569,25 +585,6 @@ Răspuns: a fost aplicata instiintare informativa </description>
     <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AUTO LA CARE SE FACE REFERIRE A FOST IDENTIFICAT IN LOCATIE,AU FOST APLICATE MASURILE LEGALE.</description>
-  </item>
-  <item>
-    <title>Verificări construcții/Lucrări neautorizate · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274439</link>
-    <guid isPermaLink="false">CAS-0274439</guid>
-    <pubDate>Sun, 15 Nov 2026 18:25:26 GMT</pubDate>
-    <category>Verificări construcții/Lucrări neautorizate</category>
-    <description>Vă rog respectuos să verificați apartamentul cu nr 20 , din strada Alexander von HUMBOLDT nr 3,bl V28, deoarece s-au efectuat amenajări interioare, posibil cu modificări interioare care trebuiau autorizate! Multumesc.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274394</link>
-    <guid isPermaLink="false">CAS-0274394</guid>
-    <pubDate>Sun, 15 Nov 2026 16:32:16 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 14
-
-Răspuns: BUNĂ SEARA!
-LOCUL 6 DE PARCARE A FOST ELIBERAT IN PREZENTA DUMNEAVOASTRĂ</description>
   </item>
 </channel>
 </rss>

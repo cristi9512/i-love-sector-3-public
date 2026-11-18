@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T05:45:35.833Z",
-  "lastChange": "2026-11-18T05:45:35.833Z",
+  "lastRun": "2026-11-18T06:00:58.278Z",
+  "lastChange": "2026-11-18T06:00:58.278Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2924,
+    "fetched": 2818,
     "added": 5,
-    "updated": 1,
+    "updated": 2,
     "removed": 0,
-    "changes": 1
+    "changes": 2
   },
   "totals": {
-    "incidents": 45654,
-    "open": 2035,
+    "incidents": 45659,
+    "open": 2040,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T05:45:35.833Z",
+    "asOf": "2026-11-18T06:00:58.278Z",
     "days": 30,
-    "open": 2035,
-    "total": 187,
+    "open": 2040,
+    "total": 188,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -37,7 +37,7 @@
       },
       "3": {
         "name": "Spații verzi",
-        "open": 43,
+        "open": 44,
         "n": 7
       },
       "4": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 77,
+        "open": 78,
         "n": 2
       },
       "7": {
@@ -123,7 +123,7 @@
       "21": {
         "name": "Reabilitare blocuri",
         "open": 12,
-        "n": 0
+        "n": 1
       },
       "22": {
         "name": "Spații Comerciale",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 494,
+        "open": 497,
         "n": 2
       },
       "32": {
