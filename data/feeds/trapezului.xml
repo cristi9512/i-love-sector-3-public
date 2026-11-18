@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Trapezului</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275037</link>
+    <guid isPermaLink="false">CAS-0275037</guid>
+    <pubDate>Wed, 18 Nov 2026 05:30:34 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe coltul blocului R11 din bulevardul Theodor Pallady 24 pe trotuar în intersecție parchează permanent mașini care obturează traficul atât spre bulevardul Theodor Pallady cât și spre piața Trapezului. Vă rog să instalați un indicator de interzicere a parcării sau un marcaj care să interzică parcarea în această mică intersecție.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275005</link>
     <guid isPermaLink="false">CAS-0275005</guid>
@@ -642,16 +650,6 @@ Directia Generala de Salubritate Sector 3. Raspunsul a fost trimis prin email ca
     <pubDate>Wed, 11 Nov 2026 06:14:55 GMT</pubDate>
     <category>Altele</category>
     <description>Buna ziua! Vă rog să ne ajutați cu iluminatul public în această zonă. Este o zona nesigură, in care se construiește mult, mașini care nu inspira încredere sunt lăsate in mijlocul străzii, noaptea, și îmi este teamă să trec pe langa ele pe intuneric. Mai ales că anul trecut era să fiu călcată în zona de o mașină care nu m-a vazut. A reacționat doar când am strigat. Am făcut o sesizare la vremea respectivă. însă pe Drumul Lunca Prutului tot nu avem iluminat stradal. Vă rog să ne ajutați să avem parte de un trai decent!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273247</link>
-    <guid isPermaLink="false">CAS-0273247</guid>
-    <pubDate>Wed, 11 Nov 2026 05:06:39 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Aleea Mizil 60 mașini parcate care încurcă accesul in curte si circulația pe strada
-
-Răspuns: Sesizarea nu se confirma, auto reclamate nu incalca prevederile Oug. 195/2002.</description>
   </item>
 </channel>
 </rss>
