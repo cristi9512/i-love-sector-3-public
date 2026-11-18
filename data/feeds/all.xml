@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275154</link>
+    <guid isPermaLink="false">CAS-0275154</guid>
+    <pubDate>Wed, 18 Nov 2026 14:15:19 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe trotuarul din dreptul stației de metrou Mihai Bravu, pe Bld. Mihai Bravu colț cu Peneș Curcanul sunt mereu mașini staționate și mai rău, care circulă pe trotuar, mai ales la orele de vârf, fapt ce pune în pericol siguranța pietonilor.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275153</link>
+    <guid isPermaLink="false">CAS-0275153</guid>
+    <pubDate>Wed, 18 Nov 2026 14:13:34 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275152</link>
     <guid isPermaLink="false">CAS-0275152</guid>
@@ -554,26 +570,6 @@ Răspuns: La  fata  locului  au  fost  dispuse  masurile  legale  conform OUG 19
     <category>Mașini abandonate</category>
     <description>Ford Focus abandonat fără plăcuțe de înmatriculare pe intrarea Baba Novac 6. 
 Inafara faptului ca ocupă domeniul public este ilegal de a lăsa mașina fără placi.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275094</link>
-    <guid isPermaLink="false">CAS-0275094</guid>
-    <pubDate>Wed, 18 Nov 2026 08:30:36 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Buna ziua, 
-Pe str Istriei 14, scara blocului 3E2 exista un stâlp betonat ușor înclinat, mi se pare mie.. atasez foto.
-Puteți verifica va rog??</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Pallady</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275093</link>
-    <guid isPermaLink="false">CAS-0275093</guid>
-    <pubDate>Wed, 18 Nov 2026 08:29:13 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Bună ziua, vă aduc la cunoștință ca în fața Liceului Tehnologic Pallady s-au format denivelări pe toată întinderea străzii, din cauza capacelor de canal care s-au afundat foarte mult, cat și a unei lucrări efectuate în urmă cu aproximativ 2 ani, care s-a tasat mult, rezultând în denivelări de până la 10-15 cm adâncime. Având în vedere ca zona este deja aglomerată, în apropiere fiind intersecția care trece pe sub pasajul Pallady din zona comercială, această degradare îngreunează și mai mult traficul din zona, și mai ales pun în pericol participanții la trafic care încearcă să ocolească denivelări pentru a nu își strica autovehiculele, intrând pe banda alăturată.
-Vă solicit prioritar cat vremea vă mai permite remedierea acestor denivelări, care se întind până la trecerea de pietoni din fața autobazei Titan.
-Cu stimă.</description>
   </item>
 </channel>
 </rss>
