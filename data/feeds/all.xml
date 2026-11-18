@@ -6,6 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275096</link>
+    <guid isPermaLink="false">CAS-0275096</guid>
+    <pubDate>Wed, 18 Nov 2026 08:54:31 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>OUG195/2002… nu prea se vede informație către dumneavoastră conducătorul auto!</description>
+  </item>
+  <item>
+    <title>Mașini abandonate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275095</link>
+    <guid isPermaLink="false">CAS-0275095</guid>
+    <pubDate>Wed, 18 Nov 2026 08:47:44 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>Ford Focus abandonat fără plăcuțe de înmatriculare pe intrarea Baba Novac 6. 
+Inafara faptului ca ocupă domeniul public este ilegal de a lăsa mașina fără placi.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275094</link>
     <guid isPermaLink="false">CAS-0275094</guid>
@@ -382,12 +399,14 @@ Mai mult, în această dimineață, din cauza autovehiculului parcat în acel lo
 Solicităm verificarea situației și luarea măsurilor necesare pentru a preveni parcarea repetată a autovehiculelor în acest spațiu.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275053</link>
     <guid isPermaLink="false">CAS-0275053</guid>
     <pubDate>Wed, 18 Nov 2026 06:13:03 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>masina este parcata de luni dimineata si impiedica debatcarea copiilor la gradinita</description>
+    <description>masina este parcata de luni dimineata si impiedica debatcarea copiilor la gradinita
+
+Răspuns: In  locatie  au  fost  aplicte masurile  legale conform OUG 195/2002 r </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Trapezului</title>
@@ -535,22 +554,6 @@ In fiecare după amiaza o duba albastra parchează pe coltul blocului pe spațiu
     <pubDate>Wed, 18 Nov 2026 05:30:34 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Pe coltul blocului R11 din bulevardul Theodor Pallady 24 pe trotuar în intersecție parchează permanent mașini care obturează traficul atât spre bulevardul Theodor Pallady cât și spre piața Trapezului. Vă rog să instalați un indicator de interzicere a parcării sau un marcaj care să interzică parcarea în această mică intersecție.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275036</link>
-    <guid isPermaLink="false">CAS-0275036</guid>
-    <pubDate>Wed, 18 Nov 2026 05:28:40 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>autovehicule parcate in interiorul intersectiei</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275035</link>
-    <guid isPermaLink="false">CAS-0275035</guid>
-    <pubDate>Wed, 18 Nov 2026 05:27:52 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>autovehicule parcate in zona de stationare interzisa</description>
   </item>
 </channel>
 </rss>
