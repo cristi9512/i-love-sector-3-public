@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275133</link>
+    <guid isPermaLink="false">CAS-0275133</guid>
+    <pubDate>Wed, 18 Nov 2026 10:58:14 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275132</link>
+    <guid isPermaLink="false">CAS-0275132</guid>
+    <pubDate>Wed, 18 Nov 2026 10:57:20 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275118</link>
     <guid isPermaLink="false">CAS-0275118</guid>
@@ -597,27 +613,6 @@ Vă mulțumim!</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 21:35. La fata locului a fost identificat autoturismul reclamat. S-a prezentat conducatorul auto care afost legitiamt urmand a fi aplicate masurile legale ce se impun. Locul de parcare a fost eliberat. Acesta era parcat pe loc de MOTO . </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274404</link>
-    <guid isPermaLink="false">CAS-0274404</guid>
-    <pubDate>Sun, 15 Nov 2026 16:56:19 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 12
-
-Răspuns: La ora 20.02   am preluat si verificat sesizarea infocet nr 80768/2026. La fata locului s-a prezentat conducatorul auto care a fost legitimat urmand sa aplicam masurile legale ce se impun in astfel de situatii. . Locul de parcare a fost eliberat in prezenta noastra . </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274396</link>
-    <guid isPermaLink="false">CAS-0274396</guid>
-    <pubDate>Sun, 15 Nov 2026 16:37:13 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.
-Vă mulțumim!</description>
   </item>
 </channel>
 </rss>
