@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T12:30:50.335Z",
-  "lastChange": "2026-11-18T12:30:50.335Z",
+  "lastRun": "2026-11-18T12:45:43.289Z",
+  "lastChange": "2026-11-18T12:45:43.289Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2486,
-    "added": 1,
-    "updated": 9,
+    "fetched": 2849,
+    "added": 2,
+    "updated": 24,
     "removed": 0,
-    "changes": 27
+    "changes": 72
   },
   "totals": {
-    "incidents": 45755,
-    "open": 2064,
+    "incidents": 45757,
+    "open": 2042,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T12:30:50.335Z",
+    "asOf": "2026-11-18T12:45:43.289Z",
     "days": 30,
-    "open": 2064,
-    "total": 201,
+    "open": 2042,
+    "total": 191,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 58,
+        "open": 59,
         "n": 7
       },
       "3": {
@@ -42,8 +42,8 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 177,
-        "n": 21
+        "open": 174,
+        "n": 19
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 90,
+        "open": 91,
         "n": 2
       },
       "7": {
@@ -62,17 +62,17 @@
       },
       "9": {
         "name": "Altele",
-        "open": 229,
-        "n": 14
+        "open": 222,
+        "n": 12
       },
       "10": {
         "name": "Străzi",
-        "open": 430,
-        "n": 24
+        "open": 420,
+        "n": 19
       },
       "11": {
         "name": "Parcuri",
-        "open": 51,
+        "open": 49,
         "n": 7
       },
       "12": {
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 39,
+        "open": 38,
         "n": 0
       },
       "17": {
@@ -122,8 +122,8 @@
       },
       "21": {
         "name": "Reabilitare blocuri",
-        "open": 12,
-        "n": 1
+        "open": 11,
+        "n": 0
       },
       "22": {
         "name": "Spații Comerciale",

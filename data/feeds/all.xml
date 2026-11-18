@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275145</link>
+    <guid isPermaLink="false">CAS-0275145</guid>
+    <pubDate>Wed, 18 Nov 2026 12:43:20 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275144</link>
+    <guid isPermaLink="false">CAS-0275144</guid>
+    <pubDate>Wed, 18 Nov 2026 12:31:00 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Tot din cauza cetățenilor sunt pubelele pline și este mizerie în jurul lor ?</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275143</link>
     <guid isPermaLink="false">CAS-0275143</guid>
@@ -567,22 +583,6 @@ Diana Staicu</description>
     <category>Stationare neregulamentara</category>
     <description>Buna ziua,
 Mașină parcata de aseară pe trecerea de pietoni, B192ATS.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275085</link>
-    <guid isPermaLink="false">CAS-0275085</guid>
-    <pubDate>Wed, 18 Nov 2026 07:56:33 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Bună ziua, vreau să știu și eu câte persoane am la salubritate menționez că există decât o singură persoană în Str Malva Nr. 66-76.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275084</link>
-    <guid isPermaLink="false">CAS-0275084</guid>
-    <pubDate>Wed, 18 Nov 2026 07:55:33 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masini parcate la intrarea pe aleea textilistilor laanga statia de metrou costin georgian blocheaza accesul pe trotuar</description>
   </item>
 </channel>
 </rss>

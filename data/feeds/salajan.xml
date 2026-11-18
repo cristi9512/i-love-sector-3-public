@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275145</link>
+    <guid isPermaLink="false">CAS-0275145</guid>
+    <pubDate>Wed, 18 Nov 2026 12:43:20 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275126</link>
     <guid isPermaLink="false">CAS-0275126</guid>
@@ -584,16 +592,6 @@ Locurile au fost renumerotate, locul 62 a devenit 61, iar noul 62 are semn galbe
 Am gasit locul de parcare 62 ocupat, am solicitat prezenta Politiei Locale, care a constatat situatia si mi-a spus ca pana nu primesc noua autorizatie cu nunarul 61 nu am nici un drept, pentru ca 62 este acum nenominal iar pentru 61 nu am documente.
 Va rog sa remediati de urgenta situatia pentru a-mi putea exercita in conditii legale dreptul de utilizare a spatiului platit, in caz contrar voi incepe proceduri pentru recuperarea prejudiciului.
 Va multumesc.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274493</link>
-    <guid isPermaLink="false">CAS-0274493</guid>
-    <pubDate>Sun, 15 Nov 2026 21:53:01 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Aut IF30ACS parcat neregulamentar pe un loc galben fara sa fi achitat taxa. Nu este normal ca noi ceilalti sa achitam taxa si sa cautam loc de parcare cate 10 min pt cineva care a parcat si nu a achitat.
-
-Str Zemes nr 4 BLPM19 langa pubele</description>
   </item>
 </channel>
 </rss>
