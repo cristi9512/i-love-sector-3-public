@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Trapezului</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275099</link>
+    <guid isPermaLink="false">CAS-0275099</guid>
+    <pubDate>Wed, 18 Nov 2026 09:09:30 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Ca urmare a lucrărilor efectuate în santierul din str. Drm. Lunca Tarnavei nr. 42, va atașez poze cu starea in care a fost lăsat carosabilul in data de 17.11.2026. Strada este plina de noroi din cauza autocamioanelor care ies din santier fara sa se spele rotile. Mentionez ca santierul nu dispune de stație de spalare a autovehiculelor care ies din santier. Va solicit verificarea existentei acestei stații de spalare în santier si aplicarea dispozițiilor legale in consecinta.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275078</link>
     <guid isPermaLink="false">CAS-0275078</guid>
@@ -640,16 +648,6 @@ Directia Generala de Salubritate Sector 3.
     <category>Toaletare/Tăiere arbori</category>
     <description>In str. Gura Vadului nr.8 bloc G20 stau sa cada crengile din copaci pe carosabil si pe mașinile din parcarea alocata blocului.
 Va rugam sa luați masuri in ceea ce privește acest aspect având in vedere ca in urma cu cateva luni au fost avariate mașini parcate pe acest sector de drum.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273523</link>
-    <guid isPermaLink="false">CAS-0273523</guid>
-    <pubDate>Wed, 11 Nov 2026 22:17:58 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: 00:36 Verificare sesizare nr 425661/12.11.2026 din str Prevederii nr 28 unde reclama ca auto cu nrIF 17BSJ nu detine autorizatie de parcare nenominala, in momentul verificarilor orele 00:45, auto in cauza nu a mai fost identificat in locatia reclamata.</description>
   </item>
 </channel>
 </rss>
