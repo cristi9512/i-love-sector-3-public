@@ -1866,3 +1866,12 @@
 {"at":"2026-11-18T13:01:01.218Z","ticket":"CAS-0265448","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T13:01:01.218Z","ticket":"CAS-0265448","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-18T13:01:01.218Z","ticket":"CAS-0265448","field":"reply","from":"","to":"Trimis raspuns raspuns Raspunsul a fost trimis prin email catre cetatean."}
+{"at":"2026-11-18T13:15:37.212Z","ticket":"CAS-0275064","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T13:15:37.212Z","ticket":"CAS-0275064","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
+{"at":"2026-11-18T13:15:37.212Z","ticket":"CAS-0275064","field":"reply","from":"","to":"Trimis raspuns Buna ziua,\nAspectele care intra in aria de competenta a Directiei Generale de Salubritate Sector 3, au fost transmise echipelor operationale din teren in vederea solutionarii.\nCu stima,\n "}
+{"at":"2026-11-18T13:15:37.212Z","ticket":"CAS-0274641","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T13:15:37.212Z","ticket":"CAS-0274641","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Declinat competenţa"}
+{"at":"2026-11-18T13:15:37.212Z","ticket":"CAS-0274641","field":"reply","from":"","to":"Declinat competenta Trimis spre competenta solutionare PMB- DGPLC Raspunsul a fost trimis prin email catre cetatean."}
+{"at":"2026-11-18T13:15:37.212Z","ticket":"CAS-0264413","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T13:15:37.212Z","ticket":"CAS-0264413","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
+{"at":"2026-11-18T13:15:37.212Z","ticket":"CAS-0264413","field":"reply","from":"","to":"Trimis raspuns raspuns Raspunsul a fost trimis prin email catre cetatean."}

@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T13:01:01.218Z",
-  "lastChange": "2026-11-18T13:01:01.218Z",
+  "lastRun": "2026-11-18T13:15:37.212Z",
+  "lastChange": "2026-11-18T13:15:37.212Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2830,
+    "fetched": 2651,
     "added": 0,
-    "updated": 5,
+    "updated": 3,
     "removed": 0,
-    "changes": 15
+    "changes": 9
   },
   "totals": {
     "incidents": 45757,
-    "open": 2037,
+    "open": 2034,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T13:01:01.218Z",
+    "asOf": "2026-11-18T13:15:37.212Z",
     "days": 30,
-    "open": 2037,
-    "total": 187,
+    "open": 2034,
+    "total": 186,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -52,12 +52,12 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 90,
+        "open": 89,
         "n": 2
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 39,
+        "open": 38,
         "n": 5
       },
       "9": {
@@ -72,8 +72,8 @@
       },
       "11": {
         "name": "Parcuri",
-        "open": 49,
-        "n": 7
+        "open": 48,
+        "n": 6
       },
       "12": {
         "name": "Trasare parcare",
