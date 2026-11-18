@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T11:30:47.321Z",
-  "lastChange": "2026-11-18T11:30:47.321Z",
+  "lastRun": "2026-11-18T12:00:57.110Z",
+  "lastChange": "2026-11-18T12:00:57.110Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2874,
-    "added": 0,
-    "updated": 2,
+    "fetched": 2911,
+    "added": 3,
+    "updated": 23,
     "removed": 0,
-    "changes": 6
+    "changes": 69
   },
   "totals": {
-    "incidents": 45749,
-    "open": 2110,
+    "incidents": 45752,
+    "open": 2090,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T11:30:47.321Z",
+    "asOf": "2026-11-18T12:00:57.110Z",
     "days": 30,
-    "open": 2110,
-    "total": 199,
+    "open": 2090,
+    "total": 200,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 60,
+        "open": 57,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 184,
+        "open": 183,
         "n": 21
       },
       "5": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 232,
+        "open": 231,
         "n": 14
       },
       "10": {
@@ -88,7 +88,7 @@
       "14": {
         "name": "Toaletare/Tăiere arbori",
         "open": 155,
-        "n": 2
+        "n": 3
       },
       "15": {
         "name": "Animale de companie",
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 40,
+        "open": 39,
         "n": 0
       },
       "17": {
@@ -117,7 +117,7 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 18,
+        "open": 19,
         "n": 3
       },
       "21": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 517,
+        "open": 502,
         "n": 2
       },
       "32": {
