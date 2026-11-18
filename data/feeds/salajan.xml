@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275210</link>
+    <guid isPermaLink="false">CAS-0275210</guid>
+    <pubDate>Wed, 18 Nov 2026 16:52:38 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașina parcată neregulamentar</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275205</link>
     <guid isPermaLink="false">CAS-0275205</guid>
@@ -38,12 +46,14 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275150</link>
     <guid isPermaLink="false">CAS-0275150</guid>
     <pubDate>Wed, 18 Nov 2026 13:46:32 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Va rog sa verificati toata Strada Ilioara, in jos, spre M Park Titan. Am vazut inclusiv mame cu carucior care merg pe strada pentru ca suprafata pietonala e ocupata in integralitate. Situatia persista de ani intregi</description>
+    <description>Va rog sa verificati toata Strada Ilioara, in jos, spre M Park Titan. Am vazut inclusiv mame cu carucior care merg pe strada pentru ca suprafata pietonala e ocupata in integralitate. Situatia persista de ani intregi
+
+Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
@@ -581,14 +591,6 @@ Multumesc.</description>
 Va supun atentiei urmatoare situatie, ce dateaza de ani de zile. Masini parcate pe carosabil pe aleea dintre blocurile : Nr. 26 si Nr. X1, alee ce face lagatura intre Bl. Th Pallady si Str. Patulului. In fiecare dimineata de luni pana vineri se formeaza coada de masini pe prima banda a bulevardului Th Pallady deoarece nu pot face la dreapat pe alee datorita masinilor parcate neregulamentar. Va rog verificati in intervalul orara 07.00-900. si o sa idetificati masinile parcate.  Va multumesc anticipat pentru masurile luate.
 
 Răspuns: Buna dimineata! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie.</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274545</link>
-    <guid isPermaLink="false">CAS-0274545</guid>
-    <pubDate>Mon, 16 Nov 2026 08:09:21 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Este un B12 - care a fost dat cu vopsea de catre o persoana neautorizata. In sistem este B12.</description>
   </item>
 </channel>
 </rss>
