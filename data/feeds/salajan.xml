@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275223</link>
+    <guid isPermaLink="false">CAS-0275223</guid>
+    <pubDate>Wed, 18 Nov 2026 17:58:17 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275210</link>
     <guid isPermaLink="false">CAS-0275210</guid>
@@ -40,12 +48,14 @@ Răspuns: AM VERIFICAT LOCATIA,AUTO OCUPA LOCURILE MOTO,INTOCMIT DOCUMENTATIA CO
     <description>de o luna serviciul de gunoi nu mai vine miercureA. str drumul malu spart 45</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275170</link>
     <guid isPermaLink="false">CAS-0275170</guid>
     <pubDate>Wed, 18 Nov 2026 14:58:57 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Sălăjan</title>
@@ -581,18 +591,6 @@ Emilia Ghita- Administrator</description>
 Treptele de la intrarea din bloc nu au fost inlocuite in momentul reabilitarii cu acelea prefabricate, si sunt sparte.
 Putem inlocui noi treptele , din fondul de reparatii, sau trebuie sa facem cerere catre Primarie pentru  a fi inlocuite?
 Multumesc.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274561</link>
-    <guid isPermaLink="false">CAS-0274561</guid>
-    <pubDate>Mon, 16 Nov 2026 09:09:37 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna ziua,
-
-Va supun atentiei urmatoare situatie, ce dateaza de ani de zile. Masini parcate pe carosabil pe aleea dintre blocurile : Nr. 26 si Nr. X1, alee ce face lagatura intre Bl. Th Pallady si Str. Patulului. In fiecare dimineata de luni pana vineri se formeaza coada de masini pe prima banda a bulevardului Th Pallady deoarece nu pot face la dreapat pe alee datorita masinilor parcate neregulamentar. Va rog verificati in intervalul orara 07.00-900. si o sa idetificati masinile parcate.  Va multumesc anticipat pentru masurile luate.
-
-Răspuns: Buna dimineata! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie.</description>
   </item>
 </channel>
 </rss>
