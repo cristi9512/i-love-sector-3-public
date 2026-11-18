@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275251</link>
+    <guid isPermaLink="false">CAS-0275251</guid>
+    <pubDate>Wed, 18 Nov 2026 21:31:36 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>mașină parcată pe trotuar lângă fostul sediul al poliției locale din câmpia libertatii</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275250</link>
     <guid isPermaLink="false">CAS-0275250</guid>
@@ -563,14 +571,6 @@ Mulțumesc</description>
     <pubDate>Wed, 18 Nov 2026 15:44:11 GMT</pubDate>
     <category>Străzi</category>
     <description>Semn trecere de pietoni si cedeaza trecerea foarte greu vizibile pentru cei ce vin de sus de pe Drumul Gura Calitei. Nu se acorda prioritate, pericol de accident in intersectie. Rugam mutati semnele urgent!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275191</link>
-    <guid isPermaLink="false">CAS-0275191</guid>
-    <pubDate>Wed, 18 Nov 2026 15:42:22 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară PH 21 JMT, în curbă, într-o poziție periculoasă, forțând șoferii să circule pe contrasens cu posibile accidente rutiere.  Și este parcat și peste un loc de parcare nenominal A-10.</description>
   </item>
 </channel>
 </rss>

@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T21:30:47.584Z",
-  "lastChange": "2026-11-18T21:30:47.584Z",
+  "lastRun": "2026-11-18T21:45:44.239Z",
+  "lastChange": "2026-11-18T21:45:44.239Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2618,
-    "added": 0,
-    "updated": 1,
+    "fetched": 2832,
+    "added": 1,
+    "updated": 0,
     "removed": 0,
-    "changes": 3
+    "changes": 0
   },
   "totals": {
-    "incidents": 45862,
-    "open": 2022,
+    "incidents": 45863,
+    "open": 2023,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T21:30:47.584Z",
+    "asOf": "2026-11-18T21:45:44.239Z",
     "days": 30,
-    "open": 2022,
+    "open": 2023,
     "total": 192,
     "byCategory": {
       "2": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 508,
+        "open": 509,
         "n": 2
       },
       "32": {
