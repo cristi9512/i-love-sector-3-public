@@ -6,6 +6,34 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275248</link>
+    <guid isPermaLink="false">CAS-0275248</guid>
+    <pubDate>Wed, 18 Nov 2026 20:27:39 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna seara!
+Autoturismele parcheaza permanent in zona marcata &quot;oprire interzisa&quot;, deasemenea si pe trotuar, iar pietonii trebuie sa se deplaseze pe carosabil.
+Va multumesc.</description>
+  </item>
+  <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275247</link>
+    <guid isPermaLink="false">CAS-0275247</guid>
+    <pubDate>Wed, 18 Nov 2026 20:24:51 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Copacii din fata scarii (Str Foisorului 7 Bloc F5C Scara 2) langa locurile de parcare trebuie toaletati</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275246</link>
+    <guid isPermaLink="false">CAS-0275246</guid>
+    <pubDate>Wed, 18 Nov 2026 20:15:51 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna seara
+Autoturismul este parcat pe trotuar similar unui loc de parcare platit!
+Va multumesc!</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275245</link>
     <guid isPermaLink="false">CAS-0275245</guid>
@@ -534,30 +562,6 @@ Mulțumesc</description>
     <pubDate>Wed, 18 Nov 2026 15:35:54 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Auto DB33YXC, parcat fix in intersectie, blocand trotuarul si ingreunand accesul pe strada.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275188</link>
-    <guid isPermaLink="false">CAS-0275188</guid>
-    <pubDate>Wed, 18 Nov 2026 15:35:32 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 47 KYX în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275187</link>
-    <guid isPermaLink="false">CAS-0275187</guid>
-    <pubDate>Wed, 18 Nov 2026 15:34:25 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Gunoiul menajer nu este ridicat de masina de gunoi. Primesc bon cu nota: fără gunoi cu toate ca sunt scoase 2 tomberoane cu gunoi menajer.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275186</link>
-    <guid isPermaLink="false">CAS-0275186</guid>
-    <pubDate>Wed, 18 Nov 2026 15:34:07 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară IF 46 BYB în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
   </item>
 </channel>
 </rss>

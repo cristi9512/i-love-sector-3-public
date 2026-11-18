@@ -6,6 +6,26 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275248</link>
+    <guid isPermaLink="false">CAS-0275248</guid>
+    <pubDate>Wed, 18 Nov 2026 20:27:39 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna seara!
+Autoturismele parcheaza permanent in zona marcata &quot;oprire interzisa&quot;, deasemenea si pe trotuar, iar pietonii trebuie sa se deplaseze pe carosabil.
+Va multumesc.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275246</link>
+    <guid isPermaLink="false">CAS-0275246</guid>
+    <pubDate>Wed, 18 Nov 2026 20:15:51 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna seara
+Autoturismul este parcat pe trotuar similar unui loc de parcare platit!
+Va multumesc!</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275229</link>
     <guid isPermaLink="false">CAS-0275229</guid>
@@ -582,28 +602,6 @@ Răspuns: Auto reclamat  a parasit locatia </description>
     <pubDate>Fri, 13 Nov 2026 11:28:37 GMT</pubDate>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>am depus sesizare ca la refacerea trotuarului ne ati luati toate bancile de pe trotuar care erau inainte prevazute, ati pus sesizarea in status rezolvat si n ati rezolvat absolut nimic, pe partea cealalta de strada sunt banci una langa alta</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273957</link>
-    <guid isPermaLink="false">CAS-0273957</guid>
-    <pubDate>Fri, 13 Nov 2026 11:01:32 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>am scris in repetate randuri
-arborii nu sunt toaletati, ati spus ca nu e perioada de toaletare in vara si acum ca a venit toamna nu s a pr3sentat nimeni la toaletare
-acesti arbori pusi din metru in metru provoaca blocarea jgeaburilor acoperisului si inundarea acoperisului mai ales cu ploile actuale
-copacul din fata e mort si periculos la fiecare furtuna din intersectie
-la fiecare ploaie toate crengile copacilor uscati cad pe masini in parcare</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273931</link>
-    <guid isPermaLink="false">CAS-0273931</guid>
-    <pubDate>Fri, 13 Nov 2026 09:29:25 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . PENTRU AUTOTURISMUL LA CARE FACETI REFERIRE AM INCHEIAT PROCES VERBAL DE CONSTATARE SI INSTIINTARE IN BAZA HCLS3 346/2022 , URMAND A FI LUATE MASURILE LEGALE CE SE IMPUN .</description>
   </item>
 </channel>
 </rss>
