@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275209</link>
+    <guid isPermaLink="false">CAS-0275209</guid>
+    <pubDate>Wed, 18 Nov 2026 16:41:39 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>toate pubelele sunt pline și se depozitează și pe lângă</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275208</link>
+    <guid isPermaLink="false">CAS-0275208</guid>
+    <pubDate>Wed, 18 Nov 2026 16:36:07 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Auto parcat pe zona hasurata</description>
+  </item>
+  <item>
+    <title>Terenuri insalubre · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275207</link>
+    <guid isPermaLink="false">CAS-0275207</guid>
+    <pubDate>Wed, 18 Nov 2026 16:32:49 GMT</pubDate>
+    <category>Terenuri insalubre</category>
+    <description>La adresa mentionata in locul in care este pozitionat pin-ul pe harta, in curtea respectiva, sunt depozitate pe pamant mai multe tipuri de deseuri (metal, plastic, lemn, alte materiale)</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Industriilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275206</link>
     <guid isPermaLink="false">CAS-0275206</guid>
@@ -81,12 +105,14 @@ Cu deosebită considerație
 mai mică se 6 metri. Este permanent. Mulțumesc. Cristi.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275199</link>
     <guid isPermaLink="false">CAS-0275199</guid>
     <pubDate>Wed, 18 Nov 2026 16:14:06 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: PENTRU A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT,VA RUGAM CA, PE VIITOR SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE  MARCAT CORESPUNZATOR LA SOL,IN VEDEREA EFECTUARII VERIFICARILOR IN TIMP UTIL SI CU RESPECTAREA ATRIBUTIILOR LEGALE.VA MULTUMIM</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
@@ -501,39 +527,6 @@ Răspuns: LOCATIA A FOST VERIFICATA,AM INTOCMIT DOCUMENTATIA CONFORM HCGMB 124/2
     <pubDate>Wed, 18 Nov 2026 13:46:32 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Va rog sa verificati toata Strada Ilioara, in jos, spre M Park Titan. Am vazut inclusiv mame cu carucior care merg pe strada pentru ca suprafata pietonala e ocupata in integralitate. Situatia persista de ani intregi</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275149</link>
-    <guid isPermaLink="false">CAS-0275149</guid>
-    <pubDate>Wed, 18 Nov 2026 13:44:17 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună ziua. Este a patra sesizare pe care o facem, pentru masina din poze care parcheaza neregulamentar.
-Gunoiul nu se ridica din cauza asta, stam cu șobolani si mizeria înșirată peste tot, e inadmisibil. 
-Va rugam sa se deplaseze un echipaj de urgenta si amendat proprietarul mașinii cu numarul B200BZK.
-mulțumim!
-Andreea Zăuleț 
-vicepreședinte Asociație</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275148</link>
-    <guid isPermaLink="false">CAS-0275148</guid>
-    <pubDate>Wed, 18 Nov 2026 13:43:02 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275147</link>
-    <guid isPermaLink="false">CAS-0275147</guid>
-    <pubDate>Wed, 18 Nov 2026 13:42:20 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
   </item>
 </channel>
 </rss>
