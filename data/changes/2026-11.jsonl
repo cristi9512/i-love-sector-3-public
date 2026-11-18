@@ -1563,3 +1563,5 @@
 {"at":"2026-11-18T08:30:47.177Z","ticket":"CAS-0274449","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T08:30:47.177Z","ticket":"CAS-0274449","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-18T08:30:47.177Z","ticket":"CAS-0274449","field":"reply","from":"","to":"Trimis raspuns În data de 16.11.2026, ora 19.10, polițiștii locali din cadrul Serviciului 3 Ordine Publică și Control au efectuat verificări la adresa menționată de către dumneavoastră, însă autoturismul în cauză nu se mai afla în locație. "}
+{"at":"2026-11-18T08:45:34.176Z","ticket":"CAS-0275093","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-18T08:45:34.176Z","ticket":"CAS-0275094","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
