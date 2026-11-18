@@ -2298,3 +2298,18 @@
 {"at":"2026-11-18T23:30:49.209Z","ticket":"CAS-0275081","field":"status","from":"O","to":"C"}
 {"at":"2026-11-18T23:30:49.209Z","ticket":"CAS-0275081","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-18T23:30:49.209Z","ticket":"CAS-0275081","field":"reply","from":"","to":"Nespecificat Registratura auto a parasit locatia "}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275155","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275155","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275155","field":"reply","from":"","to":"Nespecificat Registratura zona sesizata la acesta ora este libera."}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275154","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275154","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275154","field":"reply","from":"","to":"Nespecificat Registratura au fost aplicate trei instiintari informative "}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275231","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275231","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275231","field":"reply","from":"","to":"Nespecificat Registratura SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . AUTOTURISMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT IN ZONA INDICATA . "}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275255","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275255","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275255","field":"reply","from":"","to":"Nespecificat Registratura SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . AUTOTURISMUL LA CARE FACETI REFERIRE A FOST IDENTIFICAT LA ADRESA INDICATA INSA NU FACE OBIECTUL HCLS3 346/2022 INTRUCAT LOCUL DE PARCARE PE CARE IL OCUPA , CONFORM GIS ,  ESTE NOMINAL . "}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275086","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275086","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T23:45:35.829Z","ticket":"CAS-0275086","field":"reply","from":"","to":"Nespecificat Registratura a fost demarata procedura de identificare si sanctionare a cond, auto."}
