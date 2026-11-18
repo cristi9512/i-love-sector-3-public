@@ -1557,3 +1557,6 @@
 {"at":"2026-11-18T06:00:58.278Z","ticket":"CAS-0275042","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-18T07:15:42.571Z","ticket":"CAS-0275072","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
 {"at":"2026-11-18T07:15:42.571Z","ticket":"CAS-0275073","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-18T08:00:56.374Z","ticket":"CAS-0274842","field":"status","from":"O","to":"C"}
+{"at":"2026-11-18T08:00:56.374Z","ticket":"CAS-0274842","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-18T08:00:56.374Z","ticket":"CAS-0274842","field":"reply","from":"","to":"Trimis raspuns locul de parcare a fost eliberat anterior sosirii polițiștilor locali; sesizare voicemail "}

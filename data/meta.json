@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-18T07:30:45.103Z",
-  "lastChange": "2026-11-18T07:30:45.103Z",
+  "lastRun": "2026-11-18T08:00:56.374Z",
+  "lastChange": "2026-11-18T08:00:56.374Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2543,
-    "added": 1,
-    "updated": 0,
+    "fetched": 2622,
+    "added": 7,
+    "updated": 1,
     "removed": 0,
-    "changes": 0
+    "changes": 3
   },
   "totals": {
-    "incidents": 45692,
-    "open": 2073,
+    "incidents": 45699,
+    "open": 2079,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-18T07:30:45.103Z",
+    "asOf": "2026-11-18T08:00:56.374Z",
     "days": 30,
-    "open": 2073,
+    "open": 2079,
     "total": 193,
     "byCategory": {
       "2": {
@@ -47,12 +47,12 @@
       },
       "5": {
         "name": "Taxe şi impozite",
-        "open": 112,
+        "open": 113,
         "n": 89
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 86,
+        "open": 87,
         "n": 2
       },
       "7": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 154,
+        "open": 155,
         "n": 2
       },
       "15": {
@@ -142,12 +142,12 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 509,
+        "open": 513,
         "n": 2
       },
       "32": {
         "name": "Rampe de acces persoane cu dizabilitati",
-        "open": 10,
+        "open": 9,
         "n": 1
       }
     }
