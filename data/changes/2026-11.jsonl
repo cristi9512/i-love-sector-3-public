@@ -2885,3 +2885,6 @@
 {"at":"2026-11-19T19:45:38.414Z","ticket":"CAS-0275519","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-19T19:45:38.414Z","ticket":"CAS-0275519","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost preluată la ora 21.30 în urma verificării constatându-se faptul că autovehiculul cu numarul B 770 WRO detine autorizatie nenominala de parcare pentru zona C-6, precum si pentru zonele B-15,C-5,C-7,D-3."}
 {"at":"2026-11-19T20:01:05.830Z","ticket":"CAS-0275527","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T20:30:53.481Z","ticket":"CAS-0275521","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T20:30:53.481Z","ticket":"CAS-0275521","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T20:30:53.481Z","ticket":"CAS-0275521","field":"reply","from":"","to":"Nespecificat Registratura Buna seara . Am preluat si verificat sesizarea dumneavoastra.Auto reclamat nu a fost gasit in locatia indicata conform pinului pe harta."}

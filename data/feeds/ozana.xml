@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275533</link>
+    <guid isPermaLink="false">CAS-0275533</guid>
+    <pubDate>Thu, 19 Nov 2026 20:18:00 GMT</pubDate>
+    <category>Altele</category>
+    <description>Pe bdul 1 Decembrie 1918 nr 33, in fata la Penny Market si Mc Donald&apos;s nu functioneaza iluminatul stradal. Va rugam remediati de urgenta. Este bezna totala.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275519</link>
     <guid isPermaLink="false">CAS-0275519</guid>
@@ -596,14 +604,6 @@ Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 18.00
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Nu se mai confirma.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274912</link>
-    <guid isPermaLink="false">CAS-0274912</guid>
-    <pubDate>Tue, 17 Nov 2026 15:21:12 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
 </channel>
 </rss>
