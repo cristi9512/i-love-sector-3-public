@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275400</link>
+    <guid isPermaLink="false">CAS-0275400</guid>
+    <pubDate>Thu, 19 Nov 2026 13:39:01 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275398</link>
+    <guid isPermaLink="false">CAS-0275398</guid>
+    <pubDate>Thu, 19 Nov 2026 13:38:12 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275397</link>
+    <guid isPermaLink="false">CAS-0275397</guid>
+    <pubDate>Thu, 19 Nov 2026 13:37:58 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Aceasta masina parcheaza zilnic in statia de autobuz. Zilnic cate 8h. Toata circulatia se blocheaza cand troleul nu poate intra in statie…</description>
+  </item>
+  <item>
     <title>Taxe şi impozite · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275356</link>
     <guid isPermaLink="false">CAS-0275356</guid>
@@ -576,40 +600,6 @@ Va multumesc.</description>
 Răspuns: CONFORM ADRESEI INDICATA DE DUMNEAVOASTRA AUTOTURISMUL NU SE AFLA IN LOCATIE
 
 </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274044</link>
-    <guid isPermaLink="false">CAS-0274044</guid>
-    <pubDate>Fri, 13 Nov 2026 16:15:13 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA NU SE MAI CONFIRMA , AUTO CE FACEA OBIECTUL SESIZARI NU MAI ESTE IN LOCATIE.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274043</link>
-    <guid isPermaLink="false">CAS-0274043</guid>
-    <pubDate>Fri, 13 Nov 2026 16:11:59 GMT</pubDate>
-    <category>Altele</category>
-    <description>Bună ziua,
-
-Vă sesizez faptul că stâlpii de iluminat public din dreptul sediilor F64/BRD, de pe Bulevardul Unirii nr. 64, nu funcționează. Sunt cel puțin 2-3 stâlpi fără iluminat.
-
-Vă rog să trimiteți o echipă pentru verificarea și remedierea defecțiunilor, astfel încât iluminatul public să fie repus în funcțiune cât mai curând.
-
-Vă mulțumesc!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273998</link>
-    <guid isPermaLink="false">CAS-0273998</guid>
-    <pubDate>Fri, 13 Nov 2026 14:14:42 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>mașina staționează neregulamentar pe trotuar
-
-Răspuns: Auto reclamat  a parasit locatia </description>
   </item>
 </channel>
 </rss>
