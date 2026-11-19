@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275285</link>
+    <guid isPermaLink="false">CAS-0275285</guid>
+    <pubDate>Thu, 19 Nov 2026 06:17:23 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>La data de 18.11.2026, ora 08:00,  locul de parcare cu nr 66 din strada Zemeș nr 3, este ocupat abuziv de un sofer care nu a lăsat niciun numar de contact in parbriz. Autoturismul are marca Renault Megane rosu, nr de inmatriculare B618NTZ.
+ Va rog sa luati masuri, acest loc este achitat la zi si insusit legal de catre proprietar.</description>
+  </item>
+  <item>
     <title>Mașini abandonate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275278</link>
     <guid isPermaLink="false">CAS-0275278</guid>
@@ -586,16 +595,6 @@ Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost 
 
 Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.
 </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274648</link>
-    <guid isPermaLink="false">CAS-0274648</guid>
-    <pubDate>Mon, 16 Nov 2026 13:54:43 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Staționate neregulamentar
-
-Răspuns: Referitor la sesizarea dumnevoastra, politistii locali din cadrul Serviciului de Circulatie pe Drumurile Publice au luat la cunostinta despre aspectele prezentate in cauza facand demersuri necesare pentru identificarea conducatorilor auto care incalca prevederile O.U.G 195 / 2002 r privind circulatia pe drumurile publice.</description>
   </item>
 </channel>
 </rss>

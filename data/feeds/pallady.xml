@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Pallady</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Pallady</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275287</link>
+    <guid isPermaLink="false">CAS-0275287</guid>
+    <pubDate>Thu, 19 Nov 2026 06:22:32 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Bună ziua! După fiecare ploaie, Strada Balta Plopului se inunda. Nu exista cădere pentru apă. Va solicitam respectuos remedierea acestei situații. Mulțumesc</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Pallady</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275272</link>
     <guid isPermaLink="false">CAS-0275272</guid>
@@ -723,16 +731,6 @@ Răspuns: Trimis raspuns Buna ziuă,
 Vă transmitem atașat răspunsul direcției noastre privind adresa dumneavoastră cu nr.379663/07.10.2026.
 
  O zi bună.  Au fost selectate urmatoarele fisiere de trimis la cetatean: 379663.pdf</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Pallady</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0264880</link>
-    <guid isPermaLink="false">CAS-0264880</guid>
-    <pubDate>Wed, 07 Oct 2026 05:58:37 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașini care staționează ilegal pe prima bandă de carosabil fără a fi marcate locuri de parcare.
-
-Răspuns: Autoturismele in cauza nu incalca prevederile RAOUG 195/2002,drumul public are o latime mai mare de 6 m,iar in zona nu sunt indicatoare rutiera care sa interzica oprire/stationarea</description>
   </item>
 </channel>
 </rss>
