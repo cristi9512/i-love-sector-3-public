@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275550</link>
+    <guid isPermaLink="false">CAS-0275550</guid>
+    <pubDate>Thu, 19 Nov 2026 22:36:31 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 38</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275549</link>
+    <guid isPermaLink="false">CAS-0275549</guid>
+    <pubDate>Thu, 19 Nov 2026 22:33:38 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 38</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275548</link>
     <guid isPermaLink="false">CAS-0275548</guid>
@@ -55,12 +71,15 @@ La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra aut
     <description>La nici 24h de la terminarea lucrarilor pe strada de reparatie a trotuarelor, reasfaltare etc, aceste masini se urca pe trotuar, ingreunand trecerea pietonilor si blocand strada din a mai putea fi folosita in ambele sensuri. Pe strada nu este niciun loc de parcare semnalizat. Va rog sa luati masuri cel putin in eliberarea masinilor de pe trotuar. Multumesc!</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275501</link>
     <guid isPermaLink="false">CAS-0275501</guid>
     <pubDate>Thu, 19 Nov 2026 18:33:46 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Buna seara,
+La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturimsului reclamat au fost aplicate masurile legale.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
@@ -579,26 +598,6 @@ Multumesc!</description>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>In masina de pompieri din locul de joaca cineva si-a facut nevoile.
 Va rog sa trimiteti o echipa sa curete, fecalele sunt f periculoase pt copii.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274877</link>
-    <guid isPermaLink="false">CAS-0274877</guid>
-    <pubDate>Tue, 17 Nov 2026 13:09:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: din foto nu reiese faptul  ca auto ocupa un loc de parcare nenominal </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274875</link>
-    <guid isPermaLink="false">CAS-0274875</guid>
-    <pubDate>Tue, 17 Nov 2026 13:08:08 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: foto neconcludent</description>
   </item>
 </channel>
 </rss>

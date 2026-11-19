@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275550</link>
+    <guid isPermaLink="false">CAS-0275550</guid>
+    <pubDate>Thu, 19 Nov 2026 22:36:31 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 38</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275549</link>
+    <guid isPermaLink="false">CAS-0275549</guid>
+    <pubDate>Thu, 19 Nov 2026 22:33:38 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 38</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275548</link>
     <guid isPermaLink="false">CAS-0275548</guid>
@@ -293,12 +309,15 @@ Locuitorii din zonă au dreptul la un mediu curat și sigur, iar această situa�
 Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavoastra.Auto reclamat nu a fost gasit in locatia indicata conform pinului pe harta.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275520</link>
     <guid isPermaLink="false">CAS-0275520</guid>
     <pubDate>Thu, 19 Nov 2026 19:23:33 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNA SEARA, AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 00:26, SESIZAREA SE CONFIRMA, S-A INTOCMIT DOCUMENTATIA CONFORM LEGISLATIEI IN VIGOARE.
+VA MULTUMIM!</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
@@ -531,12 +550,15 @@ Răspuns: Buna seara,
 La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturimsului reclamat au fost aplicate masurile legale!</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275501</link>
     <guid isPermaLink="false">CAS-0275501</guid>
     <pubDate>Thu, 19 Nov 2026 18:33:46 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Buna seara,
+La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturimsului reclamat au fost aplicate masurile legale.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
@@ -697,22 +719,6 @@ Vă mulțumesc și aștept un răspuns în scris.</description>
     <category>Altele</category>
     <description>Bună ziua,  până la rezolvarea toaletări, sunt nevoit sa parchez pe un loc nenominal pentru a nu avea incidente.
 Mulțumesc!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275490</link>
-    <guid isPermaLink="false">CAS-0275490</guid>
-    <pubDate>Thu, 19 Nov 2026 17:51:39 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Eliberati trotuarul de masini.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Brățării</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275489</link>
-    <guid isPermaLink="false">CAS-0275489</guid>
-    <pubDate>Thu, 19 Nov 2026 17:49:46 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Bună ziua, locuiesc în București sector 3, pe strada Brățării nr 79, în blocul Iram Residence, și din păcate în fața blocului la întrarea în parcare din strada s-a lasă pavajul pus de primăria sectorului 3 și s-a creat o groapa care pune în pericol siguranță pietonilor și siguranța auto. Va rugam sa remediați trotuarul. Mulțumesc!</description>
   </item>
 </channel>
 </rss>
