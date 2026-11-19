@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275380</link>
+    <guid isPermaLink="false">CAS-0275380</guid>
+    <pubDate>Thu, 19 Nov 2026 12:00:49 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Este un tip cu platforma de tractări non stop care mereu parchează aici și platforma fiind atât de lungă blochează cam 70% din trotuarul nou pavat. Mai mult decât atât, are muchii ascuțite pe spate, într-o noapte când nu vedeam bine m am zgâriat puțin la mana de ea. Va rog sa luați masuri pt a îndepărta riscul de pe trotuar..</description>
+  </item>
+  <item>
     <title>Verificări construcții/Lucrări neautorizate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275378</link>
     <guid isPermaLink="false">CAS-0275378</guid>
@@ -615,17 +623,6 @@ Răspuns: Au fost luate masurile legale conform RAOUG195/2002</description>
     <pubDate>Sun, 15 Nov 2026 15:06:28 GMT</pubDate>
     <category>Verificări construcții/Lucrări neautorizate</category>
     <description>Constructia blocului de pe Str. Gradinarilor, Nr. 8-12, blocheaza mai mult de jumatate din trotuar.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274368</link>
-    <guid isPermaLink="false">CAS-0274368</guid>
-    <pubDate>Sun, 15 Nov 2026 14:18:52 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La data si ora efectuarii verificarilor aspectele sesizate se ocnfirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>

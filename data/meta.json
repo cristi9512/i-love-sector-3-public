@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T11:45:38.062Z",
-  "lastChange": "2026-11-19T11:45:38.062Z",
+  "lastRun": "2026-11-19T12:00:58.324Z",
+  "lastChange": "2026-11-19T12:00:58.324Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 3030,
+    "fetched": 2956,
     "added": 2,
-    "updated": 2,
+    "updated": 9,
     "removed": 0,
-    "changes": 4
+    "changes": 27
   },
   "totals": {
-    "incidents": 45989,
-    "open": 2052,
+    "incidents": 45991,
+    "open": 2045,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T11:45:38.062Z",
+    "asOf": "2026-11-19T12:00:58.324Z",
     "days": 30,
-    "open": 2052,
-    "total": 196,
+    "open": 2045,
+    "total": 197,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 57,
+        "open": 56,
         "n": 7
       },
       "3": {
@@ -43,7 +43,7 @@
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
         "open": 177,
-        "n": 18
+        "n": 19
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 90,
+        "open": 87,
         "n": 2
       },
       "7": {
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 222,
+        "open": 219,
         "n": 14
       },
       "10": {
         "name": "Străzi",
-        "open": 425,
+        "open": 426,
         "n": 20
       },
       "11": {
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 28,
+        "open": 27,
         "n": 1
       },
       "13": {

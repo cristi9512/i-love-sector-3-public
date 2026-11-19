@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275379</link>
+    <guid isPermaLink="false">CAS-0275379</guid>
+    <pubDate>Thu, 19 Nov 2026 11:53:41 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Groapa in asfalt la semafor banda stanga spre Str. Postavarulul</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275346</link>
     <guid isPermaLink="false">CAS-0275346</guid>
@@ -584,14 +592,6 @@ Subsemnatul Tudorache Costel,cnp 1680704424512, urmare a sesizărilor depuse la 
 158793/17.04.2026,
 176418/30.04.2026
 192921/12.05.2026 și 214985/27.05.2026, în care vă solicitam toaletarea arborelui situat la intersecția str.Aleea Vlăhița cu str.Zemes .Va rog să-mi comunicați dacă acest arbore va fi toaletat sau nu .Daca NU care este motivul ? Zi bună!</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274756</link>
-    <guid isPermaLink="false">CAS-0274756</guid>
-    <pubDate>Mon, 16 Nov 2026 21:03:43 GMT</pubDate>
-    <category>Altele</category>
-    <description>Pe colt, la intersectia Nicolae Grigorescu cu Theodor Pallady, in zona cafenelei Kohi, nu functioneaza iluminatul public. Va rugam remediati de urgenta.</description>
   </item>
 </channel>
 </rss>
