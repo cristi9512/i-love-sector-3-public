@@ -1,17 +1,17 @@
 {
-  "lastRun": "2026-11-19T06:30:50.536Z",
-  "lastChange": "2026-11-19T06:30:50.536Z",
+  "lastRun": "2026-11-19T06:45:37.522Z",
+  "lastChange": "2026-11-19T06:45:37.522Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2446,
-    "added": 9,
-    "updated": 6,
+    "fetched": 2711,
+    "added": 2,
+    "updated": 2,
     "removed": 0,
-    "changes": 18
+    "changes": 6
   },
   "totals": {
-    "incidents": 45902,
+    "incidents": 45904,
     "open": 2015,
     "months": [
       "2026-05",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T06:30:50.536Z",
+    "asOf": "2026-11-19T06:45:37.522Z",
     "days": 30,
     "open": 2015,
-    "total": 194,
+    "total": 192,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 59,
+        "open": 60,
         "n": 7
       },
       "3": {
@@ -77,8 +77,8 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 30,
-        "n": 1
+        "open": 29,
+        "n": 0
       },
       "13": {
         "name": "Unități de Învățământ(probleme administrative)",
@@ -117,8 +117,8 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 18,
-        "n": 4
+        "open": 17,
+        "n": 3
       },
       "21": {
         "name": "Reabilitare blocuri",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 503,
+        "open": 504,
         "n": 2
       },
       "32": {

@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275292</link>
+    <guid isPermaLink="false">CAS-0275292</guid>
+    <pubDate>Thu, 19 Nov 2026 06:39:47 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>a se vedea pozele...parcst pe trotuar.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275291</link>
+    <guid isPermaLink="false">CAS-0275291</guid>
+    <pubDate>Thu, 19 Nov 2026 06:34:23 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275290</link>
     <guid isPermaLink="false">CAS-0275290</guid>
@@ -563,24 +579,6 @@ Va rog frumos sa urgentati plantarea unui nou copac in aceasta gradina si va rog
 Am inteles ca e posibil sa se planteze tei.
 Multumesc anticipat,
 Alexandru Raduca</description>
-  </item>
-  <item>
-    <title>Mediu/Calitatea Aerului · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274836</link>
-    <guid isPermaLink="false">CAS-0274836</guid>
-    <pubDate>Tue, 17 Nov 2026 09:46:22 GMT</pubDate>
-    <category>Mediu/Calitatea Aerului</category>
-    <description>In fiecare seara sunt minim 10 oameni care pescuiesc ilegal în parcul IOR. Avem nevoie de patrule pe timpul serii, dar fara girofar sa ii avertizeze din timp de venirea lor.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274834</link>
-    <guid isPermaLink="false">CAS-0274834</guid>
-    <pubDate>Tue, 17 Nov 2026 09:15:56 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost dispusă măsura tehnico-administrativă de ridicare a autoturismului, locul de parcare fiind eliberat.</description>
   </item>
 </channel>
 </rss>
