@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275458</link>
+    <guid isPermaLink="false">CAS-0275458</guid>
+    <pubDate>Thu, 19 Nov 2026 16:30:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>incurca intrarea in parcare si aruncarea gunoiului</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275447</link>
     <guid isPermaLink="false">CAS-0275447</guid>
@@ -590,16 +598,6 @@ Răspuns: Au fost luate măsuri legale,aplicată 1 înştiinţare.</description>
     <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 14.25 autovehiculul la care faceți referire nemaifiind depistat în locație. Pe locul evidențiat prin planșa foto, nenominal nr.87 marcat la sol C-6 din bateria 2016_1 sistematizată în str.Ciucea nr. 8, era parcat un alt autoturism ce deține abonament valabil de parcare pe locuri nenominale emisă de PS3.</description>
-  </item>
-  <item>
-    <title>Terenuri insalubre · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274839</link>
-    <guid isPermaLink="false">CAS-0274839</guid>
-    <pubDate>Tue, 17 Nov 2026 10:24:01 GMT</pubDate>
-    <category>Terenuri insalubre</category>
-    <description>Parcul din spatele bloculuo J5
-
-Răspuns: Trimis notificari Locația a fost salubrizată în data de 18.11.2026. </description>
   </item>
 </channel>
 </rss>

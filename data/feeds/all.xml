@@ -6,6 +6,46 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275458</link>
+    <guid isPermaLink="false">CAS-0275458</guid>
+    <pubDate>Thu, 19 Nov 2026 16:30:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>incurca intrarea in parcare si aruncarea gunoiului</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275457</link>
+    <guid isPermaLink="false">CAS-0275457</guid>
+    <pubDate>Thu, 19 Nov 2026 16:27:13 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcat pe staționarea interzisă - reduce vizibilitatea.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275456</link>
+    <guid isPermaLink="false">CAS-0275456</guid>
+    <pubDate>Thu, 19 Nov 2026 16:26:39 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcate pe mijlocul drumului.</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275455</link>
+    <guid isPermaLink="false">CAS-0275455</guid>
+    <pubDate>Thu, 19 Nov 2026 16:19:20 GMT</pubDate>
+    <category>Altele</category>
+    <description>Pe bld Camil Ressu 39 si împrejur (se intonde pe 500m aprox) sunt in jur de 6-7 stalpi de iluminat care nu funcționează corespunzător- lumina palpaie. Situatia persista de cel putin 2 săptămâni. Rog verificare si remediere. Mulțumesc</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275454</link>
+    <guid isPermaLink="false">CAS-0275454</guid>
+    <pubDate>Thu, 19 Nov 2026 16:16:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275453</link>
     <guid isPermaLink="false">CAS-0275453</guid>
@@ -200,12 +240,14 @@ Vă mulțumim pentru sprijin și pentru implicarea în îmbunătățirea spații
     <description>Vă sesizez o parcare neregulamentară B 850 YVA blocând accesul pietonilor pe trotuar în special cei cu cărucioare intr.Cortinei vis-a-vis de punct termic și punct ApaNova.  Au fost mai multe sesizări în acest sens.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275431</link>
     <guid isPermaLink="false">CAS-0275431</guid>
     <pubDate>Thu, 19 Nov 2026 15:13:02 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNA SEARA,PENTRU A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT,VA RUGAM CA,PE VIITOR,SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZATOR LA SOL,IN VEDEREA EFECTUARII VERIFICARILOR IN TIMP UTIL SI CU RESPECTAREA ATRIBUTIILOR LEGALE.VA MULTUMIM</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
@@ -325,12 +367,14 @@ Acelasi lucru si pt toate locurile de parcare deoarece se sterg benzile de marca
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 9</description>
   </item>
   <item>
-    <title>Ordine și liniște publică · În lucru · Cartierul Evreiesc</title>
+    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275417</link>
     <guid isPermaLink="false">CAS-0275417</guid>
     <pubDate>Thu, 19 Nov 2026 14:31:23 GMT</pubDate>
     <category>Ordine și liniște publică</category>
-    <description>Sunt 4 oameni aici care vorbesc foarte vulgar, unul bea bere Neumarkt, unul înjura.... Mi au tulburat liniștea în timp ce așteptam autobuzul :(....</description>
+    <description>Sunt 4 oameni aici care vorbesc foarte vulgar, unul bea bere Neumarkt, unul înjura.... Mi au tulburat liniștea în timp ce așteptam autobuzul :(....
+
+Răspuns: LA MOMENTUL VERIFICARII,PERSOANELE IN CAUZA,NU SE MAI AFLAU IN LOCATIE</description>
   </item>
   <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
@@ -499,50 +543,6 @@ Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</descripti
     <pubDate>Thu, 19 Nov 2026 13:38:14 GMT</pubDate>
     <category>Străzi</category>
     <description>Bumper rupt. Va rog sa inlocuiti. Aleea Cindrel a ramas singura strada neamenajata din zona. Ati schimbat pavajul, ati asfaltat strazile din jur, strada aceasta parca nu apartine sectorului 3.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275398</link>
-    <guid isPermaLink="false">CAS-0275398</guid>
-    <pubDate>Thu, 19 Nov 2026 13:38:12 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275397</link>
-    <guid isPermaLink="false">CAS-0275397</guid>
-    <pubDate>Thu, 19 Nov 2026 13:37:58 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Aceasta masina parcheaza zilnic in statia de autobuz. Zilnic cate 8h. Toata circulatia se blocheaza cand troleul nu poate intra in statie…</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275396</link>
-    <guid isPermaLink="false">CAS-0275396</guid>
-    <pubDate>Thu, 19 Nov 2026 13:37:10 GMT</pubDate>
-    <category>Altele</category>
-    <description>Reparatie trotuar pe strada Papazoglu nr 1. Sa ne explicati de ce trebuie sa sparga un privat trotuarul si cum putem se poare repara pt ca nu exista trecere de pietoni in zona, pt a trece pe celalalt trotuar si nivi nu e vizibilitate. Pe unde propuneti sa trecem cu copii sau caruturile ? Solicit repararea trotuarului de urgenta</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275395</link>
-    <guid isPermaLink="false">CAS-0275395</guid>
-    <pubDate>Thu, 19 Nov 2026 13:35:44 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA MOMENTUL VERIFICARII,AUTO RECLAMAT,NU SE MAI AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275394</link>
-    <guid isPermaLink="false">CAS-0275394</guid>
-    <pubDate>Thu, 19 Nov 2026 13:26:12 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună ziua. Autoturismul cu numărul de înmatriculare IF 88 ZMC este parcat neregulamentar pe trotuar, ocupând zona pietonală și stânjenind circulația pietonilor. Vă rog să dispuneți măsurile legale. Atașez fotografia.</description>
   </item>
 </channel>
 </rss>
