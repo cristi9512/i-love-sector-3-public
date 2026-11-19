@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275267</link>
+    <guid isPermaLink="false">CAS-0275267</guid>
+    <pubDate>Thu, 19 Nov 2026 04:42:59 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcat pe locul 13 nenominal fara autorizatie parcare pe strada jean steriadi nr 18</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275237</link>
     <guid isPermaLink="false">CAS-0275237</guid>
@@ -577,20 +585,6 @@ Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 19:56, însă
 
 Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, in urma verificarilor am constatat ca in bateria de parcare in care detine loc nominal se efectueaza lucrari edilitare , motiv pentru care poate ocupa un loc nenominal.
 </description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274692</link>
-    <guid isPermaLink="false">CAS-0274692</guid>
-    <pubDate>Mon, 16 Nov 2026 16:20:53 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Pe Strada Postasului, nr 6, bl 9 pubelele sunt pline si gunoiul este depozitat pe strada!Rezolvati cat mai repede!Este infectie totala!
-
-Răspuns: Trimis raspuns Bună ziua,
-Vă aducem la cunoştinţă faptul că aspectele care intră în sfera de activitate a instituţiei noastre au fost transmise echipelor operaționale din teren, în vederea soluționării acestora.
-Cu deosebită consideratie,
-Direcţia Generală de Salubritate Sector 3
- </description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275265</link>
+    <guid isPermaLink="false">CAS-0275265</guid>
+    <pubDate>Thu, 19 Nov 2026 04:33:46 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275254</link>
     <guid isPermaLink="false">CAS-0275254</guid>
@@ -623,18 +631,6 @@ La data si ora efectuarii verificarilor aspectele sesizate se ocnfirma, asupra a
 
 Răspuns: Buna seara,
 La data si ora efectuarii verificarilor aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274433</link>
-    <guid isPermaLink="false">CAS-0274433</guid>
-    <pubDate>Sun, 15 Nov 2026 18:18:59 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-Am dat curs sesizarii dvs., intrucat marcajul la sol specific locurilor nenominale lipseste, asupra autoturimsului reclamat nu au fost aplicate masurile legale.
-Totodata am transmis catre serviciul abilitat in vederea retrasarii locurilor de parcare din locatie.</description>
   </item>
 </channel>
 </rss>
