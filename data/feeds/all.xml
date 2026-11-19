@@ -6,6 +6,33 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275416</link>
+    <guid isPermaLink="false">CAS-0275416</guid>
+    <pubDate>Thu, 19 Nov 2026 14:19:50 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Buna ziua, 
+la Intersectia dintre Vlaicu Voda si Anastasie Panu, dinspre St. Foisorului, semnul STOP pe tru conducatorii auto s-a decolorat si nu este suficient de vizibil. 
+De altfel si parcarea auto in intersectie ingreuneaza vizibilitatea conducatorilor auto ajungandu-se deseori la coliziuni sau situatii periculoase atat pentru masini cat si pentru pietoni. 
+
+Va solicit interventia pentru inlocuirea semnului. 
+
+Multumesc</description>
+  </item>
+  <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275415</link>
+    <guid isPermaLink="false">CAS-0275415</guid>
+    <pubDate>Thu, 19 Nov 2026 14:16:18 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Bună ziua.
+
+Când DADP S3 vă pune în aplicare prevederile avizului de defrișare emis de PMB?
+Arborii indicați reprezintă un pericol tot mai accentuat!
+Astep răspunsul dumneavoastră.
+Vă mulțumesc.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275414</link>
     <guid isPermaLink="false">CAS-0275414</guid>
@@ -389,12 +416,14 @@ Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE OCU
 Răspuns: AUTO NU A MAI FOST GASIT IN LOCATIE</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275371</link>
     <guid isPermaLink="false">CAS-0275371</guid>
     <pubDate>Thu, 19 Nov 2026 11:05:24 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: A FOST APLICATA INSTIINTARE SI EFECTUATE FOTO</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
@@ -527,24 +556,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 13.15.MENTIONAM 
     <category>Toaletare/Tăiere arbori</category>
     <description>Revin la sesizarea CAS 0270920  din 02/11/2026
 Sesizarea a fost parțial rezolvata, adica superficial. La locul cu pricina au rămas in continuare crengile uscate ale copacului cazut. As mai adauga acum mizeria de nedescris din perimetrul respectiv.</description>
-  </item>
-  <item>
-    <title>Taxe şi impozite · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275356</link>
-    <guid isPermaLink="false">CAS-0275356</guid>
-    <pubDate>Thu, 19 Nov 2026 10:25:08 GMT</pubDate>
-    <category>Taxe şi impozite</category>
-    <description>NU REUSESC SA MA AUTENTIFIC ONLINE PE DITL3.RO.AM FACUT-O PE SITEUL PRIMARIA SECTOR 3,PE ANAF SECTOR 3 ,CERTME,SPV DAR LA TAXE SI IMPOZITE CU CANTACTX NU.SI EU AM NEVOIE DE CERTIFICAT FISCAL</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275355</link>
-    <guid isPermaLink="false">CAS-0275355</guid>
-    <pubDate>Thu, 19 Nov 2026 10:11:39 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Autoturismului reclamat i s-a aplicat înștiințare.</description>
   </item>
 </channel>
 </rss>

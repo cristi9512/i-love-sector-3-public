@@ -2723,3 +2723,6 @@
 {"at":"2026-11-19T14:15:46.413Z","ticket":"CAS-0275391","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T14:15:46.413Z","ticket":"CAS-0275391","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-19T14:15:46.413Z","ticket":"CAS-0275391","field":"reply","from":"","to":"Nespecificat Registratura LA ORA VERIFICARII IN LOCATIA MENTIONATA NU SE AFLA NICI UN AUTO DE LA FAN CURIER CARE SA BLOCHEZE PARCAREA,LOCATIA RAMANE SPRE MONITORZARE DE CATRE POLITIA LOCALĂ SCTOR 3"}
+{"at":"2026-11-19T14:30:47.248Z","ticket":"CAS-0275371","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T14:30:47.248Z","ticket":"CAS-0275371","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T14:30:47.248Z","ticket":"CAS-0275371","field":"reply","from":"","to":"Nespecificat Registratura A FOST APLICATA INSTIINTARE SI EFECTUATE FOTO"}

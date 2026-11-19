@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T14:15:46.413Z",
-  "lastChange": "2026-11-19T14:15:46.413Z",
+  "lastRun": "2026-11-19T14:30:47.248Z",
+  "lastChange": "2026-11-19T14:30:47.248Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2598,
-    "added": 7,
-    "updated": 2,
+    "fetched": 2750,
+    "added": 2,
+    "updated": 1,
     "removed": 0,
-    "changes": 4
+    "changes": 3
   },
   "totals": {
-    "incidents": 46025,
-    "open": 2028,
+    "incidents": 46027,
+    "open": 2029,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T14:15:46.413Z",
+    "asOf": "2026-11-19T14:30:47.248Z",
     "days": 30,
-    "open": 2028,
+    "open": 2029,
     "total": 187,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 55,
+        "open": 54,
         "n": 7
       },
       "3": {
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 423,
+        "open": 424,
         "n": 17
       },
       "11": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 149,
+        "open": 150,
         "n": 5
       },
       "15": {
