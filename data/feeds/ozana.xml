@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275427</link>
+    <guid isPermaLink="false">CAS-0275427</guid>
+    <pubDate>Thu, 19 Nov 2026 14:57:06 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Sunt parcată pe un loc de parcare C4 însă este o mașină parcată fără număr de telefon în fața mea și îmi blochează ieșirea</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275414</link>
     <guid isPermaLink="false">CAS-0275414</guid>
@@ -592,14 +600,6 @@ Răspuns: Trimis notificari Locația a fost salubrizată în data de 18.11.2026.
     <description>masina este parcata de 2 zile in strada practic. blocheaza vizibilitatea si îngreunează ieșirea mașinilor in strada perpendiculara
 
 Răspuns: Buna ziua! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274802</link>
-    <guid isPermaLink="false">CAS-0274802</guid>
-    <pubDate>Tue, 17 Nov 2026 06:47:35 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Bună ziua, locuiesc în Aleea Giurgeni nr.  11, Bloc F9, Ap12, Scara1. În spatele blocului pe partea mea de balcon și la apartamentul vecin avem un copac care s-a dezvoltat foarte aproape de bloc și ori de câte ori este furtună crengile bat direct în geamuri foarte puternic având toate șansele să le spargă. Doresc toaletarea lui la nivelul etajului al treilea. Mulțumesc!</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275425</link>
+    <guid isPermaLink="false">CAS-0275425</guid>
+    <pubDate>Thu, 19 Nov 2026 14:55:14 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Auto parcate neregulamentar</description>
+  </item>
+  <item>
     <title>Trasare parcare · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275421</link>
     <guid isPermaLink="false">CAS-0275421</guid>
@@ -555,14 +563,6 @@ Răspuns: Trimis raspuns Sesizarea a fost verificată, însă autoturismul nu a 
     <category>Rampe de acces persoane cu dizabilitati</category>
     <description>aceasta mașina este parcată pe loc destinat persoanelor cu dizabilități de astăzi de la ora 12:30
 Str Agricultori 121, bl 82 sc A</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274953</link>
-    <guid isPermaLink="false">CAS-0274953</guid>
-    <pubDate>Tue, 17 Nov 2026 17:17:39 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto parcat neregulamentar, autoturismul este parcat neregulamentar pe o stradă mai îngustă de 6 m care îngreunează accesul în parcare și blochează accesul la trotuar. Este a 3 sesizare în legătură cu această mașină și nu ați luat nici o măsură</description>
   </item>
 </channel>
 </rss>

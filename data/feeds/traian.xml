@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275428</link>
+    <guid isPermaLink="false">CAS-0275428</guid>
+    <pubDate>Thu, 19 Nov 2026 14:59:46 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna ziua. Revin cu sesizare privind parcarea neregulamentara si blocarea aproape in întregime a partii carosabile pe Aleea Emil Botta. Dupa cum se poate vedea in poza, Aleea Emil Botta este blocata aproape in întregime de mașini parcate pe doua rânduri,  spațiul de circulație este extrem de mic iar vizibilitatea la viraj inexistenta. Mulțumesc.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275404</link>
     <guid isPermaLink="false">CAS-0275404</guid>
@@ -586,16 +594,6 @@ Cu stima,
     <description>Buna seara
 Autoturismele sunt parcate si pe trotuar si pe carosabil pe o strada ingusta, cu transport public si trafic inteans.
 Va multumesc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274083</link>
-    <guid isPermaLink="false">CAS-0274083</guid>
-    <pubDate>Fri, 13 Nov 2026 17:46:52 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna seara
-Autoturismle parcheaza sistematic pe toata strada romulus, in zona de oprire interzisa si pe trotuar, acestea devenind inutilizabile iar pietonii trebuie sa mearga pe carosabil.
-Va multumesc.</description>
   </item>
 </channel>
 </rss>
