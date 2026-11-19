@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275338</link>
+    <guid isPermaLink="false">CAS-0275338</guid>
+    <pubDate>Thu, 19 Nov 2026 09:23:26 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275335</link>
+    <guid isPermaLink="false">CAS-0275335</guid>
+    <pubDate>Thu, 19 Nov 2026 09:17:22 GMT</pubDate>
+    <category>Altele</category>
+    <description>In parcarea blocului C15 din Bd Camil Ressu nr 48 stalpul de iluminat a fost lovit de o masina si nu mai are nici bec nimic si nu lumineaza. Este un stalp de lumina important, toata parcarea e in bezna totala</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275323</link>
     <guid isPermaLink="false">CAS-0275323</guid>
@@ -604,27 +620,6 @@ Solicit, asadar:
     <category>Străzi</category>
     <description>Pe strada Plutonire Nedelcu Ion zona de la Gradinita pana in intersectia cu strada Fizicienilor iluminatul stradal nu functioneaza de cel putin trei saptamani. este intuneric atat pe aceasta portiune, dar si in careul blocurilor 1A, 3A, 2A. Va rog sa ne ajutati cu rezolvarea acestei situatii.
 Multumesc.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274500</link>
-    <guid isPermaLink="false">CAS-0274500</guid>
-    <pubDate>Sun, 15 Nov 2026 23:11:03 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul A........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: SESIZAREA DUMNEAVOASTRA SE CONFIRMA, AUTO LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE, MOTIV PENTRU CARE S A APLICAT INSTIINTARE, URMAND A SE APLICA MASURILE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274490</link>
-    <guid isPermaLink="false">CAS-0274490</guid>
-    <pubDate>Sun, 15 Nov 2026 21:43:41 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul 0........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La data si ora efectuarii verificarilor aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>

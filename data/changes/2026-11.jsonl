@@ -2465,3 +2465,12 @@
 {"at":"2026-11-19T09:00:58.364Z","ticket":"CAS-0275316","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-19T09:00:58.364Z","ticket":"CAS-0275316","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, IN LOCATIE A FOST DEPISTATA O PERSOANA FARA ADAPOST. ACEASTA A FOST LEGITIMATA, IDENTIFICATA SI INDEPARTATA DIN ZONA. LOCATIA VA RAMANE IN ATENTIA POLITISTILOR LOCALI DIN CADRUL DIRECTIEI ORDINE PUBLICA SI CONTROL."}
 {"at":"2026-11-19T09:15:34.705Z","ticket":"CAS-0275329","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T09:30:51.242Z","ticket":"CAS-0275317","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T09:30:51.242Z","ticket":"CAS-0275317","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T09:30:51.242Z","ticket":"CAS-0275317","field":"reply","from":"","to":"Nespecificat Registratura Autoturismul reclamat nu este în locație. O zi bună."}
+{"at":"2026-11-19T09:30:51.242Z","ticket":"CAS-0275318","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T09:30:51.242Z","ticket":"CAS-0275318","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T09:30:51.242Z","ticket":"CAS-0275318","field":"reply","from":"","to":"Nespecificat Registratura bună ziua!\nam luat măsurile legale cu privire la autoturismul reclamat."}
+{"at":"2026-11-19T09:30:51.242Z","ticket":"CAS-0274992","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T09:30:51.242Z","ticket":"CAS-0274992","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T09:30:51.242Z","ticket":"CAS-0274992","field":"reply","from":"","to":"Nespecificat Registratura Autoturismul nu este în locația oferită."}
