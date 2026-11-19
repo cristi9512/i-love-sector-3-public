@@ -2337,3 +2337,10 @@
 {"at":"2026-11-19T05:30:46.603Z","ticket":"CAS-0275265","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T05:30:46.603Z","ticket":"CAS-0275265","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-19T05:30:46.603Z","ticket":"CAS-0275265","field":"reply","from":"","to":"Nespecificat Registratura Autoturismului reclamat i s-a aplicat înștiințare. O zi bună."}
+{"at":"2026-11-19T05:45:34.177Z","ticket":"CAS-0275270","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T05:45:34.177Z","ticket":"CAS-0275125","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T05:45:34.177Z","ticket":"CAS-0275125","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T05:45:34.177Z","ticket":"CAS-0275125","field":"reply","from":"","to":"Trimis raspuns trimis email 19.11.2026 Raspunsul a fost trimis prin email catre cetatean."}
+{"at":"2026-11-19T05:45:34.177Z","ticket":"CAS-0274839","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T05:45:34.177Z","ticket":"CAS-0274839","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T05:45:34.177Z","ticket":"CAS-0274839","field":"reply","from":"","to":"Trimis notificari Locația a fost salubrizată în data de 18.11.2026. "}
