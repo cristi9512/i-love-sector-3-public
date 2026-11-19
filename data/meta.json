@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T14:30:47.248Z",
-  "lastChange": "2026-11-19T14:30:47.248Z",
+  "lastRun": "2026-11-19T14:45:43.443Z",
+  "lastChange": "2026-11-19T14:45:43.443Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2750,
-    "added": 2,
+    "fetched": 2747,
+    "added": 6,
     "updated": 1,
     "removed": 0,
     "changes": 3
   },
   "totals": {
-    "incidents": 46027,
-    "open": 2029,
+    "incidents": 46033,
+    "open": 2034,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T14:30:47.248Z",
+    "asOf": "2026-11-19T14:45:43.443Z",
     "days": 30,
-    "open": 2029,
+    "open": 2034,
     "total": 187,
     "byCategory": {
       "2": {
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 28,
+        "open": 29,
         "n": 1
       },
       "13": {
@@ -107,12 +107,12 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 16,
+        "open": 18,
         "n": 3
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 11,
+        "open": 12,
         "n": 4
       },
       "20": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 524,
+        "open": 525,
         "n": 2
       },
       "32": {

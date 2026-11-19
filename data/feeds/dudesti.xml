@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275422</link>
+    <guid isPermaLink="false">CAS-0275422</guid>
+    <pubDate>Thu, 19 Nov 2026 14:42:48 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară GL 03 GAX, în curbă, într-o poziție periculoasă, forțând șoferii să circule pe contrasens cu posibile accidente rutiere str.Breaza lângă Comandamentul de pompieri Vitan.</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275415</link>
     <guid isPermaLink="false">CAS-0275415</guid>
@@ -606,14 +614,6 @@ La momentul efectuarii verificarilor in locatia indicata, aspectele sesizate nu 
     <pubDate>Mon, 16 Nov 2026 14:41:40 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Vă sesizez o parcare neregulamentară TR 50 COM blocând accesul pietonilor pe trotuar în special cei cu cărucioare str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274654</link>
-    <guid isPermaLink="false">CAS-0274654</guid>
-    <pubDate>Mon, 16 Nov 2026 14:40:23 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 321 UMS în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
   </item>
 </channel>
 </rss>
