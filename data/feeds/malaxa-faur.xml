@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Malaxa - Faur</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275326</link>
+    <guid isPermaLink="false">CAS-0275326</guid>
+    <pubDate>Thu, 19 Nov 2026 08:53:42 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Taxe şi impozite · În lucru · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275325</link>
     <guid isPermaLink="false">CAS-0275325</guid>
@@ -557,16 +565,6 @@ Răspuns: AM PRELUAT  SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 16.30,AUTO LA C
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AM VERIFICAT PARCAJUL SESIZAT IAR AUTO IN CAUZA NU SE AFLA IN LOCATIE </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273291</link>
-    <guid isPermaLink="false">CAS-0273291</guid>
-    <pubDate>Wed, 11 Nov 2026 07:28:52 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>ALEEA SOLIDARITĂȚII NR 2 BATERIE NR 4Al
-
-Răspuns: AM VERIFICAT PARCAJUL SESIZAT IAR AUTO IN CAUZA SE AFLA IN LOCATIE FAPT PENTRU CARE A FOST INTOCMIT PROCES VERBAL DE CONSTATARE IN VEDEREA SANCTIONARII PROPRIETARULUI </description>
   </item>
 </channel>
 </rss>
