@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T08:30:48.923Z",
-  "lastChange": "2026-11-19T08:30:48.923Z",
+  "lastRun": "2026-11-19T08:45:39.990Z",
+  "lastChange": "2026-11-19T08:45:39.990Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2658,
-    "added": 4,
-    "updated": 3,
+    "fetched": 2650,
+    "added": 1,
+    "updated": 7,
     "removed": 0,
-    "changes": 9
+    "changes": 19
   },
   "totals": {
-    "incidents": 45935,
-    "open": 2030,
+    "incidents": 45936,
+    "open": 2025,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T08:30:48.923Z",
+    "asOf": "2026-11-19T08:45:39.990Z",
     "days": 30,
-    "open": 2030,
+    "open": 2025,
     "total": 194,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 57,
+        "open": 53,
         "n": 7
       },
       "3": {
@@ -47,7 +47,7 @@
       },
       "5": {
         "name": "Taxe şi impozite",
-        "open": 113,
+        "open": 114,
         "n": 90
       },
       "6": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 512,
+        "open": 510,
         "n": 2
       },
       "32": {
