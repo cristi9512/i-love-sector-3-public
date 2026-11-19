@@ -2536,3 +2536,7 @@
 {"at":"2026-11-19T11:30:51.640Z","ticket":"CAS-0275361","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T11:30:51.640Z","ticket":"CAS-0275361","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-19T11:30:51.640Z","ticket":"CAS-0275361","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 13.15.MENTIONAM FAPTUL CA POZA ATASATA LA RECLAMATIE NU ESTE CONCLUDENTA,RESPECTIV NUNREIESE CELE RECLAMATE ,OCUPAREA UNUI LOC DE PARCARE NENOMINAL.VA MULTUMIM."}
+{"at":"2026-11-19T11:45:38.062Z","ticket":"CAS-0275364","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T11:45:38.062Z","ticket":"CAS-0275364","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T11:45:38.062Z","ticket":"CAS-0275364","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII."}
+{"at":"2026-11-19T11:45:38.062Z","ticket":"CAS-0275376","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
