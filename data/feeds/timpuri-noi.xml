@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275441</link>
+    <guid isPermaLink="false">CAS-0275441</guid>
+    <pubDate>Thu, 19 Nov 2026 15:28:56 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Strada Logofatul Tautu nu a mai fost maturata de multa vreme iar gunoiul din pubele este pe strada , saci cu frunze neridicati</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275437</link>
+    <guid isPermaLink="false">CAS-0275437</guid>
+    <pubDate>Thu, 19 Nov 2026 15:26:15 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>pe strada Logofatul Tautu nr 60- 62 , pavajul s a surpat , sub partea surpata se afla țevile de apa , canalizare</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275431</link>
     <guid isPermaLink="false">CAS-0275431</guid>
@@ -603,26 +619,6 @@ Vă mulțumesc!</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: auto nu a fost depistat in locatie</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274847</link>
-    <guid isPermaLink="false">CAS-0274847</guid>
-    <pubDate>Tue, 17 Nov 2026 11:17:31 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: au fost luate masurile legale</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274825</link>
-    <guid isPermaLink="false">CAS-0274825</guid>
-    <pubDate>Tue, 17 Nov 2026 08:31:52 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Strada Ion Minulescu este plina de masini parcate neregulamentar. 
-Traficul este ingreunat din acest motiv. 
-Va rog luati masuri!</description>
   </item>
 </channel>
 </rss>
