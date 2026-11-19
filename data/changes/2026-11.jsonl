@@ -2426,3 +2426,7 @@
 {"at":"2026-11-19T08:00:57.545Z","ticket":"CAS-0274962","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T08:00:57.545Z","ticket":"CAS-0274962","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-19T08:00:57.545Z","ticket":"CAS-0274962","field":"reply","from":"","to":"Trimis raspuns Sesizarea a fost verificată, însă autoturismul nu a fost identificat în locația marcată pe hartă. Cu stima, "}
+{"at":"2026-11-19T08:15:39.060Z","ticket":"CAS-0275317","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T08:15:39.060Z","ticket":"CAS-0275271","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T08:15:39.060Z","ticket":"CAS-0275271","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T08:15:39.060Z","ticket":"CAS-0275271","field":"reply","from":"","to":"Nespecificat Registratura Așa cum ați observat în locație, loc eliberat + sancțiune. O zi bună."}

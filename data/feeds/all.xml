@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Timpuri Noi</title>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275319</link>
+    <guid isPermaLink="false">CAS-0275319</guid>
+    <pubDate>Thu, 19 Nov 2026 08:10:43 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcat pe trotuar. Vizibilitate zero la intrarea pe bulevard</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275318</link>
+    <guid isPermaLink="false">CAS-0275318</guid>
+    <pubDate>Thu, 19 Nov 2026 08:01:07 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275317</link>
     <guid isPermaLink="false">CAS-0275317</guid>
     <pubDate>Thu, 19 Nov 2026 07:59:49 GMT</pubDate>
@@ -428,12 +444,14 @@ multumesc!</description>
     <description>Buna ziua.Autoturismul cu nr de inmatriculare B 777 SZZ este parcat neregulamentar la iesirea din benzinaria Mol Theodor Pallady nr 66 ,nu se poate traversa pe trecere de pietoni deoarece alte masini se pun in fata si in spatele lui si face imposibila iesirea in siguranţă in benzinarie a autocamioanelor si a cisternelor de combustibil necesare pentru o buna desfasurare a activitatii si implicit traversarea pietonilor in sigurbta pe trecerea de pietoni Rog de urgenta rezolvare</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275271</link>
     <guid isPermaLink="false">CAS-0275271</guid>
     <pubDate>Thu, 19 Nov 2026 05:31:55 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Așa cum ați observat în locație, loc eliberat + sancțiune. O zi bună.</description>
   </item>
   <item>
     <title>Trasare parcare · În lucru · Cioplea</title>
@@ -539,23 +557,6 @@ Răspuns: LA ADRESA MENTIONATA IN SESIZARE AUTOTURISMUL NU A FOST IDENTIFICAT IN
     <pubDate>Thu, 19 Nov 2026 00:10:16 GMT</pubDate>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>Nu există trotuar pentru pietoni și suntem nevoiti sa mergem pe carosabil, iar pe timp de noapte este periculos, mai ales că nu este nici lumina stradală!</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275259</link>
-    <guid isPermaLink="false">CAS-0275259</guid>
-    <pubDate>Thu, 19 Nov 2026 00:08:54 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Nu există trotuar pentru pietoni pe partea complexului Romco și strada nu se poate folosi pe timp de ploaie, fiind inundată de la primele minute de averse. 
-Ca pieton trebuie să ieși în cizme.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275258</link>
-    <guid isPermaLink="false">CAS-0275258</guid>
-    <pubDate>Thu, 19 Nov 2026 00:05:24 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Pe partea complexului rezidențial în care locuiesc nu există trotuar și de asemenea se inundă mereu strada încât nu poți ieși pe jos.</description>
   </item>
 </channel>
 </rss>
