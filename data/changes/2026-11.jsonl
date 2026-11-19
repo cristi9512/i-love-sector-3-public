@@ -2740,3 +2740,13 @@
 {"at":"2026-11-19T15:45:38.613Z","ticket":"CAS-0275400","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T15:45:38.613Z","ticket":"CAS-0275400","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-19T15:45:38.613Z","ticket":"CAS-0275400","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE"}
+{"at":"2026-11-19T16:01:01.852Z","ticket":"CAS-0275446","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T16:01:01.852Z","ticket":"CAS-0275427","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T16:01:01.852Z","ticket":"CAS-0275427","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T16:01:01.852Z","ticket":"CAS-0275427","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost preluată și verificată la ora 17.35."}
+{"at":"2026-11-19T16:01:01.852Z","ticket":"CAS-0275354","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T16:01:01.852Z","ticket":"CAS-0275354","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T16:01:01.852Z","ticket":"CAS-0275354","field":"reply","from":"","to":"Nespecificat Registratura LA DATA SI ORA VERIFICARII LOCATIEI CELE SESIZATE NU SE CONFIRMA."}
+{"at":"2026-11-19T16:01:01.852Z","ticket":"CAS-0275306","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T16:01:01.852Z","ticket":"CAS-0275306","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T16:01:01.852Z","ticket":"CAS-0275306","field":"reply","from":"","to":"Nespecificat Registratura Auto a parasit locatia."}
