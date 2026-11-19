@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275261</link>
+    <guid isPermaLink="false">CAS-0275261</guid>
+    <pubDate>Thu, 19 Nov 2026 00:35:59 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina este parcata pe loc hasurat si impiedica trecerea masinii de gunoi</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275260</link>
     <guid isPermaLink="false">CAS-0275260</guid>
@@ -586,16 +594,6 @@ Răspuns: AUTO LA CARE SE FACE REFERIRE A FOST DEPISTAT IN LOCATIE,AU FOST APLIC
     <pubDate>Wed, 18 Nov 2026 16:21:25 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcat pe trotuar pavele
-
-Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275201</link>
-    <guid isPermaLink="false">CAS-0275201</guid>
-    <pubDate>Wed, 18 Nov 2026 16:17:39 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autoturismul blocheaza circulatia si accesul in parcarea de resedinta. Stationeaza din 17.11.2026 in acest loc.
 
 Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
   </item>
