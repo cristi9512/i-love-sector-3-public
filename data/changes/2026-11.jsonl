@@ -2964,3 +2964,12 @@
 {"at":"2026-11-19T22:45:39.385Z","ticket":"CAS-0275520","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T22:45:39.385Z","ticket":"CAS-0275520","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-19T22:45:39.385Z","ticket":"CAS-0275520","field":"reply","from":"","to":"Nespecificat Registratura BUNA SEARA, AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 00:26, SESIZAREA SE CONFIRMA, S-A INTOCMIT DOCUMENTATIA CONFORM LEGISLATIEI IN VIGOARE.\nVA MULTUMIM!"}
+{"at":"2026-11-19T23:01:02.298Z","ticket":"CAS-0275549","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T23:01:02.298Z","ticket":"CAS-0275549","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T23:01:02.298Z","ticket":"CAS-0275549","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nLa momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturimsului reclamat au fost aplicate masurile legale."}
+{"at":"2026-11-19T23:01:02.298Z","ticket":"CAS-0275550","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T23:01:02.298Z","ticket":"CAS-0275550","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T23:01:02.298Z","ticket":"CAS-0275550","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nLa momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturimsului reclamat au fost aplicate masurile legale."}
+{"at":"2026-11-19T23:01:02.298Z","ticket":"CAS-0275447","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T23:01:02.298Z","ticket":"CAS-0275447","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T23:01:02.298Z","ticket":"CAS-0275447","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu se mai află în locație."}

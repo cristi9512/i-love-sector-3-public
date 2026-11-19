@@ -6,20 +6,42 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275552</link>
+    <guid isPermaLink="false">CAS-0275552</guid>
+    <pubDate>Thu, 19 Nov 2026 23:00:55 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275551</link>
+    <guid isPermaLink="false">CAS-0275551</guid>
+    <pubDate>Thu, 19 Nov 2026 22:59:30 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275550</link>
     <guid isPermaLink="false">CAS-0275550</guid>
     <pubDate>Thu, 19 Nov 2026 22:36:31 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 38</description>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 38
+
+Răspuns: Buna seara,
+La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturimsului reclamat au fost aplicate masurile legale.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275549</link>
     <guid isPermaLink="false">CAS-0275549</guid>
     <pubDate>Thu, 19 Nov 2026 22:33:38 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 38</description>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 38
+
+Răspuns: Buna seara,
+La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturimsului reclamat au fost aplicate masurile legale.</description>
   </item>
   <item>
     <title>Altele · În lucru · Timpuri Noi</title>
@@ -702,23 +724,6 @@ Vă mulțumesc și aștept un răspuns în scris.</description>
     <pubDate>Thu, 19 Nov 2026 18:04:18 GMT</pubDate>
     <category>Altele</category>
     <description>ne spuneti si noua cum putem circula pe trotuar cand cei de la spalatoria de pe grigorescu isi curata locurile de spalat stropid si aruncand toata mizeria spre trotuar si strada?</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275492</link>
-    <guid isPermaLink="false">CAS-0275492</guid>
-    <pubDate>Thu, 19 Nov 2026 18:00:07 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>b122pob a intrat pe trotuarul de pe bd. pallady in jurul orei 18.40-19.00, venind pe gangul dintre blocurile M2 si M2A. dupa ce am sunat la politie, a plecat tot pe acolo. luati masuri si blocati accesul masinilor pe acest trotuar.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275491</link>
-    <guid isPermaLink="false">CAS-0275491</guid>
-    <pubDate>Thu, 19 Nov 2026 17:52:34 GMT</pubDate>
-    <category>Altele</category>
-    <description>Bună ziua,  până la rezolvarea toaletări, sunt nevoit sa parchez pe un loc nenominal pentru a nu avea incidente.
-Mulțumesc!</description>
   </item>
 </channel>
 </rss>

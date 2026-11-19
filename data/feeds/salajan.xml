@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275552</link>
+    <guid isPermaLink="false">CAS-0275552</guid>
+    <pubDate>Thu, 19 Nov 2026 23:00:55 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275551</link>
+    <guid isPermaLink="false">CAS-0275551</guid>
+    <pubDate>Thu, 19 Nov 2026 22:59:30 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275543</link>
     <guid isPermaLink="false">CAS-0275543</guid>
@@ -553,26 +569,6 @@ Loc galben
 Str Zemes nr 4 bl pm19 sc 2
 
 Răspuns: Auto a parasit locatia.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274822</link>
-    <guid isPermaLink="false">CAS-0274822</guid>
-    <pubDate>Tue, 17 Nov 2026 08:14:53 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, dar autoturismul l care faceți referire nu se mai află în locație.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274820</link>
-    <guid isPermaLink="false">CAS-0274820</guid>
-    <pubDate>Tue, 17 Nov 2026 08:08:00 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LOCATIA A FOST VERIFICATA,AUTOTURISMUL MENTIONAT DE DUMNEAVOASTRĂ IN SESIZARE FIIND IDENTIFICAT IN ZONĂ,AM INTOCMIT DOCUMENTATIA CONFORM HCLS3 NR.346/2022M.</description>
   </item>
 </channel>
 </rss>
