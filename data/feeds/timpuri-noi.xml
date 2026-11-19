@@ -6,6 +6,20 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275296</link>
+    <guid isPermaLink="false">CAS-0275296</guid>
+    <pubDate>Thu, 19 Nov 2026 07:01:33 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Buna ziua
+
+Exista o baliza rutiera ce pare sa fie abandonata pe spatiul verde langa trecerea de pietoni de la intersectia strazii Papazoglu cu strada Foisorului.
+
+Va rog luarea de masuri.
+
+Va multumesc</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275257</link>
     <guid isPermaLink="false">CAS-0275257</guid>
@@ -601,16 +615,6 @@ La momentul efectuarii verificarilor in locatia indicata, aspectele sesizate nu 
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: foto neconcludent</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274621</link>
-    <guid isPermaLink="false">CAS-0274621</guid>
-    <pubDate>Mon, 16 Nov 2026 11:52:35 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea se confirma, au fost luate masuri legale</description>
   </item>
 </channel>
 </rss>

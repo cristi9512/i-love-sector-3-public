@@ -6,6 +6,24 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Spații verzi · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275301</link>
+    <guid isPermaLink="false">CAS-0275301</guid>
+    <pubDate>Thu, 19 Nov 2026 07:11:17 GMT</pubDate>
+    <category>Spații verzi</category>
+    <description>incep sa pice placile de piatra de pe rondurile din fata cinema gloria</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275298</link>
+    <guid isPermaLink="false">CAS-0275298</guid>
+    <pubDate>Thu, 19 Nov 2026 07:04:12 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>În zona grădiniței nr. 191, trotuarul este nefinalizat și duce către stradă, fără a exista o trecere de pietoni sau continuare.
+În plus, chiar dacă vii dinspre blocul A8, pe stradă, până la începutul trotuarului, de foarte multe ori este blocat pentru că parchează mașini, cum se poate vedea din fotografiile atașate.
+Solicitarea mea este ca fie să se continue trotuarul către strada dintre blocurile A8 și A9, ceea ce probabil ar fi o lucrare complicată, chiar dacă ar avea sens - ar fi un trotuar complet - fie să se blocheze posibilitatea de a parca în dreptul intrării pe trotuar cu niște stâlpi, care să permită totuși accesul pietonal și cu cărucioare, triciclete, biciclete, pentru părinții și copiii care vin la grădiniță.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275293</link>
     <guid isPermaLink="false">CAS-0275293</guid>
@@ -562,22 +580,6 @@ Ne cerem scuze pentru disconfortul creat și vă asigurăm că aspectele semnala
 
 Cu deosebită consideratie,
 Direcţia Generală de Salubritate Sector 3 </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274894</link>
-    <guid isPermaLink="false">CAS-0274894</guid>
-    <pubDate>Tue, 17 Nov 2026 14:31:16 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare pe hasura</description>
-  </item>
-  <item>
-    <title>Spații verzi · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274890</link>
-    <guid isPermaLink="false">CAS-0274890</guid>
-    <pubDate>Tue, 17 Nov 2026 14:08:23 GMT</pubDate>
-    <category>Spații verzi</category>
-    <description>Mizeria persistă un acasă locație de mai bine de 3 săptămâni. Băieții care are ceafa lată de la departamentul de salubrizare oare așteaptă zăpada, să se acopere de la sine?!</description>
   </item>
 </channel>
 </rss>

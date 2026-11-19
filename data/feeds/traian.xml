@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275300</link>
+    <guid isPermaLink="false">CAS-0275300</guid>
+    <pubDate>Thu, 19 Nov 2026 07:06:43 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275295</link>
     <guid isPermaLink="false">CAS-0275295</guid>
@@ -600,14 +608,6 @@ Răspuns: Auto reclamat  a parasit locatia </description>
     <pubDate>Fri, 13 Nov 2026 11:54:50 GMT</pubDate>
     <category>Altele</category>
     <description>Imi pare rau dar nu s-a mai curatat trotuarul meu de multi ani!! In temeiul legii544/2001, va rog sa imi spuneti in ultimii 10 ani, cand a fost spalat trotuarele de pe str ceaus radu</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273969</link>
-    <guid isPermaLink="false">CAS-0273969</guid>
-    <pubDate>Fri, 13 Nov 2026 11:37:31 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autoturism parcat ilegal in intersectie de doua saptamani. Incomodeaza pietonii si traficul auto. Nu plateste parcarea</description>
   </item>
 </channel>
 </rss>
