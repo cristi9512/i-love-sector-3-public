@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T12:00:58.324Z",
-  "lastChange": "2026-11-19T12:00:58.324Z",
+  "lastRun": "2026-11-19T12:15:35.007Z",
+  "lastChange": "2026-11-19T12:15:35.007Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2956,
+    "fetched": 2816,
     "added": 2,
-    "updated": 9,
+    "updated": 14,
     "removed": 0,
-    "changes": 27
+    "changes": 40
   },
   "totals": {
-    "incidents": 45991,
-    "open": 2045,
+    "incidents": 45993,
+    "open": 2034,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T12:00:58.324Z",
+    "asOf": "2026-11-19T12:15:35.007Z",
     "days": 30,
-    "open": 2045,
+    "open": 2034,
     "total": 197,
     "byCategory": {
       "2": {
@@ -52,22 +52,22 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 87,
+        "open": 85,
         "n": 2
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 36,
+        "open": 35,
         "n": 5
       },
       "9": {
         "name": "Altele",
-        "open": 219,
+        "open": 218,
         "n": 14
       },
       "10": {
         "name": "Străzi",
-        "open": 426,
+        "open": 427,
         "n": 20
       },
       "11": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 155,
+        "open": 148,
         "n": 5
       },
       "15": {
@@ -147,7 +147,7 @@
       },
       "32": {
         "name": "Rampe de acces persoane cu dizabilitati",
-        "open": 9,
+        "open": 8,
         "n": 1
       }
     }
