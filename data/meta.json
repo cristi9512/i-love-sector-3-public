@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T11:15:38.912Z",
-  "lastChange": "2026-11-19T11:15:38.912Z",
+  "lastRun": "2026-11-19T11:30:51.640Z",
+  "lastChange": "2026-11-19T11:30:51.640Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2832,
-    "added": 2,
-    "updated": 5,
+    "fetched": 2852,
+    "added": 5,
+    "updated": 1,
     "removed": 0,
-    "changes": 15
+    "changes": 3
   },
   "totals": {
-    "incidents": 45982,
-    "open": 2047,
+    "incidents": 45987,
+    "open": 2051,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T11:15:38.912Z",
+    "asOf": "2026-11-19T11:30:51.640Z",
     "days": 30,
-    "open": 2047,
+    "open": 2051,
     "total": 196,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 55,
+        "open": 57,
         "n": 7
       },
       "3": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 154,
+        "open": 155,
         "n": 5
       },
       "15": {
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 37,
+        "open": 38,
         "n": 0
       },
       "17": {

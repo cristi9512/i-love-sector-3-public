@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cartierul Evreiesc</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275375</link>
+    <guid isPermaLink="false">CAS-0275375</guid>
+    <pubDate>Thu, 19 Nov 2026 11:28:53 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275303</link>
     <guid isPermaLink="false">CAS-0275303</guid>
@@ -600,16 +608,6 @@ Răspuns: Trimis raspuns Sesizarea a fost verificată, auto nu a fost identifica
     <description>Este un individ cu șapcă roșie că ai șchiopătează cerșește printre mașinile care se opresc la semafor câteodată sare printre mașini în mișcare foarte periculos ce face.....
 
 Răspuns: SESIZAREA DUMNEAVOASTRA A FOST PRELUATA SI VERIFICATA . PERSOANA LA CARE FACETI REFERIRE  A PARASIT ZONA IN PREZENTA ECHIPAJULUI DE POLITIE LOCALA . </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0270393</link>
-    <guid isPermaLink="false">CAS-0270393</guid>
-    <pubDate>Fri, 30 Oct 2026 17:03:12 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Staționare neregulamentară- recurentă.
-
-Răspuns: In locatie  au  fost dispuse masurile  legale  conform OUG 195/2002 r </description>
   </item>
 </channel>
 </rss>
