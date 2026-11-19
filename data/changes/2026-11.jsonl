@@ -2907,3 +2907,6 @@
 {"at":"2026-11-19T21:00:58.145Z","ticket":"CAS-0275534","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T21:00:58.145Z","ticket":"CAS-0275534","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-19T21:00:58.145Z","ticket":"CAS-0275534","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nLa momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturimsului reclamat au fost aplicate masurile legale!"}
+{"at":"2026-11-19T21:15:35.500Z","ticket":"CAS-0275500","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T21:15:35.500Z","ticket":"CAS-0275500","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T21:15:35.500Z","ticket":"CAS-0275500","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu a mai fost depistat în locație."}
