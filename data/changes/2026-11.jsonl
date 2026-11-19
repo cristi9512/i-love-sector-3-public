@@ -2402,3 +2402,18 @@
 {"at":"2026-11-19T07:30:48.310Z","ticket":"CAS-0275002","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T07:30:48.310Z","ticket":"CAS-0275002","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-19T07:30:48.310Z","ticket":"CAS-0275002","field":"reply","from":"","to":"Trimis raspuns In urma verificărilor efectuate autoturismul sesizat nu a fost găsot in locație. "}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275077","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275077","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275077","field":"reply","from":"","to":"In curs de rezolvare Vă comunicăm faptul că sesizarea dumneavoastră se află în continuare în graficul de lucrări al echipei de trasare, având în vedere volumul mare de lucrări aflate în desfășurare pe raza întregului Sector 3.\n\nVerificarea și soluționarea aspectelor semnalate vor fi efectuate în funcție de programarea lucrărilor, precum și de condițiile meteorologice, urmând ca, după caz, să fie dispuse măsurile care se impun. "}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275090","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275090","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275090","field":"reply","from":"","to":"In curs de rezolvare vă comunicăm că am luat la cunoștință propunerile menționate. În funcție de graficul de lucru al echipei de trasări, precum și de condițiile meteorologice, echipa se va deplasa și în zona respectivă, în vederea verificării situației și a dispunerii măsurilor care se impun, după caz.           "}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275293","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275293","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275293","field":"reply","from":"","to":"Nespecificat Registratura AUTO IN CAUZA, NU SE MAI AFLA IN LOCATIA COMUNICATA, SESIZAREA NU SE MAI CONFIRMA,"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275291","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275291","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0275291","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA ,ORELE 09.15,AUTO LA CARE FACETI REFERIRE FIIND IDENTIFICAT IN LOCATIE.AM APLICAT SANCTIUNE CONF.346/2022,CONDUCATORUL AUTO A VENIT LA FATA LOCULUI."}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0274899","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0274899","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T07:45:44.298Z","ticket":"CAS-0274899","field":"reply","from":"","to":"Trimis raspuns Sesizarea a fost verificată, locul de parcare nenominal este ocupat de auto care deține autorizație emisă de Direcția Parcări. "}
