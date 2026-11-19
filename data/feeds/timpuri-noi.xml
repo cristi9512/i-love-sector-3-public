@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275431</link>
+    <guid isPermaLink="false">CAS-0275431</guid>
+    <pubDate>Thu, 19 Nov 2026 15:13:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275416</link>
     <guid isPermaLink="false">CAS-0275416</guid>
@@ -615,14 +623,6 @@ Răspuns: au fost luate masurile legale</description>
     <description>Strada Ion Minulescu este plina de masini parcate neregulamentar. 
 Traficul este ingreunat din acest motiv. 
 Va rog luati masuri!</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274786</link>
-    <guid isPermaLink="false">CAS-0274786</guid>
-    <pubDate>Tue, 17 Nov 2026 05:57:40 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Atașez și o poză cu strada ion Minulescu</description>
   </item>
 </channel>
 </rss>
