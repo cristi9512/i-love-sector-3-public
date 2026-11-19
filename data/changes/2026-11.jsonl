@@ -2328,3 +2328,6 @@
 {"at":"2026-11-19T02:30:45.955Z","ticket":"CAS-0275195","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T02:30:45.955Z","ticket":"CAS-0275195","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-19T02:30:45.955Z","ticket":"CAS-0275195","field":"reply","from":"","to":"Nespecificat Registratura SE CONFIRMA , AM APLICAT CINCI SOMATII"}
+{"at":"2026-11-19T02:45:34.957Z","ticket":"CAS-0275257","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T02:45:34.957Z","ticket":"CAS-0275257","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T02:45:34.957Z","ticket":"CAS-0275257","field":"reply","from":"","to":"Nespecificat Registratura A FOST APLICATA SOMATIE "}
