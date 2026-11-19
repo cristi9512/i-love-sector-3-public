@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T18:00:59.145Z",
-  "lastChange": "2026-11-19T18:00:59.145Z",
+  "lastRun": "2026-11-19T18:15:37.521Z",
+  "lastChange": "2026-11-19T18:15:37.521Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 3068,
-    "added": 4,
-    "updated": 4,
+    "fetched": 2934,
+    "added": 8,
+    "updated": 2,
     "removed": 0,
-    "changes": 10
+    "changes": 4
   },
   "totals": {
-    "incidents": 46103,
-    "open": 2081,
+    "incidents": 46111,
+    "open": 2088,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T18:00:59.145Z",
+    "asOf": "2026-11-19T18:15:37.521Z",
     "days": 30,
-    "open": 2081,
+    "open": 2088,
     "total": 191,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 65,
+        "open": 67,
         "n": 7
       },
       "3": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 218,
+        "open": 219,
         "n": 10
       },
       "10": {
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 36,
+        "open": 35,
         "n": 0
       },
       "17": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 545,
+        "open": 550,
         "n": 2
       },
       "32": {

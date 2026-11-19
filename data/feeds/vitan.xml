@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275497</link>
+    <guid isPermaLink="false">CAS-0275497</guid>
+    <pubDate>Thu, 19 Nov 2026 18:09:44 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe str Mugur Mugurel se parcheaza in mod constant neregulamentar la mai putin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit ridicarea tuturor autoturismelor parcate neregulamentar.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275452</link>
     <guid isPermaLink="false">CAS-0275452</guid>
@@ -620,16 +628,6 @@ Atașez o fotografii relevante pentru situația zilnică cu care ne confruntăm 
     <pubDate>Sun, 15 Nov 2026 15:55:04 GMT</pubDate>
     <category>Altele</category>
     <description>Lipsa iluminat stradal seara pe strada Muresana</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274380</link>
-    <guid isPermaLink="false">CAS-0274380</guid>
-    <pubDate>Sun, 15 Nov 2026 15:37:32 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Trotuarul este blocat de mașini. Vă rog să luați măsuri.
-
-Răspuns: Au fost luate masurile legale conform RAOUG195/2002</description>
   </item>
 </channel>
 </rss>
