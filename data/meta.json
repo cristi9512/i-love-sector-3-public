@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T18:30:49.196Z",
-  "lastChange": "2026-11-19T18:30:49.196Z",
+  "lastRun": "2026-11-19T18:45:42.740Z",
+  "lastChange": "2026-11-19T18:45:42.740Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2655,
-    "added": 0,
-    "updated": 6,
+    "fetched": 2920,
+    "added": 2,
+    "updated": 5,
     "removed": 0,
-    "changes": 18
+    "changes": 15
   },
   "totals": {
-    "incidents": 46111,
-    "open": 2082,
+    "incidents": 46113,
+    "open": 2079,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T18:30:49.196Z",
+    "asOf": "2026-11-19T18:45:42.740Z",
     "days": 30,
-    "open": 2082,
-    "total": 191,
+    "open": 2079,
+    "total": 190,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 65,
+        "open": 64,
         "n": 7
       },
       "3": {
@@ -122,8 +122,8 @@
       },
       "21": {
         "name": "Reabilitare blocuri",
-        "open": 12,
-        "n": 1
+        "open": 11,
+        "n": 0
       },
       "22": {
         "name": "Spații Comerciale",
@@ -137,7 +137,7 @@
       },
       "26": {
         "name": "Mașini ridicate",
-        "open": 11,
+        "open": 10,
         "n": 0
       },
       "27": {
