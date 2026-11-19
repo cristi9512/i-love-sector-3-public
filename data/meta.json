@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T06:01:02.013Z",
-  "lastChange": "2026-11-19T06:01:02.013Z",
+  "lastRun": "2026-11-19T06:15:35.525Z",
+  "lastChange": "2026-11-19T06:15:35.525Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2854,
-    "added": 2,
-    "updated": 5,
+    "fetched": 2716,
+    "added": 4,
+    "updated": 2,
     "removed": 0,
-    "changes": 15
+    "changes": 6
   },
   "totals": {
-    "incidents": 45889,
-    "open": 2010,
+    "incidents": 45893,
+    "open": 2012,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T06:01:02.013Z",
+    "asOf": "2026-11-19T06:15:35.525Z",
     "days": 30,
-    "open": 2010,
-    "total": 193,
+    "open": 2012,
+    "total": 194,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 60,
+        "open": 58,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 175,
+        "open": 177,
         "n": 17
       },
       "5": {
@@ -77,7 +77,7 @@
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 29,
+        "open": 30,
         "n": 1
       },
       "13": {
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 36,
+        "open": 37,
         "n": 0
       },
       "17": {
@@ -118,7 +118,7 @@
       "20": {
         "name": "Terenuri insalubre",
         "open": 19,
-        "n": 3
+        "n": 4
       },
       "21": {
         "name": "Reabilitare blocuri",
