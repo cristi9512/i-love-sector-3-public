@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275547</link>
+    <guid isPermaLink="false">CAS-0275547</guid>
+    <pubDate>Thu, 19 Nov 2026 22:09:09 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>NU MAI PUTEM CIRCULA! NU MAI PUTEM SA IESIM DE PE PROPRIUL LOC DE PARCARE! POMPIERI NICO VORBA SA AIBE LOC! Sunt 5-6 masini ce blocheaza complet strada! nubse mai poate! toata ziua se pun pliante la stergatoare va rog ridicati le urgent! nu va ganditi im caz de urgenta poate muri cineva pt ca se permite asemenea oarcare la syrada racari 12a bl 43 atases poze!</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275535</link>
     <guid isPermaLink="false">CAS-0275535</guid>
@@ -614,17 +622,6 @@ La data si ora efectuarii verificarilor aspectele sesizate se confirma, asupra a
 Răspuns: BUNĂ SEARA!
 AM VERIFICAT SESIZAREA DUMNEAVOASTRĂ,
 AUTOTURISMUL RECLAMAT DETINE AUTORIZATIE DE PARCARE NENOMINALĂ VALABILĂ.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274445</link>
-    <guid isPermaLink="false">CAS-0274445</guid>
-    <pubDate>Sun, 15 Nov 2026 18:38:51 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Buna seara,
-La data si ora efectuarii verificarilor aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>
