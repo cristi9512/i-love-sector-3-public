@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275370</link>
+    <guid isPermaLink="false">CAS-0275370</guid>
+    <pubDate>Thu, 19 Nov 2026 11:05:00 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275351</link>
     <guid isPermaLink="false">CAS-0275351</guid>
@@ -611,21 +619,6 @@ Răspuns: Trimis raspuns trimis raspuns Raspunsul a fost trimis prin email catre
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: BUNĂ ZIUA, PENTRU A PUTEA DA CURS SESIZĂRII DVS. ÎN MOD EFICIENT, VĂ RUGĂM CA, PE VIITOR,  SĂ NE FURNIZAȚI FOTOGRAFII CONCLUDENTE VIZÂND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZĂTOR LA SOL, ÎN VEDEREA EFECTUĂRII VERIFICĂRILOR ÎN TIMP UTIL ȘI CU RESPECTAREA ATRIBUȚIILOR LEGALE. VĂ MULȚUMIM!</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274537</link>
-    <guid isPermaLink="false">CAS-0274537</guid>
-    <pubDate>Mon, 16 Nov 2026 07:28:49 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Va solicit sa dispuneti delimitarea clara, prin marcaje rutiere, a celor doua sensuri de circulatie pe strada Odobesti.
-In prezent, lipsa marcajelor rutiere, coroborata cu autoturismele parcate de-a lungul carosabilului, creeaza frecvent situatii dificile si potential periculoase in trafic.
-Din cauza masinilor parcate, latimea disponibila a carosabilului nu permite trecerea simultana a doua autoturisme care circula din sensuri opuse. Astfel, conducatorii auto sunt nevoiti sa patrunda pe sensul opus pentru a ocoli vehiculele parcate, fara sa existe o delimitare vizibila a sensurilor de circulatie.
-Aceasta situatie genereaza confuzie si conflicte intre soferi, in special in ceea ce priveste prioritatea de trecere: cine trebuie sa astepte si cine are obligatia sa permita trecerea celuilalt vehicul.
-
-Solicit, asadar:
-1. Aplicarea marcajelor rutiere pentru delimitarea clara si vizibila a celor doua sensuri de circulatie.
-2. Reglementarea parcarii pe aceasta strada, astfel incat autoturismele parcate sa nu obstructioneze circulatia in ambele sensuri.</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275371</link>
+    <guid isPermaLink="false">CAS-0275371</guid>
+    <pubDate>Thu, 19 Nov 2026 11:05:24 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275370</link>
+    <guid isPermaLink="false">CAS-0275370</guid>
+    <pubDate>Thu, 19 Nov 2026 11:05:00 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275369</link>
     <guid isPermaLink="false">CAS-0275369</guid>
@@ -432,12 +448,14 @@ fotografia nu este elocventă.</description>
 Răspuns: Nu s-a identificat ``câinele roșcat``.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275326</link>
     <guid isPermaLink="false">CAS-0275326</guid>
     <pubDate>Thu, 19 Nov 2026 08:53:42 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AM APLICAT MASURILE LEGALE </description>
   </item>
   <item>
     <title>Taxe şi impozite · În lucru · Malaxa - Faur</title>
@@ -589,22 +607,6 @@ Liliana Fekete
     <pubDate>Thu, 19 Nov 2026 07:34:39 GMT</pubDate>
     <category>Străzi</category>
     <description>Bună ziua! vă rugam sa luați in considerare si aceasta problema care se intampla la toate ploile 12 luni pe an, la adresa str Marului 119. Stiu ca incercati acum sa cuplati blocurile proprietatile din zona la canalizarea noua si cred ca ar trebui sa introduceti si aceasta chestiune. Va multumim</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275310</link>
-    <guid isPermaLink="false">CAS-0275310</guid>
-    <pubDate>Thu, 19 Nov 2026 07:27:28 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Fac asta pana imi rezolvati situatia, pentru ca nu se poate lua legatura cu nici un angajat din Primarie. Sa nu indrazniti sa imi blocati contul!</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275309</link>
-    <guid isPermaLink="false">CAS-0275309</guid>
-    <pubDate>Thu, 19 Nov 2026 07:26:17 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Sa ma contacteze cineva din Primarie URGENT!!!!</description>
   </item>
 </channel>
 </rss>
