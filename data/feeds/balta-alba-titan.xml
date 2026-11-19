@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275451</link>
+    <guid isPermaLink="false">CAS-0275451</guid>
+    <pubDate>Thu, 19 Nov 2026 16:08:23 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare pe loc nepermis/hasura</description>
+  </item>
+  <item>
     <title>Spații verzi · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275443</link>
     <guid isPermaLink="false">CAS-0275443</guid>
@@ -20,12 +28,14 @@ Vă rugăm să dispuneți verificarea spațiului verde și, în măsura posibili
 Vă mulțumim pentru sprijin și pentru implicarea în îmbunătățirea spațiilor verzi din cartier.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275430</link>
     <guid isPermaLink="false">CAS-0275430</guid>
     <pubDate>Thu, 19 Nov 2026 15:03:16 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Lipsă număr de înmatriculare și fotografie concludentă. Nu se pot lua măsuri.  Reveniți cu sesizare atașând minim o fotografie cu vehiculul reclamat, din care să reiasă atât numărul de înmatriculare, cât și tipul de parcaj de reședină.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
@@ -575,16 +585,6 @@ Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra..In urma v
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat conform HCLS3 nr 346/2022. Ulterior identificarii prorietarului , i se va aplica sanctiunea prevazuta de actul normativ.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274996</link>
-    <guid isPermaLink="false">CAS-0274996</guid>
-    <pubDate>Tue, 17 Nov 2026 19:25:38 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Am preluat si verificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat conform hcls3 nr 346/2022. Ulterior identificarii prorietarului , i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
 </channel>
 </rss>

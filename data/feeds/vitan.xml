@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275452</link>
+    <guid isPermaLink="false">CAS-0275452</guid>
+    <pubDate>Thu, 19 Nov 2026 16:11:04 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminat nefuncțional</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275380</link>
     <guid isPermaLink="false">CAS-0275380</guid>
@@ -622,14 +630,6 @@ Atașez o fotografii relevante pentru situația zilnică cu care ne confruntăm 
     <description>Trotuarul este blocat de mașini. Vă rog să luați măsuri.
 
 Răspuns: Au fost luate masurile legale conform RAOUG195/2002</description>
-  </item>
-  <item>
-    <title>Verificări construcții/Lucrări neautorizate · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274375</link>
-    <guid isPermaLink="false">CAS-0274375</guid>
-    <pubDate>Sun, 15 Nov 2026 15:06:28 GMT</pubDate>
-    <category>Verificări construcții/Lucrări neautorizate</category>
-    <description>Constructia blocului de pe Str. Gradinarilor, Nr. 8-12, blocheaza mai mult de jumatate din trotuar.</description>
   </item>
 </channel>
 </rss>
