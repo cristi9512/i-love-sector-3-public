@@ -2788,3 +2788,4 @@
 {"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275413","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275413","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275413","field":"reply","from":"","to":"Nespecificat Registratura LA ORA VERIFICARII AUTO NU SE MAI AFLĂ IN LOCATIE"}
+{"at":"2026-11-19T17:30:51.746Z","ticket":"CAS-0275476","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}

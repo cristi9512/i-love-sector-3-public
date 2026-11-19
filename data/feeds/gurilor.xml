@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Gurilor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275482</link>
+    <guid isPermaLink="false">CAS-0275482</guid>
+    <pubDate>Thu, 19 Nov 2026 17:24:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Langa complexul Astorium Life,care are parcare proprie,stationeaza in permanenta masini care ingreuneaza traficul pe o strada oricum ingusta si aglomerata.</description>
+  </item>
+  <item>
     <title>Mediu/Calitatea Aerului · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275420</link>
     <guid isPermaLink="false">CAS-0275420</guid>
@@ -632,16 +640,6 @@ Răspuns: Bună seara , vă mulţumim pentru sesizare.Verificările în teren se
     <pubDate>Tue, 10 Nov 2026 06:58:39 GMT</pubDate>
     <category>Străzi</category>
     <description>Pe strada Drumul Gura Crivatului la nr 33-35 se afla o groapa mare pe partea stanga a drumului, pe sensul de circulatie. Groapa a fost si anul trecut si a fost reparat de mantuiala in primavara, astfel ca dupa ploile recente, a aparut din nou. Va rog sa luati masurile reparatorii competente care se impun. Va multumesc!</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272943</link>
-    <guid isPermaLink="false">CAS-0272943</guid>
-    <pubDate>Mon, 09 Nov 2026 22:05:42 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Cineva a facut o pasiune din a intoarce indicatorul “Oprirea interzisa”. Nu știu daca are legătură cu autoturismul care staționează adesea in dreptul imobilului 32D jumatate pe partea carosabilă si jumatate pe trotuar. Nu solicit interventia unui echipaj, nu vreau amenda, vreau numai sa informez administratorul drumului pentru că circulația vehiculelor pe strada cu o singura banda sa nu mai fie afectata de autoturisme parcate in drum pentru ca nu vad semnul.
-
-Cu stimă,</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275483</link>
+    <guid isPermaLink="false">CAS-0275483</guid>
+    <pubDate>Thu, 19 Nov 2026 17:28:33 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>coborare de pe trotuar partial blocata plus obturare vizibilitatr la moruzzi x vlad dracu</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275441</link>
     <guid isPermaLink="false">CAS-0275441</guid>
@@ -611,16 +619,6 @@ Răspuns: Luat la cunostinta rezolvat telefonic </description>
     <description>Bună ziua!
 În urma reabilitării blocului A7BIS din strada Vasile Carlova nr.2, geamurile de la cameră au fost afectate de lucrarea de demolare a balconului vechi - bucăți încinse de metal în urma tăierii cu flexul a fostei structuri metalice a balconului au ajuns pe sticla de geam și s-au fixat acolo, neputând fi curățate. Am reclamat acest lucru constructorului în mai multe rânduri, s-a venit pentru efectuarea măsurătorilor în urmă cu aproape două luni, iar de atunci nu mai am nicio comunicare privind înlocuirea geamurilor afectate. Va rog să mă ajutați în soluționarea acestei situații. Pentru mai multe detalii, vă stau la dispoziție la adresa de e-mail atașată acestui cont.
 Vă mulțumesc!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274850</link>
-    <guid isPermaLink="false">CAS-0274850</guid>
-    <pubDate>Tue, 17 Nov 2026 11:24:34 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: auto nu a fost depistat in locatie</description>
   </item>
 </channel>
 </rss>
