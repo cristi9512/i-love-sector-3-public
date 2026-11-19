@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275295</link>
+    <guid isPermaLink="false">CAS-0275295</guid>
+    <pubDate>Thu, 19 Nov 2026 06:50:16 GMT</pubDate>
+    <category>Altele</category>
+    <description>Trotuar blocat de mașină, nu pot trece cu căruciorul</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275248</link>
     <guid isPermaLink="false">CAS-0275248</guid>
@@ -600,14 +608,6 @@ Răspuns: Auto reclamat  a parasit locatia </description>
     <pubDate>Fri, 13 Nov 2026 11:37:31 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Autoturism parcat ilegal in intersectie de doua saptamani. Incomodeaza pietonii si traficul auto. Nu plateste parcarea</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273967</link>
-    <guid isPermaLink="false">CAS-0273967</guid>
-    <pubDate>Fri, 13 Nov 2026 11:28:37 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>am depus sesizare ca la refacerea trotuarului ne ati luati toate bancile de pe trotuar care erau inainte prevazute, ati pus sesizarea in status rezolvat si n ati rezolvat absolut nimic, pe partea cealalta de strada sunt banci una langa alta</description>
   </item>
 </channel>
 </rss>
