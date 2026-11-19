@@ -2865,3 +2865,7 @@
 {"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275222","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275222","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
 {"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275222","field":"reply","from":"","to":"Nespecificat Registratura Documentul a fost transferat automat la instanta DGITL (617014/19.11.2026) <a href=\"http://192.168.32.203/dgitl3/registratura/detaliu_document.php?An=2026&NrInreg=617014&ro=da\" target=\"_blank\">Detaliu</a>"}
+{"at":"2026-11-19T19:30:51.991Z","ticket":"CAS-0275471","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T19:30:51.991Z","ticket":"CAS-0275471","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T19:30:51.991Z","ticket":"CAS-0275471","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost preluată și verificată la ora 21.10 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022."}
+{"at":"2026-11-19T19:30:51.991Z","ticket":"CAS-0275516","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}

@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
-    <title>Altele · Noua · Baba Novac</title>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275521</link>
+    <guid isPermaLink="false">CAS-0275521</guid>
+    <pubDate>Thu, 19 Nov 2026 19:27:43 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275520</link>
+    <guid isPermaLink="false">CAS-0275520</guid>
+    <pubDate>Thu, 19 Nov 2026 19:23:33 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275516</link>
     <guid isPermaLink="false">CAS-0275516</guid>
     <pubDate>Thu, 19 Nov 2026 19:14:33 GMT</pubDate>
@@ -676,27 +692,6 @@ Acest șofer parchează in fiecare zi blocand accesul pietonal.
 Număr de Înmatriculare IF27BDM.
 
 Răspuns: Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie.</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275095</link>
-    <guid isPermaLink="false">CAS-0275095</guid>
-    <pubDate>Wed, 18 Nov 2026 08:47:44 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>Ford Focus abandonat fără plăcuțe de înmatriculare pe intrarea Baba Novac 6. 
-Inafara faptului ca ocupă domeniul public este ilegal de a lăsa mașina fără placi.
-
-Răspuns: Trimis raspuns Urmare a sesizării dumneavostră transmisă în format electronic, înregistrată în cadrul Primăriei Sectorului 3 - Direcția Generală de Poliție Locală cu nr. 434338/2026, cu referire la autoturismul marca Ford, fără nr. de înmatriculare, ce pare abandonat pe domeniul public din Intrarea Baba Novac nr 6, vă comunicăm faptul că în urma verificărilor efectuate în teren, au fost demarate procedurile legale conform Legii 421/2002, privind regimul juridic al vehiculelor fără stăpân sau abandonate pe terenuri aparținând domeniului public sau privat al statului ori al unităților administrativ-teritoriale, pentru un vehicul căruia i-a fost atribuit numărul de dosar A 10527. Vă informăm că timpul necesar până la ridicarea vehiculului declarat abandonat poate fi diferit în funcție de particularitățile fiecărui dosar întocmit. Vă multumim pentru aspectele semnalate și vă asigurăm de întreaga noastră disponibilitate pentru soluționarea oricăror probleme ce intră în competența noastră. Cu stimă Raspunsul a fost trimis prin email catre cetatean.</description>
-  </item>
-  <item>
-    <title>Mediu/Calitatea Aerului · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275079</link>
-    <guid isPermaLink="false">CAS-0275079</guid>
-    <pubDate>Wed, 18 Nov 2026 07:13:09 GMT</pubDate>
-    <category>Mediu/Calitatea Aerului</category>
-    <description>Vă semnalez că în Parcul Gheorghe Petrașcu angajații de la salubrizare/spații verzi folosesc în fiecare zi, în continuare suflante de frunze cu motor termic. Acestea emit noxe puternice, poluează fonic și ridică nori toxici de praf, afectând copiii și cetățenii din zonă.
-Această practică încalcă HCL Sector 3 nr. 64/2021, care interzice explicit utilizarea suflantelor. Vă rog să dispuneți controale urgente și să obligați operatorul să folosească metode ecologice.
-Vă mulțumesc!</description>
   </item>
 </channel>
 </rss>
