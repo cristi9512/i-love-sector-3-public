@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275412</link>
+    <guid isPermaLink="false">CAS-0275412</guid>
+    <pubDate>Thu, 19 Nov 2026 14:10:17 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275379</link>
     <guid isPermaLink="false">CAS-0275379</guid>
@@ -580,18 +588,6 @@ Răspuns: LOCATIA A FOST VERIFICATA,AUTOTURISMUL MENTIONAT DE DUMNEAVOASTRA IN S
     <description>Mașini parcate pe trotuar și calea de acces
 
 Răspuns: Buna ziua! Verificarile in teren se vor realiza in termenul legal,in limita capacitatii tehnice,logistice si umane a serviciului circulatie.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274775</link>
-    <guid isPermaLink="false">CAS-0274775</guid>
-    <pubDate>Tue, 17 Nov 2026 04:11:36 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Bună ziua !
-Subsemnatul Tudorache Costel,cnp 1680704424512, urmare a sesizărilor depuse la dv. cu nr.
-158793/17.04.2026,
-176418/30.04.2026
-192921/12.05.2026 și 214985/27.05.2026, în care vă solicitam toaletarea arborelui situat la intersecția str.Aleea Vlăhița cu str.Zemes .Va rog să-mi comunicați dacă acest arbore va fi toaletat sau nu .Daca NU care este motivul ? Zi bună!</description>
   </item>
 </channel>
 </rss>

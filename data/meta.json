@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T14:00:57.309Z",
-  "lastChange": "2026-11-19T14:00:57.309Z",
+  "lastRun": "2026-11-19T14:15:46.413Z",
+  "lastChange": "2026-11-19T14:15:46.413Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2727,
-    "added": 4,
+    "fetched": 2598,
+    "added": 7,
     "updated": 2,
     "removed": 0,
     "changes": 4
   },
   "totals": {
-    "incidents": 46018,
-    "open": 2022,
+    "incidents": 46025,
+    "open": 2028,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T14:00:57.309Z",
+    "asOf": "2026-11-19T14:15:46.413Z",
     "days": 30,
-    "open": 2022,
+    "open": 2028,
     "total": 187,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 49,
+        "open": 55,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 174,
+        "open": 175,
         "n": 16
       },
       "5": {
@@ -102,7 +102,7 @@
       },
       "17": {
         "name": "Comerț stradal neautorizat",
-        "open": 3,
+        "open": 2,
         "n": 0
       },
       "18": {
