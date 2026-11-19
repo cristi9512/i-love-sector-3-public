@@ -2910,3 +2910,6 @@
 {"at":"2026-11-19T21:15:35.500Z","ticket":"CAS-0275500","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T21:15:35.500Z","ticket":"CAS-0275500","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-19T21:15:35.500Z","ticket":"CAS-0275500","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu a mai fost depistat în locație."}
+{"at":"2026-11-19T21:30:48.949Z","ticket":"CAS-0275485","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T21:30:48.949Z","ticket":"CAS-0275485","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T21:30:48.949Z","ticket":"CAS-0275485","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat la fața locului. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto."}
