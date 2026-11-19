@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275404</link>
+    <guid isPermaLink="false">CAS-0275404</guid>
+    <pubDate>Thu, 19 Nov 2026 13:46:04 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașină parcată in fata ușii pe trotuar. Blocheaza accesul in casă.  Este parcată direct in dreptul ușii</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275400</link>
     <guid isPermaLink="false">CAS-0275400</guid>
@@ -588,18 +596,6 @@ Va multumesc</description>
     <description>Buna seara
 Autoturismle parcheaza sistematic pe toata strada romulus, in zona de oprire interzisa si pe trotuar, acestea devenind inutilizabile iar pietonii trebuie sa mearga pe carosabil.
 Va multumesc.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274082</link>
-    <guid isPermaLink="false">CAS-0274082</guid>
-    <pubDate>Fri, 13 Nov 2026 17:44:48 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: CONFORM ADRESEI INDICATA DE DUMNEAVOASTRA AUTOTURISMUL NU SE AFLA IN LOCATIE
-
-</description>
   </item>
 </channel>
 </rss>
