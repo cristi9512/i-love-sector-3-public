@@ -2430,3 +2430,12 @@
 {"at":"2026-11-19T08:15:39.060Z","ticket":"CAS-0275271","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T08:15:39.060Z","ticket":"CAS-0275271","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-19T08:15:39.060Z","ticket":"CAS-0275271","field":"reply","from":"","to":"Nespecificat Registratura Așa cum ați observat în locație, loc eliberat + sancțiune. O zi bună."}
+{"at":"2026-11-19T08:30:48.923Z","ticket":"CAS-0274982","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T08:30:48.923Z","ticket":"CAS-0274982","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T08:30:48.923Z","ticket":"CAS-0274982","field":"reply","from":"","to":"Nespecificat Registratura Așa cum am discutat telefonic, autoturismul nu este în locație. O zi bună."}
+{"at":"2026-11-19T08:30:48.923Z","ticket":"CAS-0274983","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T08:30:48.923Z","ticket":"CAS-0274983","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T08:30:48.923Z","ticket":"CAS-0274983","field":"reply","from":"","to":"Nespecificat Registratura Așa cum am discutat telefonic, autoturismul nu este în locație. O zi bună."}
+{"at":"2026-11-19T08:30:48.923Z","ticket":"CAS-0274984","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T08:30:48.923Z","ticket":"CAS-0274984","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T08:30:48.923Z","ticket":"CAS-0274984","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ ZIUA!\nA FOST LUATĂ MĂSURA SANCTIONĂRII."}

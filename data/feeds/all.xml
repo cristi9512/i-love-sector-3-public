@@ -6,6 +6,48 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275323</link>
+    <guid isPermaLink="false">CAS-0275323</guid>
+    <pubDate>Thu, 19 Nov 2026 08:29:32 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare și/staționare ilegală,strada este înfundată și are o lățime mai mică de 6 metri,legal nu ai voie să staționezi pe această stradă și atât mai puțin
+ să parchezi. Această problemă este zilnică.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275322</link>
+    <guid isPermaLink="false">CAS-0275322</guid>
+    <pubDate>Thu, 19 Nov 2026 08:26:19 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masini parcate pe trotuarul de langa liftul de la gura de metrou costin georgian</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275321</link>
+    <guid isPermaLink="false">CAS-0275321</guid>
+    <pubDate>Thu, 19 Nov 2026 08:25:22 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună ziua,
+
+Vehiculul cu nr IF 17 HMT a revenit pe strada Grădinarilor, din nou fără să achite parcarea.
+
+E ultima bătaie de joc ce se întâmplă pe strada aceasta. 
+
+Vă rog să verificați toate mașinile parcate, să veniți câteva zile la rând.
+
+Mulțumesc,
+Diana Staicu</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275320</link>
+    <guid isPermaLink="false">CAS-0275320</guid>
+    <pubDate>Thu, 19 Nov 2026 08:19:40 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275319</link>
     <guid isPermaLink="false">CAS-0275319</guid>
@@ -521,42 +563,6 @@ Răspuns: Autoturismului reclamat i s-a aplicat înștiințare. O zi bună.</des
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: LA ADRESA MENTIONATA IN SESIZARE AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275263</link>
-    <guid isPermaLink="false">CAS-0275263</guid>
-    <pubDate>Thu, 19 Nov 2026 04:26:16 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA ADRESA MENTIONATA IN SESIZARE AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275262</link>
-    <guid isPermaLink="false">CAS-0275262</guid>
-    <pubDate>Thu, 19 Nov 2026 04:25:14 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA ADRESA MENTIONATA IN SESIZARE AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275261</link>
-    <guid isPermaLink="false">CAS-0275261</guid>
-    <pubDate>Thu, 19 Nov 2026 00:35:59 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina este parcata pe loc hasurat si impiedica trecerea masinii de gunoi</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275260</link>
-    <guid isPermaLink="false">CAS-0275260</guid>
-    <pubDate>Thu, 19 Nov 2026 00:10:16 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Nu există trotuar pentru pietoni și suntem nevoiti sa mergem pe carosabil, iar pe timp de noapte este periculos, mai ales că nu este nici lumina stradală!</description>
   </item>
 </channel>
 </rss>
