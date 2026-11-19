@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T09:30:51.242Z",
-  "lastChange": "2026-11-19T09:30:51.242Z",
+  "lastRun": "2026-11-19T09:45:34.507Z",
+  "lastChange": "2026-11-19T09:45:34.507Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2522,
-    "added": 9,
+    "fetched": 2673,
+    "added": 7,
     "updated": 3,
     "removed": 0,
-    "changes": 9
+    "changes": 7
   },
   "totals": {
-    "incidents": 45952,
-    "open": 2036,
+    "incidents": 45959,
+    "open": 2041,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T09:30:51.242Z",
+    "asOf": "2026-11-19T09:45:34.507Z",
     "days": 30,
-    "open": 2036,
-    "total": 195,
+    "open": 2041,
+    "total": 196,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 58,
+        "open": 59,
         "n": 7
       },
       "3": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 90,
+        "open": 89,
         "n": 2
       },
       "7": {
@@ -72,7 +72,7 @@
       },
       "11": {
         "name": "Parcuri",
-        "open": 51,
+        "open": 52,
         "n": 7
       },
       "12": {
@@ -87,8 +87,8 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 151,
-        "n": 4
+        "open": 152,
+        "n": 5
       },
       "15": {
         "name": "Animale de companie",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 511,
+        "open": 514,
         "n": 2
       },
       "32": {

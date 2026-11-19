@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275347</link>
+    <guid isPermaLink="false">CAS-0275347</guid>
+    <pubDate>Thu, 19 Nov 2026 09:44:33 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275345</link>
+    <guid isPermaLink="false">CAS-0275345</guid>
+    <pubDate>Thu, 19 Nov 2026 09:41:04 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masinile acestea blocheaza complet trotuarul</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275332</link>
     <guid isPermaLink="false">CAS-0275332</guid>
@@ -478,12 +494,14 @@ Solicit comunicarea rezultatului controlului și a sancțiunilor și măsurilor 
 Anexez fotografie.</description>
   </item>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Timpuri Noi</title>
+    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0274864</link>
     <guid isPermaLink="false">CAS-0274864</guid>
     <pubDate>Tue, 17 Nov 2026 12:21:55 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Buna ziua, pentru luna octombrie, ne-a venit sa platim serviciul de salubritate pentru 2 persoane, la Asociatia de prorietati Str. Al.Vlahuta nr.6, bl.M46, sc.2, ap 60 suma de 64 lei, conform pozei dupa Nota de plata. Va rog sa verificati corectitudinea calculelor intocmite de administratorul asociatiei. Multumesc!</description>
+    <description>Buna ziua, pentru luna octombrie, ne-a venit sa platim serviciul de salubritate pentru 2 persoane, la Asociatia de prorietati Str. Al.Vlahuta nr.6, bl.M46, sc.2, ap 60 suma de 64 lei, conform pozei dupa Nota de plata. Va rog sa verificati corectitudinea calculelor intocmite de administratorul asociatiei. Multumesc!
+
+Răspuns: Luat la cunostinta rezolvat telefonic </description>
   </item>
   <item>
     <title>Reabilitare blocuri · În lucru · Timpuri Noi</title>
@@ -603,24 +621,6 @@ Răspuns: foto neconcludenta</description>
     <category>Stationare neregulamentara</category>
     <description>Autoturism staționat neregulamentar într-o intersecție, parțial pe un loc de parcare de reședință destinat persoanelor cu dizabilități.
 Numărul de înmatriculare al acestuia B113DSJ.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274698</link>
-    <guid isPermaLink="false">CAS-0274698</guid>
-    <pubDate>Mon, 16 Nov 2026 16:30:58 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Ocuparea abuziva a locului de parcare rezidential
-
-Răspuns: locul de parcare a fost eliberat pana la ajungerea noastra in locatie</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274644</link>
-    <guid isPermaLink="false">CAS-0274644</guid>
-    <pubDate>Mon, 16 Nov 2026 13:34:49 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Ion Minulescu puțină ordine poate ne face poliția locală . Mulțumesc frumos</description>
   </item>
 </channel>
 </rss>
