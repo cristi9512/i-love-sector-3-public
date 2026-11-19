@@ -2851,3 +2851,17 @@
 {"at":"2026-11-19T19:00:58.796Z","ticket":"CAS-0266226","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T19:00:58.796Z","ticket":"CAS-0266226","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
 {"at":"2026-11-19T19:00:58.796Z","ticket":"CAS-0266226","field":"reply","from":"","to":"Trimis raspuns trimis raspuns Raspunsul a fost trimis prin email catre cetatean."}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275511","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275507","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275510","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275466","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275466","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275466","field":"reply","from":"","to":"Nespecificat Registratura AUTO RECLAMAT NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII."}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275475","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275475","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275475","field":"reply","from":"","to":"Nespecificat Registratura AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII."}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275509","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275508","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275222","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275222","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
+{"at":"2026-11-19T19:15:38.254Z","ticket":"CAS-0275222","field":"reply","from":"","to":"Nespecificat Registratura Documentul a fost transferat automat la instanta DGITL (617014/19.11.2026) <a href=\"http://192.168.32.203/dgitl3/registratura/detaliu_document.php?An=2026&NrInreg=617014&ro=da\" target=\"_blank\">Detaliu</a>"}

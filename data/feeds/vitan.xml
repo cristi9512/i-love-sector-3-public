@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Vitan</title>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275514</link>
+    <guid isPermaLink="false">CAS-0275514</guid>
+    <pubDate>Thu, 19 Nov 2026 19:08:43 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Buna ziua, va rugam sa luati in considerare introducerea sensului unic pe strada Drumeagului din directia Nita Elinescu catre str. Drumetului. La orele de varf este aproape imposibila trecerea masinilor din ambele sensuri, mai mult trotuarele sunt in permanenta ocupate de masini, circulatia pietonala se face pe carosabil datorita acestui fapt. Va rugam luati masuri urgente in acest sens. Este si o problema de securitate a pietonilor.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275510</link>
     <guid isPermaLink="false">CAS-0275510</guid>
     <pubDate>Thu, 19 Nov 2026 19:00:26 GMT</pubDate>
@@ -14,7 +22,7 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · Noua · Vitan</title>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275507</link>
     <guid isPermaLink="false">CAS-0275507</guid>
     <pubDate>Thu, 19 Nov 2026 18:59:19 GMT</pubDate>
@@ -601,27 +609,6 @@ La data si ora efectuarii verificarilor aspectele sesizate se confirma, asupra a
 
 Răspuns: Buna seara,
 La data si ora efectuarii verificarilor aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274397</link>
-    <guid isPermaLink="false">CAS-0274397</guid>
-    <pubDate>Sun, 15 Nov 2026 16:39:08 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Vă aduc la cunoștință starea de degradare a spațiului verde situat pe Calea Vitan nr. 201, în imediata apropiere a magazinelor Froo și Fresh.
-După cum se poate observa și din fotografiile atașate, zona se confruntă cu următoarele probleme recurente:
-Acumulare de deșeuri: Pe spațiul verde și pe bordura adiacentă sunt aruncate zilnic ambalaje, resturi alimentare, mucuri de țigară și o cantitate foarte mare de capace metalice provenite de la sticle. 
-Distrugerea vegetației: Din cauza staționării constante a diverselor persoane pe bordură și direct pe pământ în fiecare seară, gazonul este complet bătătorit și distrus pe porțiuni extinse.
-
-Având în vedere cele de mai sus, vă rog respectuos să dispuneți:
-1. Igienizarea temeinică a spațiului verde (inclusiv curățarea manuală a capacelor și a resturilor mărunte încastrate în sol) și refacerea gazonului.
-2. Monitorizarea zonei de către echipajele Poliției Locale pe timpul serii, pentru a descuraja consumul de alcool pe domeniul public, aruncarea deșeurilor și degradarea repetată a spațiului verde.
-Vă mulțumesc anticipat pentru sprijin și pentru implicarea în menținerea curățeniei și a ordinii în cartier!
-
-Răspuns: Buna seara.
-La momentul verificarilor in locatia indicata aspectele sesizate nu se confirma, nu au fost depistate persoane care sa incalce normele de convietuire sociala ori care sa faca obiectul sesizarii.
-Pe aceasta cale dorim sa va aducem la cunostinta ca zona va ramane in monitorizare, aspectele sesizate urmand a fi verificate in diferite intervale orare in vederea confirmarii/infirmarii aspectelor semnalate.
-Va multumim pentru intelegere si va asiguram de intregul nostru suport!</description>
   </item>
 </channel>
 </rss>
