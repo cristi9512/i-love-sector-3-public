@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T15:30:56.523Z",
-  "lastChange": "2026-11-19T15:30:56.523Z",
+  "lastRun": "2026-11-19T15:45:38.613Z",
+  "lastChange": "2026-11-19T15:45:38.613Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2622,
-    "added": 9,
+    "fetched": 2771,
+    "added": 5,
     "updated": 2,
     "removed": 0,
-    "changes": 4
+    "changes": 6
   },
   "totals": {
-    "incidents": 46052,
-    "open": 2052,
+    "incidents": 46057,
+    "open": 2055,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T15:30:56.523Z",
+    "asOf": "2026-11-19T15:45:38.613Z",
     "days": 30,
-    "open": 2052,
+    "open": 2055,
     "total": 187,
     "byCategory": {
       "2": {
@@ -37,12 +37,12 @@
       },
       "3": {
         "name": "Spații verzi",
-        "open": 46,
+        "open": 47,
         "n": 6
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 176,
+        "open": 177,
         "n": 16
       },
       "5": {
@@ -117,7 +117,7 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 18,
+        "open": 19,
         "n": 3
       },
       "21": {
