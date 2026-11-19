@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T18:15:37.521Z",
-  "lastChange": "2026-11-19T18:15:37.521Z",
+  "lastRun": "2026-11-19T18:30:49.196Z",
+  "lastChange": "2026-11-19T18:30:49.196Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2934,
-    "added": 8,
-    "updated": 2,
+    "fetched": 2655,
+    "added": 0,
+    "updated": 6,
     "removed": 0,
-    "changes": 4
+    "changes": 18
   },
   "totals": {
     "incidents": 46111,
-    "open": 2088,
+    "open": 2082,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,24 +25,24 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T18:15:37.521Z",
+    "asOf": "2026-11-19T18:30:49.196Z",
     "days": 30,
-    "open": 2088,
+    "open": 2082,
     "total": 191,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 67,
+        "open": 65,
         "n": 7
       },
       "3": {
         "name": "Spații verzi",
-        "open": 47,
+        "open": 46,
         "n": 6
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 178,
+        "open": 177,
         "n": 16
       },
       "5": {
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 35,
+        "open": 34,
         "n": 0
       },
       "17": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 550,
+        "open": 549,
         "n": 2
       },
       "32": {
