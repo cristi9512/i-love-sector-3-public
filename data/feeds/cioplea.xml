@@ -6,6 +6,38 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275476</link>
+    <guid isPermaLink="false">CAS-0275476</guid>
+    <pubDate>Thu, 19 Nov 2026 17:15:14 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>acest cetățean blochează accesul în bloc</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275474</link>
+    <guid isPermaLink="false">CAS-0275474</guid>
+    <pubDate>Thu, 19 Nov 2026 17:09:15 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>optureaza vizibilitatea la trecea de pietoni.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275472</link>
+    <guid isPermaLink="false">CAS-0275472</guid>
+    <pubDate>Thu, 19 Nov 2026 17:06:48 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275469</link>
+    <guid isPermaLink="false">CAS-0275469</guid>
+    <pubDate>Thu, 19 Nov 2026 17:05:01 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>optureaza vizibilitatea la ieșire din parcare</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275467</link>
     <guid isPermaLink="false">CAS-0275467</guid>
@@ -554,44 +586,6 @@ Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 17.40
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: auto nu a fost depistat in locatie</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274846</link>
-    <guid isPermaLink="false">CAS-0274846</guid>
-    <pubDate>Tue, 17 Nov 2026 11:02:56 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua. Lipsa iluminat public Camil Ressu, 37, bloc Z4, fata si spatele blocului. Am facut sesizari la Iluminat Public si Primaria Capitatalei.  In zona NU exista iluminat de peste 2 luni. Va rog ajutor Dvs. Multumesc.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274796</link>
-    <guid isPermaLink="false">CAS-0274796</guid>
-    <pubDate>Tue, 17 Nov 2026 06:30:50 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO LA CARE SE FACE REFERIRE A FOST DEPISTAT IN LOCATIE,AU FOST APLICATE MASURILE LEGALE.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274779</link>
-    <guid isPermaLink="false">CAS-0274779</guid>
-    <pubDate>Tue, 17 Nov 2026 05:24:16 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>autovehicule parcate in interiorul intersectiei
-
-Răspuns: La  fata  locului  au fost  dispuse  masurile  legale conform OUG 195/2002 r </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274778</link>
-    <guid isPermaLink="false">CAS-0274778</guid>
-    <pubDate>Tue, 17 Nov 2026 05:23:19 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>autovehicule parcate in zona de stationare interzisa
-
-Răspuns: In locatie  au fost  dispuse  masurile  legale  conform OUG 195 /2002 r</description>
   </item>
 </channel>
 </rss>

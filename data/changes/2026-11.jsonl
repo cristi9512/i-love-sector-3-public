@@ -2782,3 +2782,9 @@
 {"at":"2026-11-19T17:01:00.155Z","ticket":"CAS-0275412","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T17:01:00.155Z","ticket":"CAS-0275412","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-19T17:01:00.155Z","ticket":"CAS-0275412","field":"reply","from":"","to":"Nespecificat Registratura AUTO DIN SESIZARE ARE NR DE INMATRICULARE GRESIT,AUTO CARE ESTE PARCAT PE B6 DETINE AUTORIZATIE PTR LOC DE PARCARE NENOMINAL"}
+{"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275286","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275286","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275286","field":"reply","from":"","to":"Nespecificat Registratura Au fost aplicate masurile legale."}
+{"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275413","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275413","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275413","field":"reply","from":"","to":"Nespecificat Registratura LA ORA VERIFICARII AUTO NU SE MAI AFLĂ IN LOCATIE"}
