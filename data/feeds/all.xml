@@ -6,12 +6,41 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <title>Trasare parcare · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275270</link>
+    <guid isPermaLink="false">CAS-0275270</guid>
+    <pubDate>Thu, 19 Nov 2026 05:30:47 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Rog marcare a aceatui loc ca nenominal.
+pe 18 Noiembrie a venit echipa si a marcat fix locul de langa si pe acesta nu.
+
+mulțumesc</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275269</link>
+    <guid isPermaLink="false">CAS-0275269</guid>
+    <pubDate>Thu, 19 Nov 2026 05:22:39 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>autovehicule parcate in interiorul intersectiei</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275268</link>
+    <guid isPermaLink="false">CAS-0275268</guid>
+    <pubDate>Thu, 19 Nov 2026 05:21:54 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>autovehicule parcate in zona de stationare interzisa</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275267</link>
     <guid isPermaLink="false">CAS-0275267</guid>
     <pubDate>Thu, 19 Nov 2026 04:42:59 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>parcat pe locul 13 nenominal fara autorizatie parcare pe strada jean steriadi nr 18</description>
+    <description>parcat pe locul 13 nenominal fara autorizatie parcare pe strada jean steriadi nr 18
+
+Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
@@ -22,12 +51,14 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275265</link>
     <guid isPermaLink="false">CAS-0275265</guid>
     <pubDate>Thu, 19 Nov 2026 04:33:46 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Autoturismului reclamat i s-a aplicat înștiințare. O zi bună.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
@@ -552,30 +583,6 @@ Va multumim!</description>
 O ambulanta a trebuit sa schimbe ruta pentru ca nu avea loc
 
 Locatie: aleea buhusi nr 2 langa statia electrica.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275210</link>
-    <guid isPermaLink="false">CAS-0275210</guid>
-    <pubDate>Wed, 18 Nov 2026 16:52:38 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașina parcată neregulamentar</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275209</link>
-    <guid isPermaLink="false">CAS-0275209</guid>
-    <pubDate>Wed, 18 Nov 2026 16:41:39 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>toate pubelele sunt pline și se depozitează și pe lângă</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275208</link>
-    <guid isPermaLink="false">CAS-0275208</guid>
-    <pubDate>Wed, 18 Nov 2026 16:36:07 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto parcat pe zona hasurata</description>
   </item>
 </channel>
 </rss>

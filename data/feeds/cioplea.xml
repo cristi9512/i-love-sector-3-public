@@ -6,12 +6,41 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <title>Trasare parcare · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275270</link>
+    <guid isPermaLink="false">CAS-0275270</guid>
+    <pubDate>Thu, 19 Nov 2026 05:30:47 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Rog marcare a aceatui loc ca nenominal.
+pe 18 Noiembrie a venit echipa si a marcat fix locul de langa si pe acesta nu.
+
+mulțumesc</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275269</link>
+    <guid isPermaLink="false">CAS-0275269</guid>
+    <pubDate>Thu, 19 Nov 2026 05:22:39 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>autovehicule parcate in interiorul intersectiei</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275268</link>
+    <guid isPermaLink="false">CAS-0275268</guid>
+    <pubDate>Thu, 19 Nov 2026 05:21:54 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>autovehicule parcate in zona de stationare interzisa</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275265</link>
     <guid isPermaLink="false">CAS-0275265</guid>
     <pubDate>Thu, 19 Nov 2026 04:33:46 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Autoturismului reclamat i s-a aplicat înștiințare. O zi bună.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
@@ -598,39 +627,6 @@ La data si ora efectuarii verificarilor aspectele sesizate se confirma, asupra a
     <pubDate>Sun, 15 Nov 2026 19:03:06 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>autovehicule parcate in interiorul intersectiei</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274444</link>
-    <guid isPermaLink="false">CAS-0274444</guid>
-    <pubDate>Sun, 15 Nov 2026 18:33:16 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-10, precum și pentru zonele B-7,B-8,B-9,
-
-Răspuns: PENTRU A PRELUA ȘI VERIFICA SESIZAREA DUMNEAVOASTRĂ 
-ESTE NECESAR SĂ TRANSMITETI CEL PUTIN O FOTOGRAFIE.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274441</link>
-    <guid isPermaLink="false">CAS-0274441</guid>
-    <pubDate>Sun, 15 Nov 2026 18:27:47 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La data si ora efectuarii verificarilor aspectele sesizate se ocnfirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274434</link>
-    <guid isPermaLink="false">CAS-0274434</guid>
-    <pubDate>Sun, 15 Nov 2026 18:19:26 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La data si ora efectuarii verificarilor aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>
