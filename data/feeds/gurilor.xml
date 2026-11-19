@@ -6,6 +6,31 @@
   <description>Cele mai noi sesizări din zona Gurilor</description>
   <language>ro</language>
   <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275260</link>
+    <guid isPermaLink="false">CAS-0275260</guid>
+    <pubDate>Thu, 19 Nov 2026 00:10:16 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Nu există trotuar pentru pietoni și suntem nevoiti sa mergem pe carosabil, iar pe timp de noapte este periculos, mai ales că nu este nici lumina stradală!</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275259</link>
+    <guid isPermaLink="false">CAS-0275259</guid>
+    <pubDate>Thu, 19 Nov 2026 00:08:54 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Nu există trotuar pentru pietoni pe partea complexului Romco și strada nu se poate folosi pe timp de ploaie, fiind inundată de la primele minute de averse. 
+Ca pieton trebuie să ieși în cizme.</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275258</link>
+    <guid isPermaLink="false">CAS-0275258</guid>
+    <pubDate>Thu, 19 Nov 2026 00:05:24 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Pe partea complexului rezidențial în care locuiesc nu există trotuar și de asemenea se inundă mereu strada încât nu poți ieși pe jos.</description>
+  </item>
+  <item>
     <title>Parcuri · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275240</link>
     <guid isPermaLink="false">CAS-0275240</guid>
@@ -609,32 +634,6 @@ Răspuns: AM APLICAT MASURILE LEGALE </description>
     <description>Parcare ilegala, blocare cale de acces !!!
 
 Răspuns: AM APLICAT MASURILE LEGALE </description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272906</link>
-    <guid isPermaLink="false">CAS-0272906</guid>
-    <pubDate>Mon, 09 Nov 2026 18:53:45 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Parcare ilegala, blocare cale de acces !!!</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Favorabil · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272905</link>
-    <guid isPermaLink="false">CAS-0272905</guid>
-    <pubDate>Mon, 09 Nov 2026 18:53:08 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Parcare ilegala, blocare cale de acces !!!
-
-Răspuns: AM APLICAT MASURILE LEGALE </description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272904</link>
-    <guid isPermaLink="false">CAS-0272904</guid>
-    <pubDate>Mon, 09 Nov 2026 18:52:29 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>Parcare ilegala, blocare cale de acces !!!</description>
   </item>
 </channel>
 </rss>
