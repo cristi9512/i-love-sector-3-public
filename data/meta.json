@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T16:45:36.850Z",
-  "lastChange": "2026-11-19T16:45:36.850Z",
+  "lastRun": "2026-11-19T17:01:00.155Z",
+  "lastChange": "2026-11-19T17:01:00.155Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2660,
-    "added": 8,
-    "updated": 3,
+    "fetched": 2880,
+    "added": 2,
+    "updated": 1,
     "removed": 0,
-    "changes": 7
+    "changes": 3
   },
   "totals": {
-    "incidents": 46077,
-    "open": 2063,
+    "incidents": 46079,
+    "open": 2064,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T16:45:36.850Z",
+    "asOf": "2026-11-19T17:01:00.155Z",
     "days": 30,
-    "open": 2063,
-    "total": 189,
+    "open": 2064,
+    "total": 190,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 62,
+        "open": 61,
         "n": 7
       },
       "3": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 217,
+        "open": 218,
         "n": 10
       },
       "10": {
@@ -118,7 +118,7 @@
       "20": {
         "name": "Terenuri insalubre",
         "open": 19,
-        "n": 3
+        "n": 4
       },
       "21": {
         "name": "Reabilitare blocuri",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 536,
+        "open": 537,
         "n": 2
       },
       "32": {

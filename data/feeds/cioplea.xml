@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275467</link>
+    <guid isPermaLink="false">CAS-0275467</guid>
+    <pubDate>Thu, 19 Nov 2026 16:56:20 GMT</pubDate>
+    <category>Altele</category>
+    <description>Stalpi iluminat stradal palpaie in fiecare seara, sunt cel putin 3 pe partea dinspre parcul IOR</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275464</link>
     <guid isPermaLink="false">CAS-0275464</guid>
@@ -584,16 +592,6 @@ Răspuns: La  fata  locului  au fost  dispuse  masurile  legale conform OUG 195/
     <description>autovehicule parcate in zona de stationare interzisa
 
 Răspuns: In locatie  au fost  dispuse  masurile  legale  conform OUG 195 /2002 r</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274774</link>
-    <guid isPermaLink="false">CAS-0274774</guid>
-    <pubDate>Tue, 17 Nov 2026 04:11:31 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO DIN IMAGINE LA CARE SE FACE REFERIRE IN SESIZAREA D-VOASTRA DETINE AUTORIZATIE VALABILA NENOMINALA.</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275468</link>
+    <guid isPermaLink="false">CAS-0275468</guid>
+    <pubDate>Thu, 19 Nov 2026 16:57:36 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masini care blocheaza traficul pietonal</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275467</link>
+    <guid isPermaLink="false">CAS-0275467</guid>
+    <pubDate>Thu, 19 Nov 2026 16:56:20 GMT</pubDate>
+    <category>Altele</category>
+    <description>Stalpi iluminat stradal palpaie in fiecare seara, sunt cel putin 3 pe partea dinspre parcul IOR</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275466</link>
     <guid isPermaLink="false">CAS-0275466</guid>
@@ -488,12 +504,14 @@ Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 16.20
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275412</link>
     <guid isPermaLink="false">CAS-0275412</guid>
     <pubDate>Thu, 19 Nov 2026 14:10:17 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AUTO DIN SESIZARE ARE NR DE INMATRICULARE GRESIT,AUTO CARE ESTE PARCAT PE B6 DETINE AUTORIZATIE PTR LOC DE PARCARE NENOMINAL</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
@@ -518,25 +536,6 @@ Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 16.20
     <pubDate>Thu, 19 Nov 2026 14:07:39 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275408</link>
-    <guid isPermaLink="false">CAS-0275408</guid>
-    <pubDate>Thu, 19 Nov 2026 14:03:08 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Buna ziua 
-Va rog sa desfiintati acest stalp amplasat pe mijlocul trotuarului pe strada Drm. Malu Mierii, aproape de intersectia cu strada Vitioara. Este un pericol pentru copilasi. Aseara a dat fiica mea de 4 ani cu capul in el, noroc ca nu mergea mai repede ca ajungeam la urgente la cusut. 
-De ce ati pus aflisele acelea din tabla asa de jos, si mai sunt si taioase. 
-😡</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275407</link>
-    <guid isPermaLink="false">CAS-0275407</guid>
-    <pubDate>Thu, 19 Nov 2026 13:59:39 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>In parcul din fata blocului n5 pe camil ressu 35, sunt cativa copaci cu tepi care sunt periculosi. Va rog sa ii toaletati.</description>
   </item>
 </channel>
 </rss>
