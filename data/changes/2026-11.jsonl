@@ -2481,3 +2481,5 @@
 {"at":"2026-11-19T09:45:34.507Z","ticket":"CAS-0274864","field":"status","from":"O","to":"C"}
 {"at":"2026-11-19T09:45:34.507Z","ticket":"CAS-0274864","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-19T09:45:34.507Z","ticket":"CAS-0274864","field":"reply","from":"","to":"Luat la cunostinta rezolvat telefonic "}
+{"at":"2026-11-19T10:00:57.270Z","ticket":"CAS-0275347","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T10:00:57.270Z","ticket":"CAS-0275348","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
