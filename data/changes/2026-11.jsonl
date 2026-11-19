@@ -2789,3 +2789,9 @@
 {"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275413","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-19T17:15:37.661Z","ticket":"CAS-0275413","field":"reply","from":"","to":"Nespecificat Registratura LA ORA VERIFICARII AUTO NU SE MAI AFLĂ IN LOCATIE"}
 {"at":"2026-11-19T17:30:51.746Z","ticket":"CAS-0275476","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-19T17:45:36.375Z","ticket":"CAS-0275461","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T17:45:36.375Z","ticket":"CAS-0275461","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T17:45:36.375Z","ticket":"CAS-0275461","field":"reply","from":"","to":"Nespecificat Registratura AUTO LA CARE SE FACE REFERIRE A FOST DEPISTAT IN LOCATIE,AU FOST APLICATE MASURILE LEGALE."}
+{"at":"2026-11-19T17:45:36.375Z","ticket":"CAS-0275473","field":"status","from":"O","to":"C"}
+{"at":"2026-11-19T17:45:36.375Z","ticket":"CAS-0275473","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-19T17:45:36.375Z","ticket":"CAS-0275473","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost preluată și verificată la ora 19.30 constatând faptul că autovehiculul la care faceți referire detine autorizatie nenominala de parcare pentru  zona B-13, precum si pentru zonele B-12,B-14,B-16,C-7."}

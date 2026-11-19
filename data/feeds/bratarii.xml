@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Brățării</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · Noua · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275488</link>
+    <guid isPermaLink="false">CAS-0275488</guid>
+    <pubDate>Thu, 19 Nov 2026 17:45:03 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Bună ziua, locuiesc pe strada Brățării nr 79, în blocul Iram Residence și de 2 săptămâni nu mai am unde sa arunc gunoiul pentru ca ați luat pubelele de gunoi de aici, va rog frumos sa le aduceți înapoi. Mulțumesc frumos!</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Brățării</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275481</link>
     <guid isPermaLink="false">CAS-0275481</guid>
@@ -628,17 +636,6 @@ Răspuns: SESIZAREA DUMNEAVOASTRA SE CONFIRMA, AUTOTURISMUL IN CAUZA A FOST IDEN
     <description>stationare neregilamentara prim blocarea caii de acces in imobil
 
 Răspuns: Bună seara ! Vă multumim pentru sesizare.Verificările în teren se vor realiza în termenul legal,în functie de capacitatea tehnică,logistică și umană a SERVICIULUI CIRCULAȚIE.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Brățării</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0271508</link>
-    <guid isPermaLink="false">CAS-0271508</guid>
-    <pubDate>Wed, 04 Nov 2026 12:07:03 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Ați eliminat stâlpișorii de lângă trecerea de pietoni și ați retrasat. Acum oamenii folosesc locurile drept parcare în locul siguranței pietonilor.
-Toate astea în condițiile în care e o parcare mai mult goală de la primărie.
-
-Răspuns: AM APLICAT MASURILE LEGALE</description>
   </item>
 </channel>
 </rss>

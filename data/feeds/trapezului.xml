@@ -6,6 +6,38 @@
   <description>Cele mai noi sesizări din zona Trapezului</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275487</link>
+    <guid isPermaLink="false">CAS-0275487</guid>
+    <pubDate>Thu, 19 Nov 2026 17:40:36 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcat pe hasurata, fenteaza parcarile marcate</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275486</link>
+    <guid isPermaLink="false">CAS-0275486</guid>
+    <pubDate>Thu, 19 Nov 2026 17:35:40 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275485</link>
+    <guid isPermaLink="false">CAS-0275485</guid>
+    <pubDate>Thu, 19 Nov 2026 17:34:57 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275484</link>
+    <guid isPermaLink="false">CAS-0275484</guid>
+    <pubDate>Thu, 19 Nov 2026 17:33:55 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275438</link>
     <guid isPermaLink="false">CAS-0275438</guid>
@@ -593,45 +625,6 @@ Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A F
     <pubDate>Sat, 14 Nov 2026 11:54:51 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Buna ziua. Rog aplicati amenzi pentru soferii care stationeaza neregulamentar stationarea interzisa pe trotuar si sa ridicati mașinile. Reguli de circulatie si semne sunt aceleasi pentru toti. Exista locuri de parcare cu bani la bulevard sau langa. Noi nu platim ca prostii locuri de parcare sau dam sms-uri. Puteti sa ridicati aceste masini si avem bani suplimentari la buget primarie. Multumesc anticipat. Cristian..</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274164</link>
-    <guid isPermaLink="false">CAS-0274164</guid>
-    <pubDate>Sat, 14 Nov 2026 11:49:37 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună ziua. Vă rog ridicați mașinile parcate ilegal pe trotuare. Este haos.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274109</link>
-    <guid isPermaLink="false">CAS-0274109</guid>
-    <pubDate>Fri, 13 Nov 2026 20:44:17 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Avem nevoie de platformă pentru a debloca accesul în parcarea de pe Aleea Ninsorii 30A 
-Omul a zis că e loc să intrăm în parcare.</description>
-  </item>
-  <item>
-    <title>Altele · Rezolvată Favorabil · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274066</link>
-    <guid isPermaLink="false">CAS-0274066</guid>
-    <pubDate>Fri, 13 Nov 2026 17:19:03 GMT</pubDate>
-    <category>Altele</category>
-    <description>Pe strada Drumul Lunca Bisericii sunt văzuți frecvent câini vagabonzi. Mai mult de atât, intră periodic în parcul pentru copii de pe această stradă, devastează  zona pentru depozitare deșeuri și lasă excremente pe trotuar. 
-Vă rog să luați măsurile necesare. 
-Mulțumesc!
-
-Răspuns: Redirectionare extern redirecționată ASPA Raspunsul a fost trimis prin email catre cetatean.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274065</link>
-    <guid isPermaLink="false">CAS-0274065</guid>
-    <pubDate>Fri, 13 Nov 2026 17:17:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 22b
-
-Răspuns: LIPSA FOTOGRAFIE NECESARA VERIFICARII SI SOLUTIONARII SESIZARII;REVENITI CU SESIZAREA ATASAND MINIM O FOTOGRAFIE DIN CARE SA REIASA ATAT NUMARUL DE INMATRICULARE AL AUTOTURISMULUI CAT SI TIPUL DE PARCAJ. VA MULTUMIM!</description>
   </item>
 </channel>
 </rss>
