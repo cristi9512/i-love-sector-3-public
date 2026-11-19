@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Pallady</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275388</link>
+    <guid isPermaLink="false">CAS-0275388</guid>
+    <pubDate>Thu, 19 Nov 2026 12:31:59 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe strada Balta Doamnei paralel cu B dul Pallady din curbă și până în capăt sunt mașini parcate neregulamentar zilnic și obstrucționează apovizionarea și serviciile pentru tiruri</description>
+  </item>
+  <item>
     <title>Mașini ridicate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275387</link>
     <guid isPermaLink="false">CAS-0275387</guid>
@@ -134,12 +142,14 @@ Nu lucrează nimeni să pună în siguranță locul!!!</description>
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE OCUPA UN LOC DE PARCARE DE RESEDINTA NOMINAL, RESPECTIV LOCUL 80, COD PARCARE 2896, AVAND AFISAT LA LOC VIZIBIL, UN NUMAR DE CONTACT IN PARBRIZ. TOTODATA LA SOLICITAREA TITULARULUI, ACESTA ARE OBLIGATIA ELIBERARII LOCULUI DE PARCARE IN TERMEN DE 5 MINUTE.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275372</link>
     <guid isPermaLink="false">CAS-0275372</guid>
     <pubDate>Thu, 19 Nov 2026 11:16:43 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AUTO NU A MAI FOST GASIT IN LOCATIE</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
@@ -578,14 +588,6 @@ fotografia nu este elocventă.</description>
     <pubDate>Thu, 19 Nov 2026 08:59:10 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>De ani de zile aceleași probleme și același jeg lăsat în urmă cu pubelele blocului S24, cat mai toleram mizeria asta și lipsa de respect față de restul locatarilor din sector. E inadmisibil să folosească aceleași pubele sparte din care curge mereu jeg pe care nu îl adună nimeni. Vă rog să luați măsuri să nu se mai întâmple și să amendați asociația de proprietari. Țin se menționez ca pubelele sunt scoase și depozitate și câte 3 zile pe portuar până sunt ridicate.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275328</link>
-    <guid isPermaLink="false">CAS-0275328</guid>
-    <pubDate>Thu, 19 Nov 2026 08:58:36 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Nu se poate circula pe trotuar.</description>
   </item>
 </channel>
 </rss>

@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-19T12:30:51.624Z",
-  "lastChange": "2026-11-19T12:30:51.624Z",
+  "lastRun": "2026-11-19T12:45:34.980Z",
+  "lastChange": "2026-11-19T12:45:34.980Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2542,
-    "added": 5,
-    "updated": 5,
+    "fetched": 2806,
+    "added": 1,
+    "updated": 16,
     "removed": 0,
-    "changes": 15
+    "changes": 48
   },
   "totals": {
-    "incidents": 45998,
-    "open": 2034,
+    "incidents": 45999,
+    "open": 2019,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-19T12:30:51.624Z",
+    "asOf": "2026-11-19T12:45:34.980Z",
     "days": 30,
-    "open": 2034,
-    "total": 197,
+    "open": 2019,
+    "total": 188,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 57,
+        "open": 56,
         "n": 7
       },
       "3": {
@@ -42,8 +42,8 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 178,
-        "n": 19
+        "open": 175,
+        "n": 17
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 85,
+        "open": 84,
         "n": 2
       },
       "7": {
@@ -62,13 +62,13 @@
       },
       "9": {
         "name": "Altele",
-        "open": 217,
-        "n": 14
+        "open": 213,
+        "n": 10
       },
       "10": {
         "name": "Străzi",
-        "open": 426,
-        "n": 20
+        "open": 420,
+        "n": 17
       },
       "11": {
         "name": "Parcuri",
@@ -142,12 +142,12 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 517,
+        "open": 518,
         "n": 2
       },
       "32": {
         "name": "Rampe de acces persoane cu dizabilitati",
-        "open": 8,
+        "open": 7,
         "n": 1
       }
     }
