@@ -6,7 +6,16 @@
   <description>Cele mai noi sesizări din zona Trapezului</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Trapezului</title>
+    <title>Stationare neregulamentara · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275573</link>
+    <guid isPermaLink="false">CAS-0275573</guid>
+    <pubDate>Fri, 20 Nov 2026 05:47:29 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare neregulamentara. incurca circulatia 
+B196PTC</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275571</link>
     <guid isPermaLink="false">CAS-0275571</guid>
     <pubDate>Fri, 20 Nov 2026 05:44:45 GMT</pubDate>
@@ -624,15 +633,6 @@ Mulțumim domn&apos; primar!</description>
     <pubDate>Sat, 14 Nov 2026 14:32:19 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>solicit aplicarea sancțiunilor prevăzute în lege ȘI MONTAREA DE STÂLPIȘORI CARE SĂ PREVINĂ ASTFEL DE STAȚIONĂRI NEREGULAMENTARE ÎN VIITOR. Bineînțeles, solicit ca organele de poliție să facă mai des ture în cartier pentru a amenda astfel de abateri</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274186</link>
-    <guid isPermaLink="false">CAS-0274186</guid>
-    <pubDate>Sat, 14 Nov 2026 13:34:50 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Doresc sa sesizez ca autocarul este parcat neregulamentar pe trotuar. Nu am putut folosi trotruarul.
-multumesc</description>
   </item>
 </channel>
 </rss>
