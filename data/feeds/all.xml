@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275755</link>
+    <guid isPermaLink="false">CAS-0275755</guid>
+    <pubDate>Fri, 20 Nov 2026 16:55:23 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>acces blocat la trotuar, iar la sinele de tren se poate circula pe un singur sens.</description>
+  </item>
+  <item>
+    <title>Ordine și liniște publică · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275754</link>
+    <guid isPermaLink="false">CAS-0275754</guid>
+    <pubDate>Fri, 20 Nov 2026 16:53:31 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>Vizavi de Kebap Socului pe Bulevardul 1 Decembrie in sectorul 3 , angajații spălătoriei auto folosesc frecvent petarde ce produc un zgomot infernal</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275753</link>
     <guid isPermaLink="false">CAS-0275753</guid>
@@ -87,12 +103,14 @@ Luați tată măsuri.</description>
     <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275743</link>
     <guid isPermaLink="false">CAS-0275743</guid>
     <pubDate>Fri, 20 Nov 2026 16:20:21 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE DE PARCARE PENTRU LOCURILE NENOMINALE ZONA``B-11``. VA MULTUMIM!</description>
   </item>
   <item>
     <title>Străzi · În lucru · Vitan</title>
@@ -145,12 +163,14 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE F
     <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275736</link>
     <guid isPermaLink="false">CAS-0275736</guid>
     <pubDate>Fri, 20 Nov 2026 16:05:15 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 27</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 27
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA ,ORELE 18.45,AUTO LA CARE FACETI REFERIRE FIIND IDENTIFICAT IN LOCTIE.AMINTOCMIT PROCES VERBAL DE CONSTATARE SI APLICAT INSTINTARE IN PARBRIZ CONF.346/2022.</description>
   </item>
   <item>
     <title>Trasare parcare · În lucru · Dudeşti</title>
@@ -514,22 +534,6 @@ Răspuns: CONFIRMAM CELE RELATATE.</description>
     <pubDate>Fri, 20 Nov 2026 13:42:11 GMT</pubDate>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>Degeaba mutam masini pentru curatenia parcarilor, daca pe trotuarul din spatele masinilor exista munti de frunze. La ce folos sa stea rotile masinilor in curatenie, iar noi cetatenii care achitam tarif de parcare, sa calcam in munti de frunze? Foarte ineficienta acesta operatiune.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275695</link>
-    <guid isPermaLink="false">CAS-0275695</guid>
-    <pubDate>Fri, 20 Nov 2026 13:41:40 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Degeaba mutam masini pentru curatenia parcarilor, daca pe trotuarul din spatele masinilor exista munti de frunze. La ce folos sa stea rotile masinilor in curatenie, iar noi cetatenii care achitam tarif de parcare, sa calcam in munti de frunze? Foarte ineficienta acesta operatiune.</description>
-  </item>
-  <item>
-    <title>Parcuri · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275694</link>
-    <guid isPermaLink="false">CAS-0275694</guid>
-    <pubDate>Fri, 20 Nov 2026 13:30:11 GMT</pubDate>
-    <category>Parcuri</category>
-    <description>stalpul din parcul de la intersectie prevederii cu nicolae grigorescu sta sa cada in capul cuiva</description>
   </item>
 </channel>
 </rss>
