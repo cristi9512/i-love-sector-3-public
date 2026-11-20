@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cartierul Evreiesc</description>
   <language>ro</language>
   <item>
+    <title>Străzi · Noua · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275657</link>
+    <guid isPermaLink="false">CAS-0275657</guid>
+    <pubDate>Fri, 20 Nov 2026 10:30:25 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminatul public nu funcționează. Strada e în beznă seara și nu te simți deloc în siguranță.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275617</link>
     <guid isPermaLink="false">CAS-0275617</guid>
@@ -604,16 +612,6 @@ Răspuns: AUTO LA CARE SE FACE REFERIRE NU SE MAI AFLA IN LOCATIE </description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AUTO A FOST GASIT IN LOCATIE S-A INTOCMIT DOCUMENTATIA PENTRU A FI SANCTIONAT</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0271331</link>
-    <guid isPermaLink="false">CAS-0271331</guid>
-    <pubDate>Tue, 03 Nov 2026 18:08:47 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO LA CARE SE FACE REFERIRE NU SE MAI AFLA IN LOCATIE </description>
   </item>
 </channel>
 </rss>

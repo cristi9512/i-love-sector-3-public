@@ -6,12 +6,38 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Dristor</title>
+    <title>Străzi · Noua · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275657</link>
+    <guid isPermaLink="false">CAS-0275657</guid>
+    <pubDate>Fri, 20 Nov 2026 10:30:25 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminatul public nu funcționează. Strada e în beznă seara și nu te simți deloc în siguranță.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275656</link>
+    <guid isPermaLink="false">CAS-0275656</guid>
+    <pubDate>Fri, 20 Nov 2026 10:24:39 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275655</link>
+    <guid isPermaLink="false">CAS-0275655</guid>
+    <pubDate>Fri, 20 Nov 2026 10:22:27 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275654</link>
     <guid isPermaLink="false">CAS-0275654</guid>
     <pubDate>Fri, 20 Nov 2026 10:07:39 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Autoturismului reclamat i s-a aplicat înștiințare.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
@@ -289,14 +315,16 @@ Va multumesc anticipat.</description>
     <description>Parcare neregulamentara</description>
   </item>
   <item>
-    <title>Străzi · În lucru · Dudeşti</title>
+    <title>Străzi · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275621</link>
     <guid isPermaLink="false">CAS-0275621</guid>
     <pubDate>Fri, 20 Nov 2026 08:16:26 GMT</pubDate>
     <category>Străzi</category>
     <description>Buna ziua , daca locul de parcare nominal pe care il am atribuit este ocupat si fac sesizare la politia locala, trebuie sa prezint autorizatia de parcare, cartea de identitate 
 E obligatoriu sa fie prezent si autoturismul care este trecut in autorizatie , sau sunt suficiente autorizatia si cartea de identitate?
-Ms</description>
+Ms
+
+Răspuns: Trimis raspuns Potrivit HCLS3 nr.346/2022, da trebuie ca la data controlului autoturismul să fie la fața locului. </description>
   </item>
   <item>
     <title>Parcuri · În lucru · Balta Albă - Titan</title>
@@ -360,12 +388,14 @@ Răspuns: In urma verificarilor autoturismul in cauza a fost identificat in loca
     <description>parcare neregulamentara în fața garajului împiedică accesul, pe strada plutonier maj.Marin Pazon nr.43 vă rog să mă ajutați</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275613</link>
     <guid isPermaLink="false">CAS-0275613</guid>
     <pubDate>Fri, 20 Nov 2026 07:40:01 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Blocheaza vizibilitatea la trecerea d epietoni si refuza sa mute masina</description>
+    <description>Blocheaza vizibilitatea la trecerea d epietoni si refuza sa mute masina
+
+Răspuns: Auto  a  parasit locatia </description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Malaxa - Faur</title>
@@ -505,38 +535,6 @@ Mioara</description>
     <pubDate>Fri, 20 Nov 2026 07:03:12 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Masini trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275597</link>
-    <guid isPermaLink="false">CAS-0275597</guid>
-    <pubDate>Fri, 20 Nov 2026 07:00:18 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>In fiecare dimineata aceast domn blocheaza trotuarul pentru aprovizionare.
-
-Este parcare normala langa, e singurul caruia nu i se pare nimic ciudat sa te sui pe trecerea de pietoni si cu masina pe trotuar.
-
-Cei de la shaormerie s-au extins pe trotuar, probabil ilegal cu tot felul de panouri si mese făcând accesul si mai ridicol.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275596</link>
-    <guid isPermaLink="false">CAS-0275596</guid>
-    <pubDate>Fri, 20 Nov 2026 06:58:23 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: In urma analizarii sesizarii am constatat lipsa fotografiei din care sa reiasa tipul parcajului de resedinta si numarul de inmatriculare al autoturismului reclamat.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275595</link>
-    <guid isPermaLink="false">CAS-0275595</guid>
-    <pubDate>Fri, 20 Nov 2026 06:45:59 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina ilegal parcata
-
-Răspuns: Auto a parasit locatia.</description>
   </item>
 </channel>
 </rss>
