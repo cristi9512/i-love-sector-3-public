@@ -3374,3 +3374,11 @@
 {"at":"2026-11-20T13:15:36.525Z","ticket":"CAS-0275660","field":"status","from":"O","to":"C"}
 {"at":"2026-11-20T13:15:36.525Z","ticket":"CAS-0275660","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-20T13:15:36.525Z","ticket":"CAS-0275660","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE.VA MULTUMIM!"}
+{"at":"2026-11-20T13:30:54.278Z","ticket":"CAS-0275692","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-20T13:30:54.278Z","ticket":"CAS-0275691","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-20T13:30:54.278Z","ticket":"CAS-0275687","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T13:30:54.278Z","ticket":"CAS-0275687","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-20T13:30:54.278Z","ticket":"CAS-0275687","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 15.29,AUTO LA CARE FACETI REFERIRE NU SE AFLA PARCAT PE UN LOC NENOMINAL ,MARCAT CORESPUNZATOR ,VA MULTUMIM."}
+{"at":"2026-11-20T13:30:54.278Z","ticket":"CAS-0275683","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T13:30:54.278Z","ticket":"CAS-0275683","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-20T13:30:54.278Z","ticket":"CAS-0275683","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA ,ORELE 15.15,INSA AUTO LA CARE FACETI REFERIRE NU SE AFLA PARCAT PE UN LOC MARCAT LA SOL CA SI NENOMINAL.VA MULTUMIM."}

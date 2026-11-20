@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Străzi · Noua · Vitan</title>
+    <title>Parcuri · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275694</link>
+    <guid isPermaLink="false">CAS-0275694</guid>
+    <pubDate>Fri, 20 Nov 2026 13:30:11 GMT</pubDate>
+    <category>Parcuri</category>
+    <description>stalpul din parcul de la intersectie prevederii cu nicolae grigorescu sta sa cada in capul cuiva</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275693</link>
+    <guid isPermaLink="false">CAS-0275693</guid>
+    <pubDate>Fri, 20 Nov 2026 13:26:51 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare neregulamentara frecventa</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275692</link>
     <guid isPermaLink="false">CAS-0275692</guid>
     <pubDate>Fri, 20 Nov 2026 13:15:23 GMT</pubDate>
@@ -17,7 +33,7 @@ Acum am încercat să port un dialog civilizat însă persoana aceea refuză să
 Multumesc !</description>
   </item>
   <item>
-    <title>Parcari ocupate · Noua · Ozana</title>
+    <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275691</link>
     <guid isPermaLink="false">CAS-0275691</guid>
     <pubDate>Fri, 20 Nov 2026 13:15:17 GMT</pubDate>
@@ -65,12 +81,14 @@ Irina Drexler</description>
     <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275687</link>
     <guid isPermaLink="false">CAS-0275687</guid>
     <pubDate>Fri, 20 Nov 2026 12:41:10 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 15.29,AUTO LA CARE FACETI REFERIRE NU SE AFLA PARCAT PE UN LOC NENOMINAL ,MARCAT CORESPUNZATOR ,VA MULTUMIM.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
@@ -100,12 +118,14 @@ Solicit verificarea și ridicarea acesteia, întrucât încurcă traficul.
 Vă mulțumesc!</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275683</link>
     <guid isPermaLink="false">CAS-0275683</guid>
     <pubDate>Fri, 20 Nov 2026 12:27:22 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA ,ORELE 15.15,INSA AUTO LA CARE FACETI REFERIRE NU SE AFLA PARCAT PE UN LOC MARCAT LA SOL CA SI NENOMINAL.VA MULTUMIM.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
@@ -516,23 +536,6 @@ Motivul solicitării: arborele este uscat partial, bolnav, prezintă risc de că
     <description>Kia Sportage culoare neagra B617EDY stationeaza neregulamentar fara sa plateasca tariful pentru stationare !!
 
 Răspuns: Nu a fost identificat auto în locatie,filmarea nu se înţelege.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275634</link>
-    <guid isPermaLink="false">CAS-0275634</guid>
-    <pubDate>Fri, 20 Nov 2026 08:46:13 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Crengi uscate deasupra trotuarului.
-Domnii care toaleteaza acum arborii au trecut pe aici, dar nu l-au toaletat inca si pe acesta. Voiam sa ma asigur ca il au in vedere. Multumim.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275633</link>
-    <guid isPermaLink="false">CAS-0275633</guid>
-    <pubDate>Fri, 20 Nov 2026 08:40:08 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare neregulamentara</description>
   </item>
 </channel>
 </rss>

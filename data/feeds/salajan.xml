@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcuri · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275694</link>
+    <guid isPermaLink="false">CAS-0275694</guid>
+    <pubDate>Fri, 20 Nov 2026 13:30:11 GMT</pubDate>
+    <category>Parcuri</category>
+    <description>stalpul din parcul de la intersectie prevederii cu nicolae grigorescu sta sa cada in capul cuiva</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275676</link>
     <guid isPermaLink="false">CAS-0275676</guid>
@@ -577,14 +585,6 @@ Răspuns: Buna seara . Am preluat si vrificat sesizarea dumneavoastra. S-a intoc
     <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona C-2, precum și pentru zonele B-11,C-1,C-3,D-1,
 
 Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 19.45 constatînd faptul că autoturismul reclamat deține autorizație valabilă de parcare pentru zona de  parcare C-2 și zonele vecine B-11, C-1, C-3, D-1 nefiind necesare măsuri administrative.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274952</link>
-    <guid isPermaLink="false">CAS-0274952</guid>
-    <pubDate>Tue, 17 Nov 2026 17:17:03 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Logan de taxi este parcat pe zona hasurata si obstructioneaza vizibilitatea. de asemenea, ocupa si o porțiune de trotuar, dupa cum se vede si in imagine.</description>
   </item>
 </channel>
 </rss>
