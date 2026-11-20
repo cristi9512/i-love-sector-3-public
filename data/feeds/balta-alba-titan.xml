@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275739</link>
+    <guid isPermaLink="false">CAS-0275739</guid>
+    <pubDate>Fri, 20 Nov 2026 16:11:07 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare pe loc nepermis/hasurat</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275736</link>
+    <guid isPermaLink="false">CAS-0275736</guid>
+    <pubDate>Fri, 20 Nov 2026 16:05:15 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 27</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275731</link>
     <guid isPermaLink="false">CAS-0275731</guid>
@@ -590,24 +606,6 @@ Răspuns: In locatie  au  fost  dispuse  masurile  legale  conform  OUG 195/2002
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA ,ORELE 09.15,AUTO LA CARE FACETI REFERIRE FIIND IDENTIFICAT IN LOCATIE.AM APLICAT SANCTIUNE CONF.346/2022,CONDUCATORUL AUTO A VENIT LA FATA LOCULUI.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275290</link>
-    <guid isPermaLink="false">CAS-0275290</guid>
-    <pubDate>Thu, 19 Nov 2026 06:27:44 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Pe Intrarea Badeni Nr 4 bl. T 6 este aruncat zilnic gunoiul langa pubela. Va rog sa verificati pe camera video instalata langa cine face acest lucru! VERIFICATI SI DACA INSTALATIA VIDEO FUNCTIONEAZA, pentru ca nu pare! Multumesc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275286</link>
-    <guid isPermaLink="false">CAS-0275286</guid>
-    <pubDate>Thu, 19 Nov 2026 06:19:08 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masini parcate neregilamentar pe trotuar...copii n au pe une merge la scoala.
-
-Răspuns: Au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>

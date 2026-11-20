@@ -6,6 +6,47 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275739</link>
+    <guid isPermaLink="false">CAS-0275739</guid>
+    <pubDate>Fri, 20 Nov 2026 16:11:07 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare pe loc nepermis/hasurat</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275738</link>
+    <guid isPermaLink="false">CAS-0275738</guid>
+    <pubDate>Fri, 20 Nov 2026 16:09:39 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masini parcate pe trotuar. Strada Ilioara nr 8</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275737</link>
+    <guid isPermaLink="false">CAS-0275737</guid>
+    <pubDate>Fri, 20 Nov 2026 16:07:26 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275736</link>
+    <guid isPermaLink="false">CAS-0275736</guid>
+    <pubDate>Fri, 20 Nov 2026 16:05:15 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 27</description>
+  </item>
+  <item>
+    <title>Trasare parcare · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275735</link>
+    <guid isPermaLink="false">CAS-0275735</guid>
+    <pubDate>Fri, 20 Nov 2026 16:01:01 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Bună seara, in cazul in care locul meu de parcare nominal este ocupat si apelez Politia Locală pt a identifica si elibera locul, trebuie sa prezint autorizatia de parcare si cartea de identitate.E nevoie sa fie si autoturismul pt care este autorizata parcarea?
+Multumesc</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275734</link>
     <guid isPermaLink="false">CAS-0275734</guid>
@@ -504,46 +545,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA ,ORELE 15.15,INSA AUTO
     <pubDate>Fri, 20 Nov 2026 12:19:04 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Masina parcata neregulamentar care blocheaza accesul pe loc de parcare nenominal</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275679</link>
-    <guid isPermaLink="false">CAS-0275679</guid>
-    <pubDate>Fri, 20 Nov 2026 12:13:06 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina este parcata neregulamentar si blocheaza vizibilitatea, pericol de accident</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275678</link>
-    <guid isPermaLink="false">CAS-0275678</guid>
-    <pubDate>Fri, 20 Nov 2026 12:06:31 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Pe str.Intrarea Bârsei nr.4 bl.G.8 sc.2 în capătul blocului se parchează autoturisme pe carosabil, faptă care îngreunează accesul în și din parcarea din imediata apropiere inclusiv traficul auto datorită îngustării carosabilului.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275677</link>
-    <guid isPermaLink="false">CAS-0275677</guid>
-    <pubDate>Fri, 20 Nov 2026 12:05:55 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Nu-mi pot parca masina de el</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275676</link>
-    <guid isPermaLink="false">CAS-0275676</guid>
-    <pubDate>Fri, 20 Nov 2026 12:02:44 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua! Iluminatul stradal este defect pe Bulevardul Nicolae Grigorescu la numarul 34.</description>
-  </item>
-  <item>
-    <title>Comerț stradal neautorizat · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275675</link>
-    <guid isPermaLink="false">CAS-0275675</guid>
-    <pubDate>Fri, 20 Nov 2026 11:49:20 GMT</pubDate>
-    <category>Comerț stradal neautorizat</category>
-    <description>Aceleași probleme zilnice de vânzare ambulantă ideală ar fi montarea unor camere de supraveghere pe tot tunel către piață așa cum sunt monitorizate ghenele de gunoi exterioare deoarece aici acest fenomen nu va dispărea,voi căuta să trimit aceste poze și Primarului de sector pentru găsirea unei soluții și a intensifica controalele pe acest segment</description>
   </item>
 </channel>
 </rss>

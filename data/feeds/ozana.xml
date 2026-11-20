@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275737</link>
+    <guid isPermaLink="false">CAS-0275737</guid>
+    <pubDate>Fri, 20 Nov 2026 16:07:26 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Ordine și liniște publică · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275717</link>
     <guid isPermaLink="false">CAS-0275717</guid>
@@ -594,14 +602,6 @@ Răspuns: Trimis raspuns Buna ziua,
 Aspectele care intra in aria de competenta a Directiei Generale de Salubritate Sector 3, au fost transmise echipelor operationale din teren in vederea solutionarii.
 Cu stima,
  </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275055</link>
-    <guid isPermaLink="false">CAS-0275055</guid>
-    <pubDate>Wed, 18 Nov 2026 06:26:24 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Va rugam frumos sa interveniti, aleea este blocata 90%, nu putem trece cu copiii pentru a-i duce la scoala/gradinita. Nesimtirea nu mai are limite!</description>
   </item>
 </channel>
 </rss>

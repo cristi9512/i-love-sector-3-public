@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Trasare parcare · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275735</link>
+    <guid isPermaLink="false">CAS-0275735</guid>
+    <pubDate>Fri, 20 Nov 2026 16:01:01 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Bună seara, in cazul in care locul meu de parcare nominal este ocupat si apelez Politia Locală pt a identifica si elibera locul, trebuie sa prezint autorizatia de parcare si cartea de identitate.E nevoie sa fie si autoturismul pt care este autorizata parcarea?
+Multumesc</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275728</link>
     <guid isPermaLink="false">CAS-0275728</guid>
@@ -572,16 +581,6 @@ Răspuns: au fost luate masurile legale</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: sesizare incompleta </description>
-  </item>
-  <item>
-    <title>Parcuri · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274922</link>
-    <guid isPermaLink="false">CAS-0274922</guid>
-    <pubDate>Tue, 17 Nov 2026 15:40:07 GMT</pubDate>
-    <category>Parcuri</category>
-    <description>Buna seara, 
-Becul de la felinarul din locul de joaca Parcul Caprei este ars de mult timp. Va rugam sa il inlocuiti. 
-Multumesc</description>
   </item>
 </channel>
 </rss>
