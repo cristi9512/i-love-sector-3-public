@@ -3410,3 +3410,5 @@
 {"at":"2026-11-20T15:45:39.465Z","ticket":"CAS-0275706","field":"status","from":"O","to":"C"}
 {"at":"2026-11-20T15:45:39.465Z","ticket":"CAS-0275706","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-20T15:45:39.465Z","ticket":"CAS-0275706","field":"reply","from":"","to":"Nespecificat Registratura AUTO RECLAMAT A FOST DEPISTAT IN LOCATIE,AU FOST APLICATE MASURILE LEGALE."}
+{"at":"2026-11-20T16:01:00.027Z","ticket":"CAS-0275726","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-20T16:01:00.027Z","ticket":"CAS-0275727","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}

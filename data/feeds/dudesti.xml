@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275728</link>
+    <guid isPermaLink="false">CAS-0275728</guid>
+    <pubDate>Fri, 20 Nov 2026 15:49:16 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275720</link>
     <guid isPermaLink="false">CAS-0275720</guid>
@@ -574,15 +582,6 @@ Răspuns: sesizare incompleta </description>
     <description>Buna seara, 
 Becul de la felinarul din locul de joaca Parcul Caprei este ars de mult timp. Va rugam sa il inlocuiti. 
 Multumesc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274908</link>
-    <guid isPermaLink="false">CAS-0274908</guid>
-    <pubDate>Tue, 17 Nov 2026 15:13:10 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 24 AHV pe loc marcat la sol ca fiind Oprire interzisă str.Agatha Bârsescu bloc V16-V17. Au fost mai multe sesizări în acest sens, mașina este în locație de peste 10 zile! FĂRĂ FINALITATE!
-Această sesizare va fi escaladată la foruri superioare!</description>
   </item>
 </channel>
 </rss>

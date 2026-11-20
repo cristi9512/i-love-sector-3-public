@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
-    <title>Spații verzi · Noua · Baba Novac</title>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275733</link>
+    <guid isPermaLink="false">CAS-0275733</guid>
+    <pubDate>Fri, 20 Nov 2026 15:53:37 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Am mai facut o sesizare in luna Mai, cu privire la lucrarile care au avut loc pe strada Doicesti si altele din zona, mi s-a comunicat ca cei de la haze vor reasfalta. Nici pana acum nu au intervenit. Aceste strazi dunt foarte inguste, masinile trec foarte aproape de pietoni si de mai multe ori, in incercarea de a ocoli gropile aproape m-au acrosat.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275729</link>
+    <guid isPermaLink="false">CAS-0275729</guid>
+    <pubDate>Fri, 20 Nov 2026 15:49:44 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masini parcate pe trotuar. intersectia Calea Calarasilor cu benzinaria MOL</description>
+  </item>
+  <item>
+    <title>Spații verzi · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275727</link>
     <guid isPermaLink="false">CAS-0275727</guid>
     <pubDate>Fri, 20 Nov 2026 15:45:09 GMT</pubDate>
@@ -689,25 +705,6 @@ Mulțumesc frumos!</description>
     <pubDate>Thu, 19 Nov 2026 06:12:02 GMT</pubDate>
     <category>Trasare parcare</category>
     <description>Parcare netrasata.Creeaza dispute si confuzii in privinta locurilor si accesului .Speram sa nu dureze inca 3 luni trasarea unor dungi pe asfalt.</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275277</link>
-    <guid isPermaLink="false">CAS-0275277</guid>
-    <pubDate>Thu, 19 Nov 2026 05:56:42 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>trotineta în mijlocul trecerii de pietoni dintre str Țiglina și bd. Decebal</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275276</link>
-    <guid isPermaLink="false">CAS-0275276</guid>
-    <pubDate>Thu, 19 Nov 2026 05:50:24 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna dimineata,
-va rog sa luati masuri.acel trotuar nu este utilizabil si se aduna si apa ca sa ingreuneze mersul copiilor in siguranta spre scoala.
-
-multumesc!</description>
   </item>
 </channel>
 </rss>
