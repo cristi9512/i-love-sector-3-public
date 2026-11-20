@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Toaletare/Tăiere arbori · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275659</link>
+    <guid isPermaLink="false">CAS-0275659</guid>
+    <pubDate>Fri, 20 Nov 2026 11:00:48 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Bună ziua. Vă rugăm reapectuos să ne ajutați cu toalerarea copacilor din gradina blocului S8, deoarece au un risc ridicat de a ceda la următoarele intemperii. Asociația de proprietari S8 vă mulțumește anticipat.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275658</link>
+    <guid isPermaLink="false">CAS-0275658</guid>
+    <pubDate>Fri, 20 Nov 2026 10:50:14 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autoturismul din imagine parcheaza regulat neregulamentar pe locul privat de parcare apartinand firmei AT Imob Solutions (CUI 46262069) situat la adresa str Anton Pann 19A. Pe langa pozele cu autoturismul atasez si cadastru locului de parcare.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275657</link>
     <guid isPermaLink="false">CAS-0275657</guid>
@@ -102,12 +118,14 @@ Zonele cele mai problematice sunt:
 3. Intrarea în complexul HILS Brauner (partea pietonală)</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dristor</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275646</link>
     <guid isPermaLink="false">CAS-0275646</guid>
     <pubDate>Fri, 20 Nov 2026 09:24:45 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Autoturismul reclamat nu este în locație.</description>
   </item>
   <item>
     <title>Altele · În lucru · Baba Novac</title>
@@ -515,26 +533,6 @@ De asemenea tot la iesirea din parcare este un trotuar pe care se parcheaza deas
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 39
 
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. LA LOCUL DE PARCARE S-A PREZENTAT CONDUCATORUL AUTOTURISMULUI FIIND SANCTIONAT CONTRAVENTIONAL IAR LOCUL DE PARCARE A FOST ELIBERAT.</description>
-  </item>
-  <item>
-    <title>Animale de companie · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275599</link>
-    <guid isPermaLink="false">CAS-0275599</guid>
-    <pubDate>Fri, 20 Nov 2026 07:04:18 GMT</pubDate>
-    <category>Animale de companie</category>
-    <description>Bună ziua,
-
-Vă rog să veniți în verificare pe Aleea Calistrat Hogaș. Proprietarii de câini nu strâng după ei.
-Mulțumesc,
-Mioara</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275598</link>
-    <guid isPermaLink="false">CAS-0275598</guid>
-    <pubDate>Fri, 20 Nov 2026 07:03:12 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masini trotuar</description>
   </item>
 </channel>
 </rss>

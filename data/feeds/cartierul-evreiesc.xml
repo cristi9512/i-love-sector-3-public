@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cartierul Evreiesc</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275658</link>
+    <guid isPermaLink="false">CAS-0275658</guid>
+    <pubDate>Fri, 20 Nov 2026 10:50:14 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Autoturismul din imagine parcheaza regulat neregulamentar pe locul privat de parcare apartinand firmei AT Imob Solutions (CUI 46262069) situat la adresa str Anton Pann 19A. Pe langa pozele cu autoturismul atasez si cadastru locului de parcare.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275657</link>
     <guid isPermaLink="false">CAS-0275657</guid>
@@ -602,16 +610,6 @@ Răspuns: AUTO LA CARE SE FACE REFERIRE NU SE MAI AFLA IN LOCATIE</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AUTO LA CARE SE FACE REFERIRE NU SE MAI AFLA IN LOCATIE </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0271332</link>
-    <guid isPermaLink="false">CAS-0271332</guid>
-    <pubDate>Tue, 03 Nov 2026 18:10:23 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO A FOST GASIT IN LOCATIE S-A INTOCMIT DOCUMENTATIA PENTRU A FI SANCTIONAT</description>
   </item>
 </channel>
 </rss>

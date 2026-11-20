@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Toaletare/Tăiere arbori · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275659</link>
+    <guid isPermaLink="false">CAS-0275659</guid>
+    <pubDate>Fri, 20 Nov 2026 11:00:48 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Bună ziua. Vă rugăm reapectuos să ne ajutați cu toalerarea copacilor din gradina blocului S8, deoarece au un risc ridicat de a ceda la următoarele intemperii. Asociația de proprietari S8 vă mulțumește anticipat.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275654</link>
     <guid isPermaLink="false">CAS-0275654</guid>
@@ -16,12 +24,14 @@
 Răspuns: Autoturismului reclamat i s-a aplicat înștiințare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dristor</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275646</link>
     <guid isPermaLink="false">CAS-0275646</guid>
     <pubDate>Fri, 20 Nov 2026 09:24:45 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Autoturismul reclamat nu este în locație.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Dristor</title>
@@ -594,14 +604,6 @@ Răspuns: consiliere telefonica </description>
     <description>Masinile cu numerele b85yes si b776ram obsructioneaza intoarcerea si incurca domeniul public zile la rand stationate in aceeasi zona
 
 Răspuns: LA MOMENTUL VERIFICARILOR IN LOCATIE,APECTELE SESIZATE SE CONFIRMA,AU FOST APLICATE DOUA INSTIINTARI</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274661</link>
-    <guid isPermaLink="false">CAS-0274661</guid>
-    <pubDate>Mon, 16 Nov 2026 14:53:51 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Pe strada Drumul Murgului 1 nu mai functioneaza iluminatul stradal de cel putin 2 saptamani. Pe langa faptul ca si inainte iluminatul nu era suficient, acum este deja periculos si ne deplasam cu lanternele pe strada. Va rugam rezolvati problema cat mai curand.</description>
   </item>
 </channel>
 </rss>
