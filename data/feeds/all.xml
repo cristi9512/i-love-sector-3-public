@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275771</link>
+    <guid isPermaLink="false">CAS-0275771</guid>
+    <pubDate>Fri, 20 Nov 2026 17:59:44 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Ordine și liniște publică · În lucru · Industriilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275770</link>
+    <guid isPermaLink="false">CAS-0275770</guid>
+    <pubDate>Fri, 20 Nov 2026 17:48:53 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>Va rog sa interveniti urgent la numarul 87J. Nu putem sa mai traim in zona cu asa vecini. Au petrecere in curte, galagie de se aude de la sute de metri si cel mai deranjant este bass ul, vibreaza casa cu noi, plang copii in casa, nu stim ce sa mai facem. Multumesc!</description>
+  </item>
+  <item>
     <title>Mediu/Calitatea Aerului · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275769</link>
     <guid isPermaLink="false">CAS-0275769</guid>
@@ -133,12 +149,14 @@ Va solicit sa trimiteti reprezentanti competenti pentru a verifica:
     <description>acces blocat la trotuar, iar la sinele de tren se poate circula pe un singur sens.</description>
   </item>
   <item>
-    <title>Ordine și liniște publică · În lucru · Ozana</title>
+    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275754</link>
     <guid isPermaLink="false">CAS-0275754</guid>
     <pubDate>Fri, 20 Nov 2026 16:53:31 GMT</pubDate>
     <category>Ordine și liniște publică</category>
-    <description>Vizavi de Kebap Socului pe Bulevardul 1 Decembrie in sectorul 3 , angajații spălătoriei auto folosesc frecvent petarde ce produc un zgomot infernal</description>
+    <description>Vizavi de Kebap Socului pe Bulevardul 1 Decembrie in sectorul 3 , angajații spălătoriei auto folosesc frecvent petarde ce produc un zgomot infernal
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 19:50. AM LUAT LEGATURA CU UN ANGAJAT DIN CADRUL SPALATORIEI CARUIA I-AM PUS IN ATENTIE PREVEDERILE LG 61/1991 IN PRIVINTA TULBURARII LINISTII SI ORDINII PUBLICE. LOCATIA VA RAMANE IN ATENTIA NOASTRA PENTRU REVERIFICARI PERIODICE .VA MULTUMIM!</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
@@ -500,23 +518,6 @@ Theodor Pallady Nr 35. Bl. N2 ,Sc2</description>
     <pubDate>Fri, 20 Nov 2026 15:08:02 GMT</pubDate>
     <category>Străzi</category>
     <description>Semn de circulație picat</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275711</link>
-    <guid isPermaLink="false">CAS-0275711</guid>
-    <pubDate>Fri, 20 Nov 2026 15:07:41 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Pe str Mugur Mugurel se parcheaza in mod constant neregulamentar la mai putin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit sanctionarea tuturor autoturismelor parcate neregulamentar.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275710</link>
-    <guid isPermaLink="false">CAS-0275710</guid>
-    <pubDate>Fri, 20 Nov 2026 14:59:43 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Bună ziua,
-As dori să solicit amplasarea măcar a unui coș de gunoi stradal pe trotuarul din jurul grădiniței 196. Nu există niciun loc unde să se poată arunca ceva, nici măcar pe străduțele adiacente. Este mereu plin de chiștoace și alte gunoaie pt că lumea nu are unde arunca cât timp așteaptă să ia copiii de la grădiniță. Mulțumesc</description>
   </item>
 </channel>
 </rss>
