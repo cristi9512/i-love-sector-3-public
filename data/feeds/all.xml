@@ -6,7 +6,39 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Lucrari edilitare alei/trotuare · Noua · Lipscani</title>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275824</link>
+    <guid isPermaLink="false">CAS-0275824</guid>
+    <pubDate>Fri, 20 Nov 2026 21:13:06 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-14, precum și pentru zonele B-12,B-13,B-17,B-5,</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275823</link>
+    <guid isPermaLink="false">CAS-0275823</guid>
+    <pubDate>Fri, 20 Nov 2026 21:12:37 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Ca deobicei,seara lumea parcheaza cum ii duce capul obstructionand vizibilitatea,nu te poti asigura si risti sa faci accident.Rog a se lua masurile legale de catre politia comunitara sau rutiera</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275822</link>
+    <guid isPermaLink="false">CAS-0275822</guid>
+    <pubDate>Fri, 20 Nov 2026 21:12:06 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-14, precum și pentru zonele B-12,B-13,B-17,B-5,</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275821</link>
+    <guid isPermaLink="false">CAS-0275821</guid>
+    <pubDate>Fri, 20 Nov 2026 21:03:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Lipscani</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275820</link>
     <guid isPermaLink="false">CAS-0275820</guid>
     <pubDate>Fri, 20 Nov 2026 21:00:48 GMT</pubDate>
@@ -14,7 +46,7 @@
     <description>Aici trotuarul pavat a fost avariat, acum exista gropi.</description>
   </item>
   <item>
-    <title>Parcari ocupate · Noua · Balta Albă - Titan</title>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275819</link>
     <guid isPermaLink="false">CAS-0275819</guid>
     <pubDate>Fri, 20 Nov 2026 20:59:57 GMT</pubDate>
@@ -502,38 +534,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE F
     <pubDate>Fri, 20 Nov 2026 17:32:39 GMT</pubDate>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>tokyo peste tot!</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275764</link>
-    <guid isPermaLink="false">CAS-0275764</guid>
-    <pubDate>Fri, 20 Nov 2026 17:31:54 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>pavele ca-n tokyo!</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275763</link>
-    <guid isPermaLink="false">CAS-0275763</guid>
-    <pubDate>Fri, 20 Nov 2026 17:29:39 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>astea sunt pavele alea care lasa apa sa treaca?</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275762</link>
-    <guid isPermaLink="false">CAS-0275762</guid>
-    <pubDate>Fri, 20 Nov 2026 17:20:34 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Sunt mai multe mașini aici pe trecerea de pietoni, lângă trecere și pe trotuar, dar 2 din ele sunt chiar pe trecere. Da.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275761</link>
-    <guid isPermaLink="false">CAS-0275761</guid>
-    <pubDate>Fri, 20 Nov 2026 17:19:24 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Este o mașină tip SUV alb chiar aici pe trotuar, în fața bancutei de lemn. Am stat puțin pe băncuță, m am uitat la ea și am reflectat asupra naturii umane, apoi am ajuns la concluzia ca este staționată neregulamentar.</description>
   </item>
 </channel>
 </rss>
