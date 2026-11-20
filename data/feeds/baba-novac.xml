@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Trasare parcare · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275638</link>
+    <guid isPermaLink="false">CAS-0275638</guid>
+    <pubDate>Fri, 20 Nov 2026 08:56:20 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Buna ziua, in urma lucrarilor de reparatii efectuate in parcarea aferenta blocului 34A, sc F, din Str.Campia Libertatii nr 64, este necesara retrasarea liniilor de parcare si numerotarea aferenta.Atasez poze in acest sens.Multumesc!</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275630</link>
     <guid isPermaLink="false">CAS-0275630</guid>
@@ -699,16 +707,6 @@ Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . AUTOTURISMUL LA CARE FACET
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . AUTOTURISMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT IN ZONA INDICATA . </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275227</link>
-    <guid isPermaLink="false">CAS-0275227</guid>
-    <pubDate>Wed, 18 Nov 2026 18:18:37 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . AUTOTURISMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT LA ADRESA INDICATA . </description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275636</link>
+    <guid isPermaLink="false">CAS-0275636</guid>
+    <pubDate>Fri, 20 Nov 2026 08:48:39 GMT</pubDate>
+    <category>Altele</category>
+    <description>trotuar blocat de lucrari</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275457</link>
     <guid isPermaLink="false">CAS-0275457</guid>
@@ -576,16 +584,6 @@ Vă mulțumesc!</description>
     <pubDate>Sat, 14 Nov 2026 12:51:39 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Pe strada Vulturilor, intre strada Traian si strada Parfumului, circulatia este aproape blocata din cauza masinilor parcate neregulamentar pe sosea. In unele parti abia este loc sa treaca o singura masina, desi strada are doua sensuri de circulatie.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274133</link>
-    <guid isPermaLink="false">CAS-0274133</guid>
-    <pubDate>Sat, 14 Nov 2026 06:00:49 GMT</pubDate>
-    <category>Altele</category>
-    <description>Revenire pentru CAS 0274071 - B 90 TRL si 
-CAS 0274078 -B 888YBZ pentru care s-a primit  raspuns : &quot;Nefavorabil - AJUNSI LA FATA LOCULUI SESIZAREA NU  SE  MAI CONFIRMA , AUTO CE FACEA OBIECTUL SESIZARI NU ESTE IN LOCATIE.&quot;
-Ca de obicei deja, informatiile transmise de Politie sun eronate, respectivele autoturime se aafla si acum ( la 12 ore de la sesizare) pe respectivele locuri de parcare. Avand in vedere ca ceasul este ora 8 nu mai are rost sa cobor pentru poze, respectivele auto au atorizatie 8-18. Dupa ora 18 insa pueti fi convinsi ca revin cu o nou sesizare, masinile nu s-au miscat de acolo de ceva vreme deja si banuiesc ca vor fi si dupa ora 18.</description>
   </item>
 </channel>
 </rss>
