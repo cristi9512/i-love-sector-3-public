@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275757</link>
+    <guid isPermaLink="false">CAS-0275757</guid>
+    <pubDate>Fri, 20 Nov 2026 17:06:43 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275756</link>
+    <guid isPermaLink="false">CAS-0275756</guid>
+    <pubDate>Fri, 20 Nov 2026 17:06:35 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcat artistic, pe mijlocul trotuarului.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275755</link>
     <guid isPermaLink="false">CAS-0275755</guid>
@@ -518,22 +534,6 @@ Răspuns: CONFIRMAM CELE RELATATE.</description>
     <pubDate>Fri, 20 Nov 2026 13:58:25 GMT</pubDate>
     <category>Mașini abandonate</category>
     <description>buna ziua! Având în vedere că în ziua de curățenie a zonei, anumite autoturisme nu sunt mutate conform regulamentului, va aduc la cunoștință că autoturismul cu numărul de înmatriculare B 03 NAM nu respectă aceste prevederi.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275697</link>
-    <guid isPermaLink="false">CAS-0275697</guid>
-    <pubDate>Fri, 20 Nov 2026 13:45:19 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Bună ziua, pe strada Cozla nu există efectiv trotuar iar cei 40 cm de pseudo trotuar sunt mai mereu ocupați de mașini. Vă rog amenajați trotuar cu pavelele specifice sectorului nostru. Merg zilnic cu căruciorul pe aici și vin din toate direcțiile peste noi. Multumesc</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275696</link>
-    <guid isPermaLink="false">CAS-0275696</guid>
-    <pubDate>Fri, 20 Nov 2026 13:42:11 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Degeaba mutam masini pentru curatenia parcarilor, daca pe trotuarul din spatele masinilor exista munti de frunze. La ce folos sa stea rotile masinilor in curatenie, iar noi cetatenii care achitam tarif de parcare, sa calcam in munti de frunze? Foarte ineficienta acesta operatiune.</description>
   </item>
 </channel>
 </rss>
