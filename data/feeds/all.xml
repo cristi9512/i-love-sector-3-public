@@ -6,7 +6,35 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Baba Novac</title>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275594</link>
+    <guid isPermaLink="false">CAS-0275594</guid>
+    <pubDate>Fri, 20 Nov 2026 06:44:04 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Rampe de acces persoane cu dizabilitati · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275593</link>
+    <guid isPermaLink="false">CAS-0275593</guid>
+    <pubDate>Fri, 20 Nov 2026 06:43:27 GMT</pubDate>
+    <category>Rampe de acces persoane cu dizabilitati</category>
+    <description>Bună dimineața ! 
+
+Această mașină îmi blochează accesul la scările către trotuarul înspre  grădinița ! În fiecare dimineață și seara zeci de părinți cu copii în brațe sau cărucioare trebuie să ocolească aceaste trepte. Mergând pe carosabil ne punem viața în pericol atât a copiilor cat și a noastră . Părinții care îi însoțim la grădiniță! Vă rog să montați ceva stâlpi pentru a micșora șansele de a mai parca cineva acolo ! 
+
+Vă mulțumesc !</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275592</link>
+    <guid isPermaLink="false">CAS-0275592</guid>
+    <pubDate>Fri, 20 Nov 2026 06:40:50 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 23</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275591</link>
     <guid isPermaLink="false">CAS-0275591</guid>
     <pubDate>Fri, 20 Nov 2026 06:30:26 GMT</pubDate>
@@ -544,35 +572,6 @@ La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra aut
 Răspuns: BUNA SEARA, 
 AM PLELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 01:18, SESIZAREA SE CONFIRMA. S-A INTOCMIT DOCUMENTATIA CONFORM LEGISLATIE IN VIGOARE.
 VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275534</link>
-    <guid isPermaLink="false">CAS-0275534</guid>
-    <pubDate>Thu, 19 Nov 2026 20:20:27 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturimsului reclamat au fost aplicate masurile legale!</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275533</link>
-    <guid isPermaLink="false">CAS-0275533</guid>
-    <pubDate>Thu, 19 Nov 2026 20:18:00 GMT</pubDate>
-    <category>Altele</category>
-    <description>Pe bdul 1 Decembrie 1918 nr 33, in fata la Penny Market si Mc Donald&apos;s nu functioneaza iluminatul stradal. Va rugam remediati de urgenta. Este bezna totala.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275532</link>
-    <guid isPermaLink="false">CAS-0275532</guid>
-    <pubDate>Thu, 19 Nov 2026 19:58:06 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost ridicat în baza HCLS3 nr.346/2022, locul de parcare fiind eliberat.</description>
   </item>
 </channel>
 </rss>

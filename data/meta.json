@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-20T06:30:46.858Z",
-  "lastChange": "2026-11-20T06:30:46.858Z",
+  "lastRun": "2026-11-20T06:45:35.810Z",
+  "lastChange": "2026-11-20T06:45:35.810Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2418,
-    "added": 7,
-    "updated": 3,
+    "fetched": 2691,
+    "added": 3,
+    "updated": 2,
     "removed": 0,
-    "changes": 9
+    "changes": 4
   },
   "totals": {
-    "incidents": 46202,
-    "open": 2099,
+    "incidents": 46205,
+    "open": 2101,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-20T06:30:46.858Z",
+    "asOf": "2026-11-20T06:45:35.810Z",
     "days": 30,
-    "open": 2099,
-    "total": 192,
+    "open": 2101,
+    "total": 191,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 51,
+        "open": 53,
         "n": 7
       },
       "3": {
@@ -112,8 +112,8 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 22,
-        "n": 4
+        "open": 21,
+        "n": 3
       },
       "21": {
         "name": "Reabilitare blocuri",
@@ -142,7 +142,7 @@
       },
       "32": {
         "name": "Rampe de acces persoane cu dizabilitati",
-        "open": 7,
+        "open": 8,
         "n": 1
       }
     }
