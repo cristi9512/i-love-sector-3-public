@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275805</link>
+    <guid isPermaLink="false">CAS-0275805</guid>
+    <pubDate>Fri, 20 Nov 2026 20:01:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună seara. Vă rog ridicați mașina parcată ilegal în zona de acțiune a indicatorului staționare interzisă. Îmi blochează ieșirea din parcare. Mulțumim</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275796</link>
     <guid isPermaLink="false">CAS-0275796</guid>
@@ -579,16 +587,6 @@ Răspuns: Trimis raspuns Urmare a sesizării dumneavoastră înregistrată la Pr
 Totodată, s-a luat legătura cu titularul autorizației de parcare, căruia i-au fost aduse la cunoștință prevederile Art. 39 alin.(2) lit.h) din Regulamentul privind gestionarea locurilor din parcările de reședință de pe raza Sectorului 3, aprobat prin HCLS3 nr.346/2022 cu modificările și completările ulterioare, acesta declarând că se va conforma.
 Cu stimă,
  </description>
-  </item>
-  <item>
-    <title>Trasare parcare · Rezolvată Parţial · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275090</link>
-    <guid isPermaLink="false">CAS-0275090</guid>
-    <pubDate>Wed, 18 Nov 2026 08:18:10 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Rog retrasarea locurioor de parcare din bateria 407 si 407_1 in urma lucrarilor efectuate de asfaltare / reasfaltare ce au avut loc pe Aleea Ilioara 14, de catre Directia Infrastructura.
-
-Răspuns: In curs de rezolvare vă comunicăm că am luat la cunoștință propunerile menționate. În funcție de graficul de lucru al echipei de trasări, precum și de condițiile meteorologice, echipa se va deplasa și în zona respectivă, în vederea verificării situației și a dispunerii măsurilor care se impun, după caz.           </description>
   </item>
 </channel>
 </rss>

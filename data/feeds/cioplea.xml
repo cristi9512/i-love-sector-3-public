@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275810</link>
+    <guid isPermaLink="false">CAS-0275810</guid>
+    <pubDate>Fri, 20 Nov 2026 20:15:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275809</link>
+    <guid isPermaLink="false">CAS-0275809</guid>
+    <pubDate>Fri, 20 Nov 2026 20:13:52 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275807</link>
+    <guid isPermaLink="false">CAS-0275807</guid>
+    <pubDate>Fri, 20 Nov 2026 20:10:26 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275804</link>
     <guid isPermaLink="false">CAS-0275804</guid>
@@ -545,32 +569,6 @@ FOTOGRAFIA NU ESTE ELOCVENTĂ.</description>
     <category>Stationare neregulamentara</category>
     <description>Parcare și/staționare ilegală,strada este înfundată și are o lățime mai mică de 6 metri,legal nu ai voie să staționezi pe această stradă și atât mai puțin
  să parchezi. Această problemă este zilnică.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275289</link>
-    <guid isPermaLink="false">CAS-0275289</guid>
-    <pubDate>Thu, 19 Nov 2026 06:23:07 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare neregulamentară și blocarea rampei de acces ptr persoane cu handicap și mămici cu carucior</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275281</link>
-    <guid isPermaLink="false">CAS-0275281</guid>
-    <pubDate>Thu, 19 Nov 2026 06:12:29 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Va rog sa montați stâlpișori. Se parcheaza pe trotuar, cand se aduc/iau copii de la unitățile de învățământ din zona. Pietonii, adulti cat si copii, circula printre mașini, pericol iminent.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275271</link>
-    <guid isPermaLink="false">CAS-0275271</guid>
-    <pubDate>Thu, 19 Nov 2026 05:31:55 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Așa cum ați observat în locație, loc eliberat + sancțiune. O zi bună.</description>
   </item>
 </channel>
 </rss>
