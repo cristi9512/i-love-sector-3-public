@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Gurilor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275726</link>
+    <guid isPermaLink="false">CAS-0275726</guid>
+    <pubDate>Fri, 20 Nov 2026 15:44:17 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna ziua. Sesizam a nu stiu cata oara problema asta. Acest individ trebuie amendat, nu avem alta soluție in acest moment decat amenda. Așteptăm raspuns urgent! Mulțumim, Asociația.</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275724</link>
     <guid isPermaLink="false">CAS-0275724</guid>
@@ -618,23 +626,6 @@ Răspuns: am aplicat masurile legale </description>
     <description>Salut tot eu, mai angajati ?
 
 Răspuns: Bună seara , vă mulţumim pentru sesizare.Verificările în teren se vor realiza în termenul legal , în limita capacității tehnice a serviciului circulație</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Parţial · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273134</link>
-    <guid isPermaLink="false">CAS-0273134</guid>
-    <pubDate>Tue, 10 Nov 2026 16:11:37 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Bună seara! 
-Ca de obicei acești saci zac de foarte multe zile… miroase îngrozitor pt ca a început să putrezească probabil. 
-Vă rog să ne ajutați cu ridicarea acestora. 
-Mulțumesc anticipat!
-
-Răspuns: Trimis raspuns Bună ziua,
-Sesizarea dumneavoastră a fost transmisă echipelor operaționale din teren, urmând a fi soluționată conform competentelor instituţiei noastre.
-Cu consideratie,
-Directia Generala de Salubritate Sector 3
- </description>
   </item>
 </channel>
 </rss>
