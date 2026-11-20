@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-20T07:01:00.059Z",
-  "lastChange": "2026-11-20T07:01:00.059Z",
+  "lastRun": "2026-11-20T07:15:43.581Z",
+  "lastChange": "2026-11-20T07:15:43.581Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2778,
-    "added": 3,
-    "updated": 1,
+    "fetched": 2698,
+    "added": 5,
+    "updated": 3,
     "removed": 0,
-    "changes": 3
+    "changes": 7
   },
   "totals": {
-    "incidents": 46208,
-    "open": 2103,
+    "incidents": 46213,
+    "open": 2106,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-20T07:01:00.059Z",
+    "asOf": "2026-11-20T07:15:43.581Z",
     "days": 30,
-    "open": 2103,
+    "open": 2106,
     "total": 191,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 54,
+        "open": 53,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 181,
+        "open": 182,
         "n": 17
       },
       "5": {
@@ -89,6 +89,11 @@
         "name": "Toaletare/Tăiere arbori",
         "open": 155,
         "n": 5
+      },
+      "15": {
+        "name": "Animale de companie",
+        "open": 1,
+        "n": 0
       },
       "16": {
         "name": "Mașini abandonate",
@@ -137,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 561,
+        "open": 563,
         "n": 2
       },
       "32": {
