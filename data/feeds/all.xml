@@ -6,6 +6,18 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275647</link>
+    <guid isPermaLink="false">CAS-0275647</guid>
+    <pubDate>Fri, 20 Nov 2026 09:41:20 GMT</pubDate>
+    <category>Străzi</category>
+    <description>La fiecare ploaie se adună apă atât pe suprafața carosabilului, cât și pe trotuarul străzii Victor Brauner.
+Zonele cele mai problematice sunt:
+1. Porțiunea de lângă intrarea Leroy Merlin și semaforul montat lângă complexul rezidențial Estoria
+2. Porțiunea dintre spațiul comercial Corner și pizzeria Cucina di David
+3. Intrarea în complexul HILS Brauner (partea pietonală)</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275646</link>
     <guid isPermaLink="false">CAS-0275646</guid>
@@ -298,12 +310,14 @@ Răspuns: In urma verificarilor autoturismul in cauza a fost identificat in loca
     <description>Blocheaza vizibilitatea la trecerea d epietoni si refuza sa mute masina</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275612</link>
     <guid isPermaLink="false">CAS-0275612</guid>
     <pubDate>Fri, 20 Nov 2026 07:39:44 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 26</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 26
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, INSA AUTO LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE, ERA UN ALT AUTO B 126 DYO, CARE DETINE AUTORIZATIE PENTRU LOC NENOMINAL.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
@@ -324,12 +338,18 @@ Răspuns: In urma verificarilor autoturismul in cauza a fost identificat in loca
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE PENTRU PARCARE PE LOC NENOMINAL ZONA C-2, NUMARUL DE INMATRICULARE FIIND INTRODUS GRESIT IN PLATFORMA PENTRU VERIFICARI GIS S3.</description>
   </item>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
+    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275609</link>
     <guid isPermaLink="false">CAS-0275609</guid>
     <pubDate>Fri, 20 Nov 2026 07:32:26 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Buna ziua! De 2 saptamani acest gunoi sta neridicat! Este o mizerie de nedescris! Va rog sa luati masuri urgent!</description>
+    <description>Buna ziua! De 2 saptamani acest gunoi sta neridicat! Este o mizerie de nedescris! Va rog sa luati masuri urgent!
+
+Răspuns: Trimis raspuns Bună ziua,
+
+Vă aducem la cunoştinţă faptul că aspectele care intră în sfera de activitate a instituţiei noastre au fost transmise echipelor operaționale din teren, in vederea salubrizarii zonei din jurul containerelor.
+Cu consideratie,
+ </description>
   </item>
   <item>
     <title>Toaletare/Tăiere arbori · În lucru · Dudeşti</title>
@@ -530,14 +550,6 @@ Va rugam sa colectati deseurile lasate langa pubelele de gunoi amplasate in parc
 Atasat, poze cu situatia curenta.
 
 Va multumim.</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275587</link>
-    <guid isPermaLink="false">CAS-0275587</guid>
-    <pubDate>Fri, 20 Nov 2026 06:19:10 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>Locul acela nu este loc de parcare.</description>
   </item>
 </channel>
 </rss>

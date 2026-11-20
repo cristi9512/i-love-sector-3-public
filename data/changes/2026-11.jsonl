@@ -3153,3 +3153,9 @@
 {"at":"2026-11-20T09:30:49.777Z","ticket":"CAS-0275635","field":"status","from":"O","to":"C"}
 {"at":"2026-11-20T09:30:49.777Z","ticket":"CAS-0275635","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-20T09:30:49.777Z","ticket":"CAS-0275635","field":"reply","from":"","to":"Nespecificat Registratura Nu a fost identificat auto în locatie,filmarea nu se înţelege."}
+{"at":"2026-11-20T09:45:37.333Z","ticket":"CAS-0275609","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T09:45:37.333Z","ticket":"CAS-0275609","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-20T09:45:37.333Z","ticket":"CAS-0275609","field":"reply","from":"","to":"Trimis raspuns Bună ziua,\n\nVă aducem la cunoştinţă faptul că aspectele care intră în sfera de activitate a instituţiei noastre au fost transmise echipelor operaționale din teren, in vederea salubrizarii zonei din jurul containerelor.\nCu consideratie,\n "}
+{"at":"2026-11-20T09:45:37.333Z","ticket":"CAS-0275612","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T09:45:37.333Z","ticket":"CAS-0275612","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-20T09:45:37.333Z","ticket":"CAS-0275612","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, INSA AUTO LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE, ERA UN ALT AUTO B 126 DYO, CARE DETINE AUTORIZATIE PENTRU LOC NENOMINAL."}
