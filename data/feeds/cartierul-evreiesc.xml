@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cartierul Evreiesc</description>
   <language>ro</language>
   <item>
+    <title>Mașini abandonate · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275833</link>
+    <guid isPermaLink="false">CAS-0275833</guid>
+    <pubDate>Fri, 20 Nov 2026 21:45:46 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>Am observat aici o duba alba posibil abandonată parcată lângă bordura, rotile sunt complet tocite și pline de frunze la fel și capota, pe Aida scrie ca nu are RCA activ..</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275722</link>
     <guid isPermaLink="false">CAS-0275722</guid>
@@ -600,16 +608,6 @@ Răspuns: au fost aplicate doua somatii</description>
     <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-1, precum și pentru zonele A-2,A-3,
 
 Răspuns: AUTO LA CARE FACETI REFERIRE DETINE AUTORIZATIE NENOMINALA DE PARCARE PENTRU ZONELE A1 A2 A3 </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0271344</link>
-    <guid isPermaLink="false">CAS-0271344</guid>
-    <pubDate>Tue, 03 Nov 2026 19:23:04 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 125
-
-Răspuns: AUTO LA CARE SE FACE REFERIRE NU SE MAI AFLA IN LOCATIE</description>
   </item>
 </channel>
 </rss>
