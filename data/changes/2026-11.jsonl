@@ -3033,3 +3033,11 @@
 {"at":"2026-11-20T05:30:45.803Z","ticket":"CAS-0275554","field":"status","from":"O","to":"C"}
 {"at":"2026-11-20T05:30:45.803Z","ticket":"CAS-0275554","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-20T05:30:45.803Z","ticket":"CAS-0275554","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII."}
+{"at":"2026-11-20T05:45:41.031Z","ticket":"CAS-0275558","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T05:45:41.031Z","ticket":"CAS-0275558","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-20T05:45:41.031Z","ticket":"CAS-0275558","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea se confirma, au fost luate masuri legale."}
+{"at":"2026-11-20T05:45:41.031Z","ticket":"CAS-0275565","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-20T05:45:41.031Z","ticket":"CAS-0275566","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T05:45:41.031Z","ticket":"CAS-0275566","field":"statusLabel","from":"Noua","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-20T05:45:41.031Z","ticket":"CAS-0275566","field":"reply","from":"","to":"Nespecificat Registratura BUNĂ DIMINEAȚA !\nAUTOTURISMUL PE CARE DUMNEAVOASTRĂ L-ATI RECLAMAT ,\nNU SE AFLĂ PARCAT PE LOC SISTEMATIZAT."}
+{"at":"2026-11-20T05:45:41.031Z","ticket":"CAS-0275567","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
