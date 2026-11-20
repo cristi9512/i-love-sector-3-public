@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275676</link>
+    <guid isPermaLink="false">CAS-0275676</guid>
+    <pubDate>Fri, 20 Nov 2026 12:02:44 GMT</pubDate>
+    <category>Altele</category>
+    <description>Buna ziua! Iluminatul stradal este defect pe Bulevardul Nicolae Grigorescu la numarul 34.</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275637</link>
     <guid isPermaLink="false">CAS-0275637</guid>
@@ -577,14 +585,6 @@ Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 19.45
     <pubDate>Tue, 17 Nov 2026 17:17:03 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Logan de taxi este parcat pe zona hasurata si obstructioneaza vizibilitatea. de asemenea, ocupa si o porțiune de trotuar, dupa cum se vede si in imagine.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274932</link>
-    <guid isPermaLink="false">CAS-0274932</guid>
-    <pubDate>Tue, 17 Nov 2026 16:03:20 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masini parcate pe trotuar. strada Ilioara nr. 6. va multumim</description>
   </item>
 </channel>
 </rss>

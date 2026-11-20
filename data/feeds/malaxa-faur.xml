@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Malaxa - Faur</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275678</link>
+    <guid isPermaLink="false">CAS-0275678</guid>
+    <pubDate>Fri, 20 Nov 2026 12:06:31 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe str.Intrarea Bârsei nr.4 bl.G.8 sc.2 în capătul blocului se parchează autoturisme pe carosabil, faptă care îngreunează accesul în și din parcarea din imediata apropiere inclusiv traficul auto datorită îngustării carosabilului.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275612</link>
     <guid isPermaLink="false">CAS-0275612</guid>
@@ -576,16 +584,6 @@ Răspuns: AM VERIFICAT PARCAJUL SESIZAT IAR AUTO IN CAUZA SE AFLA IN LOCATIE FAP
     <description>test 1
 
 Răspuns: Luat la cunostinta test</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273587</link>
-    <guid isPermaLink="false">CAS-0273587</guid>
-    <pubDate>Thu, 12 Nov 2026 08:18:10 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masina parcata pe trotuarul de langa liftul de la gura de metrou costin georgian
-
-Răspuns: AM APLICAT MASURIE LEGALE </description>
   </item>
 </channel>
 </rss>

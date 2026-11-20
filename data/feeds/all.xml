@@ -6,6 +6,38 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275679</link>
+    <guid isPermaLink="false">CAS-0275679</guid>
+    <pubDate>Fri, 20 Nov 2026 12:13:06 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina este parcata neregulamentar si blocheaza vizibilitatea, pericol de accident</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275678</link>
+    <guid isPermaLink="false">CAS-0275678</guid>
+    <pubDate>Fri, 20 Nov 2026 12:06:31 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe str.Intrarea Bârsei nr.4 bl.G.8 sc.2 în capătul blocului se parchează autoturisme pe carosabil, faptă care îngreunează accesul în și din parcarea din imediata apropiere inclusiv traficul auto datorită îngustării carosabilului.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275677</link>
+    <guid isPermaLink="false">CAS-0275677</guid>
+    <pubDate>Fri, 20 Nov 2026 12:05:55 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Nu-mi pot parca masina de el</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275676</link>
+    <guid isPermaLink="false">CAS-0275676</guid>
+    <pubDate>Fri, 20 Nov 2026 12:02:44 GMT</pubDate>
+    <category>Altele</category>
+    <description>Buna ziua! Iluminatul stradal este defect pe Bulevardul Nicolae Grigorescu la numarul 34.</description>
+  </item>
+  <item>
     <title>Comerț stradal neautorizat · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275675</link>
     <guid isPermaLink="false">CAS-0275675</guid>
@@ -490,43 +522,6 @@ Răspuns: Trimis raspuns Potrivit HCLS3 nr.346/2022, da trebuie ca la data contr
     <pubDate>Fri, 20 Nov 2026 08:10:32 GMT</pubDate>
     <category>Parcuri</category>
     <description>Vă semnalez că în parcul IOR lipsesc mai multe becuri de iluminat public ceea ce creează disconfort și nesiguranță pe timpul serii. Vă rog să luați măsuri pentru remedierea situației.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275619</link>
-    <guid isPermaLink="false">CAS-0275619</guid>
-    <pubDate>Fri, 20 Nov 2026 08:05:06 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNĂ ZIUA!
-LA MOMENTUL VERIFICĂRII,AUTOTURISMUL RECLAMAT NU SE AFLA IN LOCATIA INDICATĂ</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275618</link>
-    <guid isPermaLink="false">CAS-0275618</guid>
-    <pubDate>Fri, 20 Nov 2026 08:04:02 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare neregulamentara, langa trecerea de pietoni, ambele masini, B246SBS si DB25MER</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275617</link>
-    <guid isPermaLink="false">CAS-0275617</guid>
-    <pubDate>Fri, 20 Nov 2026 08:02:53 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: In urma verificarilor autoturismul in cauza a fost identificat in locatie, fiind intocmita documentatia in vederea luarii masurilor legale.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275616</link>
-    <guid isPermaLink="false">CAS-0275616</guid>
-    <pubDate>Fri, 20 Nov 2026 08:01:14 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare neregulamentara, loc liber intre 2 de tip B8</description>
   </item>
 </channel>
 </rss>
