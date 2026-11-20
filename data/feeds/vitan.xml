@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275742</link>
+    <guid isPermaLink="false">CAS-0275742</guid>
+    <pubDate>Fri, 20 Nov 2026 16:20:12 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminatul public pe Strada Foișorului, în dreptul bisericii Foișor nu funcționează din nou. De ce este atât de greu să avem asigurat un lucru de bază în orice oraș?</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275721</link>
     <guid isPermaLink="false">CAS-0275721</guid>
@@ -572,14 +580,6 @@ Răspuns: auto nu a fost depistat in locatie</description>
     <category>Altele</category>
     <description>Buna ziua,
 Nu functioneaza iluminatul stradal, pe soseaua Mihai Bravu, intre numerele 491-525 ( intre Omv si Aleea Pacala). Sens Splaiul Unirii - Calea Vitan.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274688</link>
-    <guid isPermaLink="false">CAS-0274688</guid>
-    <pubDate>Mon, 16 Nov 2026 16:01:33 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Pe str. Mugur Mugurel se parcheaza in mod constant neregulamentar la mai putin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit ridicarea tuturor autoturismelor parcate neregulamentar.</description>
   </item>
 </channel>
 </rss>
