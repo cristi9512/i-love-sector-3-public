@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275751</link>
+    <guid isPermaLink="false">CAS-0275751</guid>
+    <pubDate>Fri, 20 Nov 2026 16:34:30 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>staționare pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275750</link>
+    <guid isPermaLink="false">CAS-0275750</guid>
+    <pubDate>Fri, 20 Nov 2026 16:33:50 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina blocheaza trotuarul,  si pare ca a mers pe contrasens</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275747</link>
     <guid isPermaLink="false">CAS-0275747</guid>
@@ -578,25 +594,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE F
     <pubDate>Wed, 18 Nov 2026 10:10:01 GMT</pubDate>
     <category>Străzi</category>
     <description>Luminat stradal- pe strada Aleeq Vârful cu Dor vis a vis de nr 25, 2 becuri nu funcționează din vara. Avem rugămintea sa trimiteți pe cineva care sa ne ajute cu aceasta problema.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275114</link>
-    <guid isPermaLink="false">CAS-0275114</guid>
-    <pubDate>Wed, 18 Nov 2026 09:55:49 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașina parcată pe alee pietonală</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275108</link>
-    <guid isPermaLink="false">CAS-0275108</guid>
-    <pubDate>Wed, 18 Nov 2026 09:37:09 GMT</pubDate>
-    <category>Altele</category>
-    <description>Bună ziua, astăzi în jurul orei 11.20 pe d-ul 1 dececembrie, sensul spre TH Pallady, aproximativ la intersecția 1 dec cu Jean steliadi, aproape de stați de autobuz,din “remorca” acelei  autoutilitare a zburat o bancă roz, din aceea mobilier stradal.Din mașină au coborât 2 persoane, care au pus cumva pe curmezișul “remorcii” banca și și-au continuat drumul.
-Dacă banca aceea zbura pe o mașină în trafic, lovea un pieton…..atâta inconștiență din partea angajaților……sigur dacă transporta acel mobilier stradal sunt angajați/colaboratori ai primărie……vă rog verificați URGENT camerele de blocul L 14 sau V1-V5 în vederea soluționării acestei situații și să luați măsuri în consecință la adresa celor care ne pun siguranța în pericol.
-
-Mulțumesc frumos!</description>
   </item>
 </channel>
 </rss>
