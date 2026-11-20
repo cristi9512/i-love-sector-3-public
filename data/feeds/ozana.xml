@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Mașini abandonate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275698</link>
+    <guid isPermaLink="false">CAS-0275698</guid>
+    <pubDate>Fri, 20 Nov 2026 13:58:25 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>buna ziua! Având în vedere că în ziua de curățenie a zonei, anumite autoturisme nu sunt mutate conform regulamentului, va aduc la cunoștință că autoturismul cu numărul de înmatriculare B 03 NAM nu respectă aceste prevederi.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275691</link>
     <guid isPermaLink="false">CAS-0275691</guid>
@@ -602,18 +610,6 @@ Multumim!</description>
     <pubDate>Wed, 18 Nov 2026 05:44:14 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>Pe Steada Postasului, sunt imprastiate aproape zilnic gunoaie. Nu este normal sa ne lovim zilnic de aceste deseuri. Ele sunt scoase uneori si cu 2 zile inainte sa vina masina de gunoi, pana ajunge masina de gunoi se imprastie peste tot, si miroase groaznic. Iar uneori masina de gunoi nu vine cand trebuie si astfel avem deseuri peste tot incontinuu</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275040</link>
-    <guid isPermaLink="false">CAS-0275040</guid>
-    <pubDate>Wed, 18 Nov 2026 05:43:40 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Buna ziua,
-
-Va rugam, mutati containerele mai departe de aceasta zona, in acest moment fortati pietonii sa intre pe carosabil auto.
-
-Miltumim!</description>
   </item>
 </channel>
 </rss>

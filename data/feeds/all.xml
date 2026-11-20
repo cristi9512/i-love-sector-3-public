@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Lucrari edilitare alei/trotuare · Noua · Balta Albă - Titan</title>
+    <title>Mașini abandonate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275698</link>
+    <guid isPermaLink="false">CAS-0275698</guid>
+    <pubDate>Fri, 20 Nov 2026 13:58:25 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>buna ziua! Având în vedere că în ziua de curățenie a zonei, anumite autoturisme nu sunt mutate conform regulamentului, va aduc la cunoștință că autoturismul cu numărul de înmatriculare B 03 NAM nu respectă aceste prevederi.</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275697</link>
     <guid isPermaLink="false">CAS-0275697</guid>
     <pubDate>Fri, 20 Nov 2026 13:45:19 GMT</pubDate>
@@ -527,14 +535,6 @@ Adresa: Pădurea Craiului nr 1 Bl B2 scara 5</description>
     <pubDate>Fri, 20 Nov 2026 09:01:46 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>calea dudesti 123 masini parcate in statie stb pe trotuar</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275638</link>
-    <guid isPermaLink="false">CAS-0275638</guid>
-    <pubDate>Fri, 20 Nov 2026 08:56:20 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Buna ziua, in urma lucrarilor de reparatii efectuate in parcarea aferenta blocului 34A, sc F, din Str.Campia Libertatii nr 64, este necesara retrasarea liniilor de parcare si numerotarea aferenta.Atasez poze in acest sens.Multumesc!</description>
   </item>
 </channel>
 </rss>
