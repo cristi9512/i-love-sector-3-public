@@ -6,7 +6,32 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Mașini abandonate · Noua · Ozana</title>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275687</link>
+    <guid isPermaLink="false">CAS-0275687</guid>
+    <pubDate>Fri, 20 Nov 2026 12:41:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275686</link>
+    <guid isPermaLink="false">CAS-0275686</guid>
+    <pubDate>Fri, 20 Nov 2026 12:39:54 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Auto cu Nr înmatriculare DJ24WNW este parcat neregulamentar . Luați măsuri legale va rog.</description>
+  </item>
+  <item>
+    <title>Mașini abandonate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275685</link>
+    <guid isPermaLink="false">CAS-0275685</guid>
+    <pubDate>Fri, 20 Nov 2026 12:33:44 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>buna ziua! Astăzi este zi de curățenie și în intervalul orar 14:00-16:00 și această mașină este abandonată de aproximativ 2 luni pe acest loc de parcare. Poliția Locală trece, o vede și își continuă drumul, chiar dacă utilajele de curățenie nu au loc. 
+Este vorba de autoturismul B 686 RAN.</description>
+  </item>
+  <item>
+    <title>Mașini abandonate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275684</link>
     <guid isPermaLink="false">CAS-0275684</guid>
     <pubDate>Fri, 20 Nov 2026 12:29:55 GMT</pubDate>
@@ -491,30 +516,6 @@ Răspuns: In locatie  au fost dispuse masurile legale conform OUG 195/2002 r</de
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275628</link>
     <guid isPermaLink="false">CAS-0275628</guid>
     <pubDate>Fri, 20 Nov 2026 08:37:20 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare neregulamentara</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275627</link>
-    <guid isPermaLink="false">CAS-0275627</guid>
-    <pubDate>Fri, 20 Nov 2026 08:36:17 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare neregulamentara</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275626</link>
-    <guid isPermaLink="false">CAS-0275626</guid>
-    <pubDate>Fri, 20 Nov 2026 08:35:18 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare neregulamentara</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275625</link>
-    <guid isPermaLink="false">CAS-0275625</guid>
-    <pubDate>Fri, 20 Nov 2026 08:34:32 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Parcare neregulamentara</description>
   </item>

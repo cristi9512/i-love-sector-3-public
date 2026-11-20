@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-20T12:30:48.140Z",
-  "lastChange": "2026-11-20T12:30:48.140Z",
+  "lastRun": "2026-11-20T12:45:47.470Z",
+  "lastChange": "2026-11-20T12:45:47.470Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2511,
-    "added": 5,
-    "updated": 18,
+    "fetched": 2784,
+    "added": 3,
+    "updated": 15,
     "removed": 0,
-    "changes": 54
+    "changes": 43
   },
   "totals": {
-    "incidents": 46295,
-    "open": 2109,
+    "incidents": 46298,
+    "open": 2098,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-20T12:30:48.140Z",
+    "asOf": "2026-11-20T12:45:47.470Z",
     "days": 30,
-    "open": 2109,
-    "total": 202,
+    "open": 2098,
+    "total": 196,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 44,
+        "open": 45,
         "n": 7
       },
       "3": {
@@ -42,8 +42,8 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 184,
-        "n": 18
+        "open": 183,
+        "n": 17
       },
       "5": {
         "name": "Taxe şi impozite",
@@ -62,13 +62,13 @@
       },
       "9": {
         "name": "Altele",
-        "open": 224,
-        "n": 12
+        "open": 223,
+        "n": 11
       },
       "10": {
         "name": "Străzi",
-        "open": 430,
-        "n": 24
+        "open": 419,
+        "n": 21
       },
       "11": {
         "name": "Parcuri",
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 31,
+        "open": 32,
         "n": 0
       },
       "17": {
@@ -122,8 +122,8 @@
       },
       "21": {
         "name": "Reabilitare blocuri",
-        "open": 9,
-        "n": 1
+        "open": 8,
+        "n": 0
       },
       "22": {
         "name": "Spații Comerciale",
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 573,
+        "open": 574,
         "n": 2
       },
       "32": {
