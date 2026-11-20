@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275566</link>
+    <guid isPermaLink="false">CAS-0275566</guid>
+    <pubDate>Fri, 20 Nov 2026 05:29:44 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275558</link>
     <guid isPermaLink="false">CAS-0275558</guid>
@@ -571,14 +579,6 @@ Răspuns: auto nu se afla pe loc de parcare nenominal</description>
 Pe strada Bogran Ghiorghe Tudor exista stalpi de iluminat nefuncțional.
 Va rog sa remediati problema.
 Mulțumesc!</description>
-  </item>
-  <item>
-    <title>Terenuri insalubre · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274918</link>
-    <guid isPermaLink="false">CAS-0274918</guid>
-    <pubDate>Tue, 17 Nov 2026 15:28:32 GMT</pubDate>
-    <category>Terenuri insalubre</category>
-    <description>Copac cazut in data de 2 nov 2026 si neridicat</description>
   </item>
 </channel>
 </rss>
