@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-20T13:01:02.874Z",
-  "lastChange": "2026-11-20T13:01:02.874Z",
+  "lastRun": "2026-11-20T13:15:36.525Z",
+  "lastChange": "2026-11-20T13:15:36.525Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2870,
-    "added": 2,
-    "updated": 2,
+    "fetched": 2788,
+    "added": 3,
+    "updated": 1,
     "removed": 0,
-    "changes": 6
+    "changes": 3
   },
   "totals": {
-    "incidents": 46300,
-    "open": 2098,
+    "incidents": 46303,
+    "open": 2100,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-20T13:01:02.874Z",
+    "asOf": "2026-11-20T13:15:36.525Z",
     "days": 30,
-    "open": 2098,
+    "open": 2100,
     "total": 194,
     "byCategory": {
       "2": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 182,
+        "open": 183,
         "n": 16
       },
       "5": {
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 418,
+        "open": 419,
         "n": 20
       },
       "11": {
