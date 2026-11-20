@@ -6,6 +6,21 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Verificări construcții/Lucrări neautorizate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275767</link>
+    <guid isPermaLink="false">CAS-0275767</guid>
+    <pubDate>Fri, 20 Nov 2026 17:33:18 GMT</pubDate>
+    <category>Verificări construcții/Lucrări neautorizate</category>
+    <description>Rog dispunerea de controale in timpul saptamanii la acest santier pe de str. lt-col papazoglu nr 3. unde lucrarile se efectueaza si in afara perimetrului autorizat al santierului, inclusiv prin spargerea/demolare unor zone dincolo de imprejmuire.
+
+Trotuarul din fata santerului e blocat abuziv de catre muncitori, iar pietonii sunt obligati fie sa treaca pe partea carosabila, unde circula masini cu viteza mare, fie sa traverseze pe partea opusa (evident fara existenta vreunei treceri de pietoni).
+Nu e facilitata o ruta alternativa. Iar locurile de parcare sunt ocupate de masinile lor si sunt convinsa ca nu plateste nimeni abonament sau parcarea pe ora. 
+Va solicit sa trimiteti reprezentanti competenti pentru a verifica:
+-Daca lucrarile se desfasoara strict in perimetrul autorizat;
+-Legalitatea ocuparii trotuarului si a locurilor de parcare publice;
+-Respectarea obligatiilor privind curatenia si depozitarea molozului;</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275734</link>
     <guid isPermaLink="false">CAS-0275734</guid>
@@ -596,14 +611,6 @@ Răspuns: BUNĂ ZIUA!
     <pubDate>Tue, 17 Nov 2026 20:49:46 GMT</pubDate>
     <category>Străzi</category>
     <description>Buna ziua, in urma unor lucrari la canalizare/apa de anul trecut, a inceput asfaltul sa se lase  destul de tare si s-a format o groapa. Pe zi ce trece pare ca se adanceste iar pentru cei cu scutere si trotinete poate fi destul de periculos. Avand in vedere ca se efectueaza lucrari de canalizare in spatele blocului, poate rezolvati si aceasta problema. Multumesc!</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275013</link>
-    <guid isPermaLink="false">CAS-0275013</guid>
-    <pubDate>Tue, 17 Nov 2026 20:43:41 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Buna seara, dupa renovarea centralei Anastasie Panu10 (Apa Nova), muncitorii au lasat unele materiale in drum iar dupa o saptamana sunt tot pe strada. Va rog sa le ridicati, ca se pot accidenta copiii si trecatorii. Multumesc!</description>
   </item>
 </channel>
 </rss>
