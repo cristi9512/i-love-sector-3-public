@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275646</link>
+    <guid isPermaLink="false">CAS-0275646</guid>
+    <pubDate>Fri, 20 Nov 2026 09:24:45 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275645</link>
+    <guid isPermaLink="false">CAS-0275645</guid>
+    <pubDate>Fri, 20 Nov 2026 09:22:09 GMT</pubDate>
+    <category>Altele</category>
+    <description>Schimbarea numarului de inmatriculare pentru locul de parcare</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275644</link>
     <guid isPermaLink="false">CAS-0275644</guid>
@@ -81,12 +97,14 @@ Motivul solicitării: arborele este uscat partial, bolnav, prezintă risc de că
     <description>trotuar blocat de lucrari</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275635</link>
     <guid isPermaLink="false">CAS-0275635</guid>
     <pubDate>Fri, 20 Nov 2026 08:47:45 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Kia Sportage culoare neagra B617EDY stationeaza neregulamentar fara sa plateasca tariful pentru stationare !!</description>
+    <description>Kia Sportage culoare neagra B617EDY stationeaza neregulamentar fara sa plateasca tariful pentru stationare !!
+
+Răspuns: Nu a fost identificat auto în locatie,filmarea nu se înţelege.</description>
   </item>
   <item>
     <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
@@ -520,24 +538,6 @@ Va multumim.</description>
     <pubDate>Fri, 20 Nov 2026 06:19:10 GMT</pubDate>
     <category>Mașini abandonate</category>
     <description>Locul acela nu este loc de parcare.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Pallady</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275586</link>
-    <guid isPermaLink="false">CAS-0275586</guid>
-    <pubDate>Fri, 20 Nov 2026 06:18:01 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Bună ziua, vă semnalez o problemă legată de iluminatul public pe străzile de pe lângă Podul Pallady din zona centrelor comerciale, deși pe pod în sine iluminatul funcționează, pe străzile de conexiune care trec pe sub pod, în intersectia semaforizată si pe toată întinderea podului pe străzile respective.
-
-Cu stimă.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275585</link>
-    <guid isPermaLink="false">CAS-0275585</guid>
-    <pubDate>Fri, 20 Nov 2026 06:17:55 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Toaletare Castan Urgent ( afecteaza blocul cand bate vantul ) strada Bucovina nr 3 bolc G1 scara C</description>
   </item>
 </channel>
 </rss>
