@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275665</link>
+    <guid isPermaLink="false">CAS-0275665</guid>
+    <pubDate>Fri, 20 Nov 2026 11:16:50 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275663</link>
     <guid isPermaLink="false">CAS-0275663</guid>
@@ -599,14 +607,6 @@ AUTOTURISMUL RECLAMAT DETINE PLATA EFECTUATĂ</description>
     <pubDate>Tue, 17 Nov 2026 17:43:17 GMT</pubDate>
     <category>Străzi</category>
     <description>Iluminat stradal biserica dobroteasa nu fuctioneaza iluminatul public</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274957</link>
-    <guid isPermaLink="false">CAS-0274957</guid>
-    <pubDate>Tue, 17 Nov 2026 17:18:58 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună seara..acest auto stationeaza de două zile pe colțul intersecției reducând vizibilitatea aproape de 0 si nu putem vira stânga sau dreapta in siguranță..  vă rog sa luați măsuri..Mulțumesc</description>
   </item>
 </channel>
 </rss>

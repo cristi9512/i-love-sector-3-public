@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275670</link>
+    <guid isPermaLink="false">CAS-0275670</guid>
+    <pubDate>Fri, 20 Nov 2026 11:28:54 GMT</pubDate>
+    <category>Altele</category>
+    <description>Asociatia de locatari aferenta locului meu de domiciliu, unde sunt si proprietar, la adresa Bucuresti, S3, Str. Laborator, 128A, bl. 39A nu imi raspunde la solicitarile de contestatie a listelor de plata si refuza sa imi raspunda la problemele semnalate referitoare la blocarea cailor de evacuare in caz de incendiu, casa scarii si alte spatii comune fiind ocupate in mod ilegal de obiecte de mobilier si, posibil, gunoaie.</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275659</link>
     <guid isPermaLink="false">CAS-0275659</guid>
@@ -90,12 +98,14 @@ Răspuns: Autoturismul reclamat nu este în locație.</description>
     <description>Parcare neregulamentara, loc liber intre 2 de tip B8</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275602</link>
     <guid isPermaLink="false">CAS-0275602</guid>
     <pubDate>Fri, 20 Nov 2026 07:10:54 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Nu se poate curcula pe strada!</description>
+    <description>Nu se poate curcula pe strada!
+
+Răspuns: Sesizarea nu se confirma, nu au fost depistate auto care sa faca obiectul sesizarii.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Dristor</title>
@@ -594,16 +604,6 @@ Răspuns: consiliere telefonica </description>
     <pubDate>Mon, 16 Nov 2026 17:16:38 GMT</pubDate>
     <category>Străzi</category>
     <description>Este nevoie de iluminare stradală.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274681</link>
-    <guid isPermaLink="false">CAS-0274681</guid>
-    <pubDate>Mon, 16 Nov 2026 15:46:00 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masinile cu numerele b85yes si b776ram obsructioneaza intoarcerea si incurca domeniul public zile la rand stationate in aceeasi zona
-
-Răspuns: LA MOMENTUL VERIFICARILOR IN LOCATIE,APECTELE SESIZATE SE CONFIRMA,AU FOST APLICATE DOUA INSTIINTARI</description>
   </item>
 </channel>
 </rss>
