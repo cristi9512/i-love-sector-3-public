@@ -6,7 +6,31 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Altele · Noua · Malaxa - Faur</title>
+    <title>Lucrari edilitare alei/trotuare · Noua · Lipscani</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275820</link>
+    <guid isPermaLink="false">CAS-0275820</guid>
+    <pubDate>Fri, 20 Nov 2026 21:00:48 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Aici trotuarul pavat a fost avariat, acum exista gropi.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275819</link>
+    <guid isPermaLink="false">CAS-0275819</guid>
+    <pubDate>Fri, 20 Nov 2026 20:59:57 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275818</link>
+    <guid isPermaLink="false">CAS-0275818</guid>
+    <pubDate>Fri, 20 Nov 2026 20:55:23 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-14, precum și pentru zonele B-12,B-13,B-17,B-5,</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275817</link>
     <guid isPermaLink="false">CAS-0275817</guid>
     <pubDate>Fri, 20 Nov 2026 20:45:15 GMT</pubDate>
@@ -510,34 +534,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE F
     <pubDate>Fri, 20 Nov 2026 17:19:24 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Este o mașină tip SUV alb chiar aici pe trotuar, în fața bancutei de lemn. Am stat puțin pe băncuță, m am uitat la ea și am reflectat asupra naturii umane, apoi am ajuns la concluzia ca este staționată neregulamentar.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275760</link>
-    <guid isPermaLink="false">CAS-0275760</guid>
-    <pubDate>Fri, 20 Nov 2026 17:18:07 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Iluminat public nefunctional.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275759</link>
-    <guid isPermaLink="false">CAS-0275759</guid>
-    <pubDate>Fri, 20 Nov 2026 17:17:31 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 41
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, CONDUCATORUL AUTO S-A PREZENTAT IN LOCATIE ,IMPOTRIVA SA FIIND LUATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII. LOCUL DE PARCARE A FOST ELIBERAT.VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275758</link>
-    <guid isPermaLink="false">CAS-0275758</guid>
-    <pubDate>Fri, 20 Nov 2026 17:16:27 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Neconcordanță între numărul de înmatriculare menționat în sesizare și numrăul de înmatriculare al vehiculului din fotografia atașată.</description>
   </item>
 </channel>
 </rss>

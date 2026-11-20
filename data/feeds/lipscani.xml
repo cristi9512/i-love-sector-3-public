@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Lipscani</description>
   <language>ro</language>
   <item>
+    <title>Lucrari edilitare alei/trotuare · Noua · Lipscani</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275820</link>
+    <guid isPermaLink="false">CAS-0275820</guid>
+    <pubDate>Fri, 20 Nov 2026 21:00:48 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Aici trotuarul pavat a fost avariat, acum exista gropi.</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Lipscani</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275816</link>
     <guid isPermaLink="false">CAS-0275816</guid>
@@ -674,16 +682,6 @@ Răspuns: Trimis raspuns Vă informăm că documentul depus de dumneavoastră, �
     <description>deseuri neconforme. Ancient Pub SRL , str Selari 9-11.
 
 Răspuns: Trimis raspuns A FOST APLICATA SANCTIUNE CONTRAVENTIONALA.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Lipscani</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0260620</link>
-    <guid isPermaLink="false">CAS-0260620</guid>
-    <pubDate>Fri, 18 Sep 2026 06:22:03 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>deseuri neconforme . Thelos Lux SRL . Str Stavropoleos nr 8 .
-
-Răspuns: Trimis raspuns A FOST APLICATA SANCTIUNE CONTRAVENTIONALA</description>
   </item>
 </channel>
 </rss>
