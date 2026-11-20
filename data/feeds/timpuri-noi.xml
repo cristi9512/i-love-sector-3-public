@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275663</link>
+    <guid isPermaLink="false">CAS-0275663</guid>
+    <pubDate>Fri, 20 Nov 2026 11:09:51 GMT</pubDate>
+    <category>Străzi</category>
+    <description>parcare neregulamentara, rog montare stalpisori. dau masinile peste pietoni pt ca pietonii nu vad masinile ce vin din cauza altor masini aflate in deplasare</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275662</link>
+    <guid isPermaLink="false">CAS-0275662</guid>
+    <pubDate>Fri, 20 Nov 2026 11:09:27 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275661</link>
+    <guid isPermaLink="false">CAS-0275661</guid>
+    <pubDate>Fri, 20 Nov 2026 11:07:32 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275613</link>
     <guid isPermaLink="false">CAS-0275613</guid>
@@ -583,34 +607,6 @@ AUTOTURISMUL RECLAMAT DETINE PLATA EFECTUATĂ</description>
     <pubDate>Tue, 17 Nov 2026 17:18:58 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Bună seara..acest auto stationeaza de două zile pe colțul intersecției reducând vizibilitatea aproape de 0 si nu putem vira stânga sau dreapta in siguranță..  vă rog sa luați măsuri..Mulțumesc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274938</link>
-    <guid isPermaLink="false">CAS-0274938</guid>
-    <pubDate>Tue, 17 Nov 2026 16:09:50 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Cele două BMW uri parcate pe zona cu staționarea interzisă. 
-Luați măsurile legale care se impun cu celeritate!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274927</link>
-    <guid isPermaLink="false">CAS-0274927</guid>
-    <pubDate>Tue, 17 Nov 2026 15:56:52 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Acest autoturism blochează accesul pietonilor pe trotuar</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274888</link>
-    <guid isPermaLink="false">CAS-0274888</guid>
-    <pubDate>Tue, 17 Nov 2026 13:48:48 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Buna ziua,
-Pe strada Mugur Mugurel 2 H iluminatul stradal nu functioneaza. Este bezna pe strada.
-
-Multumesc!</description>
   </item>
 </channel>
 </rss>

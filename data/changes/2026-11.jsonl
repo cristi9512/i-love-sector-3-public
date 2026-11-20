@@ -3205,3 +3205,16 @@
 {"at":"2026-11-20T11:00:59.279Z","ticket":"CAS-0275646","field":"status","from":"O","to":"C"}
 {"at":"2026-11-20T11:00:59.279Z","ticket":"CAS-0275646","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-20T11:00:59.279Z","ticket":"CAS-0275646","field":"reply","from":"","to":"Nespecificat Registratura Autoturismul reclamat nu este în locație."}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0275659","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0275560","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0275560","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Parţial"}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0275560","field":"reply","from":"","to":"Trimis raspuns Buna ziua,\nVă informăm că sesizarea dumneavoastră a fost transmisă către compartimentul responsabil, în vederea verificării situației semnalate și dispunerii măsurilor necesare pentru remedierea defecțiunii mecanismului la containerul stradal. \n\nVă mulțumim pentru sesizare! "}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0275003","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0275003","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0275003","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor, autoturismul la care faceti referire nu a fost identificat in locatie."}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0274901","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0274901","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0274901","field":"reply","from":"","to":"Trimis raspuns Sesizarea a fost verificată, auto nu a fost identificat în locația marcată pe hartă. "}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0274973","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0274973","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-20T11:15:42.187Z","ticket":"CAS-0274973","field":"reply","from":"","to":"Trimis raspuns Sesizarea a fost verificată, auto a fost identificată în locație; s-a întocmit  documentele în vederea sancționării. "}

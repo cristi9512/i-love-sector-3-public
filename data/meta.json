@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-20T11:00:59.279Z",
-  "lastChange": "2026-11-20T11:00:59.279Z",
+  "lastRun": "2026-11-20T11:15:42.187Z",
+  "lastChange": "2026-11-20T11:15:42.187Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2814,
-    "added": 2,
-    "updated": 2,
+    "fetched": 2853,
+    "added": 5,
+    "updated": 5,
     "removed": 0,
-    "changes": 6
+    "changes": 13
   },
   "totals": {
-    "incidents": 46270,
-    "open": 2122,
+    "incidents": 46275,
+    "open": 2123,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,10 +25,10 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-20T11:00:59.279Z",
+    "asOf": "2026-11-20T11:15:42.187Z",
     "days": 30,
-    "open": 2122,
-    "total": 197,
+    "open": 2123,
+    "total": 199,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 89,
+        "open": 88,
         "n": 4
       },
       "7": {
@@ -62,12 +62,12 @@
       },
       "9": {
         "name": "Altele",
-        "open": 223,
+        "open": 224,
         "n": 12
       },
       "10": {
         "name": "Străzi",
-        "open": 433,
+        "open": 434,
         "n": 21
       },
       "11": {
@@ -88,7 +88,7 @@
       "14": {
         "name": "Toaletare/Tăiere arbori",
         "open": 162,
-        "n": 5
+        "n": 6
       },
       "15": {
         "name": "Animale de companie",
@@ -123,7 +123,7 @@
       "21": {
         "name": "Reabilitare blocuri",
         "open": 11,
-        "n": 0
+        "n": 1
       },
       "22": {
         "name": "Spații Comerciale",
