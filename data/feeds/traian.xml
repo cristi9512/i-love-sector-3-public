@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275641</link>
+    <guid isPermaLink="false">CAS-0275641</guid>
+    <pubDate>Fri, 20 Nov 2026 09:06:03 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>trotuar blocat de masini parcate</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275636</link>
     <guid isPermaLink="false">CAS-0275636</guid>
@@ -576,14 +584,6 @@ Vă mulțumesc!</description>
     <pubDate>Sat, 14 Nov 2026 12:54:54 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Pe strada Valeriu Braniste sunt masini parcate neregulamentar pe sosea pe ambele sensuri de mers, astfel incat in unele locuri nu au loc sa circule doua masini pe strada in paralel, ingreunand circulatia.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274178</link>
-    <guid isPermaLink="false">CAS-0274178</guid>
-    <pubDate>Sat, 14 Nov 2026 12:51:39 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Pe strada Vulturilor, intre strada Traian si strada Parfumului, circulatia este aproape blocata din cauza masinilor parcate neregulamentar pe sosea. In unele parti abia este loc sa treaca o singura masina, desi strada are doua sensuri de circulatie.</description>
   </item>
 </channel>
 </rss>
