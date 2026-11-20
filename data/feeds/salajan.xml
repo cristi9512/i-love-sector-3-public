@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275814</link>
+    <guid isPermaLink="false">CAS-0275814</guid>
+    <pubDate>Fri, 20 Nov 2026 20:29:48 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare zona hașurată</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275805</link>
     <guid isPermaLink="false">CAS-0275805</guid>
@@ -573,20 +581,6 @@ Comerț stradal ilegal.Va rog sa interveniți și luați măsurile necesare!
 Mulțumesc!
 
 Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, PERSOANA CARE COMERCIALIZA A FOST IDENTIFICATA ,LEGITIMATA SI SANCTIONATA CONFORM PREVEDERILOR LEGALE,MENTIONAM FAPTUL CA A PARASIT LOCATIA IN PREZENTA NOASTRA. VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275106</link>
-    <guid isPermaLink="false">CAS-0275106</guid>
-    <pubDate>Wed, 18 Nov 2026 09:33:41 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>B75SOL abandonat cu cauciucuri sparte ocupa degeaba un loc de parcare
-
-Răspuns: Trimis raspuns Urmare a sesizării dumneavoastră înregistrată la Primăria Sectorului 3 cu nr.434435/2026, vă comunicăm următoarele:
-În data de 20.11.2026, ora 10:00, polițiștii locali din cadrul Serviciului 3 Ordine Publică și Control, au verificat sesizarea dumneavoastră, constatând faptul că autovehiculul la care faceți referire era parcat pe un loc de parcare nenominal, având anvelopele dezumflate.
-Totodată, s-a luat legătura cu titularul autorizației de parcare, căruia i-au fost aduse la cunoștință prevederile Art. 39 alin.(2) lit.h) din Regulamentul privind gestionarea locurilor din parcările de reședință de pe raza Sectorului 3, aprobat prin HCLS3 nr.346/2022 cu modificările și completările ulterioare, acesta declarând că se va conforma.
-Cu stimă,
- </description>
   </item>
 </channel>
 </rss>

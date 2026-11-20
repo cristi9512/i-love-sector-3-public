@@ -6,6 +6,35 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275814</link>
+    <guid isPermaLink="false">CAS-0275814</guid>
+    <pubDate>Fri, 20 Nov 2026 20:29:48 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare zona hașurată</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275813</link>
+    <guid isPermaLink="false">CAS-0275813</guid>
+    <pubDate>Fri, 20 Nov 2026 20:27:03 GMT</pubDate>
+    <category>Altele</category>
+    <description>Folosind camerele de supraveghere din zonă, sau locarizarea GPS este oare posibilă identificarea șoferului PS3 care a depășit neregulamentar un autobuz STB (Mercedes, alb) chiar în acest loc fix pe trecerea de pietoni? Nu cunosc nr. înmatriculare, autoturismul era similar cu Dacia Dokker Van 2 locuri de culoare albă cu bandă roșu-mov laterală. Incidentul s-a produs pe 20.11.2026 aproximativ 15:04:30–15:06:00. Menționez că nu au existat pagube materiale și nici victime. Nu vreau să depun plângere și nici nu vreau să-mi fie divulgat numele șoferului, doresc doar să știu dacă indentificarea este posibilă și fiu sigur că toți șoferii PS3 cunosc regulile de circulație, mai ales în urma recentului accident tragic de la Mihai Bravu.</description>
+  </item>
+  <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275812</link>
+    <guid isPermaLink="false">CAS-0275812</guid>
+    <pubDate>Fri, 20 Nov 2026 20:21:18 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Buna seara,
+în spatele blocului PM70, scara 1 ( liviu rebreanu 32A), este un plop toaletat în vârf, dar foarte uscat, a început sa se crape pe la jumătatea acestuia.
+
+Va rog sa interveniți pentru toaletarea acestuia încât sa nu mai prezinte un pericol pentru trecători.
+
+Mulțumesc!</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275811</link>
     <guid isPermaLink="false">CAS-0275811</guid>
@@ -504,33 +533,6 @@ Răspuns: Neconcordanță între numărul de înmatriculare menționat în sesiz
     <pubDate>Fri, 20 Nov 2026 16:55:23 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>acces blocat la trotuar, iar la sinele de tren se poate circula pe un singur sens.</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275754</link>
-    <guid isPermaLink="false">CAS-0275754</guid>
-    <pubDate>Fri, 20 Nov 2026 16:53:31 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Vizavi de Kebap Socului pe Bulevardul 1 Decembrie in sectorul 3 , angajații spălătoriei auto folosesc frecvent petarde ce produc un zgomot infernal
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA LA ORELE 19:50. AM LUAT LEGATURA CU UN ANGAJAT DIN CADRUL SPALATORIEI CARUIA I-AM PUS IN ATENTIE PREVEDERILE LG 61/1991 IN PRIVINTA TULBURARII LINISTII SI ORDINII PUBLICE. LOCATIA VA RAMANE IN ATENTIA NOASTRA PENTRU REVERIFICARI PERIODICE .VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275753</link>
-    <guid isPermaLink="false">CAS-0275753</guid>
-    <pubDate>Fri, 20 Nov 2026 16:44:00 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>De aprox. 2 saptamani numai asa parcheaza, pe unde apucă. Ba pe mijlocul străzii, ba pe trotuare, ba pe zonele cu stationare interzisă, ba pe banda de circulatie.
-Luați tată măsuri.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275752</link>
-    <guid isPermaLink="false">CAS-0275752</guid>
-    <pubDate>Fri, 20 Nov 2026 16:38:32 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>De ieri seara masina asta sta aici si nici macar nu sta pe un loc de parcare, sta pe jumatate de banda dintr-un bulevard foarte circulat, in acelasi timp blocheaza inutil un loc de parcare C1. Ar trebui verificata mai des aceasta zona, mai mereu fiind probleme. Mentionez ca masina mea este parcata pe locul nominal de parcare al tatalui meu, aceasta fiind in service, fara sa incurc pe nimeni.</description>
   </item>
 </channel>
 </rss>
