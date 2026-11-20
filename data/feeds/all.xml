@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Dristor</title>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275772</link>
+    <guid isPermaLink="false">CAS-0275772</guid>
+    <pubDate>Fri, 20 Nov 2026 18:01:17 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Stationare pe trotuar a autoturismului Dacia cu numarul B19LNC. Atasat foto.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275771</link>
     <guid isPermaLink="false">CAS-0275771</guid>
     <pubDate>Fri, 20 Nov 2026 17:59:44 GMT</pubDate>
@@ -399,12 +407,14 @@ mulțumesc frumos</description>
     <description>Buna ziua. Sesizam a nu stiu cata oara problema asta. Acest individ trebuie amendat, nu avem alta soluție in acest moment decat amenda. Așteptăm raspuns urgent! Mulțumim, Asociația.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275725</link>
     <guid isPermaLink="false">CAS-0275725</guid>
     <pubDate>Fri, 20 Nov 2026 15:40:01 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE ,MOTIV PENTRU CARE AM INTOCMIT PROCES VERBAL DE CONSTATARE SI APLICAT INSTIINTARE IN PARBRIZ ,URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.VA MULTUMIM!</description>
   </item>
   <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Gurilor</title>
@@ -510,14 +520,6 @@ Theodor Pallady Nr 35. Bl. N2 ,Sc2</description>
     <pubDate>Fri, 20 Nov 2026 15:08:41 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Pe str Foisorului 98 se parcheaza in mod constant neregulamentar. Solicit sanctionarea tuturor autoturismelor parcate neregulamentar.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275712</link>
-    <guid isPermaLink="false">CAS-0275712</guid>
-    <pubDate>Fri, 20 Nov 2026 15:08:02 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Semn de circulație picat</description>
   </item>
 </channel>
 </rss>
