@@ -7,6 +7,22 @@
   <language>ro</language>
   <item>
     <title>Stationare neregulamentara · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275799</link>
+    <guid isPermaLink="false">CAS-0275799</guid>
+    <pubDate>Fri, 20 Nov 2026 19:14:52 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Cele doua masini ocupa intreaga suprafata a trotuarului.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275794</link>
+    <guid isPermaLink="false">CAS-0275794</guid>
+    <pubDate>Fri, 20 Nov 2026 19:06:34 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul M........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275793</link>
     <guid isPermaLink="false">CAS-0275793</guid>
     <pubDate>Fri, 20 Nov 2026 19:00:43 GMT</pubDate>
@@ -576,27 +592,6 @@ Răspuns: in urma verificarilor efectuate la fata locului, auto seeizat nu a fos
     <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: SESIZAREA DUMNEAVOSTRA A FOST PRELUATA SI VERIFICATA . AUTOTURISMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT LA ADRESA INDICATA . </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274855</link>
-    <guid isPermaLink="false">CAS-0274855</guid>
-    <pubDate>Tue, 17 Nov 2026 11:44:02 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna ziua,
-
-In jurul lidl Râmnicu Vâlcea sunt multe masini care sunt parcate pe X urile de la intrarea in curti sau ocupa locuri de parcare pentru care, cel mai probabil, nu platesc, masinile nefiind de București.
-Am prieteni care vor sa plateasca 1 2 ore si nu gasesc niciun loc. Inainte se mai dadeau avertismente, se mai ridicau masini din zona.. Dar de jumatate de an nimic!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274793</link>
-    <guid isPermaLink="false">CAS-0274793</guid>
-    <pubDate>Tue, 17 Nov 2026 06:26:05 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO LA CARE SE FACE REFERIRE A FOST IDENTIFICAT IN LOCATIE,AU FOST APLICATE MASURILE LEGALE.</description>
   </item>
 </channel>
 </rss>
