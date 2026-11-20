@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275760</link>
+    <guid isPermaLink="false">CAS-0275760</guid>
+    <pubDate>Fri, 20 Nov 2026 17:18:07 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Iluminat public nefunctional.</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275733</link>
     <guid isPermaLink="false">CAS-0275733</guid>
@@ -14,12 +22,14 @@
     <description>Am mai facut o sesizare in luna Mai, cu privire la lucrarile care au avut loc pe strada Doicesti si altele din zona, mi s-a comunicat ca cei de la haze vor reasfalta. Nici pana acum nu au intervenit. Aceste strazi dunt foarte inguste, masinile trec foarte aproape de pietoni si de mai multe ori, in incercarea de a ocoli gropile aproape m-au acrosat.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275729</link>
     <guid isPermaLink="false">CAS-0275729</guid>
     <pubDate>Fri, 20 Nov 2026 15:49:44 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Masini parcate pe trotuar. intersectia Calea Calarasilor cu benzinaria MOL</description>
+    <description>Masini parcate pe trotuar. intersectia Calea Calarasilor cu benzinaria MOL
+
+Răspuns: LA MOMENTUL VERIFICARILOR IN TEREN. AUTO SESIZAT NU A MAI FOST IDENTIFICAT IN LOCATIE. </description>
   </item>
   <item>
     <title>Spații verzi · În lucru · Baba Novac</title>
@@ -48,12 +58,14 @@ mulțumesc frumos</description>
     <description>Va rog sa imi spuneti cum să vă transmit documentele de handicap pentru reducere taxe impozite clădire auto loc de parcare, vă mulțumesc</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275703</link>
     <guid isPermaLink="false">CAS-0275703</guid>
     <pubDate>Fri, 20 Nov 2026 14:20:13 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>Auto GL17xDX blocheaza trotoarul</description>
+    <description>Auto GL17xDX blocheaza trotoarul
+
+Răspuns: LA MOMENTUL VERIFICARILOR IN TEREN. AUTO SESIZAT NU A MAI FOST IDENTIFICAT IN LOCATIE. </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
@@ -697,14 +709,6 @@ Mulțumesc frumos!</description>
     <pubDate>Thu, 19 Nov 2026 06:17:08 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>mașină parcată pe trotuar lângă fostul sediu al poliției locale din containere</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275280</link>
-    <guid isPermaLink="false">CAS-0275280</guid>
-    <pubDate>Thu, 19 Nov 2026 06:12:02 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Parcare netrasata.Creeaza dispute si confuzii in privinta locurilor si accesului .Speram sa nu dureze inca 3 luni trasarea unor dungi pe asfalt.</description>
   </item>
 </channel>
 </rss>
