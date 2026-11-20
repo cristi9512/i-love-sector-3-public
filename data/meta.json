@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-20T07:45:37.553Z",
-  "lastChange": "2026-11-20T07:45:37.553Z",
+  "lastRun": "2026-11-20T08:00:57.002Z",
+  "lastChange": "2026-11-20T08:00:57.002Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2723,
-    "added": 7,
-    "updated": 2,
+    "fetched": 2694,
+    "added": 1,
+    "updated": 7,
     "removed": 0,
-    "changes": 6
+    "changes": 21
   },
   "totals": {
-    "incidents": 46225,
-    "open": 2114,
+    "incidents": 46226,
+    "open": 2108,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-20T07:45:37.553Z",
+    "asOf": "2026-11-20T08:00:57.002Z",
     "days": 30,
-    "open": 2114,
+    "open": 2108,
     "total": 191,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 54,
+        "open": 53,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 182,
+        "open": 183,
         "n": 17
       },
       "5": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 564,
+        "open": 558,
         "n": 2
       },
       "32": {

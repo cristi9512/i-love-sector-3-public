@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Lucrari edilitare alei/trotuare · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275615</link>
+    <guid isPermaLink="false">CAS-0275615</guid>
+    <pubDate>Fri, 20 Nov 2026 07:59:42 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Iluminatul din fata blocurilor de langa Petrom Grigorescu nr. 34B functioneaza defectuos. Becurile se aprind si se sting rapid (intr-o secunda).</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275610</link>
     <guid isPermaLink="false">CAS-0275610</guid>
@@ -559,16 +567,6 @@ Răspuns: In curs de rezolvare Codul de parcare 88 este inca in validare,urmand 
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AM ANALIZAT SESIZAREA DUMNEAVOASTRA , AM OBSERVAT CA NU ATI ATASAT FOTOGRAFII, FAPT PENTRU CARE NU SE POATE STABILI CU EXACTITATE LOCATIA. VA RUGAM SA REVENITI CU O NOUA SESIZARE LA CARE SA ATASATI FOTOGRAFII ATAT ALE MASINIII LA CARE FACETI REFERIRE  CAT SI ALE PARCAJULUI. </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274887</link>
-    <guid isPermaLink="false">CAS-0274887</guid>
-    <pubDate>Tue, 17 Nov 2026 13:44:26 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 16.40 autovehiculul la care faceți referire fiind depistat în locație. Conducătorul auto a fost identificat constatându-se faptul că acesta deține autorizație de parcare pentru locuri nenpminale emisă de PS3, aceasta fiind în acest moment în procedură de reactualizare. Nu se impun alte măsuri administrative.</description>
   </item>
 </channel>
 </rss>
