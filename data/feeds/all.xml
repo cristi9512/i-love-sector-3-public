@@ -6,7 +6,18 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275845</link>
+    <guid isPermaLink="false">CAS-0275845</guid>
+    <pubDate>Fri, 20 Nov 2026 22:45:57 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 23
+
+Răspuns: Buna seara,
+Asa cum v-am comunicat, intrucat marcajul la sol specific locurilor nenominale nu este vizibil, am transmis catre serviciul abilitat in vederea retrasarii marcajelor specifice.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275844</link>
     <guid isPermaLink="false">CAS-0275844</guid>
     <pubDate>Fri, 20 Nov 2026 22:45:09 GMT</pubDate>
@@ -533,16 +544,6 @@ Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavoastra. S-a into
 
 Răspuns: Buna seara,
 In urma verificarilor efectuate locul de parcare indicat conform marcajelor vizibile afisate la sol, nu figureaza a fi un loc nenominal, vom transmite catre serviciul abilitat in vederea retrasarii marcajelor.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275785</link>
-    <guid isPermaLink="false">CAS-0275785</guid>
-    <pubDate>Fri, 20 Nov 2026 18:37:58 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 36
-
-Răspuns: Buna seara. Am preluat si verificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat ,conform HCLS3 nr 346/2022. Uterior identificarii proprietarului i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
 </channel>
 </rss>
