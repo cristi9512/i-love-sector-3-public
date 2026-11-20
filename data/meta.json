@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-20T13:30:54.278Z",
-  "lastChange": "2026-11-20T13:30:54.278Z",
+  "lastRun": "2026-11-20T13:45:38.015Z",
+  "lastChange": "2026-11-20T13:45:38.015Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2754,
-    "added": 2,
-    "updated": 4,
+    "fetched": 2806,
+    "added": 3,
+    "updated": 2,
     "removed": 0,
-    "changes": 8
+    "changes": 4
   },
   "totals": {
-    "incidents": 46305,
-    "open": 2100,
+    "incidents": 46308,
+    "open": 2102,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-20T13:30:54.278Z",
+    "asOf": "2026-11-20T13:45:38.015Z",
     "days": 30,
-    "open": 2100,
+    "open": 2102,
     "total": 195,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 44,
+        "open": 43,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 183,
+        "open": 185,
         "n": 16
       },
       "5": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 88,
+        "open": 89,
         "n": 4
       },
       "7": {
