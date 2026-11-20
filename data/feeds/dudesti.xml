@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275650</link>
+    <guid isPermaLink="false">CAS-0275650</guid>
+    <pubDate>Fri, 20 Nov 2026 09:50:35 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>cabluri electrice pe jos in apa</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275644</link>
     <guid isPermaLink="false">CAS-0275644</guid>
@@ -578,16 +586,6 @@ Răspuns: Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie.</de
     <category>Altele</category>
     <description>nu funcționează nici un stâlp cu iluminare
 pe intrarea Brateș și Alexandru Moruzzi până la intersecția cu Foișorului</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274821</link>
-    <guid isPermaLink="false">CAS-0274821</guid>
-    <pubDate>Tue, 17 Nov 2026 08:11:15 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>calea dudesti 126, masini santier parcate pe trotuar
-
-Răspuns: au fost aplicate cinci instiintari informative </description>
   </item>
 </channel>
 </rss>
