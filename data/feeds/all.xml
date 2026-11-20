@@ -6,7 +6,36 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Sălăjan</title>
+    <title>Altele · Noua · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275817</link>
+    <guid isPermaLink="false">CAS-0275817</guid>
+    <pubDate>Fri, 20 Nov 2026 20:45:15 GMT</pubDate>
+    <category>Altele</category>
+    <description>Nu mai primesc răspuns pe email atunci când fac o sesizare online, trebuie neapărat sa deschid aplicația de Android PS3 ca să vad sesizarea altfel pe email nu primesc.. Ar trebui verificat</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Lipscani</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275816</link>
+    <guid isPermaLink="false">CAS-0275816</guid>
+    <pubDate>Fri, 20 Nov 2026 20:43:55 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Cineva a aruncat aici kilograme întregi de deșeuri blocand ghenele și trotuarele in același timp, e un miros pestilential, o adevărată boma biologica..</description>
+  </item>
+  <item>
+    <title>Altele · În lucru · Lipscani</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275815</link>
+    <guid isPermaLink="false">CAS-0275815</guid>
+    <pubDate>Fri, 20 Nov 2026 20:31:57 GMT</pubDate>
+    <category>Altele</category>
+    <description>Bună ziua,
+
+Pe imobilul de la intersecția străzilor Halelor și Șelari, încadrat în clasa de risc seismic I, este amplasat un mesh publicitar de mari dimensiuni, acest lucru fiind interzis prin lege. meshul respectiv e iluminat de niste proiectoare foarte puternice care inundă cu lumină imobilul din Splaiul Independenței nr. 3, afectând odihna locatarilor. Solicit luarea tuturor măsurilor necesare pentru rezolvarea situației.
+
+Cu stimă,
+Ștefan Podea</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275814</link>
     <guid isPermaLink="false">CAS-0275814</guid>
     <pubDate>Fri, 20 Nov 2026 20:29:48 GMT</pubDate>
@@ -509,30 +538,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, CONDUCATORUL AUTO S-A
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Neconcordanță între numărul de înmatriculare menționat în sesizare și numrăul de înmatriculare al vehiculului din fotografia atașată.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275757</link>
-    <guid isPermaLink="false">CAS-0275757</guid>
-    <pubDate>Fri, 20 Nov 2026 17:06:43 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275756</link>
-    <guid isPermaLink="false">CAS-0275756</guid>
-    <pubDate>Fri, 20 Nov 2026 17:06:35 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcat artistic, pe mijlocul trotuarului.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275755</link>
-    <guid isPermaLink="false">CAS-0275755</guid>
-    <pubDate>Fri, 20 Nov 2026 16:55:23 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>acces blocat la trotuar, iar la sinele de tren se poate circula pe un singur sens.</description>
   </item>
 </channel>
 </rss>
