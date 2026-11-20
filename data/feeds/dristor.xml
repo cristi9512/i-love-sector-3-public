@@ -6,6 +6,28 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Trasare parcare · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275848</link>
+    <guid isPermaLink="false">CAS-0275848</guid>
+    <pubDate>Fri, 20 Nov 2026 23:42:12 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Bună ziua,
+Vă aduc la cunoștință faptul că locul de parcare identificat cu numărul 12 figurează în sistemul informatic de gestionare a parcărilor din Sectorul 3 ca fiind un loc B8 nenominal, însă în teren acesta nu este delimitat sau marcat corespunzător.
+Această situație creează confuzii privind identificarea și utilizarea locului de parcare.
+Prin urmare, solicit verificarea situației în teren și dispunerea măsurilor necesare pentru trasarea și marcarea corespunzătoare a locului de parcare B8.
+Vă rog să îmi comunicați numărul de înregistrare al sesizării și un răspuns privind termenul estimativ de soluționare.
+
+Vă mulțumesc!</description>
+  </item>
+  <item>
+    <title>Trasare parcare · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275846</link>
+    <guid isPermaLink="false">CAS-0275846</guid>
+    <pubDate>Fri, 20 Nov 2026 23:30:53 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Locul cu numărul 12 apare pe pagina oficială al sectorului 3, pentru locuri nenominale, ca fiind un B8, însă acesta nu este marcat și pe strada. Din această privință au plecat diverse conflicte cu deținătorii unor autoturisme care nu au vrut să mute autovehiculul, atunci când deținătorul unui B8, dorea a parca pe acel loc. Rog a fi retrasat “B8”, sau a fi modificata pagina, pentru a rezolva acest conflict!</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275845</link>
     <guid isPermaLink="false">CAS-0275845</guid>
@@ -591,26 +613,6 @@ Răspuns: S-a dispus ridicare a doua auto stationate neregulamentar. Pe coltul i
     <description>parcare pe trotuar
 
 Răspuns: S-a dispus ridicare a doua auto stationate neregulamentar. Pe coltul intersectiei si pe trotuarul pietonal</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274942</link>
-    <guid isPermaLink="false">CAS-0274942</guid>
-    <pubDate>Tue, 17 Nov 2026 16:45:07 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: sesizare incompleta</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274941</link>
-    <guid isPermaLink="false">CAS-0274941</guid>
-    <pubDate>Tue, 17 Nov 2026 16:42:53 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: din fotografia atasata nu reiese faptul ca auto in cauza se afla pe loc de parcare nenominal </description>
   </item>
 </channel>
 </rss>
