@@ -6,6 +6,16 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275776</link>
+    <guid isPermaLink="false">CAS-0275776</guid>
+    <pubDate>Fri, 20 Nov 2026 18:23:10 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna seara, 
+Va rog sa ne ajutati cu ridicarea atv-ului abandonat pe calea de acces in parcare, in spatele blocului 9, scara 1 din strada Spiridon Matei 1. Acesta blocheaza intrarea si iesirea de pe locul de parcare 22, bateria 387.
+Va multumesc</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275749</link>
     <guid isPermaLink="false">CAS-0275749</guid>
@@ -564,19 +574,6 @@ Situatia a fost transmisa pentru rezolvare catre compartimentul abilitat, Servic
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Ajunsi la fata locului ,am constatat ca autovehiculul cu numarul de inmatriculare B 118 YZO se afla parcat fara drept pe un de parcare de resedinta nenominal,drept pentru care s-a intocmit documentatia in vederea sanctionarii ulterioare.</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275212</link>
-    <guid isPermaLink="false">CAS-0275212</guid>
-    <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Va rugam sa ne ajutati cu retrasarea locurilor de parcare din bateria 387, Ramnicu Sarat 27.
-De cand a fost construit trotuarul prin mijlocul bateriei, suntem obligati sa accesam locurile de parcare din aleea din spatele blocului 9 din strada Spiridon Matei nr.1 Daca inainte erau doar 5 locuri de parcare pe aceasta latura, acum ne inghesuim 6 masini, din care 2 ale aceluias proprietar, pe acelasi spatiu.
-Nu mai vorbesc de faptul ca, nefiind trasate, locurile sunt blocate de alte masini, fiind adevarata haiducie pt a parca.
-In plus, locul 22, unde parcheaza B266MOT este partial in dreptul punctului termic fiind foarte dificila parcarea.
-Acestea fiind spuse, va rugam sa ne ajutati cu retrasarea celor 5 locuri de parcare pt a evita conflictele cu cei care nu mai recunosc acele locuri de parcare.
-Va multumim!</description>
   </item>
 </channel>
 </rss>
