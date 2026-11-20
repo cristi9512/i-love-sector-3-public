@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275706</link>
+    <guid isPermaLink="false">CAS-0275706</guid>
+    <pubDate>Fri, 20 Nov 2026 14:40:04 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275673</link>
     <guid isPermaLink="false">CAS-0275673</guid>
@@ -573,16 +581,6 @@ Această sesizare va fi escaladată la foruri superioare!</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: din foto nu reiese faptul ca auto ocupa loc de parcare nenominal </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274859</link>
-    <guid isPermaLink="false">CAS-0274859</guid>
-    <pubDate>Tue, 17 Nov 2026 11:53:33 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>duba parcata pe zona hasurata in fata trecerii de pietoni. vizibilitatea e zero din cauza ei
-
-Răspuns: Sesizarea nu se confirma, auto reclamat a parasit locatia.</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275705</link>
+    <guid isPermaLink="false">CAS-0275705</guid>
+    <pubDate>Fri, 20 Nov 2026 14:36:08 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Pe strada Vulturilor, între str. Turturelelor și str. Rândunelelor, este imposibil să se circule pe trotuar, din cauza șantierelor și mașinilor ce ocupa tot trotuarul. Pietonii pot circula doar pe carosabil.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275679</link>
     <guid isPermaLink="false">CAS-0275679</guid>
@@ -576,14 +584,6 @@ Vă aduc în atenție faptul că aceeași problemă privind iluminatul public es
 Vă rog să trimiteți o echipă pentru verificarea și remedierea defecțiunilor, astfel încât zona să fie iluminată corespunzător.
 
 Vă mulțumesc!</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274180</link>
-    <guid isPermaLink="false">CAS-0274180</guid>
-    <pubDate>Sat, 14 Nov 2026 12:59:13 GMT</pubDate>
-    <category>Altele</category>
-    <description>La iesirea din aceasta parcare pe strada Matei Basarab sunt mereu parcate masini langa locurile de parcare delimitate sau pe trecerea de pietoni, ceea ce blocheaza vizibilitatea masinilor care ies din parcare, si ingreuneaza circulatia in si din parcare. Se pot instala stalpisori pentru vizibilitate, cum au fost pusi la intersectia str. Cezar Boliac cu str. Matei Basarab?</description>
   </item>
 </channel>
 </rss>
