@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275793</link>
+    <guid isPermaLink="false">CAS-0275793</guid>
+    <pubDate>Fri, 20 Nov 2026 19:00:43 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe trotuar pe str drumul murgului la intersectia cu Blvd camil ressu</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275791</link>
+    <guid isPermaLink="false">CAS-0275791</guid>
+    <pubDate>Fri, 20 Nov 2026 18:48:22 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare neregulamentară//auto parcare ilegal, blochează intrarea și ieșirea din garaj.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275771</link>
     <guid isPermaLink="false">CAS-0275771</guid>
@@ -581,25 +597,6 @@ Am prieteni care vor sa plateasca 1 2 ore si nu gasesc niciun loc. Inainte se ma
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AUTO LA CARE SE FACE REFERIRE A FOST IDENTIFICAT IN LOCATIE,AU FOST APLICATE MASURILE LEGALE.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274761</link>
-    <guid isPermaLink="false">CAS-0274761</guid>
-    <pubDate>Mon, 16 Nov 2026 21:31:55 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>acest canal/groapa din imagine, de langa roata masinii, nu mai are capac. am cazut in el la ora 22:24. probabil ar trebui acoperit. multumesc.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274754</link>
-    <guid isPermaLink="false">CAS-0274754</guid>
-    <pubDate>Mon, 16 Nov 2026 20:59:49 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>
