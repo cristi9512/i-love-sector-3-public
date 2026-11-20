@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Brățării</description>
   <language>ro</language>
   <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275788</link>
+    <guid isPermaLink="false">CAS-0275788</guid>
+    <pubDate>Fri, 20 Nov 2026 18:41:12 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Stalp de iluminat rupt si cazut</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Brățării</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275489</link>
     <guid isPermaLink="false">CAS-0275489</guid>
@@ -626,16 +634,6 @@ Vă transmitem atașat răspunsul direcției noastre privind adresa dumneavoastr
     <pubDate>Thu, 05 Nov 2026 08:17:37 GMT</pubDate>
     <category>Străzi</category>
     <description>Mai multe gropi uriase prezente pe carosabil, pe Strada Drumul Gura Badicului, intre giratoriul cu Gura Calitei si giratoriul cu Ghetu Anghel, fix pe tronsonul de drum care este paralel cu Bratarii. Sunt si pe un sens de mers, si pe celalalt. Verificati intre cele 2 giratorii, va rog, si luati masurile reparatorii care se impun. Va multumesc!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Brățării</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0271701</link>
-    <guid isPermaLink="false">CAS-0271701</guid>
-    <pubDate>Wed, 04 Nov 2026 20:22:10 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 2
-
-Răspuns: SESIZAREA DUMNEAVOASTRA SE CONFIRMA, AUTOTURISMUL IN CAUZA A FOST IDENTIFICAT IN LOCATIE, MOTIV PENTRU CARE AM INTOCMIT PROCES VERBAL DE CONSTATARE SI APLICAT INSTIINTARE, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
   </item>
 </channel>
 </rss>

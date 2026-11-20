@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275780</link>
+    <guid isPermaLink="false">CAS-0275780</guid>
+    <pubDate>Fri, 20 Nov 2026 18:35:01 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275778</link>
+    <guid isPermaLink="false">CAS-0275778</guid>
+    <pubDate>Fri, 20 Nov 2026 18:31:28 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Verificări construcții/Lucrări neautorizate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275767</link>
     <guid isPermaLink="false">CAS-0275767</guid>
@@ -63,20 +79,24 @@ Răspuns: BUNA ZIUA,PT. A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT,VA RUGAM 
     <description>parcare neregulamentara, rog montare stalpisori. dau masinile peste pietoni pt ca pietonii nu vad masinile ce vin din cauza altor masini aflate in deplasare</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275662</link>
     <guid isPermaLink="false">CAS-0275662</guid>
     <pubDate>Fri, 20 Nov 2026 11:09:27 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275661</link>
     <guid isPermaLink="false">CAS-0275661</guid>
     <pubDate>Fri, 20 Nov 2026 11:07:32 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Timpuri Noi</title>
@@ -595,22 +615,6 @@ Răspuns: Trimis raspuns Urmare a sesizării dumneavoastră înregistrată la Pr
 
 Răspuns: BUNĂ ZIUA!
     AUTOTURISMUL RECLAMAT DETINE PLATA EFECTUATĂ</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275015</link>
-    <guid isPermaLink="false">CAS-0275015</guid>
-    <pubDate>Tue, 17 Nov 2026 20:55:01 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Buna ziua, in aceasta intersectie Morilor colt cu Minulescu este foarte  limitata vizibilitatea din spartea stanga pentru ca masinile parcheaza langa trecerea de pieton. Va rog sa gasiti o solutie. Ar ajuta niste stalpisori sau o oglinda vis a vis. Multumesc!</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275014</link>
-    <guid isPermaLink="false">CAS-0275014</guid>
-    <pubDate>Tue, 17 Nov 2026 20:49:46 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Buna ziua, in urma unor lucrari la canalizare/apa de anul trecut, a inceput asfaltul sa se lase  destul de tare si s-a format o groapa. Pe zi ce trece pare ca se adanceste iar pentru cei cu scutere si trotinete poate fi destul de periculos. Avand in vedere ca se efectueaza lucrari de canalizare in spatele blocului, poate rezolvati si aceasta problema. Multumesc!</description>
   </item>
 </channel>
 </rss>
