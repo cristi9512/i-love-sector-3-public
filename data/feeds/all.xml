@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275841</link>
+    <guid isPermaLink="false">CAS-0275841</guid>
+    <pubDate>Fri, 20 Nov 2026 22:24:01 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-10, precum și pentru zonele B-7,B-8,B-9,</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275840</link>
+    <guid isPermaLink="false">CAS-0275840</guid>
+    <pubDate>Fri, 20 Nov 2026 22:18:15 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>mașină parcată pe trotuar, a 3-a seara la rând lângă fostul sediu al poliției locale din containere. mai lucrează cineva la rutieră?</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275839</link>
     <guid isPermaLink="false">CAS-0275839</guid>
@@ -531,25 +547,6 @@ La momentul efectuarii verificarilor aspectele sesizate se confirma, asupra auto
     <pubDate>Fri, 20 Nov 2026 18:36:23 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>este blocat trotuarul de un munte de gunoi!! nu mai avem pe unde circula din cauza gunoiului. valabil si pe Str Foisorului si pe Str Calugareni.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275781</link>
-    <guid isPermaLink="false">CAS-0275781</guid>
-    <pubDate>Fri, 20 Nov 2026 18:35:30 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul M........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Buna seara,
-La momentul efectuarii verificarilor aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275780</link>
-    <guid isPermaLink="false">CAS-0275780</guid>
-    <pubDate>Fri, 20 Nov 2026 18:35:01 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
 </channel>
 </rss>

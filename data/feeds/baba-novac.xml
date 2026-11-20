@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275840</link>
+    <guid isPermaLink="false">CAS-0275840</guid>
+    <pubDate>Fri, 20 Nov 2026 22:18:15 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>mașină parcată pe trotuar, a 3-a seara la rând lângă fostul sediu al poliției locale din containere. mai lucrează cineva la rutieră?</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275800</link>
     <guid isPermaLink="false">CAS-0275800</guid>
@@ -701,14 +709,6 @@ Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE</descr
 Răspuns: Trimis raspuns Bună ziua,
 Vă informăm că sesizarea dumneavoastră a fost transmisă echipelor operative din teren, în vederea efectuării operațiunilor de salubrizare și îndepărtării deșeurilor depozitate în zona semnalată.
 Vă mulțumim pentru sesizare și pentru implicarea în menținerea unui mediu curat și îngrijit. </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275319</link>
-    <guid isPermaLink="false">CAS-0275319</guid>
-    <pubDate>Thu, 19 Nov 2026 08:10:43 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcat pe trotuar. Vizibilitate zero la intrarea pe bulevard</description>
   </item>
 </channel>
 </rss>

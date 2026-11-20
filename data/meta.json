@@ -1,17 +1,17 @@
 {
-  "lastRun": "2026-11-20T22:15:38.626Z",
-  "lastChange": "2026-11-20T22:15:38.626Z",
+  "lastRun": "2026-11-20T22:30:49.418Z",
+  "lastChange": "2026-11-20T22:30:49.418Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2670,
+    "fetched": 2492,
     "added": 2,
-    "updated": 5,
+    "updated": 2,
     "removed": 0,
-    "changes": 15
+    "changes": 6
   },
   "totals": {
-    "incidents": 46450,
+    "incidents": 46452,
     "open": 2180,
     "months": [
       "2026-05",
@@ -25,7 +25,7 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-20T22:15:38.626Z",
+    "asOf": "2026-11-20T22:30:49.418Z",
     "days": 30,
     "open": 2180,
     "total": 205,
