@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Parcuri · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275620</link>
+    <guid isPermaLink="false">CAS-0275620</guid>
+    <pubDate>Fri, 20 Nov 2026 08:10:32 GMT</pubDate>
+    <category>Parcuri</category>
+    <description>Vă semnalez că în parcul IOR lipsesc mai multe becuri de iluminat public ceea ce creează disconfort și nesiguranță pe timpul serii. Vă rog să luați măsuri pentru remedierea situației.</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275607</link>
     <guid isPermaLink="false">CAS-0275607</guid>
@@ -70,12 +78,14 @@ Mioara</description>
 Răspuns: Auto a parasit locatia.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275594</link>
     <guid isPermaLink="false">CAS-0275594</guid>
     <pubDate>Fri, 20 Nov 2026 06:44:04 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: SESIZAREA DUMNEAVOASTRA SE CONFIRMA, AUTO LA CARE FACETI REFEIRE A FOST IDENTIFICAT IN LOCATIE, MOTIV PENTRU CARE AM DISPUS RIDICAREA ACESTUIA, DAR PANA LA SOSIREA PLATFORMEI S A PREZENTAT CONDUCATORUL AUTO, CARE A FOST SANCTIONAT CONTRAVENTIONAL.</description>
   </item>
   <item>
     <title>Toaletare/Tăiere arbori · În lucru · Balta Albă - Titan</title>
@@ -573,16 +583,6 @@ mai mică se 6 metri. Este permanent. Mulțumesc. Cristi.</description>
 Răspuns: In curs de rezolvare vă comunicăm că am luat la cunoștință propunerile menționate. În funcție de graficul de lucru al echipei de trasări, precum și de condițiile meteorologice, echipa se va deplasa și în zona respectivă, în vederea verificării situației și a dispunerii măsurilor care se impun, după caz.          
 
  </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275169</link>
-    <guid isPermaLink="false">CAS-0275169</guid>
-    <pubDate>Wed, 18 Nov 2026 14:58:02 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Parcajul a fost verificat la ora 18.36, vehiculul la care facei referire fiind găsit parcatț pe un loc de parcare nominal, respectiv locul 1, bateria 22_1.; potrivit prevederilor art.37 alin.(1) din regulamentul aprobat prin HCLS3 nr.346/2022, un loc de parcare nominal poate fi ocupat de orice persoană care tranzitează zona cu condiia afiării lațș loc vizibil a unui număr de telefon pentru a putea fi contactat, iar în maxim 5 minute de la momentul contactării de către titularul locului de parcare, este obligat să elibereze locul. Vă mulumim!-</description>
   </item>
 </channel>
 </rss>
