@@ -6,7 +6,81 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Ozana</title>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275724</link>
+    <guid isPermaLink="false">CAS-0275724</guid>
+    <pubDate>Fri, 20 Nov 2026 15:28:10 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Buna seara!locuiesc pe strada drumul gura putnei 86-90.
+Aici avem 2 pubele la suprafata si 2 îngropate,care sunt insuficiente pentru numarul de locuitori din zona,nu exista zi sa nu fie pline tomberoanele si normal gunoi de tot felul pe langa ele,un exemplu este chiar de astazi,dimineata la 04:20 erau pline ful toate si multi saci pe langa,dar ele erau pline de aseara si abia acum la 17:00 au venit sa le goleasca,bineinteles la sesizarea mea.
+Parerea mea este ca trebuie sa vina macar o data pe zi sa se goleasca si menajerul si reciclabilul chiar daca nu sunt pline ful.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275723</link>
+    <guid isPermaLink="false">CAS-0275723</guid>
+    <pubDate>Fri, 20 Nov 2026 15:27:20 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Buna seara. Azi a fost zi de curatare mecanizata a locurilor de parcare din zona. Am mutat masina, dar nu a venit nimeni sa miste o frunza de pe trotuar sau parcare. As vrea sa stiu daca eu nu mut masina imi dati amenda sau o ridicati, dar daca primaria nu respecta programul de curatenie afisat tot de ea, ce se intampla? Multumesc!</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275722</link>
+    <guid isPermaLink="false">CAS-0275722</guid>
+    <pubDate>Fri, 20 Nov 2026 15:25:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>B120YOE</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275721</link>
+    <guid isPermaLink="false">CAS-0275721</guid>
+    <pubDate>Fri, 20 Nov 2026 15:25:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275720</link>
+    <guid isPermaLink="false">CAS-0275720</guid>
+    <pubDate>Fri, 20 Nov 2026 15:23:25 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Stationare pe parcare interzisa, blocare banda de circulatie</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275719</link>
+    <guid isPermaLink="false">CAS-0275719</guid>
+    <pubDate>Fri, 20 Nov 2026 15:18:40 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 34</description>
+  </item>
+  <item>
+    <title>Ordine și liniște publică · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275718</link>
+    <guid isPermaLink="false">CAS-0275718</guid>
+    <pubDate>Fri, 20 Nov 2026 15:17:24 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>Lângă școala 92 ,se arunca cu petarde .</description>
+  </item>
+  <item>
+    <title>Ordine și liniște publică · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275717</link>
+    <guid isPermaLink="false">CAS-0275717</guid>
+    <pubDate>Fri, 20 Nov 2026 15:17:07 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>Obiecte personale lăsate pe holul comun al blocului, care pot împiedica deplasarea sau evacuarea de urgență</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275716</link>
+    <guid isPermaLink="false">CAS-0275716</guid>
+    <pubDate>Fri, 20 Nov 2026 15:16:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275715</link>
     <guid isPermaLink="false">CAS-0275715</guid>
     <pubDate>Fri, 20 Nov 2026 15:14:25 GMT</pubDate>
@@ -72,12 +146,14 @@ As dori să solicit amplasarea măcar a unui coș de gunoi stradal pe trotuarul 
     <description>Va rog sa imi spuneti cum să vă transmit documentele de handicap pentru reducere taxe impozite clădire auto loc de parcare, vă mulțumesc</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275707</link>
     <guid isPermaLink="false">CAS-0275707</guid>
     <pubDate>Fri, 20 Nov 2026 14:47:36 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNA SEARA,PT. A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT,VA RUGAM CA,PE VIITOR,SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZATOR LA SOL.VA MULTUMIM</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
@@ -136,12 +212,14 @@ Sperăm ca această sesizare să nu rămână fără răspuns și ca autorităț
 Viața și siguranța oamenilor trebuie să fie o prioritate! Nu așteptați să se întâmple o nenorocire pentru a lua măsuri!</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275701</link>
     <guid isPermaLink="false">CAS-0275701</guid>
     <pubDate>Fri, 20 Nov 2026 14:12:03 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE,MOTIV PENTRU CARE AM INTOCMIT PROCES VERBAL DE CONSTATARE SI APLICAT INSTIINTARE IN PARBRIZ,URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.VA MULTUMIM!</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
@@ -467,82 +545,6 @@ Marius Holban, tel: 0757884991</description>
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: BUNA ZIUA,PT. A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT,VA RUGAM CA,PE VIITOR,SA NE FURNIZATI FOTOGRAFII CONCLUDENTE,VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZATOR LA SOL.VA MULTUMIM</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275664</link>
-    <guid isPermaLink="false">CAS-0275664</guid>
-    <pubDate>Fri, 20 Nov 2026 11:10:40 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua, doresc sa fac o sesizare legata de semafoarele de dupa pasaj. De cand au fost schimbate, este un mare haos si este foarte periculos. Pe prima banda, pe stalpul de langa trotuar a ramas doar semaforul pentru stanga, care nu are ce cauta la 4 benzi distanta. Absolut zilnic vad cum trec masini pe rosu, crezand ca semaforul de stanga e al lor, dar se si opresc la verde(semaforul de stanga fiind rosu) si incurca toata circulația. Am asistat multe seri la masini care trecand pe rosu era sa provoace accidente. Este clar ca problema este la pozitionarea semaforului, avand in vedere ca se intampla zilnic.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275663</link>
-    <guid isPermaLink="false">CAS-0275663</guid>
-    <pubDate>Fri, 20 Nov 2026 11:09:51 GMT</pubDate>
-    <category>Străzi</category>
-    <description>parcare neregulamentara, rog montare stalpisori. dau masinile peste pietoni pt ca pietonii nu vad masinile ce vin din cauza altor masini aflate in deplasare</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275662</link>
-    <guid isPermaLink="false">CAS-0275662</guid>
-    <pubDate>Fri, 20 Nov 2026 11:09:27 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275661</link>
-    <guid isPermaLink="false">CAS-0275661</guid>
-    <pubDate>Fri, 20 Nov 2026 11:07:32 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275660</link>
-    <guid isPermaLink="false">CAS-0275660</guid>
-    <pubDate>Fri, 20 Nov 2026 11:07:31 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE.VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275659</link>
-    <guid isPermaLink="false">CAS-0275659</guid>
-    <pubDate>Fri, 20 Nov 2026 11:00:48 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Bună ziua. Vă rugăm reapectuos să ne ajutați cu toalerarea copacilor din gradina blocului S8, deoarece au un risc ridicat de a ceda la următoarele intemperii. Asociația de proprietari S8 vă mulțumește anticipat.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275658</link>
-    <guid isPermaLink="false">CAS-0275658</guid>
-    <pubDate>Fri, 20 Nov 2026 10:50:14 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autoturismul din imagine parcheaza regulat neregulamentar pe locul privat de parcare apartinand firmei AT Imob Solutions (CUI 46262069) situat la adresa str Anton Pann 19A. Pe langa pozele cu autoturismul atasez si cadastru locului de parcare.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275657</link>
-    <guid isPermaLink="false">CAS-0275657</guid>
-    <pubDate>Fri, 20 Nov 2026 10:30:25 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Iluminatul public nu funcționează. Strada e în beznă seara și nu te simți deloc în siguranță.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275656</link>
-    <guid isPermaLink="false">CAS-0275656</guid>
-    <pubDate>Fri, 20 Nov 2026 10:24:39 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. LA LOCUL DE PARCARE S-A PREZENTAT CONDUCATORUL FIIND SANCTIONAT CONTRAVENTIONAL IAR LOCUL DE PARCARE A FOST ELIBERAT.</description>
   </item>
 </channel>
 </rss>

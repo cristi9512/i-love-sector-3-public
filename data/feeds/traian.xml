@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275719</link>
+    <guid isPermaLink="false">CAS-0275719</guid>
+    <pubDate>Fri, 20 Nov 2026 15:18:40 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 34</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275716</link>
+    <guid isPermaLink="false">CAS-0275716</guid>
+    <pubDate>Fri, 20 Nov 2026 15:16:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275705</link>
     <guid isPermaLink="false">CAS-0275705</guid>
@@ -560,30 +576,6 @@ Răspuns: Am preluat si verificat sesizarea dvs.Auto a fost identificat in locat
     <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DVS  .AUTO A FOST IDENTIFICAT IN LOCATIE.AU FOST LUATE MASURIE LEGALE AFLATE IN VIGOARE</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274274</link>
-    <guid isPermaLink="false">CAS-0274274</guid>
-    <pubDate>Sat, 14 Nov 2026 21:47:35 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DVS .AUTO A FOST IDENTIFICAT IN LOCATIE.AU FOST LUATE MASURIE LEGALE AFLATE IN VIGOARE.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274223</link>
-    <guid isPermaLink="false">CAS-0274223</guid>
-    <pubDate>Sat, 14 Nov 2026 16:27:52 GMT</pubDate>
-    <category>Altele</category>
-    <description>Bună seara,
-
-Vă aduc în atenție faptul că aceeași problemă privind iluminatul public este întâlnită și vizavi de adresa Bulevardul Unirii nr. 66, unde mai mulți stâlpi de iluminat nu funcționează.
-
-Vă rog să trimiteți o echipă pentru verificarea și remedierea defecțiunilor, astfel încât zona să fie iluminată corespunzător.
-
-Vă mulțumesc!</description>
   </item>
 </channel>
 </rss>

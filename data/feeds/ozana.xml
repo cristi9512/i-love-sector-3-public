@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Ozana</title>
+    <title>Ordine și liniște publică · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275717</link>
+    <guid isPermaLink="false">CAS-0275717</guid>
+    <pubDate>Fri, 20 Nov 2026 15:17:07 GMT</pubDate>
+    <category>Ordine și liniște publică</category>
+    <description>Obiecte personale lăsate pe holul comun al blocului, care pot împiedica deplasarea sau evacuarea de urgență</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275715</link>
     <guid isPermaLink="false">CAS-0275715</guid>
     <pubDate>Fri, 20 Nov 2026 15:14:25 GMT</pubDate>
@@ -32,12 +40,14 @@ As dori să solicit amplasarea măcar a unui coș de gunoi stradal pe trotuarul 
     <description>Bună ziua, am constatat că în urma refacerii marcajului locului de parcare nenominal 73, zona C6,  Str. Fetesti, bl F5, autoturismul proprietate personală cu nr de înmatriculare B777JBB a fost stropit cu vopsea galbenă. Vă rog să rezolvați situația, astfel încât, să nu am urme de vopsea pe caroserie.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275701</link>
     <guid isPermaLink="false">CAS-0275701</guid>
     <pubDate>Fri, 20 Nov 2026 14:12:03 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE,MOTIV PENTRU CARE AM INTOCMIT PROCES VERBAL DE CONSTATARE SI APLICAT INSTIINTARE IN PARBRIZ,URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.VA MULTUMIM!</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
@@ -590,18 +600,6 @@ Cu stima,
     <pubDate>Wed, 18 Nov 2026 06:26:24 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Va rugam frumos sa interveniti, aleea este blocata 90%, nu putem trece cu copiii pentru a-i duce la scoala/gradinita. Nesimtirea nu mai are limite!</description>
-  </item>
-  <item>
-    <title>Verificări construcții/Lucrări neautorizate · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275049</link>
-    <guid isPermaLink="false">CAS-0275049</guid>
-    <pubDate>Wed, 18 Nov 2026 06:03:47 GMT</pubDate>
-    <category>Verificări construcții/Lucrări neautorizate</category>
-    <description>Buna dimineata,
-
-Revin a 3a oare cu sesizare sa remediati cablurile din aceasta zona, care atarna pana la nivelul pamantului, iar intre stalpi arata ca in poza.
-
-Multumim!</description>
   </item>
 </channel>
 </rss>

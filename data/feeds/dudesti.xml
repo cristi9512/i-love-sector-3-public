@@ -6,12 +6,22 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275720</link>
+    <guid isPermaLink="false">CAS-0275720</guid>
+    <pubDate>Fri, 20 Nov 2026 15:23:25 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Stationare pe parcare interzisa, blocare banda de circulatie</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275707</link>
     <guid isPermaLink="false">CAS-0275707</guid>
     <pubDate>Fri, 20 Nov 2026 14:47:36 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNA SEARA,PT. A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT,VA RUGAM CA,PE VIITOR,SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZATOR LA SOL.VA MULTUMIM</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
@@ -571,14 +581,6 @@ Multumesc</description>
     <category>Stationare neregulamentara</category>
     <description>Vă sesizez o parcare neregulamentară B 24 AHV pe loc marcat la sol ca fiind Oprire interzisă str.Agatha Bârsescu bloc V16-V17. Au fost mai multe sesizări în acest sens, mașina este în locație de peste 10 zile! FĂRĂ FINALITATE!
 Această sesizare va fi escaladată la foruri superioare!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274895</link>
-    <guid isPermaLink="false">CAS-0274895</guid>
-    <pubDate>Tue, 17 Nov 2026 14:42:47 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez parcări neregulamentare B  190 SOS și B 82 AVA în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.</description>
   </item>
 </channel>
 </rss>

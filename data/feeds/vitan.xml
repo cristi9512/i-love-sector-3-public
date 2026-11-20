@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275721</link>
+    <guid isPermaLink="false">CAS-0275721</guid>
+    <pubDate>Fri, 20 Nov 2026 15:25:10 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275713</link>
     <guid isPermaLink="false">CAS-0275713</guid>
@@ -572,18 +580,6 @@ Nu functioneaza iluminatul stradal, pe soseaua Mihai Bravu, intre numerele 491-5
     <pubDate>Mon, 16 Nov 2026 16:01:33 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Pe str. Mugur Mugurel se parcheaza in mod constant neregulamentar la mai putin de 25m de intersectiile cu Zizin si Foisoreanu. Solicit ridicarea tuturor autoturismelor parcate neregulamentar.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274635</link>
-    <guid isPermaLink="false">CAS-0274635</guid>
-    <pubDate>Mon, 16 Nov 2026 12:32:49 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Bună ziua, am înțeles de la asistentul telefonic AI al Primăriei S3 ca va pot adresa aici o cerere prin care să ne ajutați să limităm creșterea în înălțime a celor 2 plopi din fața complexului Core Timpuri Noi.
-
-Ne puteți ajuta ?
-
-Multumesc</description>
   </item>
 </channel>
 </rss>
