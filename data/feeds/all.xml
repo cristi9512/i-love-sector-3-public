@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Noua · Dudeşti</title>
+    <title>Comerț stradal neautorizat · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275675</link>
+    <guid isPermaLink="false">CAS-0275675</guid>
+    <pubDate>Fri, 20 Nov 2026 11:49:20 GMT</pubDate>
+    <category>Comerț stradal neautorizat</category>
+    <description>Aceleași probleme zilnice de vânzare ambulantă ideală ar fi montarea unor camere de supraveghere pe tot tunel către piață așa cum sunt monitorizate ghenele de gunoi exterioare deoarece aici acest fenomen nu va dispărea,voi căuta să trimit aceste poze și Primarului de sector pentru găsirea unei soluții și a intensifica controalele pe acest segment</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275674</link>
+    <guid isPermaLink="false">CAS-0275674</guid>
+    <pubDate>Fri, 20 Nov 2026 11:47:43 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masini parcate in fata trecerii de pietoni si pe trotuar; B30SIE parcheaza mereu aici, fac sesizari, se rezolva favorabil, ziua urmatoare tot aici se afla</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275673</link>
     <guid isPermaLink="false">CAS-0275673</guid>
     <pubDate>Fri, 20 Nov 2026 11:44:58 GMT</pubDate>
@@ -147,12 +163,14 @@ Marius Holban, tel: 0757884991</description>
     <description>Iluminatul public nu funcționează. Strada e în beznă seara și nu te simți deloc în siguranță.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275656</link>
     <guid isPermaLink="false">CAS-0275656</guid>
     <pubDate>Fri, 20 Nov 2026 10:24:39 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. LA LOCUL DE PARCARE S-A PREZENTAT CONDUCATORUL FIIND SANCTIONAT CONTRAVENTIONAL IAR LOCUL DE PARCARE A FOST ELIBERAT.</description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
@@ -509,22 +527,6 @@ Răspuns: In urma verificarilor autoturismul in cauza a fost identificat in loca
     <pubDate>Fri, 20 Nov 2026 08:01:14 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Parcare neregulamentara, loc liber intre 2 de tip B8</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275615</link>
-    <guid isPermaLink="false">CAS-0275615</guid>
-    <pubDate>Fri, 20 Nov 2026 07:59:42 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Iluminatul din fata blocurilor de langa Petrom Grigorescu nr. 34B functioneaza defectuos. Becurile se aprind si se sting rapid (intr-o secunda).</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275614</link>
-    <guid isPermaLink="false">CAS-0275614</guid>
-    <pubDate>Fri, 20 Nov 2026 07:43:15 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare neregulamentara în fața garajului împiedică accesul, pe strada plutonier maj.Marin Pazon nr.43 vă rog să mă ajutați</description>
   </item>
 </channel>
 </rss>
