@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275558</link>
+    <guid isPermaLink="false">CAS-0275558</guid>
+    <pubDate>Fri, 20 Nov 2026 04:57:47 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>In fiecare zi pe acest trotoar recent reabilitat se parchează diferite masini. E trotuar sau marcați corespunzător locuri de parcare?</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275536</link>
     <guid isPermaLink="false">CAS-0275536</guid>
@@ -571,17 +579,6 @@ Mulțumesc!</description>
     <pubDate>Tue, 17 Nov 2026 15:28:32 GMT</pubDate>
     <category>Terenuri insalubre</category>
     <description>Copac cazut in data de 2 nov 2026 si neridicat</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274915</link>
-    <guid isPermaLink="false">CAS-0274915</guid>
-    <pubDate>Tue, 17 Nov 2026 15:22:59 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Doresc să vă aduc în atenție o problemă care afectează în mod direct siguranța pietonilor și a participanților la trafic, respectiv nefuncționarea unui corp de iluminat public pe Bulevardul Râmnicu Sărat, la intrarea în sensul giratoriu mare.
-
-În această zonă sunt amplasate două corpuri de iluminat, însă cel poziționat chiar în dreptul trecerii de pietoni nu mai funcționează de aproximativ o săptămână.
-această situație reprezintă un pericol real de producere a unor accidente grave, având în vedere amplasarea trecerii de pietoni la intrarea într-un sens giratoriu, unde atenția conducătorilor auto este deja solicitată de dinamica traficului.</description>
   </item>
 </channel>
 </rss>
