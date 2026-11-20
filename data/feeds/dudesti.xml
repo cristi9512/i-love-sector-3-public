@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275673</link>
+    <guid isPermaLink="false">CAS-0275673</guid>
+    <pubDate>Fri, 20 Nov 2026 11:44:58 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Au fost lăsate pe trotuar vechituri.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275669</link>
     <guid isPermaLink="false">CAS-0275669</guid>
@@ -575,14 +583,6 @@ Răspuns: din foto nu reiese faptul ca auto ocupa loc de parcare nenominal </des
     <description>duba parcata pe zona hasurata in fata trecerii de pietoni. vizibilitatea e zero din cauza ei
 
 Răspuns: Sesizarea nu se confirma, auto reclamat a parasit locatia.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274857</link>
-    <guid isPermaLink="false">CAS-0274857</guid>
-    <pubDate>Tue, 17 Nov 2026 11:50:45 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masina parcata o treime pe trecerea de pietoni din fata bistro 16</description>
   </item>
 </channel>
 </rss>

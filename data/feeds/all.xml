@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275673</link>
+    <guid isPermaLink="false">CAS-0275673</guid>
+    <pubDate>Fri, 20 Nov 2026 11:44:58 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Au fost lăsate pe trotuar vechituri.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275672</link>
+    <guid isPermaLink="false">CAS-0275672</guid>
+    <pubDate>Fri, 20 Nov 2026 11:43:34 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masini parcate pe trotuar in fata oficului postal mihai bravu</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275671</link>
+    <guid isPermaLink="false">CAS-0275671</guid>
+    <pubDate>Fri, 20 Nov 2026 11:43:26 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Lipsa trotuar pe ambele parti. Din pacate, acest lucru a fost omis atunci cand s-a reconfigurat strada punand in pericol siguranta pietonilor care circula pe strada.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275670</link>
     <guid isPermaLink="false">CAS-0275670</guid>
@@ -501,34 +525,6 @@ Răspuns: In urma verificarilor autoturismul in cauza a fost identificat in loca
     <pubDate>Fri, 20 Nov 2026 07:43:15 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcare neregulamentara în fața garajului împiedică accesul, pe strada plutonier maj.Marin Pazon nr.43 vă rog să mă ajutați</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275613</link>
-    <guid isPermaLink="false">CAS-0275613</guid>
-    <pubDate>Fri, 20 Nov 2026 07:40:01 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Blocheaza vizibilitatea la trecerea d epietoni si refuza sa mute masina
-
-Răspuns: Auto  a  parasit locatia </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275612</link>
-    <guid isPermaLink="false">CAS-0275612</guid>
-    <pubDate>Fri, 20 Nov 2026 07:39:44 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 26
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, INSA AUTO LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE, ERA UN ALT AUTO B 126 DYO, CARE DETINE AUTORIZATIE PENTRU LOC NENOMINAL.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275611</link>
-    <guid isPermaLink="false">CAS-0275611</guid>
-    <pubDate>Fri, 20 Nov 2026 07:38:45 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masini parcate pe carosabil care blocheaza vizibilitatea si accesul auto si pietonal</description>
   </item>
 </channel>
 </rss>

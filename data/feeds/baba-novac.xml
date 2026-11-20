@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275672</link>
+    <guid isPermaLink="false">CAS-0275672</guid>
+    <pubDate>Fri, 20 Nov 2026 11:43:34 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masini parcate pe trotuar in fata oficului postal mihai bravu</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275664</link>
     <guid isPermaLink="false">CAS-0275664</guid>
@@ -706,14 +714,6 @@ Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . AUTOTURISMUL LA CARE FACET
     <pubDate>Wed, 18 Nov 2026 21:31:36 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>mașină parcată pe trotuar lângă fostul sediul al poliției locale din câmpia libertatii</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275236</link>
-    <guid isPermaLink="false">CAS-0275236</guid>
-    <pubDate>Wed, 18 Nov 2026 19:01:32 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina parcata pe trotuar fara a lasa loc pietonilor. Zeci de locuri in jurul ei</description>
   </item>
 </channel>
 </rss>
