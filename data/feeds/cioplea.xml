@@ -6,6 +6,18 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275597</link>
+    <guid isPermaLink="false">CAS-0275597</guid>
+    <pubDate>Fri, 20 Nov 2026 07:00:18 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>In fiecare dimineata aceast domn blocheaza trotuarul pentru aprovizionare.
+
+Este parcare normala langa, e singurul caruia nu i se pare nimic ciudat sa te sui pe trecerea de pietoni si cu masina pe trotuar.
+
+Cei de la shaormerie s-au extins pe trotuar, probabil ilegal cu tot felul de panouri si mese făcând accesul si mai ridicol.</description>
+  </item>
+  <item>
     <title>Rampe de acces persoane cu dizabilitati · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275593</link>
     <guid isPermaLink="false">CAS-0275593</guid>
@@ -576,16 +588,6 @@ Câteodată nu este loc suficient ca, să intri pe strada</description>
 
 Răspuns: BUNĂ DIMINEAȚA!
 LA MOMENTUL VERIFICĂRII, ORA 07:55-CONFORM PIN,ADRESĂ ,AUTO NU A FOST IDENTIFICAT IN LOCATIE.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274980</link>
-    <guid isPermaLink="false">CAS-0274980</guid>
-    <pubDate>Tue, 17 Nov 2026 18:33:09 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: auto nu se afla pe loc de parcare nenominal</description>
   </item>
 </channel>
 </rss>
