@@ -6,7 +6,16 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Noua · Ozana</title>
+    <title>Stationare neregulamentara · Noua · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275715</link>
+    <guid isPermaLink="false">CAS-0275715</guid>
+    <pubDate>Fri, 20 Nov 2026 15:14:25 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>motocicleta parcată în scara blocului 
+Theodor Pallady Nr 35. Bl. N2 ,Sc2</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275710</link>
     <guid isPermaLink="false">CAS-0275710</guid>
     <pubDate>Fri, 20 Nov 2026 14:59:43 GMT</pubDate>
@@ -593,14 +602,6 @@ Cu stima,
 Revin a 3a oare cu sesizare sa remediati cablurile din aceasta zona, care atarna pana la nivelul pamantului, iar intre stalpi arata ca in poza.
 
 Multumim!</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275048</link>
-    <guid isPermaLink="false">CAS-0275048</guid>
-    <pubDate>Wed, 18 Nov 2026 06:02:30 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Bună dimineața! Această mizerie se regăsește in fiecare zi pe acest trotuar de oe Drumul Gura Fagetului 18. Sa se revină la ghenele de bloc.</description>
   </item>
 </channel>
 </rss>

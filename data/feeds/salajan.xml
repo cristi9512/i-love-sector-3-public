@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcuri · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275714</link>
+    <guid isPermaLink="false">CAS-0275714</guid>
+    <pubDate>Fri, 20 Nov 2026 15:10:06 GMT</pubDate>
+    <category>Parcuri</category>
+    <description>Lipsa iluminat in cele 2 locuri de joaca. Lumina ce se vede este de pe bulevard si imbunatatita de camera telefonului</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275702</link>
     <guid isPermaLink="false">CAS-0275702</guid>
@@ -591,14 +599,6 @@ Răspuns: Buna seara . Am preluat si vrificat sesizarea dumneavoastra. S-a intoc
     <pubDate>Tue, 17 Nov 2026 18:10:36 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>staționează pe trecerea de pietoni . este a 3 ea seara care ii spun sa numai tragă pe trecere.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274964</link>
-    <guid isPermaLink="false">CAS-0274964</guid>
-    <pubDate>Tue, 17 Nov 2026 17:43:12 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>aceasta masina parcheza in fiecare seara pe coltul străzii si îngustează strada , cei care au parcari acolo.parcheaza foarte greu. am.avut nevoie de ambulanta si abia a trecut de el</description>
   </item>
 </channel>
 </rss>

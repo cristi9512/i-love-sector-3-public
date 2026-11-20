@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275712</link>
+    <guid isPermaLink="false">CAS-0275712</guid>
+    <pubDate>Fri, 20 Nov 2026 15:08:02 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Semn de circulație picat</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275693</link>
     <guid isPermaLink="false">CAS-0275693</guid>
@@ -598,17 +606,6 @@ Răspuns: BUNĂ ZIUA!
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Autoturismul nu este în locația oferită.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274981</link>
-    <guid isPermaLink="false">CAS-0274981</guid>
-    <pubDate>Tue, 17 Nov 2026 18:43:43 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: BUNĂ ZIUA!
-AUTOTURISMUL RECLAMAT DETINE PLATA EFECTUATĂ</description>
   </item>
 </channel>
 </rss>
