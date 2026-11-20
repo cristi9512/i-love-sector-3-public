@@ -3085,3 +3085,9 @@
 {"at":"2026-11-20T07:30:48.160Z","ticket":"CAS-0275595","field":"status","from":"O","to":"C"}
 {"at":"2026-11-20T07:30:48.160Z","ticket":"CAS-0275595","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-20T07:30:48.160Z","ticket":"CAS-0275595","field":"reply","from":"","to":"Nespecificat Registratura Auto a parasit locatia."}
+{"at":"2026-11-20T07:45:37.553Z","ticket":"CAS-0275559","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T07:45:37.553Z","ticket":"CAS-0275559","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-20T07:45:37.553Z","ticket":"CAS-0275559","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie."}
+{"at":"2026-11-20T07:45:37.553Z","ticket":"CAS-0275570","field":"status","from":"O","to":"C"}
+{"at":"2026-11-20T07:45:37.553Z","ticket":"CAS-0275570","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-20T07:45:37.553Z","ticket":"CAS-0275570","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarii sesizarii conform coordonatelor GPS oferite de dumneavoastra, autoturismul in cauza nu a putut fii identificat in locatie."}
