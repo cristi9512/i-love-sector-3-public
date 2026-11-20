@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-20T11:50:53.109Z",
-  "lastChange": "2026-11-20T11:50:53.109Z",
+  "lastRun": "2026-11-20T12:00:58.391Z",
+  "lastChange": "2026-11-20T12:00:58.391Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2965,
-    "added": 2,
-    "updated": 2,
+    "fetched": 3006,
+    "added": 0,
+    "updated": 8,
     "removed": 0,
-    "changes": 4
+    "changes": 22
   },
   "totals": {
     "incidents": 46286,
-    "open": 2128,
+    "open": 2121,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-20T11:50:53.109Z",
+    "asOf": "2026-11-20T12:00:58.391Z",
     "days": 30,
-    "open": 2128,
+    "open": 2121,
     "total": 200,
     "byCategory": {
       "2": {
@@ -57,17 +57,17 @@
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 35,
+        "open": 34,
         "n": 5
       },
       "9": {
         "name": "Altele",
-        "open": 225,
+        "open": 224,
         "n": 12
       },
       "10": {
         "name": "Străzi",
-        "open": 434,
+        "open": 433,
         "n": 22
       },
       "11": {
@@ -97,7 +97,7 @@
       },
       "16": {
         "name": "Mașini abandonate",
-        "open": 34,
+        "open": 32,
         "n": 0
       },
       "17": {
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 10,
+        "open": 9,
         "n": 4
       },
       "20": {
@@ -122,7 +122,7 @@
       },
       "21": {
         "name": "Reabilitare blocuri",
-        "open": 11,
+        "open": 10,
         "n": 1
       },
       "22": {
