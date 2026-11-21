@@ -3703,3 +3703,6 @@
 {"at":"2026-11-21T01:15:44.005Z","ticket":"CAS-0275842","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T01:15:44.005Z","ticket":"CAS-0275842","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-21T01:15:44.005Z","ticket":"CAS-0275842","field":"reply","from":"","to":"Nespecificat Registratura Pe viitor, atașați o fotografie din care să reiasă numărul autoturismului și tipul de parcaj ocupat"}
+{"at":"2026-11-21T01:30:47.084Z","ticket":"CAS-0275802","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T01:30:47.084Z","ticket":"CAS-0275802","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T01:30:47.084Z","ticket":"CAS-0275802","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu se mai află în locație."}
