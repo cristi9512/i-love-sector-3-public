@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275858</link>
+    <guid isPermaLink="false">CAS-0275858</guid>
+    <pubDate>Sat, 21 Nov 2026 07:15:11 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>mașină parcată pe trotuar. a 3-a sesizare</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275857</link>
+    <guid isPermaLink="false">CAS-0275857</guid>
+    <pubDate>Sat, 21 Nov 2026 07:04:29 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275840</link>
     <guid isPermaLink="false">CAS-0275840</guid>
@@ -687,28 +703,6 @@ Răspuns: Auto  a parasit locatia  in prezenta  noastra  </description>
     <pubDate>Thu, 19 Nov 2026 09:27:17 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Masini parcate in dreptul liniei continue plus una parcata pe trotuar.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275331</link>
-    <guid isPermaLink="false">CAS-0275331</guid>
-    <pubDate>Thu, 19 Nov 2026 09:08:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275328</link>
-    <guid isPermaLink="false">CAS-0275328</guid>
-    <pubDate>Thu, 19 Nov 2026 08:58:36 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Nu se poate circula pe trotuar.
-
-Răspuns: Trimis raspuns Bună ziua,
-Vă informăm că sesizarea dumneavoastră a fost transmisă echipelor operative din teren, în vederea efectuării operațiunilor de salubrizare și îndepărtării deșeurilor depozitate în zona semnalată.
-Vă mulțumim pentru sesizare și pentru implicarea în menținerea unui mediu curat și îngrijit. </description>
   </item>
 </channel>
 </rss>
