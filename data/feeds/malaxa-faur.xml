@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Malaxa - Faur</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275855</link>
+    <guid isPermaLink="false">CAS-0275855</guid>
+    <pubDate>Sat, 21 Nov 2026 05:59:12 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>masina parcata pe trotuar langa locul nominal 15 de la adresa din a treia poza</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275852</link>
+    <guid isPermaLink="false">CAS-0275852</guid>
+    <pubDate>Sat, 21 Nov 2026 05:53:41 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275829</link>
     <guid isPermaLink="false">CAS-0275829</guid>
@@ -570,25 +586,6 @@ Răspuns: Trimis raspuns Având în vedere sesizarea nr. 428568/2026 înregistra
     <pubDate>Fri, 13 Nov 2026 11:41:09 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>B197DTA; B227SRF; B117MSI - nici una din cele 3 masini nu plateste parcare, plus ca incomodeaza accesul in parcare; atasez poze in consecinta; rog, daca se poate macar avertizarea acestora, pentru : ori mutarea lor, ori intrarea in legalitate prin plata parcarii. Multumesc.</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273939</link>
-    <guid isPermaLink="false">CAS-0273939</guid>
-    <pubDate>Fri, 13 Nov 2026 10:01:27 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Buna ziua,
-Locatarii din Intrarea Munciinr.4A, bl.C, solicitam toaletarea arborilor din jurul blocului, crengile unui arbore sunt aplecate spre intrarea in bloc, fiind real pericol pentru locatari.</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273924</link>
-    <guid isPermaLink="false">CAS-0273924</guid>
-    <pubDate>Fri, 13 Nov 2026 09:09:44 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>masini parcate ilegal pe intrarea ariciului, interswctie cu sahighian.
-vizibilitqte redusa.
-acces pompieri/masini mari imposibil.</description>
   </item>
 </channel>
 </rss>
