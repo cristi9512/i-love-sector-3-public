@@ -3935,3 +3935,12 @@
 {"at":"2026-11-21T19:00:55.708Z","ticket":"CAS-0275895","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T19:00:55.708Z","ticket":"CAS-0275895","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-21T19:00:55.708Z","ticket":"CAS-0275895","field":"reply","from":"","to":"Nespecificat Registratura Au fost aplicate masurile legale.\n"}
+{"at":"2026-11-21T19:15:35.948Z","ticket":"CAS-0275997","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T19:15:35.948Z","ticket":"CAS-0275997","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T19:15:35.948Z","ticket":"CAS-0275997","field":"reply","from":"","to":"Nespecificat Registratura Am preluat și verificat sesizarea dumneavoastră, autoturismul în cauză a\nfost identificat în locație, iar în urma verificărilor efectuate la fața locului\nam constatat faptul că acesta deține autorizație valabilă de\nparcare.\nVă mulțumim!\n"}
+{"at":"2026-11-21T19:15:35.948Z","ticket":"CAS-0275907","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T19:15:35.948Z","ticket":"CAS-0275907","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-21T19:15:35.948Z","ticket":"CAS-0275907","field":"reply","from":"","to":"Nespecificat Registratura Au fost aplicate masurile legale."}
+{"at":"2026-11-21T19:15:35.948Z","ticket":"CAS-0276002","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T19:15:35.948Z","ticket":"CAS-0276002","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T19:15:35.948Z","ticket":"CAS-0276002","field":"reply","from":"","to":"Nespecificat Registratura NU SE POT LUA MASURI DIN CAUZA MARCAJULUI  ILIZIBI"}

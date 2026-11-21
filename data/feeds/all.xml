@@ -6,12 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276003</link>
+    <guid isPermaLink="false">CAS-0276003</guid>
+    <pubDate>Sat, 21 Nov 2026 19:07:06 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276002</link>
     <guid isPermaLink="false">CAS-0276002</guid>
     <pubDate>Sat, 21 Nov 2026 18:58:23 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: NU SE POT LUA MASURI DIN CAUZA MARCAJULUI  ILIZIBI</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Ozana</title>
@@ -46,12 +56,19 @@
     <description>Iar se parcheaza neregulamentar langa tomberoane. De ce nu dati amenzi ca de avertismente i-am auzit eu cum discutam si nici nu le mai iau in seama.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275997</link>
     <guid isPermaLink="false">CAS-0275997</guid>
     <pubDate>Sat, 21 Nov 2026 18:41:59 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nenominala de parcare pentru  zona C-6, precum și pentru zonele B-15,C-5,C-7,D-3,</description>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nenominala de parcare pentru  zona C-6, precum și pentru zonele B-15,C-5,C-7,D-3,
+
+Răspuns: Am preluat și verificat sesizarea dumneavoastră, autoturismul în cauză a
+fost identificat în locație, iar în urma verificărilor efectuate la fața locului
+am constatat faptul că acesta deține autorizație valabilă de
+parcare.
+Vă mulțumim!
+</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Vitan</title>
@@ -543,14 +560,6 @@ Vă mulțumim!
     <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA  SE CONFIRMA , AUTO CE FACEA OBIECTUL SESIZARI  ESTE IN LOCATIE,S-A INTOCMIT DOCUMENTATIE CONFORM HCLS3 346/2022</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275943</link>
-    <guid isPermaLink="false">CAS-0275943</guid>
-    <pubDate>Sat, 21 Nov 2026 14:20:38 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Masina parcata pe trotuar (B 331 TAM)</description>
   </item>
 </channel>
 </rss>

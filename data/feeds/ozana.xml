@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276003</link>
+    <guid isPermaLink="false">CAS-0276003</guid>
+    <pubDate>Sat, 21 Nov 2026 19:07:06 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276001</link>
     <guid isPermaLink="false">CAS-0276001</guid>
@@ -14,12 +22,19 @@
     <description>Mașina parcata neregulamentar</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275997</link>
     <guid isPermaLink="false">CAS-0275997</guid>
     <pubDate>Sat, 21 Nov 2026 18:41:59 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nenominala de parcare pentru  zona C-6, precum și pentru zonele B-15,C-5,C-7,D-3,</description>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nenominala de parcare pentru  zona C-6, precum și pentru zonele B-15,C-5,C-7,D-3,
+
+Răspuns: Am preluat și verificat sesizarea dumneavoastră, autoturismul în cauză a
+fost identificat în locație, iar în urma verificărilor efectuate la fața locului
+am constatat faptul că acesta deține autorizație valabilă de
+parcare.
+Vă mulțumim!
+</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Ozana</title>
@@ -596,16 +611,6 @@ Răspuns: Sesizarea dumneavoastră a fost preluată la ora 21.30 în urma verifi
     <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-13, precum și pentru zonele B-12,B-14,B-16,C-7,
 
 Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 19.30 constatând faptul că autovehiculul la care faceți referire detine autorizatie nenominala de parcare pentru  zona B-13, precum si pentru zonele B-12,B-14,B-16,C-7.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275471</link>
-    <guid isPermaLink="false">CAS-0275471</guid>
-    <pubDate>Thu, 19 Nov 2026 17:05:39 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 21.10 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022.</description>
   </item>
 </channel>
 </rss>
