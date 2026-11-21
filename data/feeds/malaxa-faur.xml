@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Malaxa - Faur</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275869</link>
+    <guid isPermaLink="false">CAS-0275869</guid>
+    <pubDate>Sat, 21 Nov 2026 08:10:30 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275855</link>
     <guid isPermaLink="false">CAS-0275855</guid>
@@ -582,14 +590,6 @@ Răspuns: Trimis raspuns Având în vedere sesizarea nr. 428568/2026 înregistra
     <pubDate>Fri, 13 Nov 2026 14:43:53 GMT</pubDate>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>Se executa lucrari de amenajate a trotuarelor de pe str. Nicolae Rosu, cu blocarea unui trotuar si a jumatate de carosabil, fara nici un fel de sembaluzare rutiera sau pietonala. pe timpul nopții palette cu dale blocheaza o banda a partii carosabila, pe tronsoane de 20-40 m liniari.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273970</link>
-    <guid isPermaLink="false">CAS-0273970</guid>
-    <pubDate>Fri, 13 Nov 2026 11:41:09 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>B197DTA; B227SRF; B117MSI - nici una din cele 3 masini nu plateste parcare, plus ca incomodeaza accesul in parcare; atasez poze in consecinta; rog, daca se poate macar avertizarea acestora, pentru : ori mutarea lor, ori intrarea in legalitate prin plata parcarii. Multumesc.</description>
   </item>
 </channel>
 </rss>
