@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275984</link>
+    <guid isPermaLink="false">CAS-0275984</guid>
+    <pubDate>Sat, 21 Nov 2026 16:59:08 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>trotuar plin de masini</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275966</link>
     <guid isPermaLink="false">CAS-0275966</guid>
@@ -565,16 +573,6 @@ Răspuns: BUNA SEARA AGENTII AU VERIFICAT SESIZAREA DUMNEAVOASTRA ,AUTO RECLAMAT
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: BUNA SEARA,AGENTII AU DAT CURS SESIZARII DUMNEAVOASTRA,CONDUCATORUL AUTOTURISMULUI IN CAUZA A FOST SANCTIONAT IN BAZA HCLS 3 346/22</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275243</link>
-    <guid isPermaLink="false">CAS-0275243</guid>
-    <pubDate>Wed, 18 Nov 2026 19:39:39 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Iluminatul stradal este defect de aproximativ o luna. 
-Va rugam sa ne ajutati cu aceasta problema!
-Bulevard, Bulevardul Nicolae Grigorescu 34 D, 030441 București</description>
   </item>
 </channel>
 </rss>
