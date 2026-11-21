@@ -3787,3 +3787,6 @@
 {"at":"2026-11-21T11:15:35.222Z","ticket":"CAS-0275857","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T11:15:35.222Z","ticket":"CAS-0275857","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-21T11:15:35.222Z","ticket":"CAS-0275857","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor in locatie autoturismul nu a fost identificat."}
+{"at":"2026-11-21T11:30:46.432Z","ticket":"CAS-0275916","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T11:30:46.432Z","ticket":"CAS-0275916","field":"statusLabel","from":"Noua","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T11:30:46.432Z","ticket":"CAS-0275916","field":"reply","from":"","to":"Nespecificat Registratura LIPSA FOTOGRFIE NECESARA VERIFICARII SI SOLUTIONARII SESIZARII. REVENITI CU SESIZARE ATASAND MINIM O FOTOGRAGIE CU VEHICULUL RECLAMAT DIN CARE SA REIASA ATAT NR DE INMATRICULARE, CAT SI TIPUL DE PARCAJ"}
