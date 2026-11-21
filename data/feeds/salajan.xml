@@ -6,6 +6,32 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Trasare parcare · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276010</link>
+    <guid isPermaLink="false">CAS-0276010</guid>
+    <pubDate>Sat, 21 Nov 2026 20:28:49 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Subiect: Solicitare retrasare loc de parcare nr. 23 – Aleea Postăvarul nr. 5, bl. C5, sc. 4
+
+Bună ziua,
+
+Vă adresăm respectuos rugămintea de a analiza posibilitatea repoziționării cu aproximativ un metru în spate a locului de parcare nr. 23, situat în dreptul scării 4, bloc C5, Aleea Postăvarul nr. 5.
+
+Menționăm că locul de parcare este deja delimitat pe o lungime mai mare decât ar fi necesar, iar o mică ajustare ar permite îmbunătățirea vizibilității la ieșirea din scară, fără desființarea locului de parcare.
+
+Această modificare ar fi deosebit de importantă pentru siguranța copiilor mici care locuiesc în imobil, deoarece autoturismele parcate în prezent limitează vizibilitatea șoferilor asupra pietonilor care ies dinspre scară.
+
+Totodată, considerăm că repoziționarea nu ar afecta accesul mașinilor de salubritate, întrucât acestea dispun de spațiu de trecere prin zona în care staționarea este interzisă.
+
+Vă rugăm să analizați această mică optimizare a spațiului, care ar contribui semnificativ la prevenirea accidentelor și la creșterea siguranței locatarilor, fără a elimina locul de parcare existent.
+
+Vă mulțumim pentru înțelegere și sprijin!
+
+Cu respect,
+
+Locatarii imobilului – Aleea Postăvarul nr. 5, bl. C5, sc. 4</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276008</link>
     <guid isPermaLink="false">CAS-0276008</guid>
@@ -559,14 +585,6 @@ Va multumim.</description>
 
 Răspuns: Sesizarea dumneavoastră a fost verificată, dar, având în vedere că, subiectul acesteia datează din urmă cu 2(două) zile, nu am putut depista autoturismul în cauză, nici locul de parcare indicat neavând codul de parcare menționat în sesizare. Pe viitor, pentru o mai bună opertivitate, când sesizați astfel de aspecte, apelați Poliția Locală Sector 3 la telefon 021.9543, iar un echipaj se va deplasa pentru a lua măsurile ce se impun.
 Cu stimă,</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275278</link>
-    <guid isPermaLink="false">CAS-0275278</guid>
-    <pubDate>Thu, 19 Nov 2026 06:03:08 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>Mașina parcată pe stradă. Restricționează accesul la mașina parcată regulamentar pe loc de parcare marcat</description>
   </item>
 </channel>
 </rss>

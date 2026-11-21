@@ -6,7 +6,33 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · Noua · Lipscani</title>
+    <title>Trasare parcare · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276010</link>
+    <guid isPermaLink="false">CAS-0276010</guid>
+    <pubDate>Sat, 21 Nov 2026 20:28:49 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Subiect: Solicitare retrasare loc de parcare nr. 23 – Aleea Postăvarul nr. 5, bl. C5, sc. 4
+
+Bună ziua,
+
+Vă adresăm respectuos rugămintea de a analiza posibilitatea repoziționării cu aproximativ un metru în spate a locului de parcare nr. 23, situat în dreptul scării 4, bloc C5, Aleea Postăvarul nr. 5.
+
+Menționăm că locul de parcare este deja delimitat pe o lungime mai mare decât ar fi necesar, iar o mică ajustare ar permite îmbunătățirea vizibilității la ieșirea din scară, fără desființarea locului de parcare.
+
+Această modificare ar fi deosebit de importantă pentru siguranța copiilor mici care locuiesc în imobil, deoarece autoturismele parcate în prezent limitează vizibilitatea șoferilor asupra pietonilor care ies dinspre scară.
+
+Totodată, considerăm că repoziționarea nu ar afecta accesul mașinilor de salubritate, întrucât acestea dispun de spațiu de trecere prin zona în care staționarea este interzisă.
+
+Vă rugăm să analizați această mică optimizare a spațiului, care ar contribui semnificativ la prevenirea accidentelor și la creșterea siguranței locatarilor, fără a elimina locul de parcare existent.
+
+Vă mulțumim pentru înțelegere și sprijin!
+
+Cu respect,
+
+Locatarii imobilului – Aleea Postăvarul nr. 5, bl. C5, sc. 4</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Lipscani</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276009</link>
     <guid isPermaLink="false">CAS-0276009</guid>
     <pubDate>Sat, 21 Nov 2026 20:14:36 GMT</pubDate>
@@ -552,14 +578,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA C
     <pubDate>Sat, 21 Nov 2026 14:50:39 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>B-100-JBL parcat neregulamentar în intersecție, direct pe marcajul hașurat care interzice staționarea vehiculelor pe suprafața sa langa loc nenominal. Prin această poziționare, blochează vizibilitatea în intersecție și reduce spațiul de manevră al celorlalte vehicule.Incalca prevederile O.U.G 195/2002 privind circulatia pe drumurile publice si hotararea Consiliului local sector 3 nr.9/19.01.2021</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275950</link>
-    <guid isPermaLink="false">CAS-0275950</guid>
-    <pubDate>Sat, 21 Nov 2026 14:46:19 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Nu funcționează butonul pentru trecerea bulevardului Decebal . Stau copii care ies de la școală și traversează pe roșu deoarece nu merge butonul de la trecere .</description>
   </item>
 </channel>
 </rss>
