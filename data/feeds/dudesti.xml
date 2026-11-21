@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275910</link>
+    <guid isPermaLink="false">CAS-0275910</guid>
+    <pubDate>Sat, 21 Nov 2026 10:53:25 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275891</link>
     <guid isPermaLink="false">CAS-0275891</guid>
@@ -593,16 +601,6 @@ Răspuns: a fost aplicata instiintare informativa </description>
     <description>calea dudesti 146, masini blocheaza parte din trotuar
 
 Răspuns: auto sesizate nu se mai afla in locatie </description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275120</link>
-    <guid isPermaLink="false">CAS-0275120</guid>
-    <pubDate>Wed, 18 Nov 2026 10:11:46 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Bună ziua !
-
-În Piața Vitan din Sectorul 3 s-au șters marcajele rutiere ale trecerilor de pietoni, ale benzilor de circulație și parcărilor și din această cauză se crează ambuteiaje. Vă rog să interveniți curând ! Fotografie atașată. Mulțumesc !</description>
   </item>
 </channel>
 </rss>

@@ -3777,3 +3777,6 @@
 {"at":"2026-11-21T10:45:34.665Z","ticket":"CAS-0275858","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T10:45:34.665Z","ticket":"CAS-0275858","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-21T10:45:34.665Z","ticket":"CAS-0275858","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie."}
+{"at":"2026-11-21T11:00:54.839Z","ticket":"CAS-0275881","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T11:00:54.839Z","ticket":"CAS-0275881","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-21T11:00:54.839Z","ticket":"CAS-0275881","field":"reply","from":"","to":"Nespecificat Registratura Autoturismul in cauza a fost identificat in locatie fiind dispusa masura ridicarii."}
