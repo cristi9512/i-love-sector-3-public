@@ -1,17 +1,17 @@
 {
-  "lastRun": "2026-11-21T20:30:47.140Z",
-  "lastChange": "2026-11-21T20:30:47.140Z",
+  "lastRun": "2026-11-21T20:45:39.799Z",
+  "lastChange": "2026-11-21T20:45:39.799Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2647,
+    "fetched": 2810,
     "added": 1,
     "updated": 1,
     "removed": 0,
-    "changes": 1
+    "changes": 3
   },
   "totals": {
-    "incidents": 46621,
+    "incidents": 46622,
     "open": 2235,
     "months": [
       "2026-05",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-21T20:30:47.140Z",
+    "asOf": "2026-11-21T20:45:39.799Z",
     "days": 30,
     "open": 2235,
     "total": 228,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 50,
+        "open": 49,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 195,
+        "open": 196,
         "n": 20
       },
       "5": {
