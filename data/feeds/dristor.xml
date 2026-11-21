@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275914</link>
+    <guid isPermaLink="false">CAS-0275914</guid>
+    <pubDate>Sat, 21 Nov 2026 11:04:21 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Pe Strada Laborator (stradă cu sens unic) se intră în continuu pe sens interzis din Șoseaua Mihai Bravu. Semnul de interzis nu este vizibil.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275890</link>
     <guid isPermaLink="false">CAS-0275890</guid>
@@ -599,16 +607,6 @@ Răspuns: Auto in cauza nu se mai afla in locatie</description>
     <pubDate>Tue, 17 Nov 2026 19:31:12 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcat pe trotuar
-
-Răspuns: S-a dispus ridicare a doua auto stationate neregulamentar. Pe coltul intersectiei si pe trotuarul pietonal</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274975</link>
-    <guid isPermaLink="false">CAS-0274975</guid>
-    <pubDate>Tue, 17 Nov 2026 18:12:25 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcat pe hasurat
 
 Răspuns: S-a dispus ridicare a doua auto stationate neregulamentar. Pe coltul intersectiei si pe trotuarul pietonal</description>
   </item>
