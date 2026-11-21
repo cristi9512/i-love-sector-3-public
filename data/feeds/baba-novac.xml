@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Spații verzi · Noua · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275901</link>
+    <guid isPermaLink="false">CAS-0275901</guid>
+    <pubDate>Sat, 21 Nov 2026 10:29:56 GMT</pubDate>
+    <category>Spații verzi</category>
+    <description>loc joaca copii, groapa de nisip are cuie ascutite ieiete din structura. va rog trimiteti echipa de urgenta ca sunt copiiici</description>
+  </item>
+  <item>
+    <title>Terenuri insalubre · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275899</link>
+    <guid isPermaLink="false">CAS-0275899</guid>
+    <pubDate>Sat, 21 Nov 2026 10:20:10 GMT</pubDate>
+    <category>Terenuri insalubre</category>
+    <description>Insalubru</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275885</link>
     <guid isPermaLink="false">CAS-0275885</guid>
@@ -683,22 +699,6 @@ Răspuns: A FOST APLICATA INSTIINTARE SI EFECTUATE FOTO</description>
     <pubDate>Thu, 19 Nov 2026 10:33:24 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Auto parcat pe trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275358</link>
-    <guid isPermaLink="false">CAS-0275358</guid>
-    <pubDate>Thu, 19 Nov 2026 10:28:35 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Nu pot trece cu caruciorul de pe un trotuar pe celalalt. Imi blocheaza accesul pietonal</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275350</link>
-    <guid isPermaLink="false">CAS-0275350</guid>
-    <pubDate>Thu, 19 Nov 2026 10:00:23 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Blocare trotuar</description>
   </item>
 </channel>
 </rss>

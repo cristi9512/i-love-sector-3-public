@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-21T10:15:35.894Z",
-  "lastChange": "2026-11-21T10:15:35.894Z",
+  "lastRun": "2026-11-21T10:30:45.485Z",
+  "lastChange": "2026-11-21T10:30:45.485Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2729,
+    "fetched": 2552,
     "added": 3,
-    "updated": 3,
+    "updated": 6,
     "removed": 0,
-    "changes": 9
+    "changes": 18
   },
   "totals": {
-    "incidents": 46509,
-    "open": 2184,
+    "incidents": 46512,
+    "open": 2181,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,19 +25,19 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-21T10:15:35.894Z",
+    "asOf": "2026-11-21T10:30:45.485Z",
     "days": 30,
-    "open": 2184,
+    "open": 2181,
     "total": 211,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 53,
+        "open": 47,
         "n": 7
       },
       "3": {
         "name": "Spații verzi",
-        "open": 49,
+        "open": 50,
         "n": 6
       },
       "4": {
@@ -117,7 +117,7 @@
       },
       "20": {
         "name": "Terenuri insalubre",
-        "open": 21,
+        "open": 22,
         "n": 3
       },
       "21": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 609,
+        "open": 610,
         "n": 2
       },
       "32": {
