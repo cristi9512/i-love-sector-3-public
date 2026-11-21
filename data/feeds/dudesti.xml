@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275850</link>
+    <guid isPermaLink="false">CAS-0275850</guid>
+    <pubDate>Sat, 21 Nov 2026 03:47:45 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275801</link>
     <guid isPermaLink="false">CAS-0275801</guid>
@@ -572,16 +580,6 @@ Răspuns: auto nu se mai afla in locatie </description>
     <description>calea dudesti 123, masini parcate pe trotuar
 
 Răspuns: au fost aplicat instiintari informative.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275044</link>
-    <guid isPermaLink="false">CAS-0275044</guid>
-    <pubDate>Wed, 18 Nov 2026 05:47:33 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 17 DON blocând accesul pietonilor pe trotuar în special cei cu cărucioare aleea Blăjel vis-a-vis de bloc V21B.
-
-Răspuns: La  fata  locului  au  fost  dispuse  masurile  legale  conform OUG 195/2002 r </description>
   </item>
 </channel>
 </rss>
