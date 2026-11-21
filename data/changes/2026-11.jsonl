@@ -3810,3 +3810,9 @@
 {"at":"2026-11-21T14:00:55.661Z","ticket":"CAS-0275890","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T14:00:55.661Z","ticket":"CAS-0275890","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-21T14:00:55.661Z","ticket":"CAS-0275890","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE.VA MULTUMIM!"}
+{"at":"2026-11-21T14:15:38.167Z","ticket":"CAS-0275925","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T14:15:38.167Z","ticket":"CAS-0275925","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T14:15:38.167Z","ticket":"CAS-0275925","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 16.00,LOCATIA UNDE ESTE PARCAT AUTO ESTE DAT GRESIT.VA MULTUMIM."}
+{"at":"2026-11-21T14:15:38.167Z","ticket":"CAS-0275929","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T14:15:38.167Z","ticket":"CAS-0275929","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-21T14:15:38.167Z","ticket":"CAS-0275929","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost\nidentificat în locație, motiv pentru care am întocmit proces verbal de\nconstatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se\nimpun în astfel de situații.\nVă mulțumim!\n"}

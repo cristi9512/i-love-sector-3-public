@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275942</link>
+    <guid isPermaLink="false">CAS-0275942</guid>
+    <pubDate>Sat, 21 Nov 2026 14:14:03 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Rezultatul parcărilor lui Negoiță și ineficiența dumneavoastră! Fiecare face ce dorește…FELICITĂRI!!!</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275941</link>
+    <guid isPermaLink="false">CAS-0275941</guid>
+    <pubDate>Sat, 21 Nov 2026 14:09:41 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașini parcate neregulamentar constant pe zona asta</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275940</link>
     <guid isPermaLink="false">CAS-0275940</guid>
@@ -94,12 +110,19 @@
     <description>Copac cazut din cauza faptului ca era putred pe strada Liviu Rebreanu nr 5 bloc 52. Rugămintea este sa trimiteți o echipa pentru a-l sectiona si ridica</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275929</link>
     <guid isPermaLink="false">CAS-0275929</guid>
     <pubDate>Sat, 21 Nov 2026 12:57:53 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost
+identificat în locație, motiv pentru care am întocmit proces verbal de
+constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se
+impun în astfel de situații.
+Vă mulțumim!
+</description>
   </item>
   <item>
     <title>Verificări construcții/Lucrări neautorizate · În lucru · Baba Novac</title>
@@ -134,12 +157,14 @@ Vă mulțumesc și aștept un răspuns concret cu măsurile dispuse în teren</d
     <description>3 stalpi de iluminat nu functioneaza</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275925</link>
     <guid isPermaLink="false">CAS-0275925</guid>
     <pubDate>Sat, 21 Nov 2026 12:14:05 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 58</description>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 58
+
+Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 16.00,LOCATIA UNDE ESTE PARCAT AUTO ESTE DAT GRESIT.VA MULTUMIM.</description>
   </item>
   <item>
     <title>Străzi · În lucru · Ozana</title>
@@ -520,24 +545,6 @@ Va rugam, cu deosebit respect, sa luati masuri pentru sanctionarea persoanei car
 Va multumim.
 Dumitru Maria
 Tel: 0732113352</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275882</link>
-    <guid isPermaLink="false">CAS-0275882</guid>
-    <pubDate>Sat, 21 Nov 2026 08:57:17 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașini parcate pe trotuar și trecere de pietoni B165ULS și TR04DXU. La intrarea în Astorium Garden Drumul Gura Calitei 159-169.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275881</link>
-    <guid isPermaLink="false">CAS-0275881</guid>
-    <pubDate>Sat, 21 Nov 2026 08:54:23 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Autoturismul in cauza a fost identificat in locatie fiind dispusa masura ridicarii.</description>
   </item>
 </channel>
 </rss>
