@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-21T12:30:51.624Z",
-  "lastChange": "2026-11-21T12:30:51.624Z",
+  "lastRun": "2026-11-21T13:00:58.804Z",
+  "lastChange": "2026-11-21T13:00:58.804Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2518,
-    "added": 2,
-    "updated": 0,
+    "fetched": 2807,
+    "added": 3,
+    "updated": 1,
     "removed": 0,
-    "changes": 0
+    "changes": 3
   },
   "totals": {
-    "incidents": 46538,
-    "open": 2202,
+    "incidents": 46541,
+    "open": 2204,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-21T12:30:51.624Z",
+    "asOf": "2026-11-21T13:00:58.804Z",
     "days": 30,
-    "open": 2202,
+    "open": 2204,
     "total": 215,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 54,
+        "open": 55,
         "n": 7
       },
       "3": {
@@ -57,7 +57,7 @@
       },
       "7": {
         "name": "Verificări construcții/Lucrări neautorizate",
-        "open": 35,
+        "open": 36,
         "n": 6
       },
       "9": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 166,
+        "open": 167,
         "n": 6
       },
       "15": {
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 11,
+        "open": 10,
         "n": 4
       },
       "20": {
