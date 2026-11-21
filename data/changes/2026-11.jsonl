@@ -3712,3 +3712,4 @@
 {"at":"2026-11-21T02:30:48.453Z","ticket":"CAS-0275770","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T02:30:48.453Z","ticket":"CAS-0275770","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-21T02:30:48.453Z","ticket":"CAS-0275770","field":"reply","from":"","to":"Nespecificat Registratura Buna dimineata. La momentul verificarii ,nu s-a constatat tulburarea linistii publice la nici o adresa din str. Soldat Marin Nicolae "}
+{"at":"2026-11-21T05:45:35.854Z","ticket":"CAS-0275851","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
