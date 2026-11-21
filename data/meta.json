@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-21T15:30:48.139Z",
-  "lastChange": "2026-11-21T15:30:48.139Z",
+  "lastRun": "2026-11-21T15:45:40.257Z",
+  "lastChange": "2026-11-21T15:45:40.257Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2697,
+    "fetched": 2812,
     "added": 4,
-    "updated": 6,
+    "updated": 2,
     "removed": 0,
-    "changes": 14
+    "changes": 6
   },
   "totals": {
-    "incidents": 46573,
-    "open": 2218,
+    "incidents": 46577,
+    "open": 2220,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-21T15:30:48.139Z",
+    "asOf": "2026-11-21T15:45:40.257Z",
     "days": 30,
-    "open": 2218,
-    "total": 218,
+    "open": 2220,
+    "total": 219,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 47,
+        "open": 46,
         "n": 7
       },
       "3": {
@@ -48,7 +48,7 @@
       "5": {
         "name": "Taxe şi impozite",
         "open": 117,
-        "n": 92
+        "n": 93
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
@@ -67,7 +67,7 @@
       },
       "10": {
         "name": "Străzi",
-        "open": 429,
+        "open": 430,
         "n": 31
       },
       "11": {
@@ -107,7 +107,7 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 18,
+        "open": 20,
         "n": 3
       },
       "19": {

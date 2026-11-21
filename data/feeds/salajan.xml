@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275966</link>
+    <guid isPermaLink="false">CAS-0275966</guid>
+    <pubDate>Sat, 21 Nov 2026 15:43:04 GMT</pubDate>
+    <category>Străzi</category>
+    <description>v-am mai sesizat aceste gropi de pe bd. grigorescu, dar nu s-au reparat.</description>
+  </item>
+  <item>
+    <title>Mediu/Calitatea Aerului · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275964</link>
+    <guid isPermaLink="false">CAS-0275964</guid>
+    <pubDate>Sat, 21 Nov 2026 15:39:13 GMT</pubDate>
+    <category>Mediu/Calitatea Aerului</category>
+    <description>cum se numeste ce face ps3 pe str. trapezului? cumva poluare? ca asa spune negoita pe facebook &quot;pamantul polueaza&quot;. responsabili? amenzi? sau ramane ca pana acum - nu vedem, nu auzim?</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275946</link>
     <guid isPermaLink="false">CAS-0275946</guid>
@@ -559,24 +575,6 @@ Răspuns: BUNA SEARA,AGENTII AU DAT CURS SESIZARII DUMNEAVOASTRA,CONDUCATORUL AU
     <description>Iluminatul stradal este defect de aproximativ o luna. 
 Va rugam sa ne ajutati cu aceasta problema!
 Bulevard, Bulevardul Nicolae Grigorescu 34 D, 030441 București</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275223</link>
-    <guid isPermaLink="false">CAS-0275223</guid>
-    <pubDate>Wed, 18 Nov 2026 17:58:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: LOCATIA A FOST VERIFICATA,AUTO MENTIONAT IN SESIZARE FIIND IDENTIFICAT IN ZONĂ.AM INTOCMIT DOCUMENTATIA CONFORM HCLS3 NR.346/2022M.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275210</link>
-    <guid isPermaLink="false">CAS-0275210</guid>
-    <pubDate>Wed, 18 Nov 2026 16:52:38 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașina parcată neregulamentar</description>
   </item>
 </channel>
 </rss>
