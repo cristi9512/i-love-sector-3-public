@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Malaxa - Faur</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275947</link>
+    <guid isPermaLink="false">CAS-0275947</guid>
+    <pubDate>Sat, 21 Nov 2026 14:35:15 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275939</link>
     <guid isPermaLink="false">CAS-0275939</guid>
@@ -580,14 +588,6 @@ B 369 amn</description>
     <pubDate>Sat, 14 Nov 2026 06:31:47 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>faceti ceva cu acest colt! uneori e nevoie sa strabg oglinzile sa pot trece pe acolo. o data a fost nevoie sa ocolesc tot blocul ca se tot blocheaza si nu de putine ori a fost nevoie sa dau cu spatele pana in bulevard ca nu puteam inainta de o masina ce venea din fata.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274131</link>
-    <guid isPermaLink="false">CAS-0274131</guid>
-    <pubDate>Sat, 14 Nov 2026 05:38:47 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașina parcată pe colt si e pericol pentru vizibilitate la Virgil la dreapta si stanga. Vă rog să rezolvați problemă cu predicates deoarece e mare pericol pentru vindicator auto. Ieri era să se connect două mașini grav din lipsa de vizibilitate obturata de această mașina.</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275948</link>
+    <guid isPermaLink="false">CAS-0275948</guid>
+    <pubDate>Sat, 21 Nov 2026 14:43:03 GMT</pubDate>
+    <category>Altele</category>
+    <description>Nu funcționează iluminarea stradală</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275941</link>
     <guid isPermaLink="false">CAS-0275941</guid>
@@ -617,16 +625,6 @@ AM LUAT MĂSURILE LEGALE CU PRIVIRE LA AUTOTURISMUL RECLAMAT.</description>
     <pubDate>Wed, 18 Nov 2026 06:47:33 GMT</pubDate>
     <category>Parcuri</category>
     <description>Spatiul verde este plin de gunoaie si de buruieni. Va rog frumos sa il curatati</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275051</link>
-    <guid isPermaLink="false">CAS-0275051</guid>
-    <pubDate>Wed, 18 Nov 2026 06:12:09 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>O masina este stationata pe trecerea de pietoni, in dreptul parcului de pe Strada Mihail Foisoreanu.
-
-Răspuns: AUTO A PARASIT LOCATIA </description>
   </item>
 </channel>
 </rss>

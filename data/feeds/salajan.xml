@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275946</link>
+    <guid isPermaLink="false">CAS-0275946</guid>
+    <pubDate>Sat, 21 Nov 2026 14:33:51 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vehicule parcate pe carosabil, îngreunează traficul masiv. Vă rog să luați măsuri… zilnic sunt parcați așa</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275927</link>
     <guid isPermaLink="false">CAS-0275927</guid>
@@ -564,16 +572,6 @@ Răspuns: LOCATIA A FOST VERIFICATA,AUTO MENTIONAT IN SESIZARE FIIND IDENTIFICAT
     <pubDate>Wed, 18 Nov 2026 16:52:38 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Mașina parcată neregulamentar</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275205</link>
-    <guid isPermaLink="false">CAS-0275205</guid>
-    <pubDate>Wed, 18 Nov 2026 16:26:31 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AM VERIFICAT LOCATIA,AUTO OCUPA LOCURILE MOTO,INTOCMIT DOCUMENTATIA CONFORM HCGMB 124/2008.</description>
   </item>
 </channel>
 </rss>
