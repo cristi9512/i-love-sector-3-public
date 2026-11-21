@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-21T13:15:35.404Z",
-  "lastChange": "2026-11-21T13:15:35.404Z",
+  "lastRun": "2026-11-21T13:30:51.223Z",
+  "lastChange": "2026-11-21T13:30:51.223Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2699,
-    "added": 4,
-    "updated": 1,
+    "fetched": 2797,
+    "added": 3,
+    "updated": 3,
     "removed": 0,
-    "changes": 1
+    "changes": 7
   },
   "totals": {
-    "incidents": 46545,
-    "open": 2208,
+    "incidents": 46548,
+    "open": 2209,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-21T13:15:35.404Z",
+    "asOf": "2026-11-21T13:30:51.223Z",
     "days": 30,
-    "open": 2208,
+    "open": 2209,
     "total": 215,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 55,
+        "open": 53,
         "n": 7
       },
       "3": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 167,
+        "open": 168,
         "n": 6
       },
       "15": {
@@ -142,12 +142,12 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 617,
+        "open": 618,
         "n": 2
       },
       "32": {
         "name": "Rampe de acces persoane cu dizabilitati",
-        "open": 10,
+        "open": 11,
         "n": 2
       }
     }

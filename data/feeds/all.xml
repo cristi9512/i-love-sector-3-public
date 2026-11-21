@@ -6,7 +6,31 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcuri · Noua · Baba Novac</title>
+    <title>Toaletare/Tăiere arbori · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275937</link>
+    <guid isPermaLink="false">CAS-0275937</guid>
+    <pubDate>Sat, 21 Nov 2026 13:30:34 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Buna ziua, s-au tot facut solicitari pentru taierea plopilor din curtea blocului Y9D fiind f uscati. Ieri un plop a cazut pe un autoturism, si inca nu ati taiat si cei doi plopi din fata blocului. Va rog sa veniti urgent sa taiati cei 2 plopi, si sa toaletati restul copacilor din curte. Nu s-a facut acest lucru de ani.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275936</link>
+    <guid isPermaLink="false">CAS-0275936</guid>
+    <pubDate>Sat, 21 Nov 2026 13:19:17 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>B221CNZ si BV18UUD parcate pe colt in fata caii de acces pe trotuar</description>
+  </item>
+  <item>
+    <title>Rampe de acces persoane cu dizabilitati · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275935</link>
+    <guid isPermaLink="false">CAS-0275935</guid>
+    <pubDate>Sat, 21 Nov 2026 13:18:35 GMT</pubDate>
+    <category>Rampe de acces persoane cu dizabilitati</category>
+    <description>De luni de zile,mai este puțin și face un an de zile acest autoturism parchează la întrarea din spatele blocului D19A,Caloian Județu 8,dar la sesizările anterioare răspunsul a fost,închisă rezolvată favorabil,sau mai bine spus așteptăm sărbătorile de iarnă.</description>
+  </item>
+  <item>
+    <title>Parcuri · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275934</link>
     <guid isPermaLink="false">CAS-0275934</guid>
     <pubDate>Sat, 21 Nov 2026 13:15:21 GMT</pubDate>
@@ -219,12 +243,14 @@ Mulțumesc!</description>
     <description>Auto blocheaza drumul</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275910</link>
     <guid isPermaLink="false">CAS-0275910</guid>
     <pubDate>Sat, 21 Nov 2026 10:53:25 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNA ZIUA,PENTRU A PUTEA DA CURS SESIZARII DVS,IN MOD EFICIENT ,VA RUGAM CA,PE VIITOR ,SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZATOR LA SOL.VA MULTUMIM!</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
@@ -259,12 +285,14 @@ Mulțumesc!</description>
     <description>va rog sa luati masuri in privinta descurajării parcarcarii pe acest colt. vizibilitatea este extrem de redusa, riscul de accidente este foarte mare. in permanență sunt parcate 1-2 masini. ba chiar uneori este situatia sa ramana o mașină parcata efectiv în mijlocul strazii dupa cum se poate vedea si in imagini. locul la care fac referire este cel ocupat in imagini de auto cu numar vl68tor. la momentul verificării sesizării este posibil să regăsiți alte masini parcare. va mulțumesc</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275905</link>
     <guid isPermaLink="false">CAS-0275905</guid>
     <pubDate>Sat, 21 Nov 2026 10:35:33 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: BUNA ZIUA,PENTRU A PUTEA DA CURS SESIZARII DVS IN MOD EFICIENT ,VA RUGAM CA, PE VIITOR ,SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZATOR LA SOL. VA MULTUMIM!</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Lipscani</title>
@@ -509,34 +537,6 @@ aceleași autotursime parcate în același loc. Și-au luat înștiințarile de 
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: In urma verificarilor in locatie autoturismul nu a fost identificat.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275877</link>
-    <guid isPermaLink="false">CAS-0275877</guid>
-    <pubDate>Sat, 21 Nov 2026 08:36:55 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE CA FIIND PARCAT PE LOCURILE DE PARCARE DE RESEDINTA NOMINALE 3,4, COD PARCARE 9000, AVAND AFISAT LA LOC VIZIBIL UN NUMAR DE CONTACT IN PARBRIZ. LA AUTOTURISM S-A PREZENTAT CONDUCATORUL FIINDU-I ADUS LA CUNOSTINTA REGULAMENTUL PARCAJELOR S3 SI TOTODATA A FOST AVERTIZAT VERBAL CU PRIVIRE LA INCALCAREA MARCAJULUI DE PE SOL AL LOCULUI DE PARCARE. SE MAI MENTIONEAZA FAPTUL CA PERSOANA IN CAUZA ESTE TITULARUL LOCURILOR DE PARCARE MAI SUS MENTIONATE.</description>
-  </item>
-  <item>
-    <title>Spații verzi · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275876</link>
-    <guid isPermaLink="false">CAS-0275876</guid>
-    <pubDate>Sat, 21 Nov 2026 08:31:19 GMT</pubDate>
-    <category>Spații verzi</category>
-    <description>tobogan vandalizat, pericol accidentare copii</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată intern · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275875</link>
-    <guid isPermaLink="false">CAS-0275875</guid>
-    <pubDate>Sat, 21 Nov 2026 08:25:12 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN CORELATIE CU SESIZAREA INFOCET NR. 438933 LA CARE S-A RASPUNS PETENTULUI.</description>
   </item>
 </channel>
 </rss>
