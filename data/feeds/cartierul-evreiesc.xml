@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Cartierul Evreiesc</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275920</link>
+    <guid isPermaLink="false">CAS-0275920</guid>
+    <pubDate>Sat, 21 Nov 2026 11:39:59 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275919</link>
+    <guid isPermaLink="false">CAS-0275919</guid>
+    <pubDate>Sat, 21 Nov 2026 11:39:17 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275872</link>
     <guid isPermaLink="false">CAS-0275872</guid>
@@ -589,27 +605,6 @@ Răspuns: In urma analizarii sesizarii dvs ,am constatat ca aceasta nu contine c
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: In urma analizarii sesizarii dvs ,am constatat ca aceasta nu contine cel putin o fotografie din care sa reiasa tipul parcajului,nr de inmatriculare al autoturismului la care faceti referire cat si adresa exacta unde se afla,drept urmare nu poate fi verificata in teren.Pe viitor ,va rugam sa tineti cont de aceste aspecte daca doriti sa ne semnalati incalcari ale regulior si normelor legale .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0271484</link>
-    <guid isPermaLink="false">CAS-0271484</guid>
-    <pubDate>Wed, 04 Nov 2026 11:19:03 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: In urma analizarii sesizarii dvs ,am constatat ca aceasta nu contine cel putin o fotografie din care sa reiasa tipul parcajului,nr de inmatriculare al autoturismului la care faceti referire cat si adresa exacta unde se afla,drept urmare aceasta nu poate fi verificata in teren.Pe viitor ,va rugam sa tineti cont de aceste aspecte daca doriti sa ne semnalati incalcari ale regulilor si normelor legale aflate in vigoare.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0271399</link>
-    <guid isPermaLink="false">CAS-0271399</guid>
-    <pubDate>Wed, 04 Nov 2026 06:03:39 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Staționare neregulamentară recurentă. 
-BC -  16 - LEX este în același loc ca aseară (când am trimis o altă sesizare) și în același loc în care este de obicei.
-
-Răspuns: au fost aplicate doua somatii</description>
   </item>
 </channel>
 </rss>
