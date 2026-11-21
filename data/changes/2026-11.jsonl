@@ -3876,3 +3876,15 @@
 {"at":"2026-11-21T17:00:59.646Z","ticket":"CAS-0275847","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T17:00:59.646Z","ticket":"CAS-0275847","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-21T17:00:59.646Z","ticket":"CAS-0275847","field":"reply","from":"","to":"Nespecificat Registratura Au fost aplicate masurile legale."}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275973","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275973","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275973","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT  SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE LA MOMENTUL VERIFICARII."}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275887","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275887","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275887","field":"reply","from":"","to":"Nespecificat Registratura Auto a parasit locatia."}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275879","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275879","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275879","field":"reply","from":"","to":"Nespecificat Registratura Auto a parasit locatia."}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275892","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275892","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T17:15:35.229Z","ticket":"CAS-0275892","field":"reply","from":"","to":"Nespecificat Registratura Am preluat și verificat sesizarea dumneavoastră la ora 19:08, însă,\nautoturismul în cauză nu a mai fost identificat în locație.\nVă mulțumim! "}
