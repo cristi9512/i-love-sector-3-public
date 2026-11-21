@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cartierul Evreiesc</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cartierul Evreiesc</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275872</link>
+    <guid isPermaLink="false">CAS-0275872</guid>
+    <pubDate>Sat, 21 Nov 2026 08:20:45 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Mașini abandonate · În lucru · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275833</link>
     <guid isPermaLink="false">CAS-0275833</guid>
@@ -600,16 +608,6 @@ Răspuns: In urma analizarii sesizarii dvs ,am constatat ca aceasta nu contine c
 BC -  16 - LEX este în același loc ca aseară (când am trimis o altă sesizare) și în același loc în care este de obicei.
 
 Răspuns: au fost aplicate doua somatii</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0271345</link>
-    <guid isPermaLink="false">CAS-0271345</guid>
-    <pubDate>Tue, 03 Nov 2026 19:23:38 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-1, precum și pentru zonele A-2,A-3,
-
-Răspuns: AUTO LA CARE FACETI REFERIRE DETINE AUTORIZATIE NENOMINALA DE PARCARE PENTRU ZONELE A1 A2 A3 </description>
   </item>
 </channel>
 </rss>
