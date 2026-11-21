@@ -6,6 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275968</link>
+    <guid isPermaLink="false">CAS-0275968</guid>
+    <pubDate>Sat, 21 Nov 2026 15:56:32 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Aceleași autoturisme staționate neregulamentar de luni de zile și nimeni nu ia măsuri. Câteva înștiințări afișate pe parbriz nu vor rezolva problema!
+Vă rog să luați măsurile legale care se impun, amenzi sau treceți la ridicarea autoturismelor în cauză.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275967</link>
+    <guid isPermaLink="false">CAS-0275967</guid>
+    <pubDate>Sat, 21 Nov 2026 15:51:49 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>pe trotuar</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275966</link>
     <guid isPermaLink="false">CAS-0275966</guid>
@@ -540,22 +557,6 @@ Răspuns: BUNA ZIUA,PENTRU A PUTEA DA CURS SESIZARII DVS,IN MOD EFICIENT ,VA RUG
     <pubDate>Sat, 21 Nov 2026 10:40:05 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>auto stationat in zona de acțiune a indicatorului de oprirea interzisa. voi mai lucrați sau aveți concediu? ca vad ca de asta nu va mai ocupați deloc. leafa merge? meeerge</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275908</link>
-    <guid isPermaLink="false">CAS-0275908</guid>
-    <pubDate>Sat, 21 Nov 2026 10:39:00 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Este a 3 a sesizare in decurs de 3 săptămâni. Groapă în trotuar se adâncește, treitarul se surpa și nimeni nu intervine. Ce trebuie sa facem pentru remediere? Multumesc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275907</link>
-    <guid isPermaLink="false">CAS-0275907</guid>
-    <pubDate>Sat, 21 Nov 2026 10:38:58 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>auto stationat pe zona hasurata</description>
   </item>
 </channel>
 </rss>
