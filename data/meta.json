@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-21T09:00:54.550Z",
-  "lastChange": "2026-11-21T09:00:54.550Z",
+  "lastRun": "2026-11-21T09:15:35.367Z",
+  "lastChange": "2026-11-21T09:15:35.367Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2582,
-    "added": 4,
-    "updated": 1,
+    "fetched": 2521,
+    "added": 7,
+    "updated": 0,
     "removed": 0,
-    "changes": 3
+    "changes": 0
   },
   "totals": {
-    "incidents": 46493,
-    "open": 2172,
+    "incidents": 46500,
+    "open": 2179,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-21T09:00:54.550Z",
+    "asOf": "2026-11-21T09:15:35.367Z",
     "days": 30,
-    "open": 2172,
+    "open": 2179,
     "total": 210,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 51,
+        "open": 53,
         "n": 7
       },
       "3": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 228,
+        "open": 230,
         "n": 17
       },
       "10": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 165,
+        "open": 166,
         "n": 6
       },
       "15": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 604,
+        "open": 606,
         "n": 2
       },
       "32": {

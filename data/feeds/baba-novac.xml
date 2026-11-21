@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275885</link>
+    <guid isPermaLink="false">CAS-0275885</guid>
+    <pubDate>Sat, 21 Nov 2026 09:01:44 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masini pe trotuar</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275881</link>
     <guid isPermaLink="false">CAS-0275881</guid>
@@ -691,16 +699,6 @@ Răspuns: A FOST APLICATA INSTIINTARE SI EFECTUATE FOTO</description>
     <pubDate>Thu, 19 Nov 2026 10:00:23 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Blocare trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275349</link>
-    <guid isPermaLink="false">CAS-0275349</guid>
-    <pubDate>Thu, 19 Nov 2026 09:58:15 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Trotuar ocupat de masini. strada Agricultori nr 150
-
-Răspuns: In locatie   au fost dispuse masurile legale conform oug 195/2002 r</description>
   </item>
 </channel>
 </rss>
