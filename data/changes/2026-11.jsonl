@@ -4022,3 +4022,9 @@
 {"at":"2026-11-21T23:30:50.250Z","ticket":"CAS-0276000","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T23:30:50.250Z","ticket":"CAS-0276000","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-21T23:30:50.250Z","ticket":"CAS-0276000","field":"reply","from":"","to":"Nespecificat Registratura Buna seara! Va multumim pentru sesizare.Verificarile în teren se vor realiza în termenul legal,în limita capacitatii tehnice,logistice si umane a Serviciului Circulatie."}
+{"at":"2026-11-21T23:45:33.299Z","ticket":"CAS-0275912","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T23:45:33.299Z","ticket":"CAS-0275912","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T23:45:33.299Z","ticket":"CAS-0275912","field":"reply","from":"","to":"Nespecificat Registratura SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . AUTOTURSMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT LA ADRESA INDICATA. "}
+{"at":"2026-11-21T23:45:33.299Z","ticket":"CAS-0276005","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T23:45:33.299Z","ticket":"CAS-0276005","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T23:45:33.299Z","ticket":"CAS-0276005","field":"reply","from":"","to":"Nespecificat Registratura Buna seara.Am preluat si verificat sesizarea dumneavoastra.La momentul verificarii nu se aflau persoane in locatie. S-au efectuat fotografii cu tableta din dotare"}
