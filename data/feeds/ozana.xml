@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275995</link>
+    <guid isPermaLink="false">CAS-0275995</guid>
+    <pubDate>Sat, 21 Nov 2026 18:19:33 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275992</link>
     <guid isPermaLink="false">CAS-0275992</guid>
@@ -600,16 +608,6 @@ Răspuns: Lipsă fotografie necesară verificării și soluționării sesizării
     <pubDate>Thu, 19 Nov 2026 16:30:26 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>incurca intrarea in parcare si aruncarea gunoiului</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275447</link>
-    <guid isPermaLink="false">CAS-0275447</guid>
-    <pubDate>Thu, 19 Nov 2026 15:58:05 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, dar autoturismul la care faceți referire nu se mai află în locație.</description>
   </item>
 </channel>
 </rss>
