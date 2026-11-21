@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275952</link>
+    <guid isPermaLink="false">CAS-0275952</guid>
+    <pubDate>Sat, 21 Nov 2026 14:52:59 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Aceasta masina stationeaza neregulamentar pe troruar.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275938</link>
     <guid isPermaLink="false">CAS-0275938</guid>
@@ -603,14 +611,6 @@ Răspuns: auto sesizat nu se mai afla in locatie , dar au fost aplicate somatii 
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Auto in cauza nu se mai afla in locatie</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275122</link>
-    <guid isPermaLink="false">CAS-0275122</guid>
-    <pubDate>Wed, 18 Nov 2026 10:29:59 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Zi de curatenie, masini nemutate</description>
   </item>
 </channel>
 </rss>
