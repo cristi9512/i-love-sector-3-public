@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-21T09:30:51.975Z",
-  "lastChange": "2026-11-21T09:30:51.975Z",
+  "lastRun": "2026-11-21T09:45:35.966Z",
+  "lastChange": "2026-11-21T09:45:35.966Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2627,
-    "added": 3,
-    "updated": 0,
+    "fetched": 2740,
+    "added": 2,
+    "updated": 2,
     "removed": 0,
-    "changes": 0
+    "changes": 4
   },
   "totals": {
-    "incidents": 46503,
-    "open": 2182,
+    "incidents": 46505,
+    "open": 2183,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-21T09:30:51.975Z",
+    "asOf": "2026-11-21T09:45:35.966Z",
     "days": 30,
-    "open": 2182,
+    "open": 2183,
     "total": 210,
     "byCategory": {
       "2": {
@@ -147,7 +147,7 @@
       },
       "32": {
         "name": "Rampe de acces persoane cu dizabilitati",
-        "open": 9,
+        "open": 10,
         "n": 2
       }
     }

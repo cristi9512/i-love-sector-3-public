@@ -3742,3 +3742,7 @@
 {"at":"2026-11-21T09:00:54.550Z","ticket":"CAS-0275872","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T09:00:54.550Z","ticket":"CAS-0275872","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-21T09:00:54.550Z","ticket":"CAS-0275872","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor in locatie, autoturismul in cauza a fost identificat in locatie fiind intocmite documentele in vederea luarii masurilor legale."}
+{"at":"2026-11-21T09:45:35.966Z","ticket":"CAS-0275877","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T09:45:35.966Z","ticket":"CAS-0275877","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T09:45:35.966Z","ticket":"CAS-0275877","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE CA FIIND PARCAT PE LOCURILE DE PARCARE DE RESEDINTA NOMINALE 3,4, COD PARCARE 9000, AVAND AFISAT LA LOC VIZIBIL UN NUMAR DE CONTACT IN PARBRIZ. LA AUTOTURISM S-A PREZENTAT CONDUCATORUL FIINDU-I ADUS LA CUNOSTINTA REGULAMENTUL PARCAJELOR S3 SI TOTODATA A FOST AVERTIZAT VERBAL CU PRIVIRE LA INCALCAREA MARCAJULUI DE PE SOL AL LOCULUI DE PARCARE. SE MAI MENTIONEAZA FAPTUL CA PERSOANA IN CAUZA ESTE TITULARUL LOCURILOR DE PARCARE MAI SUS MENTIONATE."}
+{"at":"2026-11-21T09:45:35.966Z","ticket":"CAS-0275892","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
