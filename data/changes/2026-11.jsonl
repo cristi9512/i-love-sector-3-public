@@ -3717,3 +3717,9 @@
 {"at":"2026-11-21T06:00:56.101Z","ticket":"CAS-0275850","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-21T06:00:56.101Z","ticket":"CAS-0275850","field":"reply","from":"","to":"Nespecificat Registratura bună ziua,\nam luat măsurile legale cu privire la autoturismul reclamat de dumneavoastră."}
 {"at":"2026-11-21T06:15:37.884Z","ticket":"CAS-0275855","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-21T06:30:46.059Z","ticket":"CAS-0275853","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T06:30:46.059Z","ticket":"CAS-0275853","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T06:30:46.059Z","ticket":"CAS-0275853","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE PENTRU PARCARE PE LOC NENOMINAL ZONA C-6, NUMARUL DE INMATRICULARE FIIND INTRODUS GRESIT IN PLATFORMA PENTRU VERIFICARI GIS S3. "}
+{"at":"2026-11-21T06:30:46.059Z","ticket":"CAS-0275854","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T06:30:46.059Z","ticket":"CAS-0275854","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T06:30:46.059Z","ticket":"CAS-0275854","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE PENTRU PARCARE PE LOC NENOMINAL ZONA C-6, NUMARUL DE INMATRICULARE FIIND INTRODUS GRESIT IN PLATFORMA PENTRU VERIFICARI GIS S3."}
