@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-21T00:00:58.871Z",
-  "lastChange": "2026-11-21T00:00:58.871Z",
+  "lastRun": "2026-11-21T00:30:48.609Z",
+  "lastChange": "2026-11-21T00:30:48.609Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2884,
+    "fetched": 2439,
     "added": 0,
-    "updated": 5,
+    "updated": 10,
     "removed": 0,
-    "changes": 15
+    "changes": 30
   },
   "totals": {
     "incidents": 46459,
-    "open": 2171,
+    "open": 2161,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-21T00:00:58.871Z",
+    "asOf": "2026-11-21T00:30:48.609Z",
     "days": 30,
-    "open": 2171,
+    "open": 2161,
     "total": 205,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 58,
+        "open": 50,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 195,
+        "open": 194,
         "n": 16
       },
       "5": {
@@ -127,7 +127,7 @@
       },
       "22": {
         "name": "Spații Comerciale",
-        "open": 6,
+        "open": 5,
         "n": 1
       },
       "25": {
