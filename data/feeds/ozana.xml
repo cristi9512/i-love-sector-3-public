@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275856</link>
+    <guid isPermaLink="false">CAS-0275856</guid>
+    <pubDate>Sat, 21 Nov 2026 06:53:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>in parcarea din spatele blocu4ilir n3A si n3b, Theodor Pallady 31. Masina parcsta pe teotuat</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275854</link>
     <guid isPermaLink="false">CAS-0275854</guid>
@@ -591,17 +599,6 @@ Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A F
     <pubDate>Wed, 18 Nov 2026 19:12:46 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275234</link>
-    <guid isPermaLink="false">CAS-0275234</guid>
-    <pubDate>Wed, 18 Nov 2026 18:44:21 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.
-Vă mulțumim!</description>
   </item>
 </channel>
 </rss>
