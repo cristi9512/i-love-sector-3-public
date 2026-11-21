@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275851</link>
+    <guid isPermaLink="false">CAS-0275851</guid>
+    <pubDate>Sat, 21 Nov 2026 05:30:52 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275806</link>
     <guid isPermaLink="false">CAS-0275806</guid>
@@ -614,14 +622,6 @@ Răspuns: Trimis raspuns Urmare a sesizării dumneavoastră înregistrată la Pr
     <pubDate>Tue, 17 Nov 2026 21:47:20 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275021</link>
-    <guid isPermaLink="false">CAS-0275021</guid>
-    <pubDate>Tue, 17 Nov 2026 21:46:06 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
 </channel>
 </rss>
