@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276015</link>
+    <guid isPermaLink="false">CAS-0276015</guid>
+    <pubDate>Sat, 21 Nov 2026 22:00:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașina parcată pe trotuar , nu se poate trece cu un cărucior pentru copil printre gard și această mașină . Am făcut și sesizare telefonică tot pentru această mașină și acum 2 zile . Nu au fost luate măsuri ( amendă sau ridicată) . Vă rog frumos poate acum luați măsurile ce se impun . Vă atașez 2 poze de acum și una de astăzi de la prânz când tot aici era parcată .</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276014</link>
     <guid isPermaLink="false">CAS-0276014</guid>
@@ -22,12 +30,15 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276012</link>
     <guid isPermaLink="false">CAS-0276012</guid>
     <pubDate>Sat, 21 Nov 2026 21:08:59 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Buna seara,
+In urma verificarilor efectuate locul de parcare indicat conform marcajelor vizibile afisate la sol, nu figureaza a fi un loc nenominal, vom transmite catre serviciul abilitat in vederea retrasarii marcajelor.</description>
   </item>
   <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Ozana</title>
@@ -603,16 +614,6 @@ Răspuns: LIPSA FOTOGRAFIE NECESARA VERIFICARII SI SOLUTIONARII SESIZARII;REVENI
     <pubDate>Sat, 21 Nov 2026 15:11:53 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>Nu va suparati sambata si duminica e inchis la politia locala ? Gunoiul nu mai are unde sa fie depozitat, iar marlanul cu bmw a parcat in loc nepermis si masina de gunoi nu poate ridica gunoiul din cauza asta!!!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275955</link>
-    <guid isPermaLink="false">CAS-0275955</guid>
-    <pubDate>Sat, 21 Nov 2026 15:07:47 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU A FOST IDENTIFICAT IN LOCATIE.VA MULTUMIM!</description>
   </item>
 </channel>
 </rss>

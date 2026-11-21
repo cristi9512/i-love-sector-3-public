@@ -3967,3 +3967,6 @@
 {"at":"2026-11-21T21:30:55.398Z","ticket":"CAS-0276008","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T21:30:55.398Z","ticket":"CAS-0276008","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-21T21:30:55.398Z","ticket":"CAS-0276008","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat la fața locului.  fost întocmit proces verbaal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto."}
+{"at":"2026-11-21T22:00:55.404Z","ticket":"CAS-0276012","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T22:00:55.404Z","ticket":"CAS-0276012","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T22:00:55.404Z","ticket":"CAS-0276012","field":"reply","from":"","to":"Nespecificat Registratura Buna seara,\nIn urma verificarilor efectuate locul de parcare indicat conform marcajelor vizibile afisate la sol, nu figureaza a fi un loc nenominal, vom transmite catre serviciul abilitat in vederea retrasarii marcajelor."}
