@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275892</link>
+    <guid isPermaLink="false">CAS-0275892</guid>
+    <pubDate>Sat, 21 Nov 2026 09:29:14 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>În lotul 2895 locul 4 parcare nominala, se afla o mașină parcata abuziv, fără număr telefon în parbriz, pentru a fi contactata. Adresa este Aleea Zavideni nr. 2,bloc A3 în spatele se afla parcările. Va rugam sa intervenit sore competenta rezolvare. Mulțumim!</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275891</link>
+    <guid isPermaLink="false">CAS-0275891</guid>
+    <pubDate>Sat, 21 Nov 2026 09:19:36 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275890</link>
+    <guid isPermaLink="false">CAS-0275890</guid>
+    <pubDate>Sat, 21 Nov 2026 09:18:14 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275889</link>
     <guid isPermaLink="false">CAS-0275889</guid>
@@ -550,34 +574,6 @@ Răspuns: conexată la sezizarea cu nr. 438752, a fost întocmit un singur răsp
     <pubDate>Fri, 20 Nov 2026 21:45:46 GMT</pubDate>
     <category>Mașini abandonate</category>
     <description>Am observat aici o duba alba posibil abandonată parcată lângă bordura, rotile sunt complet tocite și pline de frunze la fel și capota, pe Aida scrie ca nu are RCA activ..</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275832</link>
-    <guid isPermaLink="false">CAS-0275832</guid>
-    <pubDate>Fri, 20 Nov 2026 21:42:55 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-14, precum și pentru zonele B-12,B-13,B-17,B-5,
-
-Răspuns: conexată la sezizarea cu nr. 438752, a fost întocmit un singur răspuns</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275831</link>
-    <guid isPermaLink="false">CAS-0275831</guid>
-    <pubDate>Fri, 20 Nov 2026 21:35:58 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Situație repetată de staționare/parcare neregulamentară, prin care conducătorii auto blochează accesul de intrare și ieșire în/din garaj.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275830</link>
-    <guid isPermaLink="false">CAS-0275830</guid>
-    <pubDate>Fri, 20 Nov 2026 21:35:24 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-14, precum și pentru zonele B-12,B-13,B-17,B-5,
-
-Răspuns: conexată la sezizarea cu nr. 438752, a fost întocmit un singur răspuns</description>
   </item>
 </channel>
 </rss>
