@@ -1,14 +1,14 @@
 {
-  "lastRun": "2026-11-21T07:15:36.756Z",
-  "lastChange": "2026-11-21T07:15:36.756Z",
+  "lastRun": "2026-11-21T07:30:44.690Z",
+  "lastChange": "2026-11-21T07:30:44.690Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2623,
-    "added": 2,
+    "fetched": 2718,
+    "added": 0,
     "updated": 1,
     "removed": 0,
-    "changes": 3
+    "changes": 1
   },
   "totals": {
     "incidents": 46469,
@@ -25,7 +25,7 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-21T07:15:36.756Z",
+    "asOf": "2026-11-21T07:30:44.690Z",
     "days": 30,
     "open": 2153,
     "total": 208,
