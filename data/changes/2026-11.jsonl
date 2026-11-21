@@ -3807,3 +3807,6 @@
 {"at":"2026-11-21T13:45:36.091Z","ticket":"CAS-0275902","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-21T13:45:36.091Z","ticket":"CAS-0275902","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE,MOTIV PENTRU CARE AM INTOCMIT PROCES VERBAL DE CONSTATARE SI APLICAT INSTIINTARE IN PARBRIZ,URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.VA MULTUMIM!"}
 {"at":"2026-11-21T13:45:36.091Z","ticket":"CAS-0275937","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-21T14:00:55.661Z","ticket":"CAS-0275890","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T14:00:55.661Z","ticket":"CAS-0275890","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-21T14:00:55.661Z","ticket":"CAS-0275890","field":"reply","from":"","to":"Nespecificat Registratura AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,INSA AUTOTURISMUL LA CARE FACETI REFERIRE NU SE MAI AFLA IN LOCATIE.VA MULTUMIM!"}
