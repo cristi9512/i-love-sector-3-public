@@ -3723,3 +3723,6 @@
 {"at":"2026-11-21T06:30:46.059Z","ticket":"CAS-0275854","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T06:30:46.059Z","ticket":"CAS-0275854","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-21T06:30:46.059Z","ticket":"CAS-0275854","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE PENTRU PARCARE PE LOC NENOMINAL ZONA C-6, NUMARUL DE INMATRICULARE FIIND INTRODUS GRESIT IN PLATFORMA PENTRU VERIFICARI GIS S3."}
+{"at":"2026-11-21T06:45:35.964Z","ticket":"CAS-0275852","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T06:45:35.964Z","ticket":"CAS-0275852","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-21T06:45:35.964Z","ticket":"CAS-0275852","field":"reply","from":"","to":"Nespecificat Registratura SESIZAREA DUMNEAVOASTRA SE CONFIRMA, AUTO LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE, MOTIV PENTRU CARE S A APLICAT INSTIINTARE, URMAND A SE APLICA MASURILE CE SE IMPUN IN ASTFEL DE SITUATII."}
