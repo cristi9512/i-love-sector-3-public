@@ -3932,3 +3932,6 @@
 {"at":"2026-11-21T18:45:35.898Z","ticket":"CAS-0275900","field":"status","from":"O","to":"C"}
 {"at":"2026-11-21T18:45:35.898Z","ticket":"CAS-0275900","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-21T18:45:35.898Z","ticket":"CAS-0275900","field":"reply","from":"","to":"Nespecificat Registratura Au fost aplicate masurile legale."}
+{"at":"2026-11-21T19:00:55.708Z","ticket":"CAS-0275895","field":"status","from":"O","to":"C"}
+{"at":"2026-11-21T19:00:55.708Z","ticket":"CAS-0275895","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-21T19:00:55.708Z","ticket":"CAS-0275895","field":"reply","from":"","to":"Nespecificat Registratura Au fost aplicate masurile legale.\n"}
