@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275909</link>
+    <guid isPermaLink="false">CAS-0275909</guid>
+    <pubDate>Sat, 21 Nov 2026 10:40:05 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>auto stationat in zona de acțiune a indicatorului de oprirea interzisa. voi mai lucrați sau aveți concediu? ca vad ca de asta nu va mai ocupați deloc. leafa merge? meeerge</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275907</link>
+    <guid isPermaLink="false">CAS-0275907</guid>
+    <pubDate>Sat, 21 Nov 2026 10:38:58 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>auto stationat pe zona hasurata</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275877</link>
     <guid isPermaLink="false">CAS-0275877</guid>
@@ -556,26 +572,6 @@ Răspuns: AM VERIFICAT LOCATIA,AUTO OCUPA LOCURILE MOTO,INTOCMIT DOCUMENTATIA CO
     <pubDate>Wed, 18 Nov 2026 15:33:12 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>de o luna serviciul de gunoi nu mai vine miercureA. str drumul malu spart 45</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275170</link>
-    <guid isPermaLink="false">CAS-0275170</guid>
-    <pubDate>Wed, 18 Nov 2026 14:58:57 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275150</link>
-    <guid isPermaLink="false">CAS-0275150</guid>
-    <pubDate>Wed, 18 Nov 2026 13:46:32 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Va rog sa verificati toata Strada Ilioara, in jos, spre M Park Titan. Am vazut inclusiv mame cu carucior care merg pe strada pentru ca suprafata pietonala e ocupata in integralitate. Situatia persista de ani intregi
-
-Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275908</link>
+    <guid isPermaLink="false">CAS-0275908</guid>
+    <pubDate>Sat, 21 Nov 2026 10:39:00 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Este a 3 a sesizare in decurs de 3 săptămâni. Groapă în trotuar se adâncește, treitarul se surpa și nimeni nu intervine. Ce trebuie sa facem pentru remediere? Multumesc</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275906</link>
+    <guid isPermaLink="false">CAS-0275906</guid>
+    <pubDate>Sat, 21 Nov 2026 10:38:49 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>va rog sa luati masuri in privinta descurajării parcarcarii pe acest colt. vizibilitatea este extrem de redusa, riscul de accidente este foarte mare. in permanență sunt parcate 1-2 masini. ba chiar uneori este situatia sa ramana o mașină parcata efectiv în mijlocul strazii dupa cum se poate vedea si in imagini. locul la care fac referire este cel ocupat in imagini de auto cu numar vl68tor. la momentul verificării sesizării este posibil să regăsiți alte masini parcare. va mulțumesc</description>
+  </item>
+  <item>
+    <title>Trasare parcare · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275903</link>
+    <guid isPermaLink="false">CAS-0275903</guid>
+    <pubDate>Sat, 21 Nov 2026 10:33:14 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>va rog sa marcati ca zona hașurată spatiul dintre cele 2 baterii de parcare. in permanență sunt 1-2 masini parcate ca si aceasta.  vizibilitatea in curba este foartea scazuta iar riscul de accidente este foarte mare.  atasez mai multe fotografii pentru identificarea mai buna a zonei. este vorba se locul unde este parcata momentan masina de valcea.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275866</link>
     <guid isPermaLink="false">CAS-0275866</guid>
@@ -603,34 +627,6 @@ Răspuns: AUTO A PARASIT LOCATIA </description>
     <pubDate>Tue, 17 Nov 2026 22:12:13 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Autovehiculul cu numarul B........are parcarea neplătită are abonament platit dar nu in zona  A8  .. se află in afara intervalului 8-18 si detine autorizatie pe locul 38 .. in fiecare seara ocupa cate un loc nenominal in zona A8  ..</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275027</link>
-    <guid isPermaLink="false">CAS-0275027</guid>
-    <pubDate>Tue, 17 Nov 2026 21:53:02 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - imposibilitate demarare proceduri legale din cauza marcaj indescifrabil indicare  sectiune ,, nenominal ``   pentru a proba incalcare HCLS3 46 / 2022 .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275026</link>
-    <guid isPermaLink="false">CAS-0275026</guid>
-    <pubDate>Tue, 17 Nov 2026 21:51:47 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275025</link>
-    <guid isPermaLink="false">CAS-0275025</guid>
-    <pubDate>Tue, 17 Nov 2026 21:50:04 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Trimis raspuns Urmare a sesizării dumneavoastră înregistrată la Primăria Sectorului 3, privind parcarea pe un loc de parcare nenominal a unui autovehicul fără a achita tariful orar ori a deține autorizație, vă comunicăm următoarele: Polițiștii locali din cadrul Direcției Generale de Poliție Locală Sector 3, au efectuat verificări în locația menționată, unde au constatat faptul că aspectele semnalate se confirmă,motiv pentru care s-a aplicat înștiințare pe parbrizul autovehiculului în cauză, urmând a fi sancționat proprietarul acestuia. Vă asigurăm de sprijinul instituției noastre în limita competențelor. Cu deosebită considerație, </description>
   </item>
 </channel>
 </rss>
