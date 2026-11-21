@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275972</link>
+    <guid isPermaLink="false">CAS-0275972</guid>
+    <pubDate>Sat, 21 Nov 2026 16:23:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 34</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275970</link>
+    <guid isPermaLink="false">CAS-0275970</guid>
+    <pubDate>Sat, 21 Nov 2026 16:17:59 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275921</link>
     <guid isPermaLink="false">CAS-0275921</guid>
@@ -560,26 +576,6 @@ De ce refuza Politia Locala sa gaseasca acest auto ? Auto o sa fie acolo si dupa
     <description>Revenire la CAS-0274133 si CAS-0274279 unde pentru a doua oara se primeste rezolutia nefavorabil , desi auto se afla in locatie si nu s-a miscat de cateva zile. La multtiple sesizari pentru acelasi auto, respectiv B888YBZ, Politia Locala spune ca nu il gaseste in locatie. Probabil ca are orbul gainilor, din pozele trimise de mine se observa limpede ca auto se afla in locatie desi Politia Locala nu este in stare sa il gaseasca. Sau poate ca nu vrea.
 Mai fac o sesizare si astazi pentru ca auto nu s-a miscat, sunt curios cate sesizari sunt necesare ca sa poata gasi Politia Locala un auto parcat ? Sau ei sunt platiti la sesizare si le umfla artificial ? Adevarul e ca la asa Primarie asa Politie Locala. 
 Am sesizat din nou cu CAS 0274288,pentru a patra oara, ca auto continua sa se afle in locatie, contrar a ceea ce sustine Politia. Nu am cum sa nu ma intreb, e vorba de prostie, rea vointa ori pur si simplu nesimtire ?</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274288</link>
-    <guid isPermaLink="false">CAS-0274288</guid>
-    <pubDate>Sun, 15 Nov 2026 05:12:48 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: In urma verificarilor facute, auto nu se mai afla in locatie.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274279</link>
-    <guid isPermaLink="false">CAS-0274279</guid>
-    <pubDate>Sat, 14 Nov 2026 21:54:58 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: LA MOMENTUL VERIFICARILOR ,AUTO NU A FOST GASIT IN LOCATIE.</description>
   </item>
 </channel>
 </rss>

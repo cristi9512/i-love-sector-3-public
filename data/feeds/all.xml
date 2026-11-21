@@ -6,6 +6,38 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275973</link>
+    <guid isPermaLink="false">CAS-0275973</guid>
+    <pubDate>Sat, 21 Nov 2026 16:24:01 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275972</link>
+    <guid isPermaLink="false">CAS-0275972</guid>
+    <pubDate>Sat, 21 Nov 2026 16:23:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nominala de parcare pentru  locul 34</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275971</link>
+    <guid isPermaLink="false">CAS-0275971</guid>
+    <pubDate>Sat, 21 Nov 2026 16:20:07 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275970</link>
+    <guid isPermaLink="false">CAS-0275970</guid>
+    <pubDate>Sat, 21 Nov 2026 16:17:59 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275969</link>
     <guid isPermaLink="false">CAS-0275969</guid>
@@ -516,47 +548,6 @@ Răspuns: LIPSA FOTOGRFIE NECESARA VERIFICARII SI SOLUTIONARII SESIZARII. REVENI
     <pubDate>Sat, 21 Nov 2026 11:04:21 GMT</pubDate>
     <category>Străzi</category>
     <description>Pe Strada Laborator (stradă cu sens unic) se intră în continuu pe sens interzis din Șoseaua Mihai Bravu. Semnul de interzis nu este vizibil.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275913</link>
-    <guid isPermaLink="false">CAS-0275913</guid>
-    <pubDate>Sat, 21 Nov 2026 10:59:45 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Bună ziua, 
-Vă adresez prezenta sesizare cu privire la existența unui loc de parcare amenajat pe strada Vitioara nr. 50 chiar în dreptul porții de acces auto în proprietatea mea.
-
-Amplasarea acestui loc de parcare îmi creează dificultăți semnificative în utilizarea accesului auto, întrucât, atunci când locul este ocupat de un autoturism, manevrele de intrare și ieșire din curte devin foarte dificile.
-
-Menționez că poarta respectivă reprezintă calea de acces auto către proprietatea mea, iar existența unui loc de parcare chiar în fața acesteia afectează în mod direct dreptul meu de a utiliza în condiții normale accesul la imobil.
- Va rog să găsiți o soluție! 
-Mulțumesc!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275912</link>
-    <guid isPermaLink="false">CAS-0275912</guid>
-    <pubDate>Sat, 21 Nov 2026 10:57:40 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>auto staționat neregulamentar pe spațiul verde</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275911</link>
-    <guid isPermaLink="false">CAS-0275911</guid>
-    <pubDate>Sat, 21 Nov 2026 10:54:02 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Auto blocheaza drumul</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275910</link>
-    <guid isPermaLink="false">CAS-0275910</guid>
-    <pubDate>Sat, 21 Nov 2026 10:53:25 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNA ZIUA,PENTRU A PUTEA DA CURS SESIZARII DVS,IN MOD EFICIENT ,VA RUGAM CA,PE VIITOR ,SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZATOR LA SOL.VA MULTUMIM!</description>
   </item>
 </channel>
 </rss>
