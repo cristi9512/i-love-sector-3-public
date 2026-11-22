@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276024</link>
+    <guid isPermaLink="false">CAS-0276024</guid>
+    <pubDate>Sun, 22 Nov 2026 04:56:13 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276007</link>
     <guid isPermaLink="false">CAS-0276007</guid>
@@ -603,14 +611,6 @@ Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
     <description>Autoturismul blocheaza circulatia si accesul in parcarea de resedinta. Stationeaza din 17.11.2026 in acest loc.
 
 Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275190</link>
-    <guid isPermaLink="false">CAS-0275190</guid>
-    <pubDate>Wed, 18 Nov 2026 15:42:15 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașina parcată pe trotuarul de lângă McDonalds</description>
   </item>
 </channel>
 </rss>
