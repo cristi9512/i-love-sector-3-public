@@ -6,6 +6,25 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276037</link>
+    <guid isPermaLink="false">CAS-0276037</guid>
+    <pubDate>Sun, 22 Nov 2026 07:10:43 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vizibilitatea la ieșirea din parcarea 2226 este complet blocată de mașinile parcate la bordură.
+Drumul e prea îngust din cauza mașinilor staționate în dreptul ghenelor de gunoi. 
+Luați măsuri.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276036</link>
+    <guid isPermaLink="false">CAS-0276036</guid>
+    <pubDate>Sun, 22 Nov 2026 07:08:49 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Mașină de teren cu numere de Vrancea parcată în intersecție.
+Încurcă circulația.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276018</link>
     <guid isPermaLink="false">CAS-0276018</guid>
@@ -593,28 +612,6 @@ La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra aut
 
 Răspuns: Buna seara,
 La momentul efectuarii verificarilor, aspectele sesizate se confirma, asupra autoturimsului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275503</link>
-    <guid isPermaLink="false">CAS-0275503</guid>
-    <pubDate>Thu, 19 Nov 2026 18:49:10 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-7, precum și pentru zonele B-10,B-4,B-6,B-8,C-1,
-
-Răspuns: Buna seara,
-La momentul efectuarii verificarilor, aspectele sesizate se confirma, autoturismul reclamat detine autorizatie de parcare pentru un loc nenominal.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275480</link>
-    <guid isPermaLink="false">CAS-0275480</guid>
-    <pubDate>Thu, 19 Nov 2026 17:20:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La momenul efectuarii verificarilor, aspectele sesizate nu se confirma, autoturismul reclamat a parasit locatia.</description>
   </item>
 </channel>
 </rss>

@@ -4077,3 +4077,6 @@
 {"at":"2026-11-22T07:00:58.039Z","ticket":"CAS-0276021","field":"status","from":"O","to":"C"}
 {"at":"2026-11-22T07:00:58.039Z","ticket":"CAS-0276021","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-22T07:00:58.039Z","ticket":"CAS-0276021","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor in locatie am constatat ca autoturismul la care se face referire in sesizare nu incalca prevederile legale.-Auto detine abonament valabil"}
+{"at":"2026-11-22T07:15:37.571Z","ticket":"CAS-0276034","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T07:15:37.571Z","ticket":"CAS-0276034","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T07:15:37.571Z","ticket":"CAS-0276034","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarii si analizarii continutului sesizarii, am constatat ca numarul de inmatriculare verificat de dumneavoastra in platforma digitala este diferit fata de cel din fotografie atasata."}
