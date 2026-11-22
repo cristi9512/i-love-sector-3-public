@@ -6,6 +6,23 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276078</link>
+    <guid isPermaLink="false">CAS-0276078</guid>
+    <pubDate>Sun, 22 Nov 2026 11:28:41 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Masina care blocheaza strada.
+Este drum de acces spre bloc.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276077</link>
+    <guid isPermaLink="false">CAS-0276077</guid>
+    <pubDate>Sun, 22 Nov 2026 11:24:45 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcuri · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276067</link>
     <guid isPermaLink="false">CAS-0276067</guid>
@@ -563,22 +580,6 @@ Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care face
     <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AUTO DIN SESIZARE ARE NR DE INMATRICULARE GRESIT,AUTO CARE ESTE PARCAT PE B6 DETINE AUTORIZATIE PTR LOC DE PARCARE NENOMINAL</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275379</link>
-    <guid isPermaLink="false">CAS-0275379</guid>
-    <pubDate>Thu, 19 Nov 2026 11:53:41 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Groapa in asfalt la semafor banda stanga spre Str. Postavarulul</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275346</link>
-    <guid isPermaLink="false">CAS-0275346</guid>
-    <pubDate>Thu, 19 Nov 2026 09:42:46 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>doresc sa sesizez acest copac rupt din cauza ploilor si a vanturilor avand un risc mare sa desprinda si sa cada pe o zona de acces a blocului. Am atasat cateva poze pentru confirmare. Adresa este :Aleea Fizicienilor nr 23, in spatele blocului bl 1A. va multumesc anticipat.</description>
   </item>
 </channel>
 </rss>
