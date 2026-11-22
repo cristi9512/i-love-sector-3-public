@@ -6,7 +6,40 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Baba Novac</title>
+    <title>Stationare neregulamentara · Noua · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276097</link>
+    <guid isPermaLink="false">CAS-0276097</guid>
+    <pubDate>Sun, 22 Nov 2026 12:59:37 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna ziua, 
+Pe strada Drumul Gura Putnei 86-90, unde este si magazinul Anabella la parterul blocului, se parchează neregulamentar langa pubelele de gunoi, astfel încât masina de gunoi nu are loc sa colecteze deșeurile. Toti sacii stau pe jos langa pubele de saptamani întregi. Va rog sa ne ajutați sa marcați spatiul pentru a nu se mai parca, astfel încât sa aibă loc masina de gunoi.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276096</link>
+    <guid isPermaLink="false">CAS-0276096</guid>
+    <pubDate>Sun, 22 Nov 2026 12:57:29 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Pe drumul Gura Putnei 86-90, în fața blocului Habio, ghenele sunt mereu pline, un miros groaznic. Una dintre probleme și cea mai mare este aceea că se tot parchează neregulamentar iar mașina de gunoi nu poate interveni. Este importantă intervenția poliției locale și a primăriei, să se semnalizeze interzicerea parcării si staționării. Cu toate că s-a tot semnalat problema, nimeni nu intervine iar noi că locatari fiind domeniu public, trebuie doar să suportăm mizeria și mirosul îngrozitor.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276095</link>
+    <guid isPermaLink="false">CAS-0276095</guid>
+    <pubDate>Sun, 22 Nov 2026 12:46:50 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276094</link>
+    <guid isPermaLink="false">CAS-0276094</guid>
+    <pubDate>Sun, 22 Nov 2026 12:46:32 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>B44MMF oarvat pe trotuar</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276093</link>
     <guid isPermaLink="false">CAS-0276093</guid>
     <pubDate>Sun, 22 Nov 2026 12:45:16 GMT</pubDate>
@@ -14,7 +47,7 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · Noua · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276092</link>
     <guid isPermaLink="false">CAS-0276092</guid>
     <pubDate>Sun, 22 Nov 2026 12:45:02 GMT</pubDate>
@@ -22,7 +55,7 @@
     <description>IF15NXH parcat pe trotuar</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · Noua · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276091</link>
     <guid isPermaLink="false">CAS-0276091</guid>
     <pubDate>Sun, 22 Nov 2026 12:44:21 GMT</pubDate>
@@ -141,12 +174,14 @@ Madalina Suliman
     <description>Autovehiculul cu numarul I........ Deține autorizație nominala de parcare pentru  locul 33</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Traian</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276081</link>
     <guid isPermaLink="false">CAS-0276081</guid>
     <pubDate>Sun, 22 Nov 2026 12:09:38 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: LA ADRESA MENTIONATA IN SESIZARE AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
@@ -612,43 +647,6 @@ Răspuns: In urma verificarilor efectuate, autoturismul a fost identificat fiind
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: In urma verificarilor efectuate in locatie, am identificat conducatorul auto care a fost sanctionat in baza prevederilor legale</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276037</link>
-    <guid isPermaLink="false">CAS-0276037</guid>
-    <pubDate>Sun, 22 Nov 2026 07:10:43 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vizibilitatea la ieșirea din parcarea 2226 este complet blocată de mașinile parcate la bordură.
-Drumul e prea îngust din cauza mașinilor staționate în dreptul ghenelor de gunoi. 
-Luați măsuri.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276036</link>
-    <guid isPermaLink="false">CAS-0276036</guid>
-    <pubDate>Sun, 22 Nov 2026 07:08:49 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașină de teren cu numere de Vrancea parcată în intersecție.
-Încurcă circulația.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276035</link>
-    <guid isPermaLink="false">CAS-0276035</guid>
-    <pubDate>Sun, 22 Nov 2026 07:05:00 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Deține autorizație nenominala de parcare pentru  zona B-1, precum și pentru zonele A-5,B-2,B-4,</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276034</link>
-    <guid isPermaLink="false">CAS-0276034</guid>
-    <pubDate>Sun, 22 Nov 2026 06:58:06 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: In urma verificarii si analizarii continutului sesizarii, am constatat ca numarul de inmatriculare verificat de dumneavoastra in platforma digitala este diferit fata de cel din fotografie atasata.</description>
   </item>
 </channel>
 </rss>

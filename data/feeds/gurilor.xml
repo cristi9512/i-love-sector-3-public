@@ -6,6 +6,23 @@
   <description>Cele mai noi sesizări din zona Gurilor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276097</link>
+    <guid isPermaLink="false">CAS-0276097</guid>
+    <pubDate>Sun, 22 Nov 2026 12:59:37 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Buna ziua, 
+Pe strada Drumul Gura Putnei 86-90, unde este si magazinul Anabella la parterul blocului, se parchează neregulamentar langa pubelele de gunoi, astfel încât masina de gunoi nu are loc sa colecteze deșeurile. Toti sacii stau pe jos langa pubele de saptamani întregi. Va rog sa ne ajutați sa marcați spatiul pentru a nu se mai parca, astfel încât sa aibă loc masina de gunoi.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276096</link>
+    <guid isPermaLink="false">CAS-0276096</guid>
+    <pubDate>Sun, 22 Nov 2026 12:57:29 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Pe drumul Gura Putnei 86-90, în fața blocului Habio, ghenele sunt mereu pline, un miros groaznic. Una dintre probleme și cea mai mare este aceea că se tot parchează neregulamentar iar mașina de gunoi nu poate interveni. Este importantă intervenția poliției locale și a primăriei, să se semnalizeze interzicerea parcării si staționării. Cu toate că s-a tot semnalat problema, nimeni nu intervine iar noi că locatari fiind domeniu public, trebuie doar să suportăm mizeria și mirosul îngrozitor.</description>
+  </item>
+  <item>
     <title>Spații verzi · În lucru · Gurilor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276087</link>
     <guid isPermaLink="false">CAS-0276087</guid>
@@ -637,25 +654,6 @@ Răspuns: Trimis raspuns În urma verificărilor operative efectuate de echipele
  Nu au fost selectate fisiere de trimis la cetatean, din urmatorul motiv: În urma verificărilor operative efectuate de echipele Serviciului Control Protecția Mediului, nu a fost identificată până în prezent o sursă certă a mirosurilor semnalate.
 În cazul ȋn care în momentul în care mirosul este din nou perceput, recomandăm să fie apelat SNUAU 112, în vederea intervenției unei echipe CBRN din cadrul Inspectoratului pentru Situații de Urgență, structură abilitată să efectueze măsurători în timp real ale concentrațiilor de gaze.
 </description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273361</link>
-    <guid isPermaLink="false">CAS-0273361</guid>
-    <pubDate>Wed, 11 Nov 2026 13:05:20 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Iluminat stradal inexistent.
-Pericol de siguranta si talharie.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0273359</link>
-    <guid isPermaLink="false">CAS-0273359</guid>
-    <pubDate>Wed, 11 Nov 2026 13:03:07 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Va rog sa adaugati o lumina pentru trecerea de pietoni. 
-Exista riscuri de accidente.
-Multumesc.</description>
   </item>
 </channel>
 </rss>

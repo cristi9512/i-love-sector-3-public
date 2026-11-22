@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276094</link>
+    <guid isPermaLink="false">CAS-0276094</guid>
+    <pubDate>Sun, 22 Nov 2026 12:46:32 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>B44MMF oarvat pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276092</link>
     <guid isPermaLink="false">CAS-0276092</guid>
     <pubDate>Sun, 22 Nov 2026 12:45:02 GMT</pubDate>
@@ -14,7 +22,7 @@
     <description>IF15NXH parcat pe trotuar</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · Noua · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276091</link>
     <guid isPermaLink="false">CAS-0276091</guid>
     <pubDate>Sun, 22 Nov 2026 12:44:21 GMT</pubDate>
@@ -569,14 +577,6 @@ Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavoastra. S-a into
     <pubDate>Fri, 20 Nov 2026 18:01:17 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Stationare pe trotuar a autoturismului Dacia cu numarul B19LNC. Atasat foto.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275768</link>
-    <guid isPermaLink="false">CAS-0275768</guid>
-    <pubDate>Fri, 20 Nov 2026 17:34:16 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Acest nesimtit B-301 FAZ  si a parcat masina de 2 zile fix pe trotuar in condiitile in care trotuarul a fost reconditionat !!!</description>
   </item>
 </channel>
 </rss>
