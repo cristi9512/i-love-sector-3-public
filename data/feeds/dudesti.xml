@@ -6,12 +6,23 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276064</link>
+    <guid isPermaLink="false">CAS-0276064</guid>
+    <pubDate>Sun, 22 Nov 2026 09:52:42 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară IF 50 SRC pe loc marcat la sol ca fiind Oprire interzisă str.Breaza bloc V15.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276053</link>
     <guid isPermaLink="false">CAS-0276053</guid>
     <pubDate>Sun, 22 Nov 2026 08:41:41 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dvs a fost preluata si verificata la ora 11:45. Autovehiculul reclamat ocupa locul de parcare indicat, motiv pentru care au fost luate masurile legale care se impun conform HCLS3 nr 346/2022.
+Va multumim. </description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
@@ -594,16 +605,6 @@ Răspuns: AUTO LA CARE SE FACE REFERIRE A FOST DEPISTAT IN LOCATIE,AU FOST APLIC
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: PENTRU A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT,VA RUGAM CA, PE VIITOR SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE  MARCAT CORESPUNZATOR LA SOL,IN VEDEREA EFECTUARII VERIFICARILOR IN TIMP UTIL SI CU RESPECTAREA ATRIBUTIILOR LEGALE.VA MULTUMIM</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275191</link>
-    <guid isPermaLink="false">CAS-0275191</guid>
-    <pubDate>Wed, 18 Nov 2026 15:42:22 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară PH 21 JMT, în curbă, într-o poziție periculoasă, forțând șoferii să circule pe contrasens cu posibile accidente rutiere.  Și este parcat și peste un loc de parcare nenominal A-10.
-
-Răspuns: a fost aplicata somatie </description>
   </item>
 </channel>
 </rss>

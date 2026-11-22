@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276064</link>
+    <guid isPermaLink="false">CAS-0276064</guid>
+    <pubDate>Sun, 22 Nov 2026 09:52:42 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez o parcare neregulamentară IF 50 SRC pe loc marcat la sol ca fiind Oprire interzisă str.Breaza bloc V15.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276063</link>
     <guid isPermaLink="false">CAS-0276063</guid>
@@ -56,14 +64,16 @@ o zi buna</description>
     <description>Stationare neregulamentara</description>
   </item>
   <item>
-    <title>Ordine și liniște publică · În lucru · Traian</title>
+    <title>Ordine și liniște publică · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276058</link>
     <guid isPermaLink="false">CAS-0276058</guid>
     <pubDate>Sun, 22 Nov 2026 09:09:13 GMT</pubDate>
     <category>Ordine și liniște publică</category>
     <description>Gunoi. Montati cctv si panouri!!
 
-Fiti cu noi, nu fiti gunoi!!</description>
+Fiti cu noi, nu fiti gunoi!!
+
+Răspuns: In urma verificarilor , deseurile la care se face referire au fost identificate in locatie, nefiind gasite urme sau indicii cu privire la peraoana responsabila.Locatia va ramane in monitorizare in limita timpului disponibil.</description>
   </item>
   <item>
     <title>Deșeuri/Colectare selective/Salubritate · În lucru · Baba Novac</title>
@@ -116,20 +126,26 @@ Vă mulțumesc și aștept un răspuns cu numărul de înregistrare și măsuril
     <description>Mașina parcată pe trotuar</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Ozana</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276054</link>
     <guid isPermaLink="false">CAS-0276054</guid>
     <pubDate>Sun, 22 Nov 2026 08:42:13 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.
+Vă mulțumim!</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276053</link>
     <guid isPermaLink="false">CAS-0276053</guid>
     <pubDate>Sun, 22 Nov 2026 08:41:41 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dvs a fost preluata si verificata la ora 11:45. Autovehiculul reclamat ocupa locul de parcare indicat, motiv pentru care au fost luate masurile legale care se impun conform HCLS3 nr 346/2022.
+Va multumim. </description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
@@ -665,16 +681,6 @@ Răspuns: AUTOTURISMUL LA CARE FACETI REFERIRE DETINE AUTORIZATIE DE PARCARE PEN
     <description>buna seara! azi, 21 noiembrie ora 21:25, acelasi grup se aduna pentru a nu stiu cata oara la scara din spatele blocului N23, care blocheaza scara si sunt suspecti.
 
 Răspuns: Buna seara.Am preluat si verificat sesizarea dumneavoastra.La momentul verificarii nu se aflau persoane in locatie. S-au efectuat fotografii cu tableta din dotare</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276004</link>
-    <guid isPermaLink="false">CAS-0276004</guid>
-    <pubDate>Sat, 21 Nov 2026 19:25:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara.Am preluat si verificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat,conform HCLS3 nr 346/2022. Ulterior identificarii proprietarului ,i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
 </channel>
 </rss>
