@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-22T14:45:43.546Z",
-  "lastChange": "2026-11-22T14:45:43.546Z",
+  "lastRun": "2026-11-22T15:00:57.989Z",
+  "lastChange": "2026-11-22T15:00:57.989Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2668,
+    "fetched": 2584,
     "added": 3,
-    "updated": 4,
+    "updated": 2,
     "removed": 0,
-    "changes": 10
+    "changes": 4
   },
   "totals": {
-    "incidents": 46742,
-    "open": 2288,
+    "incidents": 46745,
+    "open": 2290,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-22T14:45:43.546Z",
+    "asOf": "2026-11-22T15:00:57.989Z",
     "days": 30,
-    "open": 2288,
+    "open": 2290,
     "total": 241,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 49,
+        "open": 48,
         "n": 7
       },
       "3": {
@@ -47,7 +47,7 @@
       },
       "5": {
         "name": "Taxe şi impozite",
-        "open": 117,
+        "open": 118,
         "n": 93
       },
       "6": {
@@ -72,7 +72,7 @@
       },
       "11": {
         "name": "Parcuri",
-        "open": 60,
+        "open": 61,
         "n": 9
       },
       "12": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 655,
+        "open": 656,
         "n": 2
       },
       "32": {

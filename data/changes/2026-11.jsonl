@@ -4173,3 +4173,7 @@
 {"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276113","field":"status","from":"O","to":"C"}
 {"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276113","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276113","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE."}
+{"at":"2026-11-22T15:00:57.989Z","ticket":"CAS-0276127","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T15:00:57.989Z","ticket":"CAS-0276127","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-22T15:00:57.989Z","ticket":"CAS-0276127","field":"reply","from":"","to":"Nespecificat Registratura - sesizarea se confirma / s-au luat masurile legale impuse in speta ."}
+{"at":"2026-11-22T15:00:57.989Z","ticket":"CAS-0276131","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
