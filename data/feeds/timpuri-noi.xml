@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
-    <title>Trasare parcare · Noua · Timpuri Noi</title>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276179</link>
+    <guid isPermaLink="false">CAS-0276179</guid>
+    <pubDate>Sun, 22 Nov 2026 18:06:44 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276178</link>
+    <guid isPermaLink="false">CAS-0276178</guid>
+    <pubDate>Sun, 22 Nov 2026 18:04:27 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Trasare parcare · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276176</link>
     <guid isPermaLink="false">CAS-0276176</guid>
     <pubDate>Sun, 22 Nov 2026 18:00:53 GMT</pubDate>
@@ -573,34 +589,6 @@ am luat măsurile legale cu privire la autoturismul reclamat.</description>
     <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Autoturismul reclamat nu este în locație. O zi bună.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275296</link>
-    <guid isPermaLink="false">CAS-0275296</guid>
-    <pubDate>Thu, 19 Nov 2026 07:01:33 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Buna ziua
-
-Exista o baliza rutiera ce pare sa fie abandonata pe spatiul verde langa trecerea de pietoni de la intersectia strazii Papazoglu cu strada Foisorului.
-
-Va rog luarea de masuri.
-
-Va multumesc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275257</link>
-    <guid isPermaLink="false">CAS-0275257</guid>
-    <pubDate>Thu, 19 Nov 2026 00:02:10 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autoturismul B827DNA parchează seară de seară la mai puțin de 10 metri de trecerea de deasupra pasajului Mărășești, în fața blocului M25 de pe Bd. Octavian Goga, nr. 6, pe marcajul care indică staționarea interzisă.
-
-Vizibilitatea pietonilor care doresc să treacă dinspre blocul M25 înspre parcarea de deasupra pasajului Mărășești (P5413) este grav obstrucționată.
-
-Atașez poze ca dovadă a contravenției. Acestea au fost făcute în data de 19 noiembrie 2026 la ora 01:20. Solicit aplicarea amenzii contravenționale.
-
-Răspuns: A FOST APLICATA SOMATIE </description>
   </item>
 </channel>
 </rss>

@@ -4247,3 +4247,11 @@
 {"at":"2026-11-22T18:00:56.502Z","ticket":"CAS-0275107","field":"status","from":"O","to":"C"}
 {"at":"2026-11-22T18:00:56.502Z","ticket":"CAS-0275107","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-22T18:00:56.502Z","ticket":"CAS-0275107","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARILOR IN LOCATIE,AUTO IN CAUZA A PARASIT LOCATIA,ASPECTELE SESIZATE NU SE MAI CONFIRMA"}
+{"at":"2026-11-22T18:15:37.782Z","ticket":"CAS-0276175","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-22T18:15:37.782Z","ticket":"CAS-0276176","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-22T18:15:37.782Z","ticket":"CAS-0275259","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T18:15:37.782Z","ticket":"CAS-0275259","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
+{"at":"2026-11-22T18:15:37.782Z","ticket":"CAS-0275259","field":"reply","from":"","to":"Nespecificat Registratura se răspunde la adresa nr. 435422"}
+{"at":"2026-11-22T18:15:37.782Z","ticket":"CAS-0271104","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T18:15:37.782Z","ticket":"CAS-0271104","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată intern"}
+{"at":"2026-11-22T18:15:37.782Z","ticket":"CAS-0271104","field":"reply","from":"","to":"Luat la cunostinta Soluționat! Materiale foto anexate!"}

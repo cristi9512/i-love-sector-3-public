@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-22T18:00:56.502Z",
-  "lastChange": "2026-11-22T18:00:56.502Z",
+  "lastRun": "2026-11-22T18:15:37.782Z",
+  "lastChange": "2026-11-22T18:15:37.782Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2925,
-    "added": 5,
-    "updated": 7,
+    "fetched": 3064,
+    "added": 3,
+    "updated": 4,
     "removed": 0,
-    "changes": 19
+    "changes": 8
   },
   "totals": {
-    "incidents": 46787,
-    "open": 2310,
+    "incidents": 46790,
+    "open": 2311,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-22T18:00:56.502Z",
+    "asOf": "2026-11-22T18:15:37.782Z",
     "days": 30,
-    "open": 2310,
+    "open": 2311,
     "total": 244,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 53,
+        "open": 55,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 201,
+        "open": 200,
         "n": 24
       },
       "5": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 237,
+        "open": 238,
         "n": 23
       },
       "10": {
@@ -87,7 +87,7 @@
       },
       "14": {
         "name": "Toaletare/Tăiere arbori",
-        "open": 169,
+        "open": 168,
         "n": 7
       },
       "15": {
