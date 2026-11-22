@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276137</link>
+    <guid isPermaLink="false">CAS-0276137</guid>
+    <pubDate>Sun, 22 Nov 2026 15:25:36 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276112</link>
     <guid isPermaLink="false">CAS-0276112</guid>
@@ -600,14 +608,6 @@ Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE</descr
     <description>Caine fara stapan in zona Ale Slt Adrian Carstea, Ale Florin Ciungan si imprejurimi. Culoare maroniu roscat.
 
 Răspuns: Nu s-a identificat ``câinele roșcat``.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275314</link>
-    <guid isPermaLink="false">CAS-0275314</guid>
-    <pubDate>Thu, 19 Nov 2026 07:46:56 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autoturisme stationate frecvent neregulamentar care incurca sau blocheaza accesul in si din parcarea platita.</description>
   </item>
 </channel>
 </rss>

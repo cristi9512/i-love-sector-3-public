@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276136</link>
+    <guid isPermaLink="false">CAS-0276136</guid>
+    <pubDate>Sun, 22 Nov 2026 15:20:07 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Auto cu nr NT 40 MIG a parcat pe zona marcata a fi lasata libera, blocand vizibilitatea in intersectie.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276128</link>
     <guid isPermaLink="false">CAS-0276128</guid>
@@ -602,16 +610,6 @@ Vă mulțumesc !</description>
 Răspuns: BUNĂ DIMINEAȚA !
 AUTOTURISMUL PE CARE DUMNEAVOASTRĂ L-ATI RECLAMAT ,
 NU SE AFLĂ PARCAT PE LOC SISTEMATIZAT.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275558</link>
-    <guid isPermaLink="false">CAS-0275558</guid>
-    <pubDate>Fri, 20 Nov 2026 04:57:47 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>In fiecare zi pe acest trotoar recent reabilitat se parchează diferite masini. E trotuar sau marcați corespunzător locuri de parcare?
-
-Răspuns: Sesizarea se confirma, au fost luate masuri legale.</description>
   </item>
 </channel>
 </rss>
