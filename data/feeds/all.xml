@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276079</link>
+    <guid isPermaLink="false">CAS-0276079</guid>
+    <pubDate>Sun, 22 Nov 2026 11:50:18 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Strada este plina ochi de frunze, nu matura nimeni !</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276078</link>
     <guid isPermaLink="false">CAS-0276078</guid>
@@ -15,12 +23,15 @@
 Este drum de acces spre bloc.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276077</link>
     <guid isPermaLink="false">CAS-0276077</guid>
     <pubDate>Sun, 22 Nov 2026 11:24:45 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.
+Vă mulțumim!</description>
   </item>
   <item>
     <title>Ordine și liniște publică · În lucru · Dudeşti</title>
@@ -635,16 +646,6 @@ Răspuns: In urma verificarilor in locatie am constatat ca autoturismul la care 
     <description>b 119 yfc blocheaza calea de acces.
 
 Răspuns: Buna dimineata! A fost dispusa masura de ridicare,calea de acces a fost eliberata.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276019</link>
-    <guid isPermaLink="false">CAS-0276019</guid>
-    <pubDate>Sun, 22 Nov 2026 00:26:46 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara.Am preluat si verificat sesizarea dumneavoastra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat,conform HCLS3 nr 346/2022. Ulterior identificarii proprietarului ,i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
 </channel>
 </rss>

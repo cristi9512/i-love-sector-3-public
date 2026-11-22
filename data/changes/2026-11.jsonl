@@ -4113,3 +4113,6 @@
 {"at":"2026-11-22T11:35:20.931Z","ticket":"CAS-0276075","field":"status","from":"O","to":"C"}
 {"at":"2026-11-22T11:35:20.931Z","ticket":"CAS-0276075","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-22T11:35:20.931Z","ticket":"CAS-0276075","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs a fost preluata si verificata la ora 13:24. Autovehiculul la care faceti referire nu mai ocupa locul de parcare indicat. \nVa multumim. "}
+{"at":"2026-11-22T12:00:57.738Z","ticket":"CAS-0276077","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T12:00:57.738Z","ticket":"CAS-0276077","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-22T12:00:57.738Z","ticket":"CAS-0276077","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dumneavoastră se confirmă, autoturismul în cauză a fost identificat în locație, motiv pentru care am întocmit proces verbal de constatare și aplicat înștiințare, urmând a fi aplicate măsurile legale ce se impun în astfel de situații.\nVă mulțumim!"}
