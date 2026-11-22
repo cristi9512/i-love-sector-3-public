@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276017</link>
+    <guid isPermaLink="false">CAS-0276017</guid>
+    <pubDate>Sun, 22 Nov 2026 00:12:30 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-7, precum și pentru zonele A-3,A-6,A-8,</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276016</link>
     <guid isPermaLink="false">CAS-0276016</guid>
@@ -640,16 +648,6 @@ Răspuns: Buna seara! La fata locului au fost depistate 2 auto stationate neregu
     <pubDate>Sat, 21 Nov 2026 15:14:51 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcare loc nepermis/hasura, blocheaza rampa acces trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275957</link>
-    <guid isPermaLink="false">CAS-0275957</guid>
-    <pubDate>Sat, 21 Nov 2026 15:14:36 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Această mașină blochează de ieri intrarea și ieșirea din curte și de pe strada.Intrarea Argintului 5 .Aceasta străduță este foarte îngustă și este interzisă intrarea cu excepția riveranilor,iar această mașină nu aparține celor de pe strada.Va rog să luați măsurile necesare deoarece și ieri am făcut sesizarea și astăzi la numărul de telefon și nu s-a întâmplat nimic.
-
-Răspuns: Buna seara! La fata locului au fost depistate 2 auto stationate neregulamentar,au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>

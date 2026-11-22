@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276017</link>
+    <guid isPermaLink="false">CAS-0276017</guid>
+    <pubDate>Sun, 22 Nov 2026 00:12:30 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-7, precum și pentru zonele A-3,A-6,A-8,</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276012</link>
     <guid isPermaLink="false">CAS-0276012</guid>
@@ -603,14 +611,6 @@ La momenul efectuarii verificarilor, aspectele sesizate nu se confirma, autoturi
     <pubDate>Thu, 19 Nov 2026 17:15:14 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>acest cetățean blochează accesul în bloc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275474</link>
-    <guid isPermaLink="false">CAS-0275474</guid>
-    <pubDate>Thu, 19 Nov 2026 17:09:15 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>optureaza vizibilitatea la trecea de pietoni.</description>
   </item>
 </channel>
 </rss>

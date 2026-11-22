@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-21T23:45:33.299Z",
-  "lastChange": "2026-11-21T23:45:33.299Z",
+  "lastRun": "2026-11-22T00:15:41.563Z",
+  "lastChange": "2026-11-22T00:15:41.563Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2859,
-    "added": 0,
-    "updated": 2,
+    "fetched": 2902,
+    "added": 1,
+    "updated": 3,
     "removed": 0,
-    "changes": 6
+    "changes": 9
   },
   "totals": {
-    "incidents": 46627,
-    "open": 2216,
+    "incidents": 46628,
+    "open": 2214,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-21T23:45:33.299Z",
+    "asOf": "2026-11-22T00:15:41.563Z",
     "days": 30,
-    "open": 2216,
+    "open": 2214,
     "total": 228,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 41,
+        "open": 42,
         "n": 7
       },
       "3": {
@@ -42,7 +42,7 @@
       },
       "4": {
         "name": "Lucrari edilitare alei/trotuare",
-        "open": 196,
+        "open": 194,
         "n": 20
       },
       "5": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 233,
+        "open": 232,
         "n": 19
       },
       "10": {
