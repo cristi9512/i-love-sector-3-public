@@ -19,6 +19,7 @@ import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { areaOf, slugify, fromBucharest } from '../js/geo.js';
 import { OVERDUE_DAYS } from '../js/outcomes.js';
+import { computeRecurrence } from './recurrence.mjs';
 
 const API = 'https://iloves3.primarie3.ro/CityCareServicii/IncidentRP.aspx';
 const SERVER_CAP = 1500;
@@ -324,6 +325,7 @@ async function main() {
   if (changed) {
     await writeFile(metaFile, JSON.stringify(meta, null, 2) + '\n');
     await writeFeeds(all);
+    await writeRecurrence(all);
   }
 
   console.log(JSON.stringify(meta.lastRunStats));
@@ -361,6 +363,13 @@ ${body}
 </channel>
 </rss>
 `;
+}
+
+async function writeRecurrence(all) {
+  const assets = JSON.parse(await readFile(path.join(ROOT, 'assets', 'sector3.json'), 'utf8'));
+  const rec = computeRecurrence(all, assets.areas);
+  await writeFile(path.join(DATA, 'recurrence.json'), JSON.stringify(rec) + '\n');
+  console.log(`Recurrence: ${rec.totals.places} places, ${rec.totals.recurred}/${rec.totals.resolved} resolved reports followed by a new one`);
 }
 
 async function writeFeeds(all) {
