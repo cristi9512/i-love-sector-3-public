@@ -4100,3 +4100,9 @@
 {"at":"2026-11-22T10:01:04.783Z","ticket":"CAS-0276058","field":"status","from":"O","to":"C"}
 {"at":"2026-11-22T10:01:04.783Z","ticket":"CAS-0276058","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-22T10:01:04.783Z","ticket":"CAS-0276058","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor , deseurile la care se face referire au fost identificate in locatie, nefiind gasite urme sau indicii cu privire la peraoana responsabila.Locatia va ramane in monitorizare in limita timpului disponibil."}
+{"at":"2026-11-22T10:15:45.639Z","ticket":"CAS-0276052","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T10:15:45.639Z","ticket":"CAS-0276052","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T10:15:45.639Z","ticket":"CAS-0276052","field":"reply","from":"","to":"Nespecificat Registratura Sesizarea dvs a fost preluata si verificata la ora 11:45. Autovehiculul reclamat nu mai ocupa locul de parcare indicat. \nVa multumim. "}
+{"at":"2026-11-22T10:15:45.639Z","ticket":"CAS-0276056","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T10:15:45.639Z","ticket":"CAS-0276056","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-22T10:15:45.639Z","ticket":"CAS-0276056","field":"reply","from":"","to":"Nespecificat Registratura LA SOLICITAREA NOASTRA PERSOANELE AU PARASIT LOCATIA."}

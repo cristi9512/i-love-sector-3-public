@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276066</link>
+    <guid isPermaLink="false">CAS-0276066</guid>
+    <pubDate>Sun, 22 Nov 2026 10:11:49 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>GL40WOD parcat neregulamentar în zona hașurată la adresa Nerva Traian nr. 16.</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276063</link>
     <guid isPermaLink="false">CAS-0276063</guid>
@@ -607,16 +615,6 @@ Chiar și gardul a fost strâmbat de cei care parchează.</description>
     <pubDate>Wed, 18 Nov 2026 13:43:02 GMT</pubDate>
     <category>Parcari ocupate</category>
     <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275147</link>
-    <guid isPermaLink="false">CAS-0275147</guid>
-    <pubDate>Wed, 18 Nov 2026 13:42:20 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
   </item>
