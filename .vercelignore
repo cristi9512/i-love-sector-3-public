@@ -1,6 +1,5 @@
 .claude
 .github
-scripts
 README.md
-package.json
 data/changes
+dist
