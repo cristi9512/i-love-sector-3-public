@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Cioplea</title>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276042</link>
+    <guid isPermaLink="false">CAS-0276042</guid>
+    <pubDate>Sun, 22 Nov 2026 07:43:38 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe Drum Gura Fagetului 22, pe raza indicatorului de stationare interzisa, se afla parcate 2 masini: Skoda Octavia neagra si Mitsubishi Colt alb. Deranjeaza atat accesul la easybox/fanbox cand si accesul la parcarea subterana</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276041</link>
     <guid isPermaLink="false">CAS-0276041</guid>
     <pubDate>Sun, 22 Nov 2026 07:29:13 GMT</pubDate>
@@ -642,16 +650,6 @@ Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 21:27, însă
 autoturismul în cauză nu a mai fost identificat în locație.
 Vă mulțumim!
 </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275982</link>
-    <guid isPermaLink="false">CAS-0275982</guid>
-    <pubDate>Sat, 21 Nov 2026 16:51:03 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul 1........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara! Va multumim pentru sesizare.Verificarile în teren se vor realiza în termenul legal,în limita capacitatii tehnice,logistice si umane a Serviciului Circulatie.</description>
   </item>
 </channel>
 </rss>

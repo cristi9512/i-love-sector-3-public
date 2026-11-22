@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276042</link>
+    <guid isPermaLink="false">CAS-0276042</guid>
+    <pubDate>Sun, 22 Nov 2026 07:43:38 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Pe Drum Gura Fagetului 22, pe raza indicatorului de stationare interzisa, se afla parcate 2 masini: Skoda Octavia neagra si Mitsubishi Colt alb. Deranjeaza atat accesul la easybox/fanbox cand si accesul la parcarea subterana</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276011</link>
     <guid isPermaLink="false">CAS-0276011</guid>
@@ -631,16 +639,6 @@ Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A F
     <pubDate>Thu, 19 Nov 2026 20:18:00 GMT</pubDate>
     <category>Altele</category>
     <description>Pe bdul 1 Decembrie 1918 nr 33, in fata la Penny Market si Mc Donald&apos;s nu functioneaza iluminatul stradal. Va rugam remediati de urgenta. Este bezna totala.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275519</link>
-    <guid isPermaLink="false">CAS-0275519</guid>
-    <pubDate>Thu, 19 Nov 2026 19:22:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 ! Deține autorizație nenominala de parcare pentru  zona C-6, precum și pentru zonele B-15,C-5,C-7,D-3,
-
-Răspuns: Sesizarea dumneavoastră a fost preluată la ora 21.30 în urma verificării constatându-se faptul că autovehiculul cu numarul B 770 WRO detine autorizatie nenominala de parcare pentru zona C-6, precum si pentru zonele B-15,C-5,C-7,D-3.</description>
   </item>
 </channel>
 </rss>
