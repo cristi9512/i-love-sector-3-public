@@ -6,6 +6,17 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276061</link>
+    <guid isPermaLink="false">CAS-0276061</guid>
+    <pubDate>Sun, 22 Nov 2026 09:22:35 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>buna ziua
+va rugam sa ne ajutati cu taierea/toaletarea copacului de pe strada fetesti nr 5 bloc h27, scara b.
+saptamana trecuta a mai fost un incident cu un copac dărâmat de vant, unde agramat si resturile din imagine.
+o zi buna</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276060</link>
     <guid isPermaLink="false">CAS-0276060</guid>
@@ -253,12 +264,14 @@ Comunicarea unui calendar</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Traian</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276038</link>
     <guid isPermaLink="false">CAS-0276038</guid>
     <pubDate>Sun, 22 Nov 2026 07:13:42 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: In urma verificarilor efectuate in locatie, am identificat conducatorul auto care a fost sanctionat in baza prevederilor legale</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
@@ -657,16 +670,6 @@ Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care face
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: NU SE POT LUA MASURI DIN CAUZA MARCAJULUI  ILIZIBI</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276001</link>
-    <guid isPermaLink="false">CAS-0276001</guid>
-    <pubDate>Sat, 21 Nov 2026 18:58:13 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașina parcata neregulamentar
-
-Răspuns: Buna seara! Va multumim pentru sesizare.Verificarile în teren se vor realiza în termenul legal,în limita capacitatii tehnice,logistice si umane a Serviciului Circulatie.</description>
   </item>
 </channel>
 </rss>
