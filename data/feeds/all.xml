@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276180</link>
+    <guid isPermaLink="false">CAS-0276180</guid>
+    <pubDate>Sun, 22 Nov 2026 18:20:52 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Am parcat masina pe locul nr.41 pe Aleea Patulului, de vineri pe data de 20.11.2024 dupa ora 22:00 pana Duminica 22.11.2026 pana la ora 20:00, găsind masina zgariata pe bara spate-stanga si doresc o vizionare a camerelor 360 amplasate pe blocurile din zona pentru a identifica persoana care a zgariat masina, deoarece nu este prima abatere, aceasta persoana a zgariat masina prietenei mele in acelasi loc de parcare si aceeasi pozitie. Daca nu este corecta aceasta sesizare, va rog sa ma indrumati catre serviciul care ma poate ajuta. Prima poza atasata este masina mea, zgariata intre datele mentionate mai sus. A doua este a prietenei mele. Multumesc</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276179</link>
     <guid isPermaLink="false">CAS-0276179</guid>
@@ -62,12 +70,14 @@
     <description>stationare regulamentara. obtursre intrare scara. va rog, luati masuri</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276172</link>
     <guid isPermaLink="false">CAS-0276172</guid>
     <pubDate>Sun, 22 Nov 2026 17:47:04 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AJUNSI LA FATA LOCULUI SESIZAREA  SE CONFIRMA , AUTO CE FACEA OBIECTUL SESIZARI  ESTE IN LOCATIE,S-A INTOCMIT DOCUMENTATIE CONFORM HCLS3 346/2022</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
@@ -764,14 +774,6 @@ Mulțumesc!</description>
     <pubDate>Sun, 22 Nov 2026 14:07:41 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Autoturismul din imagine blochează intrarea în parc.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276120</link>
-    <guid isPermaLink="false">CAS-0276120</guid>
-    <pubDate>Sun, 22 Nov 2026 14:07:10 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Grafitti / insemne si desene stradale neuatorizate pe Aleea Fuiorului 6, in fata Scarii 2 a Blocului Y3A.</description>
   </item>
 </channel>
 </rss>
