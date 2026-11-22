@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276120</link>
+    <guid isPermaLink="false">CAS-0276120</guid>
+    <pubDate>Sun, 22 Nov 2026 14:07:10 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Grafitti / insemne si desene stradale neuatorizate pe Aleea Fuiorului 6, in fata Scarii 2 a Blocului Y3A.</description>
+  </item>
+  <item>
     <title>Terenuri insalubre · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276111</link>
     <guid isPermaLink="false">CAS-0276111</guid>
@@ -543,12 +551,14 @@ Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavostra. S-a intoc
 Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavostra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat conform HCLS3 nr 346/2022. Ulterior identificarii proprietarului i se va aplica sanctiunea prevazuta de actul normativ.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
+    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275543</link>
     <guid isPermaLink="false">CAS-0275543</guid>
     <pubDate>Thu, 19 Nov 2026 21:26:09 GMT</pubDate>
     <category>Stationare neregulamentara</category>
-    <description>masina parcata neregulamentar pe trotuar, impiedica vizibilitatea la trecerea de pietoni</description>
+    <description>masina parcata neregulamentar pe trotuar, impiedica vizibilitatea la trecerea de pietoni
+
+Răspuns: LA MOMENTUL VERIFICARILOR IN LOCATIE,AUTO IN CAUZA NU A FOST DEPISTAT</description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Sălăjan</title>
@@ -573,14 +583,6 @@ Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavostra. S-a intoc
     <pubDate>Thu, 19 Nov 2026 18:04:18 GMT</pubDate>
     <category>Altele</category>
     <description>ne spuneti si noua cum putem circula pe trotuar cand cei de la spalatoria de pe grigorescu isi curata locurile de spalat stropid si aruncand toata mizeria spre trotuar si strada?</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275492</link>
-    <guid isPermaLink="false">CAS-0275492</guid>
-    <pubDate>Thu, 19 Nov 2026 18:00:07 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>b122pob a intrat pe trotuarul de pe bd. pallady in jurul orei 18.40-19.00, venind pe gangul dintre blocurile M2 si M2A. dupa ce am sunat la politie, a plecat tot pe acolo. luati masuri si blocati accesul masinilor pe acest trotuar.</description>
   </item>
 </channel>
 </rss>

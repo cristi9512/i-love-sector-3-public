@@ -4152,3 +4152,10 @@
 {"at":"2026-11-22T14:00:56.626Z","ticket":"CAS-0276088","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-22T14:00:56.626Z","ticket":"CAS-0276088","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE."}
 {"at":"2026-11-22T14:00:56.626Z","ticket":"CAS-0276112","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-22T14:15:45.983Z","ticket":"CAS-0276086","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T14:15:45.983Z","ticket":"CAS-0276086","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T14:15:45.983Z","ticket":"CAS-0276086","field":"reply","from":"","to":"Nespecificat Registratura - sesizarea nu se confirma . Locatia surprinsa n foto transmis de catre petent nu corespunde adresei furnizate de catre aceste ."}
+{"at":"2026-11-22T14:15:45.983Z","ticket":"CAS-0276116","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-22T14:15:45.983Z","ticket":"CAS-0275543","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T14:15:45.983Z","ticket":"CAS-0275543","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T14:15:45.983Z","ticket":"CAS-0275543","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARILOR IN LOCATIE,AUTO IN CAUZA NU A FOST DEPISTAT"}
