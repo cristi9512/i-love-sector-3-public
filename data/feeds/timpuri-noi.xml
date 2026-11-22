@@ -6,6 +6,16 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276063</link>
+    <guid isPermaLink="false">CAS-0276063</guid>
+    <pubDate>Sun, 22 Nov 2026 09:38:31 GMT</pubDate>
+    <category>Străzi</category>
+    <description>În spatele blocului B5, str. lt. col. Dumitru Papazoglu nr 1, din caza ca asfaltul nu are panta corespunzătoare, intr-o zona balteste apa. 
+Va rugam sa ne ajutați astfel jucat sa nu se mai formeze aceasta balta aici.
+Mulțumim.</description>
+  </item>
+  <item>
     <title>Reabilitare blocuri · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276047</link>
     <guid isPermaLink="false">CAS-0276047</guid>
@@ -609,15 +619,6 @@ Răspuns: AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTU
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AUTO LA CARE SE FACE REFERIRE NU A FOST DEPISTAT IN LOCATIE LA MOMENTUL VERIFICARII.</description>
-  </item>
-  <item>
-    <title>Terenuri insalubre · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275138</link>
-    <guid isPermaLink="false">CAS-0275138</guid>
-    <pubDate>Wed, 18 Nov 2026 11:48:31 GMT</pubDate>
-    <category>Terenuri insalubre</category>
-    <description>Buna ziua!
-Va semnalez urmatoarea situatie , in repetate randuri in spatele blocului M63 scara 1 din Octavian Goga nr 22 , la spatiul comercial Froo, spatiul pentru gunoi este vandalizat . Am luat legatura cu persoana care se ocupa de spatiu si desi inchide cu cheie acel loc mereu se sparge si se imprastie gunoiul . Va rugam sa ne ajutati in acest sens . Va multumim</description>
   </item>
 </channel>
 </rss>
