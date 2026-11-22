@@ -6,6 +6,43 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276026</link>
+    <guid isPermaLink="false">CAS-0276026</guid>
+    <pubDate>Sun, 22 Nov 2026 05:13:42 GMT</pubDate>
+    <category>Altele</category>
+    <description>Bună ziua,
+
+Am 73 de ani și mă confrunt cu probleme de sănătate care m-au determinat să iau decizia dificilă de a-mi vinde autoturismul.
+
+Cu această ocazie, am constatat că, deși sunt un contribuabil bun platnic și nu am datorii la bugetul local, obținerea unui certificat de atestare fiscală care să confirme acest lucru nu se poate realiza în aceeași zi.
+
+Consider că această procedură ar trebui simplificată. Nu mi se pare normal ca, în anul 2026, situația fiscală a unui contribuabil să nu poată fi verificată în câteva minute, pe baza CNP-ului, iar certificatul care atestă lipsa datoriilor să nu poată fi eliberat în aceeași zi.
+
+Menționez că, din cauza stării mele de sănătate, deplasarea la sediul instituției reprezintă un efort considerabil. Am luat în calcul inclusiv posibilitatea de a face o procură fiicei mele pentru a mă reprezenta, însă mă întreb dacă este firesc ca aceasta să fie nevoită să se învoiască de la serviciu patru zile pentru a rezolva o problemă administrativă atât de simplă.
+
+Vă rog să analizați această situație și să îmi comunicați:
+
+1. Care este motivul pentru care certificatul fiscal nu poate fi eliberat în aceeași zi?
+2. De ce nu există o procedură simplificată pentru persoanele în vârstă sau cu probleme de sănătate?
+3. De ce nu poate fi verificată situația fiscală în baza CNP-ului și eliberat documentul pe loc sau transmis în format electronic?
+4. Ce soluții există pentru contribuabilii care nu se pot deplasa cu ușurință la sediul instituției?
+
+Nu solicit un tratament preferențial, ci o procedură administrativă eficientă, accesibilă și adaptată nevoilor cetățenilor.
+
+Consider că instituțiile publice trebuie să faciliteze rezolvarea problemelor contribuabililor, nu să le transforme în drumuri repetate și zile pierdute de la serviciu pentru aparținători.
+
+Aștept un răspuns și, mai ales, o analiză a posibilității de simplificare a acestei proceduri.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276025</link>
+    <guid isPermaLink="false">CAS-0276025</guid>
+    <pubDate>Sun, 22 Nov 2026 05:11:28 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276024</link>
     <guid isPermaLink="false">CAS-0276024</guid>
@@ -14,12 +51,14 @@
     <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Brățării</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Brățării</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276023</link>
     <guid isPermaLink="false">CAS-0276023</guid>
     <pubDate>Sun, 22 Nov 2026 04:24:29 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: SESIZAREA DUMNEAVOASTRA SE CONFIRMA, AM INCHEIAT DOCUMENTATIA SPECIFICA IN VEDEREA SANCTIONARII PERSOANEI RESPONSABILA.</description>
   </item>
   <item>
     <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
@@ -631,22 +670,6 @@ Vă rog să luați măsurile legale care se impun, amenzi sau treceți la ridica
     <pubDate>Sat, 21 Nov 2026 15:51:49 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>pe trotuar</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275966</link>
-    <guid isPermaLink="false">CAS-0275966</guid>
-    <pubDate>Sat, 21 Nov 2026 15:43:04 GMT</pubDate>
-    <category>Străzi</category>
-    <description>v-am mai sesizat aceste gropi de pe bd. grigorescu, dar nu s-au reparat.</description>
-  </item>
-  <item>
-    <title>Mediu/Calitatea Aerului · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275965</link>
-    <guid isPermaLink="false">CAS-0275965</guid>
-    <pubDate>Sat, 21 Nov 2026 15:41:41 GMT</pubDate>
-    <category>Mediu/Calitatea Aerului</category>
-    <description>m-am gandit sa aveti si pozele astea in colectia voastra, ca stiu ca nu veti face ceva.</description>
   </item>
 </channel>
 </rss>
