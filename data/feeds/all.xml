@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcuri · Noua · Sălăjan</title>
+    <title>Spații verzi · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276068</link>
+    <guid isPermaLink="false">CAS-0276068</guid>
+    <pubDate>Sun, 22 Nov 2026 10:27:42 GMT</pubDate>
+    <category>Spații verzi</category>
+    <description>poarta de la locul de joaca pentru copii nu se poate inchide cu zavorul</description>
+  </item>
+  <item>
+    <title>Parcuri · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276067</link>
     <guid isPermaLink="false">CAS-0276067</guid>
     <pubDate>Sun, 22 Nov 2026 10:15:21 GMT</pubDate>
@@ -670,16 +678,6 @@ Locatarii imobilului – Aleea Postăvarul nr. 5, bl. C5, sc. 4</description>
     <pubDate>Sat, 21 Nov 2026 20:14:36 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>Astazi, 21.11.2026, in intervalul 11:00-19:00 au aparut langa pubela de gunoi de la intersectia Patrascu Voda cu Selimbar sacii cu gunoi din poza. Gunoiul di pubela a fost ridicat corect de catre lucratorii de la salubritate in jurul orei 9:30, iar sacii au aparut ulterior. Numarul lor si cantitatea de gunoi, plus faptul ca au fost depozitati langa pubela care este goala dupa cum se vede si in poza, denota un comporrtament rauvoitor si recurent. Va rugam sa deprindeti actiunile legale necesare pentru identificarea faptasilor si sa puneti in aplicare sanctiunile corespunzatoare cumulate atat pentru protectia mediului cat si comform OUG 92/2021. Va putem firniza inregistrari de pe camerele de supraveghere ale imobilului, dar puteti solicita deopotriva si de la imobilele alaturate care au vedere direct la pubela. Multumesc!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276008</link>
-    <guid isPermaLink="false">CAS-0276008</guid>
-    <pubDate>Sat, 21 Nov 2026 19:40:56 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Sesizarea dumneavoastră a fost verificată, autoturismul la care faceți referire fiind depistat la fața locului.  fost întocmit proces verbaal de constatare și aplicată înștiințare, urmând să fie sancționat proprietarul/conducătorul auto.</description>
   </item>
 </channel>
 </rss>
