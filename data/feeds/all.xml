@@ -6,6 +6,33 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276195</link>
+    <guid isPermaLink="false">CAS-0276195</guid>
+    <pubDate>Sun, 22 Nov 2026 19:39:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul A........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Gurilor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276194</link>
+    <guid isPermaLink="false">CAS-0276194</guid>
+    <pubDate>Sun, 22 Nov 2026 19:34:57 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Bună seara,
+
+Gunoiul nu a fost ridicat. Se poate face ceva în acest sens? Poate să vină zilnic? Cele 2 ghene îngropate deservesc mai multor blocuri și mereu sunt pline. 
+Vă rugăm să aplicați măsurile necesare pentru ca mașinile să nu mai parcheze lângă ghene și gunoiul să poată fi ridicat.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276193</link>
+    <guid isPermaLink="false">CAS-0276193</guid>
+    <pubDate>Sun, 22 Nov 2026 19:32:04 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276192</link>
     <guid isPermaLink="false">CAS-0276192</guid>
@@ -615,33 +642,6 @@ Răspuns: NU SE POT LUA MASURI DIN CAUZA MARCAJULUI  ILIZIBI</description>
     <pubDate>Sun, 22 Nov 2026 15:20:07 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Auto cu nr NT 40 MIG a parcat pe zona marcata a fi lasata libera, blocand vizibilitatea in intersectie.</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276135</link>
-    <guid isPermaLink="false">CAS-0276135</guid>
-    <pubDate>Sun, 22 Nov 2026 15:13:17 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Vecinul costel de la
-Nr 2 apartament 1, iar a depozitat gunoaie la coltul strazii
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE LA FATA LOCULUI NU S-A PUTUT STABILI PERSOAN RESPONSABILA CU DEPOZITAREA DESEURILOR.</description>
-  </item>
-  <item>
-    <title>Parcuri · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276134</link>
-    <guid isPermaLink="false">CAS-0276134</guid>
-    <pubDate>Sun, 22 Nov 2026 14:59:03 GMT</pubDate>
-    <category>Parcuri</category>
-    <description>bună seara!joc baschet in IOR spre liceul Dante( spre administrația parcului). va mulțumim pentru ca ne ati refăcut terenul de baschet, dar mai este o mica problema. va rugam sa toaletări copacii din jurul terenului( doar crengile care întra spre teren) ,datorita faptului ca atunci cand aruncam la cos, atingem cu mingia crengile și o deviază. doar cei de pe margine. unul din lateral dreapta, și cei trei din spatele inelului (cum stați în teren cu fata spre administrația parcului) mulțumim frumos</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276133</link>
-    <guid isPermaLink="false">CAS-0276133</guid>
-    <pubDate>Sun, 22 Nov 2026 14:48:29 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Stationare pe trotuar.</description>
   </item>
 </channel>
 </rss>
