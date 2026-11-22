@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Altele · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276160</link>
+    <guid isPermaLink="false">CAS-0276160</guid>
+    <pubDate>Sun, 22 Nov 2026 17:04:28 GMT</pubDate>
+    <category>Altele</category>
+    <description>Iluminat stradal nefunctional camil ressu 39</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276159</link>
+    <guid isPermaLink="false">CAS-0276159</guid>
+    <pubDate>Sun, 22 Nov 2026 17:01:08 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Lucrari edilitare alei/trotuare · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276158</link>
     <guid isPermaLink="false">CAS-0276158</guid>
@@ -701,26 +717,6 @@ In alveola mai mereu e parcata o masina, politia locala nu face nimic in privint
     <description>spatiul verde interzis accesul cu animale de companie.
 
 Răspuns: A FOST VERIFICATA ZONA INDICATA  IN SESIZARE SI NU AM OBSERVAT ANIMALE DE COMPANIE PREZENTE PE SPATIILE VERZI AFERENTE . ZONA A FOST MONITORIZATA CIRCA 10 MINUTE SI VA RAMANE IN ATENTIA ECHIPAJELOR DE POLITIE LOCALA </description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276100</link>
-    <guid isPermaLink="false">CAS-0276100</guid>
-    <pubDate>Sun, 22 Nov 2026 13:11:44 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>De cand ati pus gunoaiele afara, stau toti boschetarii aici, cauta in gunoaie, lasa mizerie, si vin si stau la scara blocului. In fiecare zi, non stop, stau sa ma cert cu boschetarii ca nu pot intra in bloc de ei. Se drogheaza, lasa acele aici, si nu faceti nimic. Puneti ceva la gunoaie, gard, access cu cod sa nu poti intra fara, ceva, ca sa nu mai vina sa caute in gunoi, si patrulati cu politia sa nu mai se drogheze, sa lase mizerie la scara la intrare. E periculos si nu va ocupati deloc. Astept sa imi ziceti pasi concreti pt asta, nu doar raspunsuri generice, si dupa aceea imi fac si programare la Primar, ca asa e in tot sectorul 3. Stau pe Aurel Botea 1A, si la intrare din spate (unde parcam masinile) sunt mereu boschetari, mizerie, droguri, si cand sun la politie nu mi raspunde nimeni. Rezolvati va rog problema cu cautatul in gunoaie, ca nu e normal sa traim in jeg si frica. Am atasat o singura poza, dar am multe.
-
-Răspuns: IN URMA VERIFICARILOR AU FOST IDENTIFICATE DOUA PERSOANE UNDE LI S-A ADUS LA CUNOSTINTA PREVEDERILE LEGALE IN VIGOARE .</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276099</link>
-    <guid isPermaLink="false">CAS-0276099</guid>
-    <pubDate>Sun, 22 Nov 2026 13:08:36 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
   </item>
 </channel>
 </rss>
