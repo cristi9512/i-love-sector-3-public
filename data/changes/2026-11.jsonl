@@ -4225,3 +4225,6 @@
 {"at":"2026-11-22T17:01:00.391Z","ticket":"CAS-0276143","field":"status","from":"O","to":"C"}
 {"at":"2026-11-22T17:01:00.391Z","ticket":"CAS-0276143","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-22T17:01:00.391Z","ticket":"CAS-0276143","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE."}
+{"at":"2026-11-22T17:45:41.966Z","ticket":"CAS-0276060","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T17:45:41.966Z","ticket":"CAS-0276060","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-22T17:45:41.966Z","ticket":"CAS-0276060","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARILOR IN LOCATIE,SESIZAREA SE CONFIRMA,AU FOST EFECTUATE PLANSE FOTO IN VEDEREA IDENTIFICARII SI SANCTIONARII CONDUCATORILOR AUTO CE INCALCA PREVEDERILE LEGALE OUG 195/2002."}

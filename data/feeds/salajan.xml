@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276171</link>
+    <guid isPermaLink="false">CAS-0276171</guid>
+    <pubDate>Sun, 22 Nov 2026 17:44:16 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 41</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276170</link>
+    <guid isPermaLink="false">CAS-0276170</guid>
+    <pubDate>Sun, 22 Nov 2026 17:40:19 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul C........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276153</link>
     <guid isPermaLink="false">CAS-0276153</guid>
@@ -566,24 +582,6 @@ Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavostra. S-a intoc
     <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
 
 Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavostra. S-a intocmit proces verbal de constatare si aplicat instiintare in parbrizul autovehiculului reclamat conform HCLS3 nr 346/2022. Ulterior identificarii proprietarului i se va aplica sanctiunea prevazuta de actul normativ.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Nefavorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275543</link>
-    <guid isPermaLink="false">CAS-0275543</guid>
-    <pubDate>Thu, 19 Nov 2026 21:26:09 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masina parcata neregulamentar pe trotuar, impiedica vizibilitatea la trecerea de pietoni
-
-Răspuns: LA MOMENTUL VERIFICARILOR IN LOCATIE,AUTO IN CAUZA NU A FOST DEPISTAT</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275528</link>
-    <guid isPermaLink="false">CAS-0275528</guid>
-    <pubDate>Thu, 19 Nov 2026 19:45:43 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună ziua. Vă rog să ridicați mașina staționată ilegal în fața scării. Este zona de acțiune a indicatorului staționare interzisă. Imi blochează ieșirea din parcare. Mulțumesc</description>
   </item>
 </channel>
 </rss>
