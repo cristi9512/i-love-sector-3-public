@@ -646,3 +646,55 @@ a.brand { color: inherit; text-decoration: none; }
   .viz-card { break-inside: avoid; border-color: #bbb; }
   .report-table th { position: static; }
 }
+
+/* ================= category pins (design review: ?pins=a|b|c) ================= */
+.card-top .card-cat { flex: 1; min-width: 0; }
+[data-pins="a"] .card-top, [data-pins="b"] .card-top, [data-pins="c"] .card-top { align-items: center; }
+
+/* A · Bulină: status-coloured disc, white icon */
+.pin-a { width: 26px; height: 26px; border-radius: 50%; display: grid; place-items: center; background: var(--status-color); color: var(--ink);
+  border: 2px solid #fff; box-shadow: 0 1px 4px rgba(0, 0, 0, .4); transition: transform .12s; }
+.pin-a.active { transform: scale(1.35); box-shadow: 0 0 0 4px color-mix(in srgb, var(--status-color) 40%, transparent), 0 1px 4px rgba(0, 0, 0, .4); }
+.pin-a.removed { opacity: .6; border-style: dashed; }
+.li-a { flex: none; width: 22px; height: 22px; border-radius: 50%; display: grid; place-items: center; background: var(--status-color); color: var(--ink); }
+
+/* B · Pin: teardrop in the status colour, icon in its head */
+.pin-b { position: relative; width: 30px; height: 38px; color: var(--ink); filter: drop-shadow(0 1.5px 2px rgba(0, 0, 0, .45)); transform-origin: 50% 100%; transition: transform .12s; }
+.pin-b-shape { position: absolute; inset: 0; width: 30px; height: 38px; }
+.pin-b-shape path { fill: var(--status-color); stroke: #fff; stroke-width: 2; }
+.pin-b > svg:last-child { position: absolute; left: 7.5px; top: 7px; }
+.pin-b.active { transform: scale(1.3); }
+.pin-b.removed { opacity: .6; }
+.li-b { flex: none; width: 22px; height: 22px; border-radius: 50% 50% 50% 0; transform: rotate(-45deg); display: grid; place-items: center;
+  background: var(--status-color); color: var(--ink); }
+.li-b svg { transform: rotate(45deg); }
+
+/* C · Etichetă: neutral tile, dark icon, small status dot */
+.pin-c { position: relative; width: 28px; height: 28px; border-radius: 7px; display: grid; place-items: center; background: #fff; color: #1d2125;
+  border: 1.5px solid #1d2125; box-shadow: 0 1px 3px rgba(0, 0, 0, .35); transition: transform .12s; }
+.pin-c i, .li-c i { position: absolute; top: -4px; right: -4px; width: 11px; height: 11px; border-radius: 50%; background: var(--status-color); border: 2px solid #fff; }
+.pin-c.active { transform: scale(1.3); outline: 3px solid color-mix(in srgb, var(--status-color) 55%, transparent); }
+.pin-c.removed { opacity: .6; border-style: dashed; }
+.li-c { position: relative; flex: none; width: 24px; height: 24px; border-radius: 6px; display: grid; place-items: center; background: var(--surface); color: var(--text); border: 1px solid var(--text); }
+.li-c i { width: 10px; height: 10px; border-color: var(--surface); }
+.dark .pin-c { background: #e6e8eb; color: #111315; border-color: #111315; }
+.dark .pin-c i { border-color: #111315; }
+.cluster-c { display: flex; flex-direction: column; align-items: stretch; justify-content: center; gap: 3px; padding: 0 5px; border-radius: 7px;
+  background: #1d2125; color: #fff; border: 2px solid #fff; box-shadow: 0 1px 3px rgba(0, 0, 0, .4); font: 500 12px var(--mono); text-align: center; }
+.cluster-c b { font-weight: 600; line-height: 1; }
+.cluster-c-bar { display: flex; height: 5px; border-radius: 2px; overflow: hidden; gap: 1px; background: #1d2125; }
+.dark .cluster-c { background: #e6e8eb; color: #111315; border-color: #111315; }
+
+/* icon legend on the map */
+.legend-ic { position: relative; }
+.legend-ic > button { border: 0; background: none; padding: 0; font: inherit; color: var(--accent); text-decoration: underline; cursor: pointer; }
+.legend-ic-panel { position: absolute; bottom: calc(100% + 10px); left: -12px; width: 260px; max-height: 50vh; overflow: auto; background: var(--surface);
+  border: 1px solid var(--border); border-radius: 6px; box-shadow: var(--shadow-lg); padding: 6px 10px; display: grid; gap: 2px; }
+.legend-ic-panel span { display: flex; align-items: center; gap: 8px; font-size: 12.5px; padding: 3px 0; }
+.legend-ic-panel svg { flex: none; color: var(--text); }
+/* design-review switcher bar */
+.skin-bar { display: flex; flex-wrap: wrap; gap: 4px 14px; align-items: center; justify-content: space-between; padding: 6px 16px; background: #fff3bf; color: #3d3000; font: 500 12.5px/1.4 system-ui, -apple-system, sans-serif; border-bottom: 1px solid #e6d690; }
+.skin-bar span { display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.skin-bar a { color: inherit; }
+.skin-bar a[aria-current] { font-weight: 700; text-decoration: none; }
+.dark .skin-bar { background: #3a3204; color: #fff3bf; border-color: #5a4d0a; }

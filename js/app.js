@@ -3,6 +3,7 @@ import { loadMeta, getMeta, loadRange, fetchTicket, fromLive, todayKey, toDayKey
 import { areaOf, distanceM, insidePolygon, fromBucharest } from './geo.js';
 import { ic } from './icons.js';
 import { isParking, outcomeKind, OVERDUE_DAYS } from './outcomes.js';
+import { STYLE as PIN_STYLE, pinOptions, listIcon, clusterHTML, LEGEND as ICON_LEGEND, legendIcon } from './pins.js';
 
 const OFFICIAL = 'https://iloves3.primarie3.ro/citycareweb/';
 const REPO = 'https://github.com/cristi9512/i-love-sector-3-public';
@@ -281,6 +282,7 @@ function renderAll(skeleton = false) {
   renderAreaSelect();
   renderList(skeleton);
   renderMap();
+  renderIconLegend();
   if (state.tab === 'insights') renderInsightsTab();
   if (state.tab === 'report') renderReportTab();
 }
@@ -403,7 +405,7 @@ function previewText(s) {
 function cardHTML(it, toks) {
   const desc = it.desc ? highlight(previewText(it.desc), toks) : esc(t('noDesc'));
   return `<article class="card${state.selected === it.id ? ' active' : ''}${it.removed ? ' removed' : ''}" data-id="${esc(it.id)}" style="--status-color:var(--c-${it.status})" tabindex="0">
-    <div class="card-top"><span class="card-cat">${highlight(catLabel(it), toks)}</span>
+    <div class="card-top">${listIcon(it)}<span class="card-cat">${highlight(catLabel(it), toks)}</span>
       <time class="card-time" title="${esc(dtf().format(it.created))}">${relTime(it.created)}</time></div>
     <p class="card-desc${it.desc ? '' : ' empty'}">${desc}</p>
     ${it.reply ? `<div class="card-reply"><b>${t('reply')}:</b> ${highlight(it.reply.text, toks)}</div>` : ''}
@@ -507,8 +509,26 @@ function renderThemeBtn() {
   btn.setAttribute('aria-label', label);
 }
 
+/** Icon legend next to the status legend (only when category pins are on). */
+function renderIconLegend() {
+  if (PIN_STYLE === 'none') return;
+  let wrap = document.querySelector('.legend-ic');
+  if (!wrap) {
+    wrap = document.createElement('span');
+    wrap.className = 'legend-ic';
+    document.querySelector('.legend').append(wrap);
+    wrap.addEventListener('click', (e) => {
+      if (e.target.closest('button')) wrap.querySelector('.legend-ic-panel').hidden ^= true;
+    });
+  }
+  const en = getLang() === 'en';
+  const open = wrap.querySelector('.legend-ic-panel') && !wrap.querySelector('.legend-ic-panel').hidden;
+  wrap.innerHTML = `<button type="button">${en ? 'Icons' : 'Iconițe'}</button><div class="legend-ic-panel"${open ? '' : ' hidden'}>${ICON_LEGEND.map(([k, ro, enl]) => `<span>${legendIcon(k)}${en ? enl : ro}</span>`).join('')}</div>`;
+}
+
 function initMap() {
   map = L.map('map', { zoomControl: true, maxZoom: 19 }).setView(CENTER, 13);
+  if (PIN_STYLE !== 'none') window.__pinsMap = map; // design review only
   tileLayer().addTo(map);
   if (state.assets?.boundary) {
     const b = boundaryLayer().addTo(map);
@@ -526,11 +546,12 @@ function initMap() {
     }
   }
   cluster = L.markerClusterGroup({
-    chunkedLoading: true, showCoverageOnHover: false, maxClusterRadius: 45, spiderfyOnMaxZoom: true,
+    chunkedLoading: true, showCoverageOnHover: false,
+    // group less once you are at street level, so category icons show sooner
+    maxClusterRadius: (z) => (z >= 16 ? 22 : z >= 15 ? 32 : 45), spiderfyOnMaxZoom: true,
     iconCreateFunction: (c) => {
-      const n = c.getChildCount();
-      const size = n < 10 ? 34 : n < 100 ? 40 : 48;
-      return L.divIcon({ html: `<div class="marker-cluster-custom" style="width:${size}px;height:${size}px">${n}</div>`, className: '', iconSize: [size, size] });
+      const { html, size, h } = clusterHTML(c, (mk) => mk._status);
+      return L.divIcon({ html, className: '', iconSize: [size, h || size] });
     },
   });
   map.addLayer(cluster);
@@ -544,10 +565,7 @@ function initMap() {
 }
 
 function pinIcon(it, active) {
-  return L.divIcon({
-    className: '', iconSize: [16, 16], iconAnchor: [8, 8], popupAnchor: [0, -8],
-    html: `<div class="pin${active ? ' active' : ''}${it.removed ? ' removed' : ''}" style="--status-color:var(--c-${it.status})"></div>`,
-  });
+  return L.divIcon(pinOptions(it, active));
 }
 
 function popupHTML(it) {
