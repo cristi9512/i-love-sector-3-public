@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Trapezului</title>
+    <title>Spații Comerciale · Noua · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276228</link>
+    <guid isPermaLink="false">CAS-0276228</guid>
+    <pubDate>Sun, 22 Nov 2026 23:45:32 GMT</pubDate>
+    <category>Spații Comerciale</category>
+    <description>se fumează înăuntru ,de 2 h</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276227</link>
     <guid isPermaLink="false">CAS-0276227</guid>
     <pubDate>Sun, 22 Nov 2026 23:29:35 GMT</pubDate>
@@ -133,28 +141,34 @@ Este foarte deranjant
 Răspuns: CA URMARE A SESIZARII DUMNEAVOASTRA, AU FOST EFECTUATE VERIFICARI IN TEREN,PRIN PATRULAREA SI MONITORIZAREA ZONEI INDICATE . IN URMA VERIFICARILOR EFECTUATE, LA MOMENTUL CONTROLULUI, NU AU FOST CONSTATATE FAPTELE SEMNALATE. LOCATIA VA RAMANE IN ATENTIA POLITISTILOR LOCALI DIN CADRUL DIRECTIEI  ORDINE PUBLICA SI CONTROL.VA MULTUMIM!</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276214</link>
     <guid isPermaLink="false">CAS-0276214</guid>
     <pubDate>Sun, 22 Nov 2026 20:50:59 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276213</link>
     <guid isPermaLink="false">CAS-0276213</guid>
     <pubDate>Sun, 22 Nov 2026 20:50:11 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276212</link>
     <guid isPermaLink="false">CAS-0276212</guid>
     <pubDate>Sun, 22 Nov 2026 20:49:39 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</description>
   </item>
   <item>
     <title>Ordine și liniște publică · Rezolvată Favorabil · Traian</title>
@@ -627,16 +641,6 @@ Locuitor al străzii Piscul Răchitei, Sector 3, București
 Data: 22.11.2026
 Adresă de corespondență / e-mail: adriankeul1975@gmail.com
 Telefon : 0751.299.922</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276168</link>
-    <guid isPermaLink="false">CAS-0276168</guid>
-    <pubDate>Sun, 22 Nov 2026 17:33:23 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: - sesizare adresa incompleta / lipsa numar cadastral / imposibilitate luare masuri legale in speta .</description>
   </item>
 </channel>
 </rss>
