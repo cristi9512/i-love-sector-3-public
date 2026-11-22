@@ -4071,3 +4071,9 @@
 {"at":"2026-11-22T06:30:47.539Z","ticket":"CAS-0276025","field":"status","from":"O","to":"C"}
 {"at":"2026-11-22T06:30:47.539Z","ticket":"CAS-0276025","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-22T06:30:47.539Z","ticket":"CAS-0276025","field":"reply","from":"","to":"Nespecificat Registratura SESIZAREA SE CONFIRMA, AM INCHEIAT DOCUMENTATIA SPECIFICA IN VEDEREA SANCTIONARII PERSOANEI RESPONSABILA."}
+{"at":"2026-11-22T07:00:58.039Z","ticket":"CAS-0276024","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T07:00:58.039Z","ticket":"CAS-0276024","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T07:00:58.039Z","ticket":"CAS-0276024","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor in locatie, la ora verificarii sesizarii am constatat ca autoturismul la care se face referire in sesizare nu incalca prevederile legale."}
+{"at":"2026-11-22T07:00:58.039Z","ticket":"CAS-0276021","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T07:00:58.039Z","ticket":"CAS-0276021","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T07:00:58.039Z","ticket":"CAS-0276021","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor in locatie am constatat ca autoturismul la care se face referire in sesizare nu incalca prevederile legale.-Auto detine abonament valabil"}
