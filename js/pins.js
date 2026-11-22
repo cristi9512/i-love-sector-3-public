@@ -1,8 +1,5 @@
-// Category icons for map pins and list rows, in three candidate styles.
-// Design review: ?pins=a|b|c picks the style (default a) and shows a switcher bar.
-//   a · Bulină    a disc in the status colour with a white category icon
-//   b · Pin       a classic map pin in the status colour, icon in its head
-//   c · Etichetă  a neutral tile with a dark icon and a small status dot
+// Category icons for map pins and list rows: a disc in the status colour
+// with a white category icon (dark ink on amber, which is too light for white).
 
 // One icon per group of categories (stroke icons on a 24×24 grid).
 const ICONS = {
@@ -67,69 +64,24 @@ export const LEGEND = [
 ];
 export const legendIcon = (name, size = 16) => svg(name, size);
 
-/* ---------- the three styles ---------- */
-const m = /[?&]pins=([abc])\b/.exec(location.search);
-export const STYLE = m ? m[1] : 'none'; // 'none' = today's plain dots
-document.documentElement.dataset.pins = STYLE;
-
 // white icons on the status colour, except amber (in progress) which needs dark ink
 const ink = (status) => (status === 'open' ? '#1d2125' : '#fff');
+const vars = (it) => `--status-color:var(--c-${it.status});--ink:${ink(it.status)}`;
 
 /** Leaflet divIcon options for a report. */
 export function pinOptions(it, active) {
-  if (STYLE === 'none') {
-    return {
-      className: '', iconSize: [16, 16], iconAnchor: [8, 8], popupAnchor: [0, -8],
-      html: `<div class="pin${active ? ' active' : ''}${it.removed ? ' removed' : ''}" style="--status-color:var(--c-${it.status})"></div>`,
-    };
-  }
-  const st = `--status-color:var(--c-${it.status});--ink:${ink(it.status)}`;
-  const cls = `${active ? ' active' : ''}${it.removed ? ' removed' : ''}`;
-  if (STYLE === 'b') {
-    return {
-      className: '', iconSize: [30, 38], iconAnchor: [15, 37], popupAnchor: [0, -34],
-      html: `<div class="pin-b${cls}" style="${st}"><svg class="pin-b-shape" viewBox="0 0 30 38" aria-hidden="true"><path d="M15 36.5C15 36.5 3 23.6 3 14.5a12 12 0 0 1 24 0C27 23.6 15 36.5 15 36.5z"/></svg>${catIconSVG(it.catId, 15)}</div>`,
-    };
-  }
-  if (STYLE === 'c') {
-    return {
-      className: '', iconSize: [28, 28], iconAnchor: [14, 14], popupAnchor: [0, -14],
-      html: `<div class="pin-c${cls}" style="${st}">${catIconSVG(it.catId, 17)}<i></i></div>`,
-    };
-  }
   return {
     className: '', iconSize: [26, 26], iconAnchor: [13, 13], popupAnchor: [0, -13],
-    html: `<div class="pin-a${cls}" style="${st}">${catIconSVG(it.catId, 14)}</div>`,
+    html: `<div class="pin-a${active ? ' active' : ''}${it.removed ? ' removed' : ''}" style="${vars(it)}">${catIconSVG(it.catId, 14)}</div>`,
   };
 }
 
 /** Small icon at the start of a list row (same look as on the map). */
-export function listIcon(it) {
-  if (STYLE === 'none') return '';
-  const st = `--status-color:var(--c-${it.status});--ink:${ink(it.status)}`;
-  const k = STYLE === 'b' ? 'b' : STYLE === 'c' ? 'c' : 'a';
-  return `<span class="li-${k}" style="${st}" aria-hidden="true">${catIconSVG(it.catId, k === 'c' ? 15 : 13)}${k === 'c' ? '<i></i>' : ''}</span>`;
-}
+export const listIcon = (it) => `<span class="li-a" style="${vars(it)}" aria-hidden="true">${catIconSVG(it.catId, 13)}</span>`;
 
-/** Cluster bubble. Style c shows the mix of outcomes inside the cluster as a bar. */
-export function clusterHTML(c, statusOf) {
+/** Cluster bubble. */
+export function clusterHTML(c) {
   const n = c.getChildCount();
   const size = n < 10 ? 34 : n < 100 ? 40 : 48;
-  if (STYLE !== 'c') return { html: `<div class="marker-cluster-custom" style="width:${size}px;height:${size}px">${n}</div>`, size };
-  const counts = { good: 0, partial: 0, bad: 0, other: 0, open: 0 };
-  for (const mk of c.getAllChildMarkers()) counts[statusOf(mk)] = (counts[statusOf(mk)] || 0) + 1;
-  const bar = ['good', 'partial', 'bad', 'other', 'open'].filter((k) => counts[k])
-    .map((k) => `<span style="flex:${counts[k]};background:var(--c-${k})"></span>`).join('');
-  const w = size + 8;
-  return { html: `<div class="cluster-c" style="width:${w}px;height:${size}px"><b>${n}</b><span class="cluster-c-bar">${bar}</span></div>`, size: w, h: size };
-}
-
-/* ---------- design-review switcher ---------- */
-if (m) {
-  const names = { a: 'A · Bulină', b: 'B · Pin', c: 'C · Etichetă' };
-  const bar = document.createElement('nav');
-  bar.className = 'skin-bar';
-  bar.innerHTML = `<span>Variante de iconițe pe hartă</span><span>${Object.keys(names).map((k) =>
-    `<a href="?pins=${k}${location.hash}"${k === STYLE ? ' aria-current="page"' : ''}>${names[k]}</a>`).join('')}<a href="./${location.hash}">Actual</a></span>`;
-  document.body.insertBefore(bar, document.body.firstChild);
+  return { html: `<div class="marker-cluster-custom" style="width:${size}px;height:${size}px">${n}</div>`, size };
 }

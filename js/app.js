@@ -3,7 +3,7 @@ import { loadMeta, getMeta, loadRange, fetchTicket, fromLive, todayKey, toDayKey
 import { areaOf, distanceM, insidePolygon, fromBucharest } from './geo.js';
 import { ic } from './icons.js';
 import { isParking, outcomeKind, OVERDUE_DAYS } from './outcomes.js';
-import { STYLE as PIN_STYLE, pinOptions, listIcon, clusterHTML, LEGEND as ICON_LEGEND, legendIcon } from './pins.js';
+import { pinOptions, listIcon, clusterHTML, LEGEND as ICON_LEGEND, legendIcon } from './pins.js';
 
 const OFFICIAL = 'https://iloves3.primarie3.ro/citycareweb/';
 const REPO = 'https://github.com/cristi9512/i-love-sector-3-public';
@@ -509,9 +509,8 @@ function renderThemeBtn() {
   btn.setAttribute('aria-label', label);
 }
 
-/** Icon legend next to the status legend (only when category pins are on). */
+/** Icon legend next to the status legend. */
 function renderIconLegend() {
-  if (PIN_STYLE === 'none') return;
   let wrap = document.querySelector('.legend-ic');
   if (!wrap) {
     wrap = document.createElement('span');
@@ -528,7 +527,6 @@ function renderIconLegend() {
 
 function initMap() {
   map = L.map('map', { zoomControl: true, maxZoom: 19 }).setView(CENTER, 13);
-  if (PIN_STYLE !== 'none') window.__pinsMap = map; // design review only
   tileLayer().addTo(map);
   if (state.assets?.boundary) {
     const b = boundaryLayer().addTo(map);
@@ -550,8 +548,8 @@ function initMap() {
     // group less once you are at street level, so category icons show sooner
     maxClusterRadius: (z) => (z >= 16 ? 22 : z >= 15 ? 32 : 45), spiderfyOnMaxZoom: true,
     iconCreateFunction: (c) => {
-      const { html, size, h } = clusterHTML(c, (mk) => mk._status);
-      return L.divIcon({ html, className: '', iconSize: [size, h || size] });
+      const { html, size } = clusterHTML(c);
+      return L.divIcon({ html, className: '', iconSize: [size, size] });
     },
   });
   map.addLayer(cluster);
