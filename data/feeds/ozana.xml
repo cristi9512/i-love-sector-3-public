@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276054</link>
+    <guid isPermaLink="false">CAS-0276054</guid>
+    <pubDate>Sun, 22 Nov 2026 08:42:13 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276050</link>
+    <guid isPermaLink="false">CAS-0276050</guid>
+    <pubDate>Sun, 22 Nov 2026 08:38:29 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Buna ziua, pe str Fetesti, de cand ati facut sens unic pe bucata de la intersectia cu gura ialomitei traficul prin spatele blocului a crescut foarte mult. Trotuare nu exista, masini sunt parcate peste tot. Nu avem pe unde iesi pe jos sau cu masina de la blocuri, masinile din trafic rareori opresc si fara trotuare si treceri de pietoni n-o sa se schimbe nimic. Ati autorizat contructia atator blocuri in zona fara sa faceti drumuri...</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276042</link>
     <guid isPermaLink="false">CAS-0276042</guid>
@@ -621,24 +637,6 @@ Cu stima, </description>
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275554</link>
-    <guid isPermaLink="false">CAS-0275554</guid>
-    <pubDate>Fri, 20 Nov 2026 04:11:58 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul V........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275533</link>
-    <guid isPermaLink="false">CAS-0275533</guid>
-    <pubDate>Thu, 19 Nov 2026 20:18:00 GMT</pubDate>
-    <category>Altele</category>
-    <description>Pe bdul 1 Decembrie 1918 nr 33, in fata la Penny Market si Mc Donald&apos;s nu functioneaza iluminatul stradal. Va rugam remediati de urgenta. Este bezna totala.</description>
   </item>
 </channel>
 </rss>

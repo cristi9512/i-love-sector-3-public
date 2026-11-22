@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Toaletare/Tăiere arbori · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276049</link>
+    <guid isPermaLink="false">CAS-0276049</guid>
+    <pubDate>Sun, 22 Nov 2026 08:37:35 GMT</pubDate>
+    <category>Toaletare/Tăiere arbori</category>
+    <description>Trunchiul de copac ramas reprezinta un pericol pentru copii, aflandu-se in interiorul unui loc de joaca.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276043</link>
     <guid isPermaLink="false">CAS-0276043</guid>
@@ -601,16 +609,6 @@ Răspuns: SESIZAREA DUMNEAVOASTRA A FOST VERIFICATA . LA MOMENTUL VERIFICARII LO
     <description>Am locuri de parcare blocate de 2masini! Am facut sesizare si telefonic. Am locuri de parcare 27A și 27B bateria 3654_2
 
 Răspuns: SESIZAREA DUMNEAVOSTRA A FOST VERIFICATA . LA MOMENTUL VERIFICARII LOCURILE DE PARCARE LA CARE FACETI REFERIRE SUNT LIBERE . </description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275241</link>
-    <guid isPermaLink="false">CAS-0275241</guid>
-    <pubDate>Wed, 18 Nov 2026 19:29:52 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 23
-
-Răspuns: Ajunsi la fata locului , conducatorul auto a eliberat locul nenominal de parcare de resedinta.</description>
   </item>
 </channel>
 </rss>
