@@ -6,6 +6,16 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276199</link>
+    <guid isPermaLink="false">CAS-0276199</guid>
+    <pubDate>Sun, 22 Nov 2026 19:53:46 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Duba galbene parcate neregulamentar nu pot cobora cu căruciorul de pe trotuar 
+
+Calea Vitan nr 121 bl v1</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276183</link>
     <guid isPermaLink="false">CAS-0276183</guid>
@@ -739,14 +749,6 @@ Vă rog să tratați această sesizare cu maximă seriozitate și să îmi comun
 Prevenirea unei tragedii trebuie să fie o prioritate, nu o reacție întârziată după pierderea unei vieți omenești.
 
 Vă mulțumesc.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275342</link>
-    <guid isPermaLink="false">CAS-0275342</guid>
-    <pubDate>Thu, 19 Nov 2026 09:32:36 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcheaza zilnic asa si nu se ia nicio masura. daca nu se ia, voi face plangere penala. Avocat Andrei Budea</description>
   </item>
 </channel>
 </rss>
