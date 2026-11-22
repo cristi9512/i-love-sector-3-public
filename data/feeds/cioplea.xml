@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Cioplea</title>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276150</link>
+    <guid isPermaLink="false">CAS-0276150</guid>
+    <pubDate>Sun, 22 Nov 2026 16:07:55 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul C........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
+    <title>Lucrari edilitare alei/trotuare · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276149</link>
+    <guid isPermaLink="false">CAS-0276149</guid>
+    <pubDate>Sun, 22 Nov 2026 16:07:51 GMT</pubDate>
+    <category>Lucrari edilitare alei/trotuare</category>
+    <description>Bd Camil Ressu 39 Blocul Z5, atât în față la bulevard cât și în spate este BEZNĂ totală de luni de zile. Ziua e scurtă, noaptea e lungă iar oamenii bătrâni de peste 80 ani dar și oricine altcineva nu se descurcă să intre și să iasă în și din bloc din cauza beznei continue, se împiedică, cad jos, își rup mâinile. Plus risc maxim de securitate. Se impune intervenție URGENTĂ pentru remediere. Niciun stâlp de iluminat nu funcționează.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276146</link>
     <guid isPermaLink="false">CAS-0276146</guid>
     <pubDate>Sun, 22 Nov 2026 16:00:05 GMT</pubDate>
@@ -584,32 +600,6 @@ Răspuns: Au fost aplicate masurile legale.</description>
     <pubDate>Fri, 20 Nov 2026 07:16:00 GMT</pubDate>
     <category>Toaletare/Tăiere arbori</category>
     <description>Bună ziua , dorim si noi toaletarea pomilor din spatele blocului , str Fizicienilor nr 18 bloc 11A . Vă multumim .</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275597</link>
-    <guid isPermaLink="false">CAS-0275597</guid>
-    <pubDate>Fri, 20 Nov 2026 07:00:18 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>In fiecare dimineata aceast domn blocheaza trotuarul pentru aprovizionare.
-
-Este parcare normala langa, e singurul caruia nu i se pare nimic ciudat sa te sui pe trecerea de pietoni si cu masina pe trotuar.
-
-Cei de la shaormerie s-au extins pe trotuar, probabil ilegal cu tot felul de panouri si mese făcând accesul si mai ridicol.
-
-Răspuns: Sesizarea nu se confirma, auto reclamat nu se mai afla in locatie</description>
-  </item>
-  <item>
-    <title>Rampe de acces persoane cu dizabilitati · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275593</link>
-    <guid isPermaLink="false">CAS-0275593</guid>
-    <pubDate>Fri, 20 Nov 2026 06:43:27 GMT</pubDate>
-    <category>Rampe de acces persoane cu dizabilitati</category>
-    <description>Bună dimineața ! 
-
-Această mașină îmi blochează accesul la scările către trotuarul înspre  grădinița ! În fiecare dimineață și seara zeci de părinți cu copii în brațe sau cărucioare trebuie să ocolească aceaste trepte. Mergând pe carosabil ne punem viața în pericol atât a copiilor cat și a noastră . Părinții care îi însoțim la grădiniță! Vă rog să montați ceva stâlpi pentru a micșora șansele de a mai parca cineva acolo ! 
-
-Vă mulțumesc !</description>
   </item>
 </channel>
 </rss>

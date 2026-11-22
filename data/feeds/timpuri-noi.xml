@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276148</link>
+    <guid isPermaLink="false">CAS-0276148</guid>
+    <pubDate>Sun, 22 Nov 2026 16:03:02 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ a achitat tarif orar de parcare până la 19.12.2026 18:00.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276070</link>
     <guid isPermaLink="false">CAS-0276070</guid>
@@ -606,15 +614,6 @@ Atasez fotografii care documenteaza situatia semnalata.
 Va multumesc pentru sprijin si pentru solutionarea acestei sesizari.
 Toate cele bune,
 Florina Maican</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275215</link>
-    <guid isPermaLink="false">CAS-0275215</guid>
-    <pubDate>Wed, 18 Nov 2026 17:17:03 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>mașini parcate pe trotuar, langa blocul M11, scara 1.
-Chiar și gardul a fost strâmbat de cei care parchează.</description>
   </item>
 </channel>
 </rss>
