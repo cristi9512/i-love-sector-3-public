@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-22T19:55:55.973Z",
-  "lastChange": "2026-11-22T19:55:55.973Z",
+  "lastRun": "2026-11-22T20:15:44.442Z",
+  "lastChange": "2026-11-22T20:15:44.442Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2822,
+    "fetched": 2728,
     "added": 2,
     "updated": 0,
     "removed": 0,
     "changes": 0
   },
   "totals": {
-    "incidents": 46810,
-    "open": 2311,
+    "incidents": 46812,
+    "open": 2313,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-22T19:55:55.973Z",
+    "asOf": "2026-11-22T20:15:44.442Z",
     "days": 30,
-    "open": 2311,
+    "open": 2313,
     "total": 243,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 57,
+        "open": 58,
         "n": 7
       },
       "3": {
@@ -82,7 +82,7 @@
       },
       "13": {
         "name": "Unități de Învățământ(probleme administrative)",
-        "open": 9,
+        "open": 10,
         "n": 5
       },
       "14": {
