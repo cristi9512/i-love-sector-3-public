@@ -6,6 +6,38 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276164</link>
+    <guid isPermaLink="false">CAS-0276164</guid>
+    <pubDate>Sun, 22 Nov 2026 17:27:06 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcheaza mereu pe B10 si nu achita</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276163</link>
+    <guid isPermaLink="false">CAS-0276163</guid>
+    <pubDate>Sun, 22 Nov 2026 17:24:08 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276162</link>
+    <guid isPermaLink="false">CAS-0276162</guid>
+    <pubDate>Sun, 22 Nov 2026 17:24:03 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276161</link>
+    <guid isPermaLink="false">CAS-0276161</guid>
+    <pubDate>Sun, 22 Nov 2026 17:19:14 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Rog colectare pe prevederii 23 bloc g16</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276160</link>
     <guid isPermaLink="false">CAS-0276160</guid>
@@ -683,40 +715,6 @@ Răspuns: - la ora verificarii in teren a sesizarii , auto indicat in reclamatie
 Pe Drumul Gura Putnei nr.86-90 gunoiul din pubelele ingropate nu a mai fost ridicat de peste 3 saptamani, iar pubelele externe de del putin o saptamana. 
 
 In alveola mai mereu e parcata o masina, politia locala nu face nimic in privinta asta iar gunoiul nu se ridica e un focar de infectie acolo.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276104</link>
-    <guid isPermaLink="false">CAS-0276104</guid>
-    <pubDate>Sun, 22 Nov 2026 13:17:25 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare in curba</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276103</link>
-    <guid isPermaLink="false">CAS-0276103</guid>
-    <pubDate>Sun, 22 Nov 2026 13:16:54 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare in curba</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276102</link>
-    <guid isPermaLink="false">CAS-0276102</guid>
-    <pubDate>Sun, 22 Nov 2026 13:16:20 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare in mijlocul strazii</description>
-  </item>
-  <item>
-    <title>Animale de companie · Rezolvată Nefavorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276101</link>
-    <guid isPermaLink="false">CAS-0276101</guid>
-    <pubDate>Sun, 22 Nov 2026 13:14:35 GMT</pubDate>
-    <category>Animale de companie</category>
-    <description>spatiul verde interzis accesul cu animale de companie.
-
-Răspuns: A FOST VERIFICATA ZONA INDICATA  IN SESIZARE SI NU AM OBSERVAT ANIMALE DE COMPANIE PREZENTE PE SPATIILE VERZI AFERENTE . ZONA A FOST MONITORIZATA CIRCA 10 MINUTE SI VA RAMANE IN ATENTIA ECHIPAJELOR DE POLITIE LOCALA </description>
   </item>
 </channel>
 </rss>
