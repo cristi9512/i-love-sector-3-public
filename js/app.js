@@ -22,7 +22,7 @@ const STATUS_FILTER = {
 const $ = (s) => document.querySelector(s);
 const state = {
   tab: 'list', days: 7, from: null, to: null,
-  status: 'all', cats: null, q: '', scope: 'all', area: null, month: null,
+  status: 'all', cats: null, q: '', scope: 'all', area: null, month: null, rec: { cat: '', area: '' },
   reply: 'any', stuck: 0, edited: false, removed: 'hide', zone: null, inView: false,
   sort: 'new', mapMode: 'pins',
   archiveRaw: new Map(), liveRaw: new Map(), items: new Map(), dirty: new Set(),
@@ -285,6 +285,7 @@ function renderAll(skeleton = false) {
   renderIconLegend();
   if (state.tab === 'insights') renderInsightsTab();
   if (state.tab === 'report') renderReportTab();
+  if (state.tab === 'recurring') renderRecurringTab();
 }
 
 function renderControls() {
@@ -307,9 +308,11 @@ function renderControls() {
   $('#listView').hidden = state.tab !== 'list';
   $('#insightsView').hidden = state.tab !== 'insights';
   $('#reportView').hidden = state.tab !== 'report';
-  // the monthly report covers the whole sector, so the filters don't apply there
-  document.querySelector('.filters').hidden = state.tab === 'report';
-  $('#dataLine').hidden = state.tab === 'report';
+  $('#recurringView').hidden = state.tab !== 'recurring';
+  // the monthly report and recurring problems cover the whole sector, so the filters don't apply there
+  const sectorWide = state.tab === 'report' || state.tab === 'recurring';
+  document.querySelector('.filters').hidden = sectorWide;
+  $('#dataLine').hidden = sectorWide;
   $('#viewToggle').hidden = state.tab !== 'list';
   const n = activeFilterCount();
   $('#moreCount').textContent = n ? String(n) : '';
@@ -776,6 +779,26 @@ async function renderInsightsTab() {
   });
 }
 
+/* ================= recurring problems ================= */
+let recurringMod = null, recurringRendering = false;
+async function renderRecurringTab() {
+  if (recurringRendering) return;
+  recurringRendering = true;
+  try {
+    if (!recurringMod) recurringMod = await import('./recurring.js');
+    await recurringMod.render($('#recurringView'), {
+      state: state.rec,
+      onState: (r) => { Object.assign(state.rec, r); writeHash(); },
+      makeMap: (el) => {
+        const m = L.map(el, { maxZoom: 19, scrollWheelZoom: true }).setView(CENTER, 13);
+        tileLayer().addTo(m);
+        if (state.assets?.boundary) { const b = boundaryLayer().addTo(m); m.fitBounds(b.getBounds(), { padding: [10, 10] }); }
+        return m;
+      },
+    });
+  } finally { recurringRendering = false; }
+}
+
 /* ================= monthly report ================= */
 let reportMod = null;
 const reportLoaded = new Set();
@@ -861,6 +884,8 @@ function hashParams(extra = {}) {
   if (state.q) p.set('q', state.q);
   if (state.scope !== 'all') p.set('scope', state.scope);
   if (state.tab === 'report' && state.month) p.set('month', state.month);
+  if (state.tab === 'recurring' && state.rec.cat) p.set('rcat', state.rec.cat);
+  if (state.tab === 'recurring' && state.rec.area) p.set('rarea', state.rec.area);
   if (state.area) p.set('area', state.area);
   if (state.reply !== 'any') p.set('reply', state.reply);
   if (state.stuck) p.set('stuck', state.stuck);
@@ -883,7 +908,8 @@ function readHash() {
   const d = (s) => /^\d{4}-\d{2}-\d{2}$/.test(s || '');
   if (d(p.get('from')) && d(p.get('to'))) { state.days = 'custom'; state.from = p.get('from'); state.to = p.get('to'); }
   else if (PRESETS.includes(+p.get('days'))) state.days = +p.get('days');
-  if (['insights', 'report'].includes(p.get('tab'))) state.tab = p.get('tab');
+  if (['insights', 'report', 'recurring'].includes(p.get('tab'))) state.tab = p.get('tab');
+  state.rec = { cat: p.get('rcat') || '', area: p.get('rarea') || '' };
   if (/^\d{4}-\d{2}$/.test(p.get('month') || '')) state.month = p.get('month');
   if (STATUS_FILTER[p.get('status')]) state.status = p.get('status');
   if (p.get('cats')) state.cats = new Set(p.get('cats').split(','));
@@ -927,6 +953,7 @@ function bind() {
     renderControls();
     if (state.tab === 'insights') renderInsightsTab();
     else if (state.tab === 'report') renderReportTab();
+    else if (state.tab === 'recurring') renderRecurringTab();
     else setTimeout(() => map.invalidateSize(), 30);
     writeHash();
   });
