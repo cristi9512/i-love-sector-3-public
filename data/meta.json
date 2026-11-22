@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-22T20:30:49.665Z",
-  "lastChange": "2026-11-22T20:30:49.665Z",
+  "lastRun": "2026-11-22T20:45:33.161Z",
+  "lastChange": "2026-11-22T20:45:33.161Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2594,
+    "fetched": 2748,
     "added": 5,
     "updated": 1,
     "removed": 0,
-    "changes": 1
+    "changes": 3
   },
   "totals": {
-    "incidents": 46817,
-    "open": 2318,
+    "incidents": 46822,
+    "open": 2322,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,9 +25,9 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-22T20:30:49.665Z",
+    "asOf": "2026-11-22T20:45:33.161Z",
     "days": 30,
-    "open": 2318,
+    "open": 2322,
     "total": 243,
     "byCategory": {
       "2": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 110,
+        "open": 111,
         "n": 5
       },
       "7": {
@@ -62,7 +62,7 @@
       },
       "9": {
         "name": "Altele",
-        "open": 238,
+        "open": 239,
         "n": 23
       },
       "10": {
@@ -112,7 +112,7 @@
       },
       "19": {
         "name": "Ordine și liniște publică",
-        "open": 12,
+        "open": 13,
         "n": 4
       },
       "20": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 664,
+        "open": 665,
         "n": 2
       },
       "32": {
