@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276186</link>
+    <guid isPermaLink="false">CAS-0276186</guid>
+    <pubDate>Sun, 22 Nov 2026 18:38:17 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276175</link>
     <guid isPermaLink="false">CAS-0276175</guid>
@@ -615,16 +623,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA ,CONSTATANDU-SE FAPTUL
     <category>Mașini abandonate</category>
     <description>buna ziua! Astăzi este zi de curățenie și în intervalul orar 14:00-16:00 și această mașină este abandonată de aproximativ 2 luni pe acest loc de parcare. Poliția Locală trece, o vede și își continuă drumul, chiar dacă utilajele de curățenie nu au loc. 
 Este vorba de autoturismul B 686 RAN.</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275684</link>
-    <guid isPermaLink="false">CAS-0275684</guid>
-    <pubDate>Fri, 20 Nov 2026 12:29:55 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>buna ziua! Având în vedere că locurile de parcare sunt din ce în ce mă puține, va atașez alăturat o mașină abandonată care de 3 luni de zile sta parcată și nu este mutată nici în zilele de curățenie. Astăzi este zi de curățenie și această mașină tot parcată este pe str. Olt Radu Gheorghe, Nr. 45, în fata blocului 1, fata in față cu magazinul de pe colt. 
-Solicit verificarea și ridicarea acesteia, întrucât încurcă traficul.
-Vă mulțumesc!</description>
   </item>
 </channel>
 </rss>

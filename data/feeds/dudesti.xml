@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276183</link>
+    <guid isPermaLink="false">CAS-0276183</guid>
+    <pubDate>Sun, 22 Nov 2026 18:34:34 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul S........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276182</link>
+    <guid isPermaLink="false">CAS-0276182</guid>
+    <pubDate>Sun, 22 Nov 2026 18:32:25 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276126</link>
     <guid isPermaLink="false">CAS-0276126</guid>
@@ -731,26 +747,6 @@ Vă mulțumesc.</description>
     <pubDate>Thu, 19 Nov 2026 09:32:36 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcheaza zilnic asa si nu se ia nicio masura. daca nu se ia, voi face plangere penala. Avocat Andrei Budea</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275305</link>
-    <guid isPermaLink="false">CAS-0275305</guid>
-    <pubDate>Thu, 19 Nov 2026 07:23:16 GMT</pubDate>
-    <category>Altele</category>
-    <description>Bună ziua,
-pe Întrarea Brateș nr. 3 nu funcționează lumina la un stâlp.  A se vedea în poze. Rog soluționare.
-Mulțumesc!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275288</link>
-    <guid isPermaLink="false">CAS-0275288</guid>
-    <pubDate>Thu, 19 Nov 2026 06:22:48 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Autoturismului reclamat i s-a aplicat înștiințare, o zi bună.</description>
   </item>
 </channel>
 </rss>
