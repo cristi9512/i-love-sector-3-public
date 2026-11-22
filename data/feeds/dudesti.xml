@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276020</link>
+    <guid isPermaLink="false">CAS-0276020</guid>
+    <pubDate>Sun, 22 Nov 2026 01:05:52 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>b 119 yfc blocheaza calea de acces.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0275991</link>
     <guid isPermaLink="false">CAS-0275991</guid>
@@ -598,16 +606,6 @@ Răspuns: A FOST APLICATA INSTIINTARE INFORMATIVA </description>
     <description>Vă sesizez o parcare neregulamentară IF 46 BYB în dreptul indicatorului de Oprire interzisă pe str.Breaza vis-a-vis de Comandamentul de pompieri Vitan.
 
 Răspuns: auto a parasit locatia </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275164</link>
-    <guid isPermaLink="false">CAS-0275164</guid>
-    <pubDate>Wed, 18 Nov 2026 14:43:50 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Parcare pe loc marcat cuX loc destinat evacuarii gunoi
-
-Răspuns: a fost aplicata instiintare informativa </description>
   </item>
 </channel>
 </rss>
