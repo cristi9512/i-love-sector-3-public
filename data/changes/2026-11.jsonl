@@ -4124,3 +4124,13 @@
 {"at":"2026-11-22T13:00:55.795Z","ticket":"CAS-0276081","field":"status","from":"O","to":"C"}
 {"at":"2026-11-22T13:00:55.795Z","ticket":"CAS-0276081","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-22T13:00:55.795Z","ticket":"CAS-0276081","field":"reply","from":"","to":"Nespecificat Registratura LA ADRESA MENTIONATA IN SESIZARE AUTOTURISMUL NU A FOST IDENTIFICAT IN LOCATIE."}
+{"at":"2026-11-22T13:15:35.182Z","ticket":"CAS-0276097","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-22T13:15:35.182Z","ticket":"CAS-0276083","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T13:15:35.182Z","ticket":"CAS-0276083","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T13:15:35.182Z","ticket":"CAS-0276083","field":"reply","from":"","to":"Nespecificat Registratura REVENITI CU O ALTA SESIZARE UNDE SA ATASATI O NOUA FOTOGRAFIE"}
+{"at":"2026-11-22T13:15:35.182Z","ticket":"CAS-0276089","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T13:15:35.182Z","ticket":"CAS-0276089","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T13:15:35.182Z","ticket":"CAS-0276089","field":"reply","from":"","to":"Nespecificat Registratura AUTOTURISMUL LA CARE SE FACE REFERIRE IN IN SESIZARE OCUPA UN LOC NOMINAL"}
+{"at":"2026-11-22T13:15:35.182Z","ticket":"CAS-0276080","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T13:15:35.182Z","ticket":"CAS-0276080","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T13:15:35.182Z","ticket":"CAS-0276080","field":"reply","from":"","to":"Nespecificat Registratura AUTO IN CAUZA NU A FOST GASIT . LIPSA FOTO IN SESIZARE DIN CARE SA REIASA TIPUL PARCAJULUI CAT SI NUMARUL DE INMATRICULARE AL AUTOVEHICULULUI "}

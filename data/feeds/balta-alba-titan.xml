@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Balta Albă - Titan</description>
   <language>ro</language>
   <item>
+    <title>Animale de companie · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276101</link>
+    <guid isPermaLink="false">CAS-0276101</guid>
+    <pubDate>Sun, 22 Nov 2026 13:14:35 GMT</pubDate>
+    <category>Animale de companie</category>
+    <description>spatiul verde interzis accesul cu animale de companie.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276099</link>
+    <guid isPermaLink="false">CAS-0276099</guid>
+    <pubDate>Sun, 22 Nov 2026 13:08:36 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276094</link>
     <guid isPermaLink="false">CAS-0276094</guid>
@@ -38,12 +54,14 @@
     <description>B39 FBB parcat pe trotuar</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276080</link>
     <guid isPermaLink="false">CAS-0276080</guid>
     <pubDate>Sun, 22 Nov 2026 12:07:42 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: AUTO IN CAUZA NU A FOST GASIT . LIPSA FOTO IN SESIZARE DIN CARE SA REIASA TIPUL PARCAJULUI CAT SI NUMARUL DE INMATRICULARE AL AUTOVEHICULULUI </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
@@ -561,22 +579,6 @@ Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavoastra. S-a into
     <pubDate>Fri, 20 Nov 2026 18:16:28 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcat pe trecere</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275773</link>
-    <guid isPermaLink="false">CAS-0275773</guid>
-    <pubDate>Fri, 20 Nov 2026 18:15:52 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcat pe trotuar</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275772</link>
-    <guid isPermaLink="false">CAS-0275772</guid>
-    <pubDate>Fri, 20 Nov 2026 18:01:17 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Stationare pe trotuar a autoturismului Dacia cu numarul B19LNC. Atasat foto.</description>
   </item>
 </channel>
 </rss>
