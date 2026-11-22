@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Trapezului</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276069</link>
+    <guid isPermaLink="false">CAS-0276069</guid>
+    <pubDate>Sun, 22 Nov 2026 10:30:54 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Trapezului</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276046</link>
     <guid isPermaLink="false">CAS-0276046</guid>
@@ -626,16 +634,6 @@ Răspuns: Buna dimineata! Verificarile in teren se vor realiza in termenul legal
     <description>Avem nevoie de limitatoare de viteză si parcări pe aleea Mizil nr 49.
 
 Acum cu oprirea interzisa pe ambele sensuri nu mai avem unde parca, strada este libera si avem frecvente depășiri de viteză și gălăgie fonică auto.</description>
-  </item>
-  <item>
-    <title>Străzi · În lucru · Trapezului</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274472</link>
-    <guid isPermaLink="false">CAS-0274472</guid>
-    <pubDate>Sun, 15 Nov 2026 19:51:20 GMT</pubDate>
-    <category>Străzi</category>
-    <description>Bună seara! Aș dori să vă întreb dacă, anul acesta, Primăria Sectorului 3 are în plan să împodobească și Bulevardul Theodor Pallady cu instalații luminoase și decorațiuni specifice sărbătorilor de iarnă.
-
-Vă mulțumesc frumos pentru răspuns!</description>
   </item>
 </channel>
 </rss>
