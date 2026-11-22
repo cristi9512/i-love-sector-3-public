@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · Noua · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276116</link>
+    <guid isPermaLink="false">CAS-0276116</guid>
+    <pubDate>Sun, 22 Nov 2026 14:00:28 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Mizerie si deseuri la marginea trotuarului din fata imobilului Str Mantuleasa nr 5</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276081</link>
     <guid isPermaLink="false">CAS-0276081</guid>
@@ -574,17 +582,6 @@ Vă rog să verificați și iluminatul public din spatele Bulevardului Unirii nr
 Vă rog să trimiteți o echipă pentru verificarea și remedierea problemei, astfel încât iluminatul stradal să fie repus în funcțiune cât mai curând.
 
 Vă mulțumesc!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274411</link>
-    <guid isPermaLink="false">CAS-0274411</guid>
-    <pubDate>Sun, 15 Nov 2026 17:16:37 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna seara
-Autotursimul este parcat 
-pe trotuar si in dreptul trecerii de pietoni.
-Va multumesc.</description>
   </item>
 </channel>
 </rss>
