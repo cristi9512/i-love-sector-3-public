@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Cioplea</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276193</link>
+    <guid isPermaLink="false">CAS-0276193</guid>
+    <pubDate>Sun, 22 Nov 2026 19:32:04 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276189</link>
+    <guid isPermaLink="false">CAS-0276189</guid>
+    <pubDate>Sun, 22 Nov 2026 19:04:36 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276188</link>
     <guid isPermaLink="false">CAS-0276188</guid>
@@ -613,27 +629,6 @@ La momentul efectuarii verificarilor aspectele sesizate se confirma, asupra auto
 
 Răspuns: Buna seara,
 La momentul efectuarii verificarilor aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275776</link>
-    <guid isPermaLink="false">CAS-0275776</guid>
-    <pubDate>Fri, 20 Nov 2026 18:23:10 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna seara, 
-Va rog sa ne ajutati cu ridicarea atv-ului abandonat pe calea de acces in parcare, in spatele blocului 9, scara 1 din strada Spiridon Matei 1. Acesta blocheaza intrarea si iesirea de pe locul de parcare 22, bateria 387.
-Va multumesc</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275749</link>
-    <guid isPermaLink="false">CAS-0275749</guid>
-    <pubDate>Fri, 20 Nov 2026 16:33:24 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-In urma verificarilor efectuate locul de parcare indicat conform marcajelor vizibile afisate la sol, nu figureaza a fi un loc nenominal, vom transmite catre serviciul abilitat in vederea retrasarii marcajelor.</description>
   </item>
 </channel>
 </rss>
