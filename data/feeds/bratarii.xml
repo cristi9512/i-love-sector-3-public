@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Brățării</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276143</link>
+    <guid isPermaLink="false">CAS-0276143</guid>
+    <pubDate>Sun, 22 Nov 2026 15:45:20 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-2, precum și pentru zonele B-1,B-3,</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Brățării</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276131</link>
     <guid isPermaLink="false">CAS-0276131</guid>
@@ -632,17 +640,6 @@ Răspuns: Buna seara .Verificarile in teren se vor realiza in termenul legal,in 
 
 Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 18:20 , însă, autoturismul în cauză nu a mai fost identificat în locație.
 Vă mulțumim!</description>
-  </item>
-  <item>
-    <title>Mașini abandonate · În lucru · Brățării</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272375</link>
-    <guid isPermaLink="false">CAS-0272375</guid>
-    <pubDate>Sat, 07 Nov 2026 18:43:44 GMT</pubDate>
-    <category>Mașini abandonate</category>
-    <description>Acest vehicul ocupă un loc ce poate fi folosit de către alți cetățeni, ocupându-l de luni întregi fără să fie mutat. 
-Locul este în fața complexului Titan Ștefan Residence, Drumul Gura Siriului 
-Se poate elibera? 
-Mulțumesc!</description>
   </item>
 </channel>
 </rss>

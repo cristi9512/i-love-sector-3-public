@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276142</link>
+    <guid isPermaLink="false">CAS-0276142</guid>
+    <pubDate>Sun, 22 Nov 2026 15:41:52 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Imi stanjeneste accesul pe motocicleta, motocicleta fiind parcata regulamentar si nu stanjeneste alti participanti la trafic sau parcarea acestora. Solicit platforma cat mai repede.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276141</link>
+    <guid isPermaLink="false">CAS-0276141</guid>
+    <pubDate>Sun, 22 Nov 2026 15:39:15 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276137</link>
     <guid isPermaLink="false">CAS-0276137</guid>
@@ -588,26 +604,6 @@ Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE</descr
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE MAI AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275330</link>
-    <guid isPermaLink="false">CAS-0275330</guid>
-    <pubDate>Thu, 19 Nov 2026 09:02:29 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ a achitat tarif orar de parcare până la 18.12.2026 18:00.
-
-Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Animale de companie · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275327</link>
-    <guid isPermaLink="false">CAS-0275327</guid>
-    <pubDate>Thu, 19 Nov 2026 08:55:48 GMT</pubDate>
-    <category>Animale de companie</category>
-    <description>Caine fara stapan in zona Ale Slt Adrian Carstea, Ale Florin Ciungan si imprejurimi. Culoare maroniu roscat.
-
-Răspuns: Nu s-a identificat ``câinele roșcat``.</description>
   </item>
 </channel>
 </rss>
