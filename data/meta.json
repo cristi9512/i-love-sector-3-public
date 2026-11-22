@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-22T19:40:19.366Z",
-  "lastChange": "2026-11-22T19:40:19.366Z",
+  "lastRun": "2026-11-22T19:45:37.590Z",
+  "lastChange": "2026-11-22T19:45:37.590Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2762,
-    "added": 3,
-    "updated": 0,
+    "fetched": 2820,
+    "added": 2,
+    "updated": 1,
     "removed": 0,
-    "changes": 0
+    "changes": 1
   },
   "totals": {
-    "incidents": 46806,
-    "open": 2307,
+    "incidents": 46808,
+    "open": 2309,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-22T19:40:19.366Z",
+    "asOf": "2026-11-22T19:45:37.590Z",
     "days": 30,
-    "open": 2307,
-    "total": 242,
+    "open": 2309,
+    "total": 243,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 55,
+        "open": 56,
         "n": 7
       },
       "3": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 109,
+        "open": 110,
         "n": 5
       },
       "7": {
@@ -128,7 +128,7 @@
       "22": {
         "name": "Spații Comerciale",
         "open": 5,
-        "n": 1
+        "n": 2
       },
       "25": {
         "name": "Aviz evenimente sportive/culturale",
