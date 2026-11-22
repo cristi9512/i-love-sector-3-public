@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276093</link>
+    <guid isPermaLink="false">CAS-0276093</guid>
+    <pubDate>Sun, 22 Nov 2026 12:45:16 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276089</link>
+    <guid isPermaLink="false">CAS-0276089</guid>
+    <pubDate>Sun, 22 Nov 2026 12:33:15 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276083</link>
     <guid isPermaLink="false">CAS-0276083</guid>
@@ -574,24 +590,6 @@ Solicit verificarea si remedierea iluminatului public in zona, precum si comunic
 Va atasez cateva poze facute pe timp de noapte in care am incercuit si stalpii care ar fi trebuit sa functioneze. 
 
 Multumesc</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275530</link>
-    <guid isPermaLink="false">CAS-0275530</guid>
-    <pubDate>Thu, 19 Nov 2026 19:56:56 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>parcare total neregulamentară</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275521</link>
-    <guid isPermaLink="false">CAS-0275521</guid>
-    <pubDate>Thu, 19 Nov 2026 19:27:43 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara . Am preluat si verificat sesizarea dumneavoastra.Auto reclamat nu a fost gasit in locatia indicata conform pinului pe harta.</description>
   </item>
 </channel>
 </rss>

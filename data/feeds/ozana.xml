@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276088</link>
+    <guid isPermaLink="false">CAS-0276088</guid>
+    <pubDate>Sun, 22 Nov 2026 12:31:43 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Ordine și liniște publică · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276074</link>
     <guid isPermaLink="false">CAS-0276074</guid>
@@ -626,20 +634,6 @@ Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A F
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 23
 
 Răspuns: Auto a parasit locatia.</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275583</link>
-    <guid isPermaLink="false">CAS-0275583</guid>
-    <pubDate>Fri, 20 Nov 2026 06:13:45 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Buna dimineata,
-
-Opriti.va din plantarea copacilor in zone care nu sunt amenajate ca spatii verzi. Pe langa faptul ca nu se mai poate merge pe asa zisele trotuare, nu mai trec 2 oamenii unul pe langa altul, sa nu mai zicem de mame cu copilasi sau vreo persoana cu un carucior de cumparaturi, terenul de sub dale nu este facut pentru asta. Inteleg ca doriti sa replantati cate un nou copac la fiecare 2 ani, ca sa faceti bani, dar incetati.
-
-Sub stratul de asfalt se afla, de regula, un strat compactat de piatra sparta (balast) necesar pentru rezistenta parcarii. Radacinile nu pot penetra usor acest strat, iar lipsa oxigenului le poate opri dezvoltarea. Mai mult, daca arborele nu are suficient spatiu afanat in adancime (pamant), radacinile vor creste chiar sub stratul de uzura, in cautare de aer si umezeala, ceea ce va duce in cativa ani la fisurarea si denivelarea asfaltului/pavelelor din jur.
-
-Multumim!</description>
   </item>
 </channel>
 </rss>
