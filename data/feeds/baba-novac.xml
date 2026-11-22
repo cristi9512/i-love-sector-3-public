@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276225</link>
+    <guid isPermaLink="false">CAS-0276225</guid>
+    <pubDate>Sun, 22 Nov 2026 22:23:21 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>In fiecare week-end, dar si in unele zile ale saptamanii, dupa ora 23 si pana dimineata, pe trotuarul din dreptul blocului S13 (sc.1 si sc.2), se parcheaza autoturisme de catre clientii terasei Mon Cher, blocand zona pietonala si uneori accesul in bloc. 
+Am facut numeroase sesizari, atat eu cat si alti locatari si raspunsul dumneavoastra a fost ca se monitorizeaza zona. Nu se intervine in zona decat la apelurile telefonice si nici atunci, la toate. Nu credeti ca ar trebui luate alte masuri, cum ar fi montarea de piloni antiparcare sau replantarea copacilor care au fost distrusi de cei care au fortat accesul pe trotuar iar primaria a gasit solutia, inlocuindu-i cu dale.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276210</link>
     <guid isPermaLink="false">CAS-0276210</guid>
@@ -562,16 +571,6 @@ Răspuns: LA MOMENTUL VERIFICARILOR IN TEREN. AUTO SESIZAT NU A MAI FOST IDENTIF
     <description>Autoturisme parcate pe trotuar aproape in fiecare seara si dimineata, blocheaza accesul pietonilor la trecere.
 
 Răspuns: In locatie  au fost dispuse masurile legale conform OUG 195/2002 r</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275596</link>
-    <guid isPermaLink="false">CAS-0275596</guid>
-    <pubDate>Fri, 20 Nov 2026 06:58:23 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul D........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: In urma analizarii sesizarii am constatat lipsa fotografiei din care sa reiasa tipul parcajului de resedinta si numarul de inmatriculare al autoturismului reclamat.</description>
   </item>
 </channel>
 </rss>
