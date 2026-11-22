@@ -283,6 +283,7 @@ function renderAll(skeleton = false) {
   renderList(skeleton);
   renderMap();
   renderIconLegend();
+  renderHeadline();
   if (state.tab === 'insights') renderInsightsTab();
   if (state.tab === 'report') renderReportTab();
   if (state.tab === 'recurring') renderRecurringTab();
@@ -779,6 +780,21 @@ async function renderInsightsTab() {
   });
 }
 
+/* ================= headline line ================= */
+let summary;
+async function renderHeadline() {
+  const el = $('#headline');
+  if (summary === undefined) summary = await fetch('data/summary.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+  const s = summary;
+  if (!s?.month || state.tab !== 'list') { el.hidden = true; return; }
+  const month = new Intl.DateTimeFormat(locale(), { month: 'long', year: 'numeric', timeZone: 'UTC' }).format(new Date(s.month.m + '-15T12:00:00Z'));
+  const parts = [`<a href="raport/${s.month.m}">${esc(t('hlMonth', { m: month.charAt(0).toUpperCase() + month.slice(1), n: fmtN(s.month.n), g: s.month.good, b: s.month.bad }))}</a>`];
+  if (s.overdue != null) parts.push(`<a href="#" data-hl="overdue">${esc(t('hlOverdue', { n: fmtN(s.overdue) }))}</a>`);
+  if (s.recurring != null) parts.push(`<a href="#tab=recurring" data-hl="recurring">${esc(t('hlRecurring', { n: fmtN(s.recurring) }))}</a>`);
+  el.innerHTML = `<b>${esc(t('hlTitle'))}</b> ${parts.join('<span aria-hidden="true"> · </span>')}`;
+  el.hidden = false;
+}
+
 /* ================= recurring problems ================= */
 let recurringMod = null, recurringRendering = false;
 async function renderRecurringTab() {
@@ -958,6 +974,13 @@ function bind() {
     writeHash();
   });
   $('#themeBtn').addEventListener('click', () => window.theme?.set(THEME_NEXT[window.theme.pref]));
+  $('#headline').addEventListener('click', (e) => {
+    const a = e.target.closest('[data-hl]');
+    if (!a) return;
+    e.preventDefault();
+    if (a.dataset.hl === 'overdue') { state.days = 180; state.stuck = OVERDUE_DAYS; state.status = 'all'; state.cats = null; state.shown = PAGE; load(); }
+    else { state.tab = 'recurring'; renderControls(); renderRecurringTab(); writeHash(); window.scrollTo(0, 0); }
+  });
   $('#langBtn').addEventListener('click', () => {
     setLang(getLang() === 'ro' ? 'en' : 'ro');
     try { localStorage.setItem('lang', getLang()); } catch { /* ignore */ }

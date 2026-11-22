@@ -44,6 +44,8 @@ export function render(root, ctx) {
       <label>${esc(t('rMonth'))} <select id="reportMonth" class="select">${months.slice().reverse().map((m) => `<option value="${m}"${m === month ? ' selected' : ''}>${esc(monthName(m))}</option>`).join('')}</select></label>
       <button class="btn btn-outline small" data-r="copy">${esc(t('rCopy'))}</button>
       <button class="btn btn-outline small" data-r="print">${esc(t('rPrint'))}</button>
+      <a class="btn btn-outline small" href="raport/${month}">${esc(t('rSharePage'))}</a>
+      <a class="btn btn-outline small" href="og/raport-${month}.png" download>${esc(t('rImage'))}</a>
     </div>`;
   const head = `<div class="viz-head report-head"><h1>${esc(t('rTitle'))} · ${esc(monthName(month))}</h1>${tools}</div>`;
   if (ctx.loading && !cur.length) {
