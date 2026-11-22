@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Malaxa - Faur</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276125</link>
+    <guid isPermaLink="false">CAS-0276125</guid>
+    <pubDate>Sun, 22 Nov 2026 14:17:37 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276026</link>
     <guid isPermaLink="false">CAS-0276026</guid>
@@ -604,15 +612,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,ORELE 00.10,AUTO LA CA
     <pubDate>Sat, 14 Nov 2026 19:06:22 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>masini parcate pe colt in dreptul locului de acces pe trotuar</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274245</link>
-    <guid isPermaLink="false">CAS-0274245</guid>
-    <pubDate>Sat, 14 Nov 2026 18:32:13 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>Parcare ocupată 
-B 369 amn</description>
   </item>
 </channel>
 </rss>

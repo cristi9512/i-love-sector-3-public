@@ -4159,3 +4159,7 @@
 {"at":"2026-11-22T14:15:45.983Z","ticket":"CAS-0275543","field":"status","from":"O","to":"C"}
 {"at":"2026-11-22T14:15:45.983Z","ticket":"CAS-0275543","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-22T14:15:45.983Z","ticket":"CAS-0275543","field":"reply","from":"","to":"Nespecificat Registratura LA MOMENTUL VERIFICARILOR IN LOCATIE,AUTO IN CAUZA NU A FOST DEPISTAT"}
+{"at":"2026-11-22T14:30:50.375Z","ticket":"CAS-0276124","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-22T14:30:50.375Z","ticket":"CAS-0276110","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T14:30:50.375Z","ticket":"CAS-0276110","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T14:30:50.375Z","ticket":"CAS-0276110","field":"reply","from":"","to":"Nespecificat Registratura  - la ora verificarii in teren a sesizarii , auto indicat in reclamatie nu se mai afla in locatia indicata ."}
