@@ -4163,3 +4163,13 @@
 {"at":"2026-11-22T14:30:50.375Z","ticket":"CAS-0276110","field":"status","from":"O","to":"C"}
 {"at":"2026-11-22T14:30:50.375Z","ticket":"CAS-0276110","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-22T14:30:50.375Z","ticket":"CAS-0276110","field":"reply","from":"","to":"Nespecificat Registratura  - la ora verificarii in teren a sesizarii , auto indicat in reclamatie nu se mai afla in locatia indicata ."}
+{"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276128","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276117","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276117","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276117","field":"reply","from":"","to":"Nespecificat Registratura - locul de parcare indicat de catre petent este un loc de parcare nominal  de resedinta . In speta nu se pot lua masuri , privind aspectele sesizate , decat la reclamatia facuta de catre titularul autorizatiei locului de parcare nominal  de resedinta ."}
+{"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276114","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276114","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276114","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE A FOST GASIT IN LOCATIE. A FOST INTOCMIT PROCES VERBAL DE CONSTATARE SI S-A AFISAT INSTIINTARE PE PARBRIZ, URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII."}
+{"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276113","field":"status","from":"O","to":"C"}
+{"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276113","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-22T14:45:43.546Z","ticket":"CAS-0276113","field":"reply","from":"","to":"Nespecificat Registratura IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE."}

@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Brățării</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Brățării</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276131</link>
+    <guid isPermaLink="false">CAS-0276131</guid>
+    <pubDate>Sun, 22 Nov 2026 14:45:37 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Altă zi, aceeași mașină cu numere roșii de Buzău parcată pe zona hașurată de la trecerea de pietoni.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Brățării</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276023</link>
     <guid isPermaLink="false">CAS-0276023</guid>
@@ -635,14 +643,6 @@ Vă mulțumim!</description>
 Locul este în fața complexului Titan Ștefan Residence, Drumul Gura Siriului 
 Se poate elibera? 
 Mulțumesc!</description>
-  </item>
-  <item>
-    <title>Toaletare/Tăiere arbori · În lucru · Brățării</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0272337</link>
-    <guid isPermaLink="false">CAS-0272337</guid>
-    <pubDate>Sat, 07 Nov 2026 15:25:57 GMT</pubDate>
-    <category>Toaletare/Tăiere arbori</category>
-    <description>Buna ziua, Am tot facut sesizari si in primavara si in toamna pentru toaletarea pomilor din parcarea situata in spagele blocului Pm70 la scara 2,dar fara nici o rezolutie pana in prezent! Saptamana aceasta am gasit pe masina crengi rupte din copaci ! Va rugam sa toaletati pomii avand in vedere ca suntem in noiembrie si deja este repaus vegetativ! Multumim frumos</description>
   </item>
 </channel>
 </rss>
