@@ -6,6 +6,24 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Spații verzi · Noua · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276262</link>
+    <guid isPermaLink="false">CAS-0276262</guid>
+    <pubDate>Mon, 23 Nov 2026 08:15:34 GMT</pubDate>
+    <category>Spații verzi</category>
+    <description>Nu doresc amenajarea niciunui parc c-form consultării publice transmise de Primaria S3: nici a parcului IOR, nici a parcului Titanii, nici a parcului Gh. Petrașcu. Lăsați parcurile în pace.</description>
+  </item>
+  <item>
+    <title>Spații verzi · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276261</link>
+    <guid isPermaLink="false">CAS-0276261</guid>
+    <pubDate>Mon, 23 Nov 2026 08:07:29 GMT</pubDate>
+    <category>Spații verzi</category>
+    <description>Buna dimineata,  
+Va rog sa ne ajutati cu strângerea frunzelor, cracilor rupte din gradina asociatiei de proprietari bloc 61. 
+Va mulțumesc!</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Cartierul Evreiesc</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276260</link>
     <guid isPermaLink="false">CAS-0276260</guid>
@@ -197,7 +215,7 @@ Răspuns: sesizare incompleta </description>
     <description>Iar au fost depozitate obiecte de mobilier și diverse gunoaie și pe spațiul verde.</description>
   </item>
   <item>
-    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276241</link>
     <guid isPermaLink="false">CAS-0276241</guid>
     <pubDate>Mon, 23 Nov 2026 05:52:20 GMT</pubDate>
@@ -206,7 +224,9 @@ Răspuns: sesizare incompleta </description>
 
 Aceasta masina ne încurcă la întrarea și ieșirea din parcare de pe locurile noastre nominale. A fost contactat și de alți vecini și se pare ca tot asa parchează de încurcă și circulația. Va rugam sa luați masuri.
 
-Va multumes!</description>
+Va multumes!
+
+Răspuns: AM APLICAT MASURILE LEGALE </description>
   </item>
   <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
@@ -559,23 +579,6 @@ Va multumesc!</description>
     <pubDate>Sun, 22 Nov 2026 20:16:37 GMT</pubDate>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>parcarea cod625,luni16.11.2026</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276202</link>
-    <guid isPermaLink="false">CAS-0276202</guid>
-    <pubDate>Sun, 22 Nov 2026 20:16:23 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Mașina parcată pe trotuar , nu există loc să trecem pe lângă ea . Este parcată de 4 zile , am făcut o sesizare telefonică acum 2 zile și încă o sesizare aici pe platformă ieri .
-Vă rog să luați măsurile legale și să o ridicați deoarece nu se poate trece cu căruciorul de copil pe lângă această mașină parcată pe trotuar .</description>
-  </item>
-  <item>
-    <title>Unități de Învățământ(probleme administrative) · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276201</link>
-    <guid isPermaLink="false">CAS-0276201</guid>
-    <pubDate>Sun, 22 Nov 2026 20:14:54 GMT</pubDate>
-    <category>Unități de Învățământ(probleme administrative)</category>
-    <description>Pe terasa tehnică a școlii 149 există un proiector puternic care se aprinde și se stinge la fiecare 25 secunde. Este deranjant noaptea.</description>
   </item>
 </channel>
 </rss>
