@@ -4553,3 +4553,6 @@
 {"at":"2026-11-23T10:45:38.645Z","ticket":"CAS-0276283","field":"status","from":"O","to":"C"}
 {"at":"2026-11-23T10:45:38.645Z","ticket":"CAS-0276283","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-23T10:45:38.645Z","ticket":"CAS-0276283","field":"reply","from":"","to":"Nespecificat Registratura In urma verificarilor, autoturismul in cauza a fost identificat dar nu incalca prevederile legale, acesta detine abonament valabil pentru locurile nenominale"}
+{"at":"2026-11-23T11:01:03.581Z","ticket":"CAS-0276267","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T11:01:03.581Z","ticket":"CAS-0276267","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-23T11:01:03.581Z","ticket":"CAS-0276267","field":"reply","from":"","to":"Nespecificat Registratura AM APLICAT MASURILE LEGALE "}
