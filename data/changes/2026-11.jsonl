@@ -4532,3 +4532,6 @@
 {"at":"2026-11-23T09:01:04.818Z","ticket":"CAS-0276264","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
 {"at":"2026-11-23T09:01:04.818Z","ticket":"CAS-0276264","field":"reply","from":"","to":"Nespecificat Registratura sesizare incompleta "}
 {"at":"2026-11-23T09:45:40.515Z","ticket":"CAS-0276275","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
+{"at":"2026-11-23T10:15:41.499Z","ticket":"CAS-0276234","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T10:15:41.499Z","ticket":"CAS-0276234","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-23T10:15:41.499Z","ticket":"CAS-0276234","field":"reply","from":"","to":"Trimis raspuns Buna ziua, \nUrmare sesizarii dumneavoastra, va comunicam faptul ca aspectele au fost solutionate de catre echipele noastre din teren.\nCu consideratie,\nDirectia Generala fde Salubritate Sector 3. "}
