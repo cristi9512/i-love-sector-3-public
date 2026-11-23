@@ -6,6 +6,42 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · Noua · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276275</link>
+    <guid isPermaLink="false">CAS-0276275</guid>
+    <pubDate>Mon, 23 Nov 2026 09:29:33 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare neregulamentara</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276274</link>
+    <guid isPermaLink="false">CAS-0276274</guid>
+    <pubDate>Mon, 23 Nov 2026 09:28:51 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare neregulamentara</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Trapezului</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276273</link>
+    <guid isPermaLink="false">CAS-0276273</guid>
+    <pubDate>Mon, 23 Nov 2026 09:26:49 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Buna ziua,
+
+As dori sa solicit catre dumneavoastra inlocuirea stalpisorilor montati pe totuar, acestia au fost rupti, masinile parcheaza pe trotuar si blocheaza circulatia pietonilor si accesul masinilor de gunoi pentru a ridica gunoiul.
+
+Va multumesc!</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276272</link>
+    <guid isPermaLink="false">CAS-0276272</guid>
+    <pubDate>Mon, 23 Nov 2026 09:23:56 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276271</link>
     <guid isPermaLink="false">CAS-0276271</guid>
@@ -542,47 +578,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA, PERSOANA FARA ADAPOST
     <pubDate>Sun, 22 Nov 2026 21:16:11 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>parcare zona hașurată. Nici nu pot deschide ușa de pe partea dreaptă. Va rog faceți ceva cu zona aceasta. Solicit montare stâlpișori. Întotdeauna cineva parchează acolo cu zilele, nu 15 minute. Mulțumesc!</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276215</link>
-    <guid isPermaLink="false">CAS-0276215</guid>
-    <pubDate>Sun, 22 Nov 2026 20:56:51 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>Niste copii tipa in parc la ora 23 
-Este foarte deranjant
-
-Răspuns: CA URMARE A SESIZARII DUMNEAVOASTRA, AU FOST EFECTUATE VERIFICARI IN TEREN,PRIN PATRULAREA SI MONITORIZAREA ZONEI INDICATE . IN URMA VERIFICARILOR EFECTUATE, LA MOMENTUL CONTROLULUI, NU AU FOST CONSTATATE FAPTELE SEMNALATE. LOCATIA VA RAMANE IN ATENTIA POLITISTILOR LOCALI DIN CADRUL DIRECTIEI  ORDINE PUBLICA SI CONTROL.VA MULTUMIM!</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276214</link>
-    <guid isPermaLink="false">CAS-0276214</guid>
-    <pubDate>Sun, 22 Nov 2026 20:50:59 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276213</link>
-    <guid isPermaLink="false">CAS-0276213</guid>
-    <pubDate>Sun, 22 Nov 2026 20:50:11 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276212</link>
-    <guid isPermaLink="false">CAS-0276212</guid>
-    <pubDate>Sun, 22 Nov 2026 20:49:39 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</description>
   </item>
 </channel>
 </rss>
