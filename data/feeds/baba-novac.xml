@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276230</link>
+    <guid isPermaLink="false">CAS-0276230</guid>
+    <pubDate>Mon, 23 Nov 2026 04:06:47 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Deseuri pe trotuar</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276229</link>
+    <guid isPermaLink="false">CAS-0276229</guid>
+    <pubDate>Mon, 23 Nov 2026 04:06:15 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Auto parcate pe trotuar</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276225</link>
     <guid isPermaLink="false">CAS-0276225</guid>
@@ -563,24 +579,6 @@ Răspuns: LA MOMENTUL VERIFICARILOR IN TEREN. AUTO SESIZAT NU A MAI FOST IDENTIF
     <pubDate>Fri, 20 Nov 2026 09:22:09 GMT</pubDate>
     <category>Altele</category>
     <description>Schimbarea numarului de inmatriculare pentru locul de parcare</description>
-  </item>
-  <item>
-    <title>Trasare parcare · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275638</link>
-    <guid isPermaLink="false">CAS-0275638</guid>
-    <pubDate>Fri, 20 Nov 2026 08:56:20 GMT</pubDate>
-    <category>Trasare parcare</category>
-    <description>Buna ziua, in urma lucrarilor de reparatii efectuate in parcarea aferenta blocului 34A, sc F, din Str.Campia Libertatii nr 64, este necesara retrasarea liniilor de parcare si numerotarea aferenta.Atasez poze in acest sens.Multumesc!</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275630</link>
-    <guid isPermaLink="false">CAS-0275630</guid>
-    <pubDate>Fri, 20 Nov 2026 08:38:37 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Autoturisme parcate pe trotuar aproape in fiecare seara si dimineata, blocheaza accesul pietonilor la trecere.
-
-Răspuns: In locatie  au fost dispuse masurile legale conform OUG 195/2002 r</description>
   </item>
 </channel>
 </rss>
