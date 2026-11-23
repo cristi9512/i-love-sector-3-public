@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276280</link>
+    <guid isPermaLink="false">CAS-0276280</guid>
+    <pubDate>Mon, 23 Nov 2026 09:37:44 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276279</link>
+    <guid isPermaLink="false">CAS-0276279</guid>
+    <pubDate>Mon, 23 Nov 2026 09:35:31 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276278</link>
+    <guid isPermaLink="false">CAS-0276278</guid>
+    <pubDate>Mon, 23 Nov 2026 09:34:20 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul M........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Stationare neregulamentara · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276251</link>
     <guid isPermaLink="false">CAS-0276251</guid>
@@ -710,30 +734,6 @@ Răspuns: In locatie  au  fost  aplicate  masurile  legale  conform  OUG 195/200
     <description>Vă sesizez o parcare neregulamentară B 242 WZI pe loc marcat la sol ca fiind Oprire interzisă str.Breaza bloc V15.
 
 Răspuns: La  fata  locului  au  fost  dispuse  masurile  legale conform OUG 195/2002 r </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275468</link>
-    <guid isPermaLink="false">CAS-0275468</guid>
-    <pubDate>Thu, 19 Nov 2026 16:57:36 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masini care blocheaza traficul pietonal</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275433</link>
-    <guid isPermaLink="false">CAS-0275433</guid>
-    <pubDate>Thu, 19 Nov 2026 15:17:00 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară CL 58 DOR, în zona de acțiune a indicatoarelor de Oprirea interzisă pe str.Breaza imobil nr.78-nr.80,  pe contrasens.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275432</link>
-    <guid isPermaLink="false">CAS-0275432</guid>
-    <pubDate>Thu, 19 Nov 2026 15:14:37 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 850 YVA blocând accesul pietonilor pe trotuar în special cei cu cărucioare intr.Cortinei vis-a-vis de punct termic și punct ApaNova.  Au fost mai multe sesizări în acest sens.</description>
   </item>
 </channel>
 </rss>
