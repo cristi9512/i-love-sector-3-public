@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276271</link>
+    <guid isPermaLink="false">CAS-0276271</guid>
+    <pubDate>Mon, 23 Nov 2026 09:11:54 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Verificări construcții/Lucrări neautorizate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276270</link>
+    <guid isPermaLink="false">CAS-0276270</guid>
+    <pubDate>Mon, 23 Nov 2026 09:10:32 GMT</pubDate>
+    <category>Verificări construcții/Lucrări neautorizate</category>
+    <description>Sta sa cada</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276269</link>
+    <guid isPermaLink="false">CAS-0276269</guid>
+    <pubDate>Mon, 23 Nov 2026 09:07:17 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Cum să parchezi în halul ăsta …</description>
+  </item>
+  <item>
     <title>Spații verzi · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276268</link>
     <guid isPermaLink="false">CAS-0276268</guid>
@@ -559,36 +583,6 @@ Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</descripti
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Ordine și liniște publică · Rezolvată Favorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276211</link>
-    <guid isPermaLink="false">CAS-0276211</guid>
-    <pubDate>Sun, 22 Nov 2026 20:41:51 GMT</pubDate>
-    <category>Ordine și liniște publică</category>
-    <description>zilnic se abandonează gunoaie lângă acest punct trafo. am făcut zeci de plângeri. va rog sa găsiți o metodă pentru identificarea celor care lasă mizerie pe domeniul public.
-
-Răspuns: NU A FOST DEPISTATA LOCATIA DE UNDE PROVIN DESEURILE
-A FOST ANUNTAT DISPECERATUL PENTRU A LUA LEGATURA CU LUCRATORII SDZ</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276210</link>
-    <guid isPermaLink="false">CAS-0276210</guid>
-    <pubDate>Sun, 22 Nov 2026 20:37:25 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul T........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO IN CAUZA NU SE AFLA IN LOCATIE LA MOMENTUL VERIFICARII</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276209</link>
-    <guid isPermaLink="false">CAS-0276209</guid>
-    <pubDate>Sun, 22 Nov 2026 20:37:12 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna seara, avem un bec la iluminatul public pe strada Soldat Constantin Teodorescu la numarul 9, care din 5 in 5 minute se stinge, va rog sa ii anuntati pe cei care se ocupa sa vina sa il schimbe!
-Va multumesc!</description>
   </item>
 </channel>
 </rss>

@@ -6,6 +6,22 @@
   <description>Cele mai noi sesizări din zona Dristor</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276271</link>
+    <guid isPermaLink="false">CAS-0276271</guid>
+    <pubDate>Mon, 23 Nov 2026 09:11:54 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dristor</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276269</link>
+    <guid isPermaLink="false">CAS-0276269</guid>
+    <pubDate>Mon, 23 Nov 2026 09:07:17 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Cum să parchezi în halul ăsta …</description>
+  </item>
+  <item>
     <title>Spații verzi · În lucru · Dristor</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276261</link>
     <guid isPermaLink="false">CAS-0276261</guid>
@@ -555,29 +571,6 @@ Răspuns: AUTO RECLAMAT A FOST DEPISTAT IN LOCATIE,AU FOST APLICATE MASURILE LEG
     <category>Stationare neregulamentara</category>
     <description>A parcat în zona pentru călătorii STB și a rupt și un stâlp ca să poată intra în locul respectiv.
 Str. Dristorului nr. 114, stația STB.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275423</link>
-    <guid isPermaLink="false">CAS-0275423</guid>
-    <pubDate>Thu, 19 Nov 2026 14:48:21 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: LA MOMENTUL VERIFICARII,AUTO IN CAUZA,NU SE AFLA IN LOCATIE</description>
-  </item>
-  <item>
-    <title>Altele · Rezolvată Favorabil · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275369</link>
-    <guid isPermaLink="false">CAS-0275369</guid>
-    <pubDate>Thu, 19 Nov 2026 10:56:17 GMT</pubDate>
-    <category>Altele</category>
-    <description>in momentul punerii in funcțiune al &quot;EasyBox-ului&quot; persoanele care s-au ocupat au luat &quot;gunoiul din dreptul lui si l-au pus pe trotuar.  ne ajutați va rog cu masuri, curățenie,  etc. Trotuarul spre grădiniță 239 are mizerie deseuri constructii pe el. Mulțumim.
-
-Răspuns: Trimis raspuns Buna ziua,
-Aspectele care intra in aria de competenta a Directiei Generale de Salubritate Sector 3, au fost transmise echipelor operationale din teren in vederea salubrizarii zonei respective.
-Cu stima,
- </description>
   </item>
 </channel>
 </rss>
