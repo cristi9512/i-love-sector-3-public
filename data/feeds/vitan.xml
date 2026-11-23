@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276286</link>
+    <guid isPermaLink="false">CAS-0276286</guid>
+    <pubDate>Mon, 23 Nov 2026 09:56:16 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Parcare neregulamentară, blocare parcare privata bloc</description>
+  </item>
+  <item>
     <title>Străzi · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276266</link>
     <guid isPermaLink="false">CAS-0276266</guid>
@@ -656,16 +664,6 @@ Cu stima,
 Iarăși sunt mașini parcate în fața locurilor ceeea face foarte dificil parcarea și ieșirea din locurile plătite.
 Nu există niciun semn care sa interzică parcarea pe trotuarul aleii.
 Solicit măsuri care să rezolve definitiv situația</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274988</link>
-    <guid isPermaLink="false">CAS-0274988</guid>
-    <pubDate>Tue, 17 Nov 2026 18:55:30 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Autoturismul nu este în locație.</description>
   </item>
 </channel>
 </rss>
