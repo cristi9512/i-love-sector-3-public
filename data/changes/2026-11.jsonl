@@ -4452,3 +4452,6 @@
 {"at":"2026-11-23T00:00:59.515Z","ticket":"CAS-0275882","field":"status","from":"O","to":"C"}
 {"at":"2026-11-23T00:00:59.515Z","ticket":"CAS-0275882","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-23T00:00:59.515Z","ticket":"CAS-0275882","field":"reply","from":"","to":"Nespecificat Registratura Buna diminata! Va multumim pentru sesizare.Verificarile în teren se vor realiza în termenul legal,în limita capacitatii tehnice,logistice si umane a Serviciului Circulatie."}
+{"at":"2026-11-23T02:30:45.705Z","ticket":"CAS-0276072","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T02:30:45.705Z","ticket":"CAS-0276072","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-23T02:30:45.705Z","ticket":"CAS-0276072","field":"reply","from":"","to":"Nespecificat Registratura Buna dimineata! Au fost aplicate masurile legale."}
