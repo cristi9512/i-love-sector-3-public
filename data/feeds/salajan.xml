@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Mașini abandonate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276291</link>
+    <guid isPermaLink="false">CAS-0276291</guid>
+    <pubDate>Mon, 23 Nov 2026 10:21:11 GMT</pubDate>
+    <category>Mașini abandonate</category>
+    <description>Buna ziua!
+Pe Strada Firidei in dreptul imobilului cu nr. 4 se afla aceste 2 masini abandonate de cateva luni pe domeniul public. Masinile nu au asigurare obligatorie valabila. Va rog sa eliberati domeniul public de aceste epave care zac aici de luni de zile.</description>
+  </item>
+  <item>
     <title>Altele · În lucru · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276258</link>
     <guid isPermaLink="false">CAS-0276258</guid>
@@ -577,16 +586,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE F
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Sesizarea dumneavoastră a fost preluată și verificată la ora 18.20 autovehiculul la care faceți referire fiind depistat în locație. A fost întocmit proces verbal de constatare și aplicată înștiințare pe parbriz urmând ca utilizatorul autovehiculului să fie identificat și sancționat conform HCLS3 346/2022.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275725</link>
-    <guid isPermaLink="false">CAS-0275725</guid>
-    <pubDate>Fri, 20 Nov 2026 15:40:01 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE FACETI REFERIRE A FOST IDENTIFICAT IN LOCATIE ,MOTIV PENTRU CARE AM INTOCMIT PROCES VERBAL DE CONSTATARE SI APLICAT INSTIINTARE IN PARBRIZ ,URMAND A FI APLICATE MASURILE LEGALE CE SE IMPUN IN ASTFEL DE SITUATII.VA MULTUMIM!</description>
   </item>
 </channel>
 </rss>

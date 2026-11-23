@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Dudeşti</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276292</link>
+    <guid isPermaLink="false">CAS-0276292</guid>
+    <pubDate>Mon, 23 Nov 2026 10:26:22 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>De luni de zile,mai este puțin și face un an de zile acest autoturism parchează la întrarea din spatele blocului D19A,Caloian Județu 8,dar la sesizările anterioare răspunsul a fost,închisă rezolvată favorabil,sau mai bine spus așteptăm sărbătorile de iarnă.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276280</link>
     <guid isPermaLink="false">CAS-0276280</guid>
@@ -724,16 +732,6 @@ Răspuns: In locatie  au  fost  aplicate  masurile  legale  conform  OUG 195/200
     <description>Vă sesizez o parcare neregulamentară TL 05 FBY blocând accesul pietonilor pe trotuar în special cei cu cărucioare str.Breaza bloc V15.
 
 Răspuns: In locatie  au  fost  aplicate  masurile  legale  conform  OUG 195/2002  r </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Dudeşti</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275575</link>
-    <guid isPermaLink="false">CAS-0275575</guid>
-    <pubDate>Fri, 20 Nov 2026 05:51:25 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Vă sesizez o parcare neregulamentară B 242 WZI pe loc marcat la sol ca fiind Oprire interzisă str.Breaza bloc V15.
-
-Răspuns: La  fata  locului  au  fost  dispuse  masurile  legale conform OUG 195/2002 r </description>
   </item>
 </channel>
 </rss>
