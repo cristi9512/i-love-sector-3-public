@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Ozana</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Ozana</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276294</link>
+    <guid isPermaLink="false">CAS-0276294</guid>
+    <pubDate>Mon, 23 Nov 2026 10:42:13 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Spații verzi · În lucru · Ozana</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276268</link>
     <guid isPermaLink="false">CAS-0276268</guid>
@@ -627,15 +635,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA,AUTOTURISMUL LA CARE F
     <category>Stationare neregulamentara</category>
     <description>motocicleta parcată în scara blocului 
 Theodor Pallady Nr 35. Bl. N2 ,Sc2</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275710</link>
-    <guid isPermaLink="false">CAS-0275710</guid>
-    <pubDate>Fri, 20 Nov 2026 14:59:43 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Bună ziua,
-As dori să solicit amplasarea măcar a unui coș de gunoi stradal pe trotuarul din jurul grădiniței 196. Nu există niciun loc unde să se poată arunca ceva, nici măcar pe străduțele adiacente. Este mereu plin de chiștoace și alte gunoaie pt că lumea nu are unde arunca cât timp așteaptă să ia copiii de la grădiniță. Mulțumesc</description>
   </item>
 </channel>
 </rss>
