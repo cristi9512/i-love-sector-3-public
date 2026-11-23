@@ -7,6 +7,22 @@
   <language>ro</language>
   <item>
     <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276236</link>
+    <guid isPermaLink="false">CAS-0276236</guid>
+    <pubDate>Mon, 23 Nov 2026 05:33:05 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>autovehicule parcate in interiorul intersectiei</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276235</link>
+    <guid isPermaLink="false">CAS-0276235</guid>
+    <pubDate>Mon, 23 Nov 2026 05:31:11 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>autovehicule parcate in zona de stationare interzisa</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276222</link>
     <guid isPermaLink="false">CAS-0276222</guid>
     <pubDate>Sun, 22 Nov 2026 22:18:36 GMT</pubDate>
@@ -610,28 +626,6 @@ Astept aplicarea prevederilor legale înaintea vreunui răspuns.</description>
 
 Răspuns: Buna seara,
 In urma verificarilor efectuate locul de parcare indicat conform marcajelor vizibile afisate la sol, nu figureaza a fi un loc nenominal, vom transmite catre serviciul abilitat in vederea retrasarii marcajelor.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275784</link>
-    <guid isPermaLink="false">CAS-0275784</guid>
-    <pubDate>Fri, 20 Nov 2026 18:37:22 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: Buna seara,
-La momentul efectuarii verificarilor aspectele sesizate nu se confirma, autoturismul reclamat a parasit locatia indicata.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Favorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275783</link>
-    <guid isPermaLink="false">CAS-0275783</guid>
-    <pubDate>Fri, 20 Nov 2026 18:36:33 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: Buna seara,
-La momentul efectuarii verificarilor aspectele sesizate se confirma, asupra autoturismului reclamat au fost aplicate masurile legale.</description>
   </item>
 </channel>
 </rss>
