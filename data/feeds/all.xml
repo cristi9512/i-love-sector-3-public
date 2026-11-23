@@ -6,7 +6,23 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Baba Novac</title>
+    <title>Parcari ocupate · Noua · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276246</link>
+    <guid isPermaLink="false">CAS-0276246</guid>
+    <pubDate>Mon, 23 Nov 2026 06:15:29 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276245</link>
+    <guid isPermaLink="false">CAS-0276245</guid>
+    <pubDate>Mon, 23 Nov 2026 06:06:20 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276244</link>
     <guid isPermaLink="false">CAS-0276244</guid>
     <pubDate>Mon, 23 Nov 2026 06:00:57 GMT</pubDate>
@@ -14,12 +30,14 @@
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276243</link>
     <guid isPermaLink="false">CAS-0276243</guid>
     <pubDate>Mon, 23 Nov 2026 05:57:53 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: sesizare incompleta </description>
   </item>
   <item>
     <title>Spații verzi · În lucru · Balta Albă - Titan</title>
@@ -58,12 +76,14 @@ Va multumes!</description>
     <description>Vă sesizez o parcare neregulamentară B 64 ECT blocând accesul pietonilor pe trotuar în special cei cu cărucioare intr.Trubadurului nr.2-2a.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Dudeşti</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276238</link>
     <guid isPermaLink="false">CAS-0276238</guid>
     <pubDate>Mon, 23 Nov 2026 05:40:58 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
+
+Răspuns: au fost luate masurile legale</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Sălăjan</title>
@@ -109,12 +129,14 @@ Vă sesizez această problemă însemnată, cel mai probabil rezultatul unei ren
 Răspuns: Lipsește fotografia necesară verificării și soluționării sesizării. Vă rugăm să reveniți cu sesizarea, atașând cel puțin o fotografie a vehiculului reclamat, din care să reiasă atât numărul de înmatriculare, cât și tipul parcării de reședință.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276232</link>
     <guid isPermaLink="false">CAS-0276232</guid>
     <pubDate>Mon, 23 Nov 2026 04:41:20 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+    <description>Autovehiculul cu numarul I........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
+
+Răspuns: Autoturismul reclamat se afla in locatia semnalizata. Datorita sesizarilor in lucru si traficului rutier am reusit sa dam curs sesizarii dupa ora 08:00 . Autoturismul in cauza detine abonament in intervalul 08:00-18:00 motiv pentru care nu au putut fi aplicate masuri. Locatia si autoturismul raman in atentia politistilor locali pentru verificari in intervalul 18:00-08:00 . Va multumim ! </description>
   </item>
   <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Balta Albă - Titan</title>
@@ -547,24 +569,6 @@ Vă mulțumesc!</description>
     <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona B-6, precum și pentru zonele B-11,B-5,B-7,C-1,
 
 Răspuns: LIPSA FOTOGRAFIE NECESARA VERIFICARII SI SOLUTIONARII SESIZARII. REVENITI CU SESIZARE ATASAND MINIM O FOTOGRAFIE DIN CARE SA REIASA ATAT NUMARUL DE INMATRICULARE AL AUTOTURISMULUI RECLAMAT CAT SI TIPUL DE PARCAJ DE RESEDINTA.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Ozana</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276186</link>
-    <guid isPermaLink="false">CAS-0276186</guid>
-    <pubDate>Sun, 22 Nov 2026 18:38:17 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul A........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: IN URMA VERIFICARILOR EFECTUATE, VEHICULUL LA CARE FACETI REFERIRE NU A MAI FOST GASIT IN LOCATIE.</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Cartierul Evreiesc</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276185</link>
-    <guid isPermaLink="false">CAS-0276185</guid>
-    <pubDate>Sun, 22 Nov 2026 18:35:50 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Asa arata Intrarea Cauzasi, in spate la Nova Post. Sunt foarte multi drogati care lasa extrem de multe gunoaie, isi fac nevoile aici, e si bezna in spate acolo ca Primaria nu a rezolvat problema de un an deja. Am mai facut o sesizare, dar nu se schimba nimic. Va rugam sa trimteti patrule des aici pana se rezolva problema, si echipe care sa stranga gunoaiele astea. Nu asa arata o zona centrala.</description>
   </item>
 </channel>
 </rss>

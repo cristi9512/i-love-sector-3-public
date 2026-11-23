@@ -6,7 +6,15 @@
   <description>Cele mai noi sesizări din zona Baba Novac</description>
   <language>ro</language>
   <item>
-    <title>Parcari ocupate · Noua · Baba Novac</title>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276245</link>
+    <guid isPermaLink="false">CAS-0276245</guid>
+    <pubDate>Mon, 23 Nov 2026 06:06:20 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276244</link>
     <guid isPermaLink="false">CAS-0276244</guid>
     <pubDate>Mon, 23 Nov 2026 06:00:57 GMT</pubDate>
@@ -571,14 +579,6 @@ Răspuns: LA MOMENTUL VERIFICARILOR IN TEREN. AUTO SESIZAT NU A MAI FOST IDENTIF
     <pubDate>Fri, 20 Nov 2026 11:43:34 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>masini parcate pe trotuar in fata oficului postal mihai bravu</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275664</link>
-    <guid isPermaLink="false">CAS-0275664</guid>
-    <pubDate>Fri, 20 Nov 2026 11:10:40 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua, doresc sa fac o sesizare legata de semafoarele de dupa pasaj. De cand au fost schimbate, este un mare haos si este foarte periculos. Pe prima banda, pe stalpul de langa trotuar a ramas doar semaforul pentru stanga, care nu are ce cauta la 4 benzi distanta. Absolut zilnic vad cum trec masini pe rosu, crezand ca semaforul de stanga e al lor, dar se si opresc la verde(semaforul de stanga fiind rosu) si incurca toata circulația. Am asistat multe seri la masini care trecand pe rosu era sa provoace accidente. Este clar ca problema este la pozitionarea semaforului, avand in vedere ca se intampla zilnic.</description>
   </item>
 </channel>
 </rss>

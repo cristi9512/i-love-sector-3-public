@@ -4482,3 +4482,13 @@
 {"at":"2026-11-23T06:00:57.795Z","ticket":"CAS-0275189","field":"status","from":"O","to":"C"}
 {"at":"2026-11-23T06:00:57.795Z","ticket":"CAS-0275189","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
 {"at":"2026-11-23T06:00:57.795Z","ticket":"CAS-0275189","field":"reply","from":"","to":"Nespecificat Registratura a fost aplicata instiintare informativa "}
+{"at":"2026-11-23T06:15:37.539Z","ticket":"CAS-0276243","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T06:15:37.539Z","ticket":"CAS-0276243","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Nefavorabil"}
+{"at":"2026-11-23T06:15:37.539Z","ticket":"CAS-0276243","field":"reply","from":"","to":"Nespecificat Registratura sesizare incompleta "}
+{"at":"2026-11-23T06:15:37.539Z","ticket":"CAS-0276232","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T06:15:37.539Z","ticket":"CAS-0276232","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-23T06:15:37.539Z","ticket":"CAS-0276232","field":"reply","from":"","to":"Nespecificat Registratura Autoturismul reclamat se afla in locatia semnalizata. Datorita sesizarilor in lucru si traficului rutier am reusit sa dam curs sesizarii dupa ora 08:00 . Autoturismul in cauza detine abonament in intervalul 08:00-18:00 motiv pentru care nu au putut fi aplicate masuri. Locatia si autoturismul raman in atentia politistilor locali pentru verificari in intervalul 18:00-08:00 . Va multumim ! "}
+{"at":"2026-11-23T06:15:37.539Z","ticket":"CAS-0276238","field":"status","from":"O","to":"C"}
+{"at":"2026-11-23T06:15:37.539Z","ticket":"CAS-0276238","field":"statusLabel","from":"Deschisă. În lucru","to":"Închisă. Rezolvată Favorabil"}
+{"at":"2026-11-23T06:15:37.539Z","ticket":"CAS-0276238","field":"reply","from":"","to":"Nespecificat Registratura au fost luate masurile legale"}
+{"at":"2026-11-23T06:15:37.539Z","ticket":"CAS-0276244","field":"statusLabel","from":"Noua","to":"Deschisă. În lucru"}
