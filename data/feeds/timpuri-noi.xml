@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Timpuri Noi</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Timpuri Noi</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276307</link>
+    <guid isPermaLink="false">CAS-0276307</guid>
+    <pubDate>Mon, 23 Nov 2026 11:50:26 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>parcare pe trotuar</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276296</link>
     <guid isPermaLink="false">CAS-0276296</guid>
@@ -209,12 +217,19 @@ Comunicarea unui calendar</description>
     <description>Bună dimineața am mai făcut o sesizare pentru acest părculeț să se ia măsuri să se pună lumină în părculețul acesta este foarte întuneric.</description>
   </item>
   <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Timpuri Noi</title>
+    <title>Deșeuri/Colectare selective/Salubritate · Rezolvată Parţial · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276027</link>
     <guid isPermaLink="false">CAS-0276027</guid>
     <pubDate>Sun, 22 Nov 2026 05:54:04 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Bună dimineața dacă dumneavoastră Vă place ce există la aceste pubele de gunoi nu au ca proprietari nu ne place faceți ceva închis fiecare să aibă o cartelă să arunce gunoi Nu se poate așa ceva umblă boschetarii ăștia în gunoaie de lasă numai mizerie pe jos</description>
+    <description>Bună dimineața dacă dumneavoastră Vă place ce există la aceste pubele de gunoi nu au ca proprietari nu ne place faceți ceva închis fiecare să aibă o cartelă să arunce gunoi Nu se poate așa ceva umblă boschetarii ăștia în gunoaie de lasă numai mizerie pe jos
+
+Răspuns: Trimis raspuns Buna ziua,
+Referitor la aspectele semnalate, vă comunicăm faptul că situația a fost transmisă echipelor operative din teren, în vederea verificării și asigurării colectării deșeurilor acumulate la punctul de colectare menționat.
+
+Totodată, vom urmări situația semnalată, în vederea identificării măsurilor necesare pentru îmbunătățirea activității de colectare și menținerea curățeniei în zonă.
+
+Cu consideratie, </description>
   </item>
   <item>
     <title>Străzi · În lucru · Timpuri Noi</title>
@@ -590,16 +605,6 @@ Multumesc</description>
     <category>Lucrari edilitare alei/trotuare</category>
     <description>Nerva Traian nr 5 bloc M65.
 In spatele blocului trotuarul de pe Emil Girleanu care da spre blocul m65 nu este terminat.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275385</link>
-    <guid isPermaLink="false">CAS-0275385</guid>
-    <pubDate>Thu, 19 Nov 2026 12:20:26 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: BUNA ZIUA,PENTRU A PUTEA DA CURS SESIZARII DVS. IN MOD EFICIENT,VA RUGAM CA ,PE VIITOR,SA NE FURNIZATI FOTOGRAFII CONCLUDENTE VIZAND ELEMENTELE DE INDIVIDUALIZARE ALE LOCULUI DE PARCARE MARCAT CORESPUNZATOR LA SOL,IN VEDEREA EFECTUARII VERIFICARILOR IN TIMP UTIL SI CU RESPECTAREA ATRIBUTIILOR LEGALE.VA MULTUMIM</description>
   </item>
 </channel>
 </rss>

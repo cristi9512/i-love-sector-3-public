@@ -1,18 +1,18 @@
 {
-  "lastRun": "2026-11-23T11:45:39.215Z",
-  "lastChange": "2026-11-23T11:45:39.215Z",
+  "lastRun": "2026-11-23T12:01:02.079Z",
+  "lastChange": "2026-11-23T12:01:02.079Z",
   "lastRunStats": {
     "windows": 6,
     "failedWindows": 0,
-    "fetched": 2884,
-    "added": 1,
-    "updated": 4,
+    "fetched": 2764,
+    "added": 3,
+    "updated": 34,
     "removed": 0,
-    "changes": 10
+    "changes": 102
   },
   "totals": {
-    "incidents": 46915,
-    "open": 2329,
+    "incidents": 46918,
+    "open": 2298,
     "months": [
       "2026-05",
       "2026-06",
@@ -25,14 +25,14 @@
   },
   "coverageFrom": "2026-05-05",
   "overdue": {
-    "asOf": "2026-11-23T11:45:39.215Z",
+    "asOf": "2026-11-23T12:01:02.079Z",
     "days": 30,
-    "open": 2329,
+    "open": 2298,
     "total": 245,
     "byCategory": {
       "2": {
         "name": "Parcari ocupate",
-        "open": 54,
+        "open": 51,
         "n": 7
       },
       "3": {
@@ -52,7 +52,7 @@
       },
       "6": {
         "name": "Deșeuri/Colectare selective/Salubritate",
-        "open": 109,
+        "open": 101,
         "n": 5
       },
       "7": {
@@ -62,27 +62,27 @@
       },
       "9": {
         "name": "Altele",
-        "open": 240,
+        "open": 239,
         "n": 24
       },
       "10": {
         "name": "Străzi",
-        "open": 442,
+        "open": 440,
         "n": 42
       },
       "11": {
         "name": "Parcuri",
-        "open": 61,
+        "open": 62,
         "n": 9
       },
       "12": {
         "name": "Trasare parcare",
-        "open": 35,
+        "open": 29,
         "n": 1
       },
       "13": {
         "name": "Unități de Învățământ(probleme administrative)",
-        "open": 10,
+        "open": 9,
         "n": 5
       },
       "14": {
@@ -107,7 +107,7 @@
       },
       "18": {
         "name": "Mediu/Calitatea Aerului",
-        "open": 20,
+        "open": 19,
         "n": 3
       },
       "19": {
@@ -142,7 +142,7 @@
       },
       "27": {
         "name": "Stationare neregulamentara",
-        "open": 665,
+        "open": 655,
         "n": 2
       },
       "32": {
