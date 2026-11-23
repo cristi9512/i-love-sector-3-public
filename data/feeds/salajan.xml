@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Sălăjan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276232</link>
+    <guid isPermaLink="false">CAS-0276232</guid>
+    <pubDate>Mon, 23 Nov 2026 04:41:20 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul I........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !</description>
+  </item>
+  <item>
     <title>Parcari ocupate · Rezolvată Favorabil · Sălăjan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276226</link>
     <guid isPermaLink="false">CAS-0276226</guid>
@@ -582,14 +590,6 @@ Viața și siguranța oamenilor trebuie să fie o prioritate! Nu așteptați să
     <pubDate>Fri, 20 Nov 2026 13:30:11 GMT</pubDate>
     <category>Parcuri</category>
     <description>stalpul din parcul de la intersectie prevederii cu nicolae grigorescu sta sa cada in capul cuiva</description>
-  </item>
-  <item>
-    <title>Altele · În lucru · Sălăjan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0275676</link>
-    <guid isPermaLink="false">CAS-0275676</guid>
-    <pubDate>Fri, 20 Nov 2026 12:02:44 GMT</pubDate>
-    <category>Altele</category>
-    <description>Buna ziua! Iluminatul stradal este defect pe Bulevardul Nicolae Grigorescu la numarul 34.</description>
   </item>
 </channel>
 </rss>
