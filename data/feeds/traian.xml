@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Traian</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Traian</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276265</link>
+    <guid isPermaLink="false">CAS-0276265</guid>
+    <pubDate>Mon, 23 Nov 2026 08:43:59 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 50</description>
+  </item>
+  <item>
     <title>Ordine și liniște publică · Rezolvată Favorabil · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276211</link>
     <guid isPermaLink="false">CAS-0276211</guid>
@@ -570,16 +578,6 @@ Răspuns: Declinat competenta Trimis spre competenta solutionare PMB- DGPLC Rasp
     <pubDate>Mon, 16 Nov 2026 09:08:03 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Blocare cale de acces parcări - Mercedes și Ford</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Traian</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274557</link>
-    <guid isPermaLink="false">CAS-0274557</guid>
-    <pubDate>Mon, 16 Nov 2026 08:56:05 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ a achitat tarif orar de parcare până la 22.11.2026 18:00.  Deține autorizație nominala de parcare pentru  locul 7
-
-Răspuns: In urma verificarilor am constatat ca autoturismul nu se afla in locatie.</description>
   </item>
 </channel>
 </rss>
