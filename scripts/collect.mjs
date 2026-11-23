@@ -31,7 +31,8 @@ const CONCURRENCY = 3;
 const TRACKED = ['status', 'statusLabel', 'reply', 'description', 'edited', 'category', 'categoryId', 'lat', 'lng'];
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
-const DATA = path.join(ROOT, 'data');
+// the archive folder; the data repository's workflow passes its own checkout
+const DATA = process.env.DATA_DIR ? path.resolve(process.env.DATA_DIR) : path.join(ROOT, 'data');
 const SITE_URL = process.env.SITE_URL || 'https://sesizari-sector3.vercel.app';
 const FEED_SIZE = 60;
 
