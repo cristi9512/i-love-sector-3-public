@@ -6,7 +6,26 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Stationare neregulamentara · Noua · Cioplea</title>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276252</link>
+    <guid isPermaLink="false">CAS-0276252</guid>
+    <pubDate>Mon, 23 Nov 2026 06:57:13 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-9, precum și pentru zonele A-10,A-8,</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Dudeşti</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276251</link>
+    <guid isPermaLink="false">CAS-0276251</guid>
+    <pubDate>Mon, 23 Nov 2026 06:54:06 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Vă sesizez parcarea neregulamentară a autoturismelor pe zona hașurată din fața ghenei de gunoi, pe strada Theodor Speranția, blocând accesul necesar colectării deșeurilor, deși există indicatoare vizibile de interzicere a parcării.
+
+Vă solicit verificarea situației, dispunerea măsurilor legale și asigurarea accesului permanent la ghena de gunoi.
+Anexez fotografii justificative.</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276250</link>
     <guid isPermaLink="false">CAS-0276250</guid>
     <pubDate>Mon, 23 Nov 2026 06:45:24 GMT</pubDate>
@@ -544,26 +563,6 @@ Vă rugăm să aplicați măsurile necesare pentru ca mașinile să nu mai parch
     <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE LA MOMENTUL VERIFICARII</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276192</link>
-    <guid isPermaLink="false">CAS-0276192</guid>
-    <pubDate>Sun, 22 Nov 2026 19:28:12 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: AUTO IN CAUZA NU SE AFLA IN LOCATIE LA MOMENTUL VERIFICARII</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Baba Novac</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276191</link>
-    <guid isPermaLink="false">CAS-0276191</guid>
-    <pubDate>Sun, 22 Nov 2026 19:24:39 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
-
-Răspuns: AUTO IN CAUZA NU SE AFLA IN LOCATIE LA MOMENTUL VERIFICARII</description>
   </item>
 </channel>
 </rss>

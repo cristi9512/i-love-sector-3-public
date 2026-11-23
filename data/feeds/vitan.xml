@@ -6,6 +6,14 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276252</link>
+    <guid isPermaLink="false">CAS-0276252</guid>
+    <pubDate>Mon, 23 Nov 2026 06:57:13 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul B........ Deține autorizație nenominala de parcare pentru  zona A-9, precum și pentru zonele A-10,A-8,</description>
+  </item>
+  <item>
     <title>Verificări construcții/Lucrări neautorizate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276247</link>
     <guid isPermaLink="false">CAS-0276247</guid>
@@ -654,16 +662,6 @@ Răspuns: Autoturismul nu este în locație.</description>
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: sesizare incompleta </description>
-  </item>
-  <item>
-    <title>Verificări construcții/Lucrări neautorizate · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274876</link>
-    <guid isPermaLink="false">CAS-0274876</guid>
-    <pubDate>Tue, 17 Nov 2026 13:08:35 GMT</pubDate>
-    <category>Verificări construcții/Lucrări neautorizate</category>
-    <description>Pe strada rarau nr 5 blocul V70,scara 1 ,apartament 3 se executa o reamenajare de apartament.Zgomotul mare facut de muncitori (baros,pikamer) indica aproape sigur ca se darama niste pereti.
-Va rog sa verificati legalitatea acestori lucrari din punct de vedere al disciplinei in constructii.
-Multumesc</description>
   </item>
 </channel>
 </rss>
