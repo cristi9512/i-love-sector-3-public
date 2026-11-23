@@ -6,6 +6,30 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Parcari ocupate · Noua · Baba Novac</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276304</link>
+    <guid isPermaLink="false">CAS-0276304</guid>
+    <pubDate>Mon, 23 Nov 2026 11:29:26 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul G........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
+    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276303</link>
+    <guid isPermaLink="false">CAS-0276303</guid>
+    <pubDate>Mon, 23 Nov 2026 11:17:46 GMT</pubDate>
+    <category>Deșeuri/Colectare selective/Salubritate</category>
+    <description>Aruncarea si strangerea abuziva a sacilor menajeri de catre echipa SECTOR 3 fie de frunze fie de alte deseuri in jurul copacului din fata parcarii. Dupa ce ca facilitarea intrarii si iesirii din parcari este greoaie datorita copacului, sunt lasati si saci de deseuri de catre echipa SECTOR 3 in jurul copacului cand pubelele sunt la 5 metrii distanta.</description>
+  </item>
+  <item>
+    <title>Parcari ocupate · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276302</link>
+    <guid isPermaLink="false">CAS-0276302</guid>
+    <pubDate>Mon, 23 Nov 2026 11:17:11 GMT</pubDate>
+    <category>Parcari ocupate</category>
+    <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Dudeşti</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276301</link>
     <guid isPermaLink="false">CAS-0276301</guid>
@@ -548,44 +572,6 @@ Răspuns: In urma verificarilor, autoturismul a fost identificat fiind intocmite
     <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: In urma verificarilor, autoturismul a fost identificat fiind intocmite documentele in vedera luarii masurilor legale.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276243</link>
-    <guid isPermaLink="false">CAS-0276243</guid>
-    <pubDate>Mon, 23 Nov 2026 05:57:53 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: sesizare incompleta </description>
-  </item>
-  <item>
-    <title>Spații verzi · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276242</link>
-    <guid isPermaLink="false">CAS-0276242</guid>
-    <pubDate>Mon, 23 Nov 2026 05:53:04 GMT</pubDate>
-    <category>Spații verzi</category>
-    <description>Iar au fost depozitate obiecte de mobilier și diverse gunoaie și pe spațiul verde.
-
-Răspuns: Trimis raspuns Bună ziua,
-Vă aducem la cunoştinţă faptul că aspectele prezentate au fost transmise echipelor operaționale din teren pentru identificarea şi remedierea aspectelor sesizate, în sensul soluționării acestora, conform competentelor instituţiei noastre.
-Cu deosebită consideratie,
-Direcţia Generală de Salubritate Sector 3
- </description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · Rezolvată Favorabil · Balta Albă - Titan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276241</link>
-    <guid isPermaLink="false">CAS-0276241</guid>
-    <pubDate>Mon, 23 Nov 2026 05:52:20 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Buna dimineata, 
-
-Aceasta masina ne încurcă la întrarea și ieșirea din parcare de pe locurile noastre nominale. A fost contactat și de alți vecini și se pare ca tot asa parchează de încurcă și circulația. Va rugam sa luați masuri.
-
-Va multumes!
-
-Răspuns: AM APLICAT MASURILE LEGALE </description>
   </item>
 </channel>
 </rss>
