@@ -6,7 +6,16 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
-    <title>Spații verzi · Noua · Balta Albă - Titan</title>
+    <title>Trasare parcare · În lucru · Malaxa - Faur</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276263</link>
+    <guid isPermaLink="false">CAS-0276263</guid>
+    <pubDate>Mon, 23 Nov 2026 08:17:33 GMT</pubDate>
+    <category>Trasare parcare</category>
+    <description>Rog trasare parcare loc persoană cu dizabilitate  din strada Aleea Barajul Bistriței Nr 7, Bl Z 5, sc 3, loc parcare Nr24.
+ Pentru a nu mai găsi parcarea ocupată rog montare indicator persoană cu dizabilitate.</description>
+  </item>
+  <item>
+    <title>Spații verzi · În lucru · Balta Albă - Titan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276262</link>
     <guid isPermaLink="false">CAS-0276262</guid>
     <pubDate>Mon, 23 Nov 2026 08:15:34 GMT</pubDate>
@@ -571,14 +580,6 @@ Va multumesc!</description>
     <pubDate>Sun, 22 Nov 2026 20:18:17 GMT</pubDate>
     <category>Stationare neregulamentara</category>
     <description>Masina parcata pe trotuar (B 331 TAM)</description>
-  </item>
-  <item>
-    <title>Lucrari edilitare alei/trotuare · În lucru · Dristor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276203</link>
-    <guid isPermaLink="false">CAS-0276203</guid>
-    <pubDate>Sun, 22 Nov 2026 20:16:37 GMT</pubDate>
-    <category>Lucrari edilitare alei/trotuare</category>
-    <description>parcarea cod625,luni16.11.2026</description>
   </item>
 </channel>
 </rss>
