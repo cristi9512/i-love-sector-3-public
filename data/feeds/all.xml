@@ -6,6 +6,27 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Sălăjan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276254</link>
+    <guid isPermaLink="false">CAS-0276254</guid>
+    <pubDate>Mon, 23 Nov 2026 07:13:43 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Pericol iminent! In mijlocul intersectiei Bd Nicolae Grigorescu cu bd Theodor Pallady, sensul de mers spre Dristor (bd Camil Ressu) este un capac de canal deteriorat, din care ies bare de fier-beton, orientate aproape orizontal. Riscul de accidente este iminent (pene de cauciuc, daune masini, accidentari motociclisti / biciclisti). Va rog sa interveniti urgent. 
+
+PS. Avand in vedere ca este in mijlocul intersectiei, nu am putut face poze</description>
+  </item>
+  <item>
+    <title>Stationare neregulamentara · În lucru · Cioplea</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276253</link>
+    <guid isPermaLink="false">CAS-0276253</guid>
+    <pubDate>Mon, 23 Nov 2026 07:03:13 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună dimineața! 
+O nouă săptămână un nou blocaj al tritoarulu cu acces spre grădiniță !
+
+În fiecare dimineață întâmpinăm probleme la aceste trepte … vă rog luați măsuri.</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276252</link>
     <guid isPermaLink="false">CAS-0276252</guid>
@@ -66,20 +87,25 @@ mulțumesc</description>
 Vă rog să verificați situația și să dispuneți măsurile necesare pentru remedierea acesteia.</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Malaxa - Faur</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Malaxa - Faur</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276246</link>
     <guid isPermaLink="false">CAS-0276246</guid>
     <pubDate>Mon, 23 Nov 2026 06:15:29 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: Am preluat și verificat sesizarea dumneavoastră la ora 09:05, însă, autoturismul în cauză nu a mai fost identificat în locație.
+Vă mulțumim!</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Baba Novac</title>
+    <title>Parcari ocupate · Rezolvată Favorabil · Baba Novac</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276245</link>
     <guid isPermaLink="false">CAS-0276245</guid>
     <pubDate>Mon, 23 Nov 2026 06:06:20 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: In urma verificarilor, autoturismul a fost identificat fiind intocmite documentele in vedera luarii masurilor legale.</description>
   </item>
   <item>
     <title>Parcari ocupate · În lucru · Baba Novac</title>
@@ -542,27 +568,6 @@ Răspuns: AM PRELUAT SI VERIFICAT SESIZAREA DUMNEAVOASTRA SI IN URMA ANALIZARII 
     <description>Autovehiculul cu numarul A........ parcare neplătită. Acest număr de înmatriculare are abonament plătit, dar se află în afara intervalului 08 00-18 00 !
 
 Răspuns: AUTO IN CAUZA NU SE AFLA IN LOCATIE LA MOMENTUL VERIFICARII</description>
-  </item>
-  <item>
-    <title>Deșeuri/Colectare selective/Salubritate · În lucru · Gurilor</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276194</link>
-    <guid isPermaLink="false">CAS-0276194</guid>
-    <pubDate>Sun, 22 Nov 2026 19:34:57 GMT</pubDate>
-    <category>Deșeuri/Colectare selective/Salubritate</category>
-    <description>Bună seara,
-
-Gunoiul nu a fost ridicat. Se poate face ceva în acest sens? Poate să vină zilnic? Cele 2 ghene îngropate deservesc mai multor blocuri și mereu sunt pline. 
-Vă rugăm să aplicați măsurile necesare pentru ca mașinile să nu mai parcheze lângă ghene și gunoiul să poată fi ridicat.</description>
-  </item>
-  <item>
-    <title>Parcari ocupate · Rezolvată Nefavorabil · Cioplea</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276193</link>
-    <guid isPermaLink="false">CAS-0276193</guid>
-    <pubDate>Sun, 22 Nov 2026 19:32:04 GMT</pubDate>
-    <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul I........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
-
-Răspuns: AUTO IN CAUZA NU SE MAI AFLA IN LOCATIE LA MOMENTUL VERIFICARII</description>
   </item>
 </channel>
 </rss>
