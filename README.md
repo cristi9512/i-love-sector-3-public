@@ -4,15 +4,19 @@ Live: https://sesizari-sector3.vercel.app
 
 A website that shows the public incident reports ("sesizări") from Primăria Sector 3's CityCare system
 **with the full description and the city's reply**, both of which the official map at
-https://iloves3.primarie3.ro/citycareweb/ hides. Every report is archived every 15 minutes in this repo, so the site
-also has **history, time-to-close and statistics** the official site doesn't.
+https://iloves3.primarie3.ro/citycareweb/ hides. Every report is archived every 15 minutes in a separate data
+repository, [cristi9512/i-love-sector-3-data](https://github.com/cristi9512/i-love-sector-3-data), so the site also has
+**history, time-to-close and statistics** the official site doesn't.
 
-No build step: static files (`index.html`, `styles.css`, `js/*.js`) plus JSON data in `data/`.
+Static files (`index.html`, `styles.css`, `js/*.js`). The browser loads the archive straight from the data repository
+(GitHub's raw file hosting). `npm run build` (run by Vercel on each deploy) copies the site to `dist/` and generates the
+monthly and neighbourhood pages, their preview images, the RSS feeds and the sitemap from the archive.
 
 ## Run locally
 
 ```bash
-python3 -m http.server 8517
+python3 -m http.server 8517        # the app, reading the archive from GitHub
+npm install && npm run build       # the generated pages, into dist/
 ```
 
 Then open http://localhost:8517.
@@ -59,16 +63,11 @@ Quirks: at most **1500** newest incidents per query (so requests are split into 
 bare number (`9` bad date, `10` missing parameter); incidents at almost the same spot come back as nested arrays.
 Photos attached to reports are not exposed by any public endpoint.
 
-## Data archive (`data/`)
+## Data archive
 
-`scripts/collect.mjs` saves every incident into the repo.
-
-| File | Contents |
-|---|---|
-| `data/incidents/YYYY-MM.json` | All incidents created that month, current state, one per line. Extra fields: `firstSeen`, `firstStatus`, `lastChanged`, `removedAt`, and `history` (see below). The website reads these. |
-| `data/changes/YYYY-MM.jsonl` | Full audit log, one line per change: `{at, ticket, field, from, to}`. Not deployed with the site. |
-| `data/feeds/*.xml` | RSS feeds (all + one per neighbourhood), `index.json` lists them. |
-| `data/meta.json` | Last run, stats, totals, `coverageFrom`. Only rewritten when data changed. |
+The archive and the job that fills it live in [cristi9512/i-love-sector-3-data](https://github.com/cristi9512/i-love-sector-3-data);
+its README describes the files. The collector code stays here (`scripts/collect.mjs`, `scripts/recurrence.mjs`): the
+data repository's workflow checks out this repository and runs it with `DATA_DIR` pointing at its own `data/` folder.
 
 `history` entries are `[time, kind, value?]`: `s` status changed to `value`, `r` reply added/changed, `d` description
 edited, `c` category changed, `x` deleted by city hall, `u` published again. Times are when the archive noticed.
@@ -76,40 +75,26 @@ edited, `c` category changed, `x` deleted by city hall, `u` published again. Tim
 Each run refreshes the last 4 days plus a rotating 7-day slice of the 4–180 days before, so every report from the
 last ~6 months is rechecked about every 6 hours when run every 15 minutes. Runs with no changes make no commit.
 
-**Branches.** Every run commits its data to the `archive` branch, which Vercel never deploys
-(`git.deploymentEnabled` in `vercel.json`). About once an hour the workflow fast-forwards `main` to `archive`, which
-deploys the site; this keeps data deploys near 24 a day, below Vercel Hobby's 100 deployments a day. Push code to
-`main` as usual; the next run merges it into `archive`. The site fetches the newest days live from the city, so
-the hour of delay only affects status changes of older reports.
-
 ```bash
-node scripts/collect.mjs                                   # regular run
-node scripts/collect.mjs --from 2026-01-01 --to 2026-03-31 # backfill a range
+DATA_DIR=../i-love-sector-3-data/data node scripts/collect.mjs                     # regular run into a local clone
+DATA_DIR=../i-love-sector-3-data/data node scripts/collect.mjs --from 2026-01-01    # backfill a range
 ```
 
-### Trigger every 15 minutes (cron-job.org)
+### Triggers
 
-The workflow `.github/workflows/collect.yml` has GitHub's own hourly schedule (minute 17, UTC) as a backup, which can be late or skipped
-when GitHub is busy, so it is also started from outside through the GitHub API. Overlapping runs queue instead of clashing.
-
-1. Create a **fine-grained personal access token** at https://github.com/settings/personal-access-tokens/new
-   - Repository access: *Only select repositories* → this repo
-   - Permissions → Repository → **Actions: Read and write** (nothing else)
-2. In cron-job.org create a job:
-   - URL: `https://api.github.com/repos/cristi9512/i-love-sector-3-public/actions/workflows/collect.yml/dispatches`
-   - Schedule: every 15 minutes
-   - Method: `POST`
-   - Headers: `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`, `X-GitHub-Api-Version: 2022-11-28`, `Content-Type: application/json`
-   - Body: `{"ref":"main"}`
-   - Success = HTTP `204`
-
-Backfills can be started by hand from the repo's **Actions** tab ("Run workflow", with from/to dates).
+- **Every 15 minutes:** cron-job.org calls the data repository's workflow through the GitHub API (fine-grained token
+  with *Actions: Read and write* on that repository only):
+  `POST https://api.github.com/repos/cristi9512/i-love-sector-3-data/actions/workflows/collect.yml/dispatches`,
+  headers `Authorization: Bearer <token>`, `Accept: application/vnd.github+json`, `X-GitHub-Api-Version: 2022-11-28`,
+  body `{"ref":"main"}` (success = HTTP `204`). GitHub's own hourly schedule is a backup.
+- **About once an hour:** the workflow calls a Vercel deploy hook (secret `VERCEL_DEPLOY_HOOK` in the data
+  repository), so the site rebuilds its generated pages. Code pushes to `main` here deploy as usual.
 
 ## Removal requests
 
 People ask for a report to be removed through the GitHub issue form (*Cerere de eliminare*, label `eliminare`), linked from the site's [Cum funcționează](https://sesizari-sector3.vercel.app/despre) page. To approve one:
 
-1. Add the ticket number to `tickets` in [data/suppressed.json](data/suppressed.json) and push to `main`.
-2. The site hides it right away (also in live data from the city). The next collector run deletes it from `data/incidents/` and `data/changes/` and never stores it again.
+1. Add the ticket number to `tickets` in `data/suppressed.json` in the [data repository](https://github.com/cristi9512/i-love-sector-3-data) and push.
+2. The site hides it within minutes (also in live data from the city). The next collector run deletes it from `data/incidents/` and `data/changes/` and never stores it again.
 3. Close the issue. The report is still in older commits of the git history; removing it from there would mean rewriting history.
 
