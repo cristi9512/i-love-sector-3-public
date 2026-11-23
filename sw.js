@@ -1,7 +1,7 @@
 // Offline support: the app shell is cached; everything is fetched network-first
 // so the archive is always fresh when online. Archive month files are not cached
 // (they are large); the last viewed data is lost offline, the shell still opens.
-const CACHE = 'sesizari-v8';
+const CACHE = 'sesizari-v9';
 const SHELL = ['./', 'index.html', 'styles.css', 'js/app.js', 'js/data.js', 'js/geo.js', 'js/i18n.js', 'js/insights.js', 'js/icons.js', 'js/theme.js', 'js/about.js', 'js/outcomes.js', 'js/report.js', 'js/pins.js', 'js/recurring.js', 'despre.html',
   'assets/sector3.json', 'assets/icon.svg', 'manifest.webmanifest'];
 

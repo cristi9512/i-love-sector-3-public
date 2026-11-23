@@ -19,7 +19,31 @@ const OUT = path.join(ROOT, 'dist');
 const SITE = process.env.SITE_URL || 'https://sesizari-sector3.vercel.app';
 const DAY = 864e5;
 const NOW = Date.now();
-const COPY = ['index.html', 'despre.html', 'styles.css', 'sw.js', 'manifest.webmanifest', 'js', 'assets', 'data'];
+const COPY = ['index.html', 'despre.html', 'styles.css', 'sw.js', 'manifest.webmanifest', 'js', 'assets'];
+// the archive lives in its own repository; a local folder (DATA_DIR) can be used instead
+const DATA_REPO = 'https://raw.githubusercontent.com/cristi9512/i-love-sector-3-data/main/data/';
+
+/** Downloads the archive files the build needs into a cache folder (not deployed). */
+async function getData() {
+  if (process.env.DATA_DIR) return path.resolve(process.env.DATA_DIR);
+  const dir = path.join(ROOT, '.data-cache');
+  await rm(dir, { recursive: true, force: true });
+  const get = async (rel, optional = false) => {
+    const r = await fetch(DATA_REPO + rel);
+    if (!r.ok) { if (optional) return null; throw new Error(`${rel}: HTTP ${r.status}`); }
+    const text = await r.text();
+    await mkdir(path.dirname(path.join(dir, rel)), { recursive: true });
+    await writeFile(path.join(dir, rel), text);
+    return text;
+  };
+  const meta = JSON.parse(await get('meta.json'));
+  await get('suppressed.json', true);
+  await get('recurrence.json', true);
+  const feeds = JSON.parse((await get('feeds/index.json', true)) || '[]');
+  await Promise.all(feeds.map((f) => get(`feeds/${f.file}`, true)));
+  await Promise.all((meta.totals?.months || []).map((m) => get(`incidents/${m}.json`)));
+  return dir;
+}
 
 /* ---------- helpers ---------- */
 const esc = (s) => String(s ?? '').replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -145,19 +169,23 @@ const table = (head, rows) => `<div class="table-wrap report-table"><table><thea
 async function main() {
   await rm(OUT, { recursive: true, force: true });
   await mkdir(OUT, { recursive: true });
-  for (const f of COPY) await cp(path.join(ROOT, f), path.join(OUT, f), { recursive: true, filter: (src) => !src.includes(`${path.sep}data${path.sep}changes`) });
+  for (const f of COPY) await cp(path.join(ROOT, f), path.join(OUT, f), { recursive: true });
+  const DATA = await getData();
+  // only the RSS feeds are served from the site; the rest is loaded from the data repository
+  await mkdir(path.join(OUT, 'data'), { recursive: true });
+  if (existsSync(path.join(DATA, 'feeds'))) await cp(path.join(DATA, 'feeds'), path.join(OUT, 'data', 'feeds'), { recursive: true });
   for (const d of ['og', 'raport', 'cartier']) await mkdir(path.join(OUT, d), { recursive: true });
 
-  const meta = JSON.parse(await readFile(path.join(ROOT, 'data', 'meta.json'), 'utf8'));
+  const meta = JSON.parse(await readFile(path.join(DATA, 'meta.json'), 'utf8'));
   const assets = JSON.parse(await readFile(path.join(ROOT, 'assets', 'sector3.json'), 'utf8'));
-  const supFile = path.join(ROOT, 'data', 'suppressed.json');
+  const supFile = path.join(DATA, 'suppressed.json');
   const suppressed = new Set(existsSync(supFile) ? JSON.parse(await readFile(supFile, 'utf8')).tickets || [] : []);
-  const recFile = path.join(ROOT, 'data', 'recurrence.json');
+  const recFile = path.join(DATA, 'recurrence.json');
   const rec = existsSync(recFile) ? JSON.parse(await readFile(recFile, 'utf8')) : null;
 
   const recs = [];
-  for (const f of (await readdir(path.join(ROOT, 'data', 'incidents'))).filter((x) => x.endsWith('.json')).sort()) {
-    for (const r of JSON.parse(await readFile(path.join(ROOT, 'data', 'incidents', f), 'utf8'))) {
+  for (const f of (await readdir(path.join(DATA, 'incidents'))).filter((x) => x.endsWith('.json')).sort()) {
+    for (const r of JSON.parse(await readFile(path.join(DATA, 'incidents', f), 'utf8'))) {
       if (r.removedAt || suppressed.has(r.ticket) || !r.createdAt) continue;
       recs.push({
         ...r, t: fromBucharest(r.createdAt).getTime(), month: r.createdAt.slice(0, 7),

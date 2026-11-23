@@ -1,8 +1,9 @@
 // "Se repetă" tab: places where the same kind of problem was reported again
-// after a report there had been closed as resolved. Data: data/recurrence.json,
+// after a report there had been closed as resolved. Data: recurrence.json in the data repository,
 // computed by the collector (scripts/recurrence.mjs). Neutral wording on purpose.
 import { t, locale, catName } from './i18n.js';
 import { esc, fmtN } from './app.js';
+import { DATA_URL } from './data.js';
 import { catIconSVG, clusterHTML } from './pins.js';
 
 const PAGE = 30;
@@ -12,7 +13,7 @@ const view = { cat: '', area: '', shown: PAGE, sort: { cat: 'resolved', area: 'r
 
 async function load() {
   if (data) return data;
-  loading ??= fetch('data/recurrence.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
+  loading ??= fetch(DATA_URL + 'recurrence.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).catch(() => null);
   data = await loading;
   return data;
 }

@@ -1,6 +1,7 @@
 // "Cum funcționează" page: language switch, theme button, live archive facts.
 import { t, setLang, getLang, locale } from './i18n.js';
 import { ic } from './icons.js';
+import { DATA_URL } from './data.js';
 
 const $ = (s) => document.querySelector(s);
 const TITLE = { ro: 'Cum funcționează · Sesizări Sector 3', en: 'How it works · Sector 3 Reports' };
@@ -63,4 +64,4 @@ $('#langBtn').addEventListener('click', () => {
 });
 $('#themeBtn').addEventListener('click', () => window.theme?.set(THEME_NEXT[window.theme.pref]));
 document.addEventListener('themechange', renderThemeBtn);
-fetch('data/meta.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).then((m) => { meta = m; renderLive(); }).catch(() => {});
+fetch(DATA_URL + 'meta.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).then((m) => { meta = m; renderLive(); }).catch(() => {});

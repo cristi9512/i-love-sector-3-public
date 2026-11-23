@@ -1,5 +1,7 @@
-// Data loading: the hourly archive in /data (fast, has history) plus live
-// requests to the city's API for days the archive doesn't cover yet.
+// Data loading: the archive (fast, has history), kept in its own repository
+// and served by GitHub, plus live requests to the city's API for days the
+// archive doesn't cover yet.
+export const DATA_URL = 'https://raw.githubusercontent.com/cristi9512/i-love-sector-3-data/main/data/';
 
 const API = 'https://iloves3.primarie3.ro/CityCareServicii/IncidentRP.aspx';
 const SERVER_CAP = 1500;
@@ -36,8 +38,8 @@ let suppressed = new Set();
 export const isSuppressed = (ticket) => suppressed.has(ticket);
 export async function loadMeta() {
   const [m, sup] = await Promise.all([
-    fetch('data/meta.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
-    fetch('data/suppressed.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+    fetch(DATA_URL + 'meta.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+    fetch(DATA_URL + 'suppressed.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
   ]);
   meta = m;
   suppressed = new Set(sup?.tickets || []);
@@ -48,7 +50,7 @@ export const getMeta = () => meta;
 const monthCache = new Map();
 function loadMonth(m) {
   if (!monthCache.has(m)) {
-    monthCache.set(m, fetch(`data/incidents/${m}.json`, { cache: 'no-cache' })
+    monthCache.set(m, fetch(`${DATA_URL}incidents/${m}.json`, { cache: 'no-cache' })
       .then((r) => (r.ok ? r.json() : []))
       .catch(() => { monthCache.delete(m); throw new Error('archive ' + m); }));
   }
