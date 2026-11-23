@@ -6,6 +6,25 @@
   <description>Cele mai noi sesizări din Sectorul 3</description>
   <language>ro</language>
   <item>
+    <title>Stationare neregulamentara · În lucru · Balta Albă - Titan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276267</link>
+    <guid isPermaLink="false">CAS-0276267</guid>
+    <pubDate>Mon, 23 Nov 2026 08:53:09 GMT</pubDate>
+    <category>Stationare neregulamentara</category>
+    <description>Bună ziua,
+Va rugam sa initiati demersurile necesare ridicării autoturismului parcate neregulamentar.
+Va multumim</description>
+  </item>
+  <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276266</link>
+    <guid isPermaLink="false">CAS-0276266</guid>
+    <pubDate>Mon, 23 Nov 2026 08:48:58 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Re-sesizare. Surparea persista si s-a adancit de la ultima sesizare din iulie 2026 si pana acum.
+Devine un pericol iminent. Va rog sa urgentati remedierea cu administratorul retelei de utilitati</description>
+  </item>
+  <item>
     <title>Parcari ocupate · În lucru · Traian</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276265</link>
     <guid isPermaLink="false">CAS-0276265</guid>
@@ -14,12 +33,14 @@
     <description>Autovehiculul cu numarul B........ Deține autorizație nominala de parcare pentru  locul 50</description>
   </item>
   <item>
-    <title>Parcari ocupate · În lucru · Timpuri Noi</title>
+    <title>Parcari ocupate · Rezolvată Nefavorabil · Timpuri Noi</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276264</link>
     <guid isPermaLink="false">CAS-0276264</guid>
     <pubDate>Mon, 23 Nov 2026 08:43:07 GMT</pubDate>
     <category>Parcari ocupate</category>
-    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.</description>
+    <description>Autovehiculul cu numarul B........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
+
+Răspuns: sesizare incompleta </description>
   </item>
   <item>
     <title>Trasare parcare · În lucru · Malaxa - Faur</title>
@@ -564,22 +585,6 @@ Va multumesc!</description>
     <pubDate>Sun, 22 Nov 2026 20:35:42 GMT</pubDate>
     <category>Deșeuri/Colectare selective/Salubritate</category>
     <description>pubelele de colectare selectivă sunt mereu murdare și creează mizerie în zona.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276207</link>
-    <guid isPermaLink="false">CAS-0276207</guid>
-    <pubDate>Sun, 22 Nov 2026 20:31:56 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masina parcata pe trotuar la capatul trotuarului de pe Blvd 1 decembrie 1918 langa intrarea la lidl</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Malaxa - Faur</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276206</link>
-    <guid isPermaLink="false">CAS-0276206</guid>
-    <pubDate>Sun, 22 Nov 2026 20:29:10 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>masini parcate pe trotuar in fata blocului Neofort, vis-a-vis de gradinita 70</description>
   </item>
 </channel>
 </rss>

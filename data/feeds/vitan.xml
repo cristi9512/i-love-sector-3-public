@@ -6,6 +6,15 @@
   <description>Cele mai noi sesizări din zona Vitan</description>
   <language>ro</language>
   <item>
+    <title>Străzi · În lucru · Vitan</title>
+    <link>https://sesizari-sector3.vercel.app/#id=CAS-0276266</link>
+    <guid isPermaLink="false">CAS-0276266</guid>
+    <pubDate>Mon, 23 Nov 2026 08:48:58 GMT</pubDate>
+    <category>Străzi</category>
+    <description>Re-sesizare. Surparea persista si s-a adancit de la ultima sesizare din iulie 2026 si pana acum.
+Devine un pericol iminent. Va rog sa urgentati remedierea cu administratorul retelei de utilitati</description>
+  </item>
+  <item>
     <title>Toaletare/Tăiere arbori · În lucru · Vitan</title>
     <link>https://sesizari-sector3.vercel.app/#id=CAS-0276257</link>
     <guid isPermaLink="false">CAS-0276257</guid>
@@ -657,14 +666,6 @@ Solicit măsuri care să rezolve definitiv situația</description>
     <description>Autovehiculul cu numarul P........ Nu deține autorizație de parcare pe raza Sectorului 3. Nu a achitat tarif orar de parcare.
 
 Răspuns: Autoturismul nu este în locație.</description>
-  </item>
-  <item>
-    <title>Stationare neregulamentara · În lucru · Vitan</title>
-    <link>https://sesizari-sector3.vercel.app/#id=CAS-0274967</link>
-    <guid isPermaLink="false">CAS-0274967</guid>
-    <pubDate>Tue, 17 Nov 2026 17:52:41 GMT</pubDate>
-    <category>Stationare neregulamentara</category>
-    <description>Bună seara, cu respect pentru echipele de la circulația pe drumurile publice, doresc să sesizez un Range Rover negru nou cu număr de Ilfov staționat pe tot trotuarul nou pavat...</description>
   </item>
 </channel>
 </rss>
